@@ -1,0 +1,156 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Buganda
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Colonial Empire of Belgium
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Baster Maschinenkanone
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Chief
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Habsburg Empire
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Dua
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Force Republique
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Builder
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Ithuba
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Labor Exploitation
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Magyar Grenadier
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Matabele Warrior
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Namibia Basters
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Rhodesia
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Reiter
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Royal Regiment
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game5.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Tanzania Nyamwezi
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Zebra Rider
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
