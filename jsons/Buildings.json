@@ -1,0 +1,12 @@
+[
+     {
+		"name": "Ithuba",
+		"hurryCostModifier": 25,
+            "uniqueTo": "Buganda",
+		"uniques": ["[+15]% Production when constructing [Water] units [in this city]",
+			"[+1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Gold] from [Fish] tiles [in this city]",
+			"[+1 Gold] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+]

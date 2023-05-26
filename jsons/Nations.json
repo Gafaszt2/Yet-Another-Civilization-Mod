@@ -1,0 +1,169 @@
+[
+	{
+		//nations
+		"name": "Rhodesia",
+		"leaderName": "Ian Douglas Smith",
+		"adjective": ["Rhodesian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of Rhodesia i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Is this goodbye now, my Greaten Britannia? Farewell, Britannia, adieu... Must I leave you now, my Greaten Britannia? Will this be my last goodbye to you?.",
+		"introduction": "Rhodesia and all her sons welcome you, noble leader! I am Ian Smith. Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [57, 167, 132],
+		"innerColor": [254, 189, 77],
+		"uniqueName": "White Rhodesia",
+		"uniques": ["[-2 Happiness] [in all cities]", "[-1 Happiness] from every [Farm]", "[+2 Production] [in all cities]"],
+		"cities": ["Salisbury", "Bulawayo" ,"Umtali", "Kariba", "Victoria Falls", "Beitbridge", "Manicaland", "Harare", "Masvingo",
+			"Matabeleland",
+			"Midlands", "Mashonaland"]
+	},
+      {
+		//nations
+		"name": "Habsburg Empire",
+		"leaderName": "Maria Theresa",
+		"adjective": ["Habsburg"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Habsburgs i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [95, 71, 67],
+		"innerColor": [253, 113, 113],
+		"uniqueName": "House of Habsburg",
+		"uniques": ["[-50]% maintenance costs <for [Land] units>", "+10% Strength when fighting City-State units and cities", "[+3 Culture] from every [Fort]", "[+2 Gold] [in all cities]"],
+		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
+			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
+			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
+			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"],
+	},
+      {
+		//nations
+		"name": "Colonial Empire of Belgium",
+		"leaderName": "Leopold II",
+		"adjective": ["Belgium"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [187, 139, 57],
+		"innerColor": [77, 9, 9],
+		"uniqueName": "Belgium Congo",
+		"uniques": ["[+5]% Strength <when fighting units from a Civilization with more Cities than you>", "[+4 Production] from every [Courthouse]", "[+25]% Strength <when fighting in [Foreign Land] tiles>"],
+		"cities": ["Brussels", "Ostend", "Brabante", "West Vlaanderen", "Henao", "Lieja", "Limburg", "Luxemburg",
+			"Namur", "Antwerpen", "Hainaut"],
+	},
+      {
+		//nations
+		"name": "Buganda",
+		"leaderName": "Mutesa I",
+		"adjective": ["Buganda"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Kingdom i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [97, 144, 244],
+		"innerColor": [176, 195, 236],
+		"uniqueName": "Kabaka",
+		"uniques": ["[+1 Food] [in all cities]", "[+1 Food] from every [Plantation]", "[+1 Production] from every [Jungle]", "[+45]% Strength <when fighting in [Jungle] tiles>"],
+		"cities": ["Buikwe", "Bukomansimbi", "Butambala", "Buvuma", "Gomba", "Kalangala", "Kalungu", "Kampala",
+			"Kayunga", "Kyankwanzi", "Luwero"],
+	},
+      {
+		//nations
+		"name": "Namibia Basters",
+		"leaderName": "Hans Diergaardt",
+		"adjective": ["Baster"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Basters i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Adieu... I Must leave.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [148, 14, 14],
+		"innerColor": [238, 83, 83],
+		"uniqueName": "Apartheid Outcasts",
+		"uniques": ["[+2 Production] [in all cities]", "[+1 Production] from every [Farm]", "[+3 Food] from every [Mountain]", "[+45]% Strength <when fighting in [Hill] tiles>"],
+		"cities": ["Rehoboth ", "Kunene" ,"Omusati", "Oshana", "Ohangwena", "Oshikoto", "Kavango", "Zambezi", "Eongo",
+			"Otjozondjupa",
+			"Omaheke", "Khomas"]
+	},
+      {
+		//nations
+		"name": "Tanzania Nyamwezi",
+		"leaderName": "Isike",
+		"adjective": ["Nyamwezi"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Nyamwezi i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Adieu... I Must leave.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [165, 124, 53],
+		"innerColor": [249, 158, 0],
+		"uniqueName": "Slavery and Ivory Market",
+		"uniques": ["[+1 Culture] [in all cities]", "[+3 Gold] from every [Ivory]", "[+3 Gold] from every [Gold Ore]", "[+3 Gold] from every [Gems]", "[-5 Happiness] from every [Trading post]"],
+		"cities": ["Unyamwezi", "Shinyunga" ,"Tabora", "Dar es Salaam", "Arusha", "Lindi", "Pwani", "Tabora", "Dodoma",
+			"Manyara",
+			"Tanga", "Mara"]
+	},
+]
