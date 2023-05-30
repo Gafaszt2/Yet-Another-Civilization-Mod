@@ -166,4 +166,60 @@
 			"Manyara",
 			"Tanga", "Mara"]
 	},
+      {
+		//nations
+		"name": "Libia Sennusi",
+		"leaderName": "Sidi Mohammed El Mahdi as-Senussi",
+		"adjective": ["Sennusi"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Sennusi i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Adieu... I Must leave.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Islamic African Unification",
+		"uniques": ["[+1 Faith] from each Trade Route", "[+1 Faith] [in all cities]", "[+1 Food] from every [Desert]", "[+1 Production] from every [Desert]", "[+1 Faith] from every [Farm]"],
+		"cities": ["Tripolitania", "Cirenaica" ,"Fezán", "Gharyan", "Surt", "Ash Shati", "Al Jufrah", "Sabha", "Marzuq",
+			"Awbari",
+			"Sawfajin", "Ghadamis"]
+	},
+      {
+		//nations
+		"name": "Yucatan",
+		"leaderName": "Manuel Antonio Ay",
+		"adjective": ["Yucatan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of Yucatan i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Adieu... I Must leave.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [137, 184, 143],
+		"innerColor": [188, 41, 41],
+		"uniqueName": "Caste War",
+		"uniques": ["[+10]% [Production]<when at war>", "[+10]% [Science]<when at war>", "[-1 Happiness] [in all cities]", "[-1 Happiness] from every [Farm]", "[+1 Science] [in all cities]"],
+		"cities": ["Motul", "Nolo" ,"Euán", "Yaxcucul", "Chicxulub", "Acanceh", "Peto", "Valladolid", "Izamal",
+			"Chichimilá",
+			"Tihosuco", "Campeche"]
+	},
 ]

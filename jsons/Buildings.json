@@ -9,4 +9,14 @@
 			"[+1 Gold] from [Plantation] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
+      {
+		"name": "Criollo Center",
+		"hurryCostModifier": 25,
+            "uniqueTo": "Yucatan",
+		"uniques": ["[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Farm] tiles [in this city]",
+			"[+2 Production] from [Plantation] tiles [in this city]",
+			"[-2 Happiness] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
 ]

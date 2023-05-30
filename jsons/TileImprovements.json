@@ -14,4 +14,16 @@
 			"[-1 Happiness] from [non-fresh water] tiles <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 	},
+      {
+		"name": "Zawia"
+            "uniqueTo": "Libia Sennusi",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"faith": 3,
+            "science": 3,
+		"turnsToBuild": 7,
+		"techRequired": "Scientific Theory",
+		"uniques": ["[+1 Faith] from [Fresh water] tiles",
+			"[+1 Science] from [non-fresh water] tiles",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+	},
 ]

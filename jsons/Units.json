@@ -141,4 +141,30 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
+      {
+		"name": "Italo-Sennusi War Soldier",
+		"unitType": "Gunpowder",
+            "uniqueTo": "Libia Sennusi",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 78,
+		"cost": 380,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+      {
+		"name": "Mayan Rebel",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Yucatan",
+		"movement": 2,
+		"strength": 30,
+		"cost": 205,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
 ]
