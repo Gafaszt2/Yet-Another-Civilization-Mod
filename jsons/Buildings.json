@@ -19,4 +19,24 @@
 			"[-2 Happiness] from [Plantation] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
+        {
+		"name": "Faith Mosques",
+                "replaces": "Temple",
+		"uniqueTo": "Tulunids",
+		"faith": 3,
+		"requiredBuilding": "Shrine",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+        {
+		"name": "Great Citadel",
+                "replaces": "Garden",
+		"uniqueTo": "Tulunids",
+		"uniques": ["[+30]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
 ]

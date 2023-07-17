@@ -154,6 +154,20 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
+        {
+		"name": "Revolutionary Guard",
+		"unitType": "Gunpowder",
+            "uniqueTo": "Shahist Iran",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 73,
+		"cost": 380,
+		"requiredTech": "Plastics",
+                "uniques": ["[+30]% Strength <vs cities> <when attacking>", "[+1] Sight","Never appears as a Barbarian unit"],
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
       {
 		"name": "Mayan Rebel",
 		"unitType": "Gunpowder",
@@ -166,5 +180,18 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
+	},
+        {
+		"name": "Dihqan",
+		"unitType": "Civilian",
+		"uniqueTo": "Shahist Iran",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+            "[+20]% Strength bonus for [Military] units within [2] tiles",
+			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	},
 ]
