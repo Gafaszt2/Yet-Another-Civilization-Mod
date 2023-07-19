@@ -1,4 +1,32 @@
 [
+        {
+		//nations
+		"name": "Bulgarian Empire",
+		"leaderName": "Ivan Asen II",
+		"adjective": ["Bulgarians"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Tsarate i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [60, 74, 15],
+		"innerColor": [210, 255, 61],
+		"uniqueName": "Apostolic Legacy",
+		"uniques": ["[+1 Production] from every [Mountain]", "[+1 Culture] from every [Citadel]", "[+10]% Production when constructing [Culture] buildings [in all cities]","[+10]% Production when constructing [Production] buildings [in all cities]"],
+		"cities": ["Sofia", "Plovdiv" ,"Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Sliven", "Dobrich",
+			"Shumen",
+			"Pernik", "Haskovo"]
+	},
 	{
 		//nations
 		"name": "Rhodesia",
@@ -50,7 +78,7 @@
 		"outerColor": [95, 71, 67],
 		"innerColor": [253, 113, 113],
 		"uniqueName": "House of Habsburg",
-		"uniques": ["[-50]% maintenance costs <for [Land] units>", "+10% Strength when fighting City-State units and cities", "[+3 Culture] from every [Fort]", "[+2 Gold] [in all cities]"],
+		"uniques": ["[-50]% maintenance costs <for [Land] units>", "+30% Strength when fighting City-State units and cities", "[+1 Culture] from every [Fort]", "[+1 Gold] [in all cities]"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
@@ -79,7 +107,7 @@
 		"outerColor": [187, 139, 57],
 		"innerColor": [77, 9, 9],
 		"uniqueName": "Belgium Congo",
-		"uniques": ["[+5]% Strength <when fighting units from a Civilization with more Cities than you>", "[+4 Production] from every [Courthouse]", "[+25]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[+5]% Strength <when fighting units from a Civilization with more Cities than you>", "[+1 Production] from every [Courthouse]", "[+5]% Strength <when fighting in [Foreign Land] tiles>"],
 		"cities": ["Brussels", "Ostend", "Brabante", "West Vlaanderen", "Henao", "Lieja", "Limburg", "Luxemburg",
 			"Namur", "Antwerpen", "Hainaut"],
 	},
@@ -189,7 +217,7 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Islamic African Unification",
-		"uniques": ["[+1 Faith] from each Trade Route", "[+1 Faith] [in all cities]", "[+1 Food] from every [Desert]", "[+1 Production] from every [Desert]", "[+1 Faith] from every [Farm]"],
+		"uniques": ["[+2 Faith] from each Trade Route", "[+1 Faith] [in all cities]", "[+1 Food] from every [Desert]", "[+1 Production] from every [Desert]", "[+2 Faith] from every [Farm]"],
 		"cities": ["Tripolitania", "Cirenaica" ,"Fezán", "Gharyan", "Surt", "Ash Shati", "Al Jufrah", "Sabha", "Marzuq",
 			"Awbari",
 			"Sawfajin", "Ghadamis"]

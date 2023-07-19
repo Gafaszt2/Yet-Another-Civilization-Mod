@@ -11,7 +11,7 @@ NationIcons/Buganda
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/China
+NationIcons/Bulgarian Empire
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -25,7 +25,7 @@ UnitIcons/Baster Maschinenkanone
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Chief
+UnitIcons/Bulgar Heavy Cavalry
   rotate: false
   xy: 764, 764
   size: 752, 752
@@ -40,6 +40,13 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Criollo Center
   rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/China
+  rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
@@ -47,21 +54,14 @@ BuildingIcons/Criollo Center
   index: -1
 NationIcons/Colonial Empire of Belgium
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Dihqan
-  rotate: false
   xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Dua
+UnitIcons/Chief
   rotate: false
-  xy: 764, 4
+  xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -72,30 +72,30 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Faith Mosques
+NationIcons/Egypt
   rotate: false
   xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/Egypt
+NationIcons/England
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Dihqan
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/England
+UnitIcons/Dua
   rotate: false
   xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Force Republique
-  rotate: false
-  xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -106,30 +106,30 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Faith Mosques
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
 BuildingIcons/Great Citadel
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Habsburg Empire
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/India
   rotate: false
   xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
+UnitIcons/Force Republique
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
 UnitIcons/Great Builder
   rotate: false
-  xy: 4, 764
+  xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -142,28 +142,28 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Ithuba
   rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Labor Exploitation
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Libia Sennusi
-  rotate: false
   xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Habsburg Empire
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/India
+  rotate: false
+  xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 UnitIcons/Italo-Sennusi War Soldier
   rotate: false
-  xy: 4, 764
+  xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -174,30 +174,30 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Namibia Basters
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Magyar Grenadier
+ImprovementIcons/Labor Exploitation
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Matabele Warrior
+NationIcons/Libia Sennusi
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Mayan Rebel
+UnitIcons/Magyar Grenadier
   rotate: false
   xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Matabele Warrior
+  rotate: false
+  xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -208,28 +208,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Rhodesia
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Reiter
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Revolutionary Guard
+NationIcons/Namibia Basters
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Royal Regiment
+UnitIcons/Mayan Rebel
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Reiter
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Revolutionary Shield
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -242,28 +242,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Shahist Iran
+NationIcons/Rhodesia
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/Tanzania Nyamwezi
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Tulunids
+NationIcons/Shahist Iran
   rotate: false
   xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/Yucatan
+UnitIcons/Royal Regiment
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Slavic Infantry
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -272,20 +272,47 @@ NationIcons/Yucatan
   index: -1
 
 game9.png
-size: 2048, 1024
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ImprovementIcons/Zawia
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Tanzania Nyamwezi
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Tulunids
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
+NationIcons/Yucatan
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game10.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 UnitIcons/Zebra Rider
   rotate: false
-  xy: 764, 4
+  xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0

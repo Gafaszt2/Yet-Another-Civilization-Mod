@@ -29,6 +29,21 @@
 		"uniques": ["[+10]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
 	},
+        {
+		"name": "Bulgar Heavy Cavalry",
+                "replaces": "Knight",
+		"uniqueTo": "Bulgarian Empire",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 22,
+		"cost": 125,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "[+20]% Strength <vs [Siege] units> <when attacking>", "[-20]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
       {
 		"name": "Royal Regiment",
 		"unitType": "Gunpowder",
@@ -55,6 +70,22 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"uniques": ["[+120]% Strength <vs [Gunpowder] units> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+        {
+		"name": "Slavic Infantry",
+		"unitType": "Sword",
+		"uniqueTo": "Bulgarian Empire",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+20]% Strength <vs [Siege] units> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -93,8 +124,7 @@
 		"unitType": "Civilian",
             "replaces": "Great Merchant",
 		"uniqueTo": "Namibia Basters",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [180] Influence",
-            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [220] Influence",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
@@ -155,7 +185,7 @@
 		"attackSound": "shot"
 	},
         {
-		"name": "Revolutionary Guard",
+		"name": "Revolutionary Shield",
 		"unitType": "Gunpowder",
             "uniqueTo": "Shahist Iran",
 		"replaces": "Infantry",
