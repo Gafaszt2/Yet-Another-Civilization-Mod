@@ -1099,7 +1099,7 @@
 		"innerColor": [222, 174, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Leyes Nuevas",
-		"uniques": ["[+1 Gold] from every [Strategic resource]", "[+2 Gold] from every specialist [in all cities]", "[+1 Gold] from every [Great Improvement]"],
+		"uniques": ["[+2 Production] from every [Courthouse]", "[+10]% Strength <when fighting in [Foreign Land] tiles>"],
 		"cities": ["Lima","Cusco","Arequipa"
 	"Trujillo","Huanuco","Huamanga","Tarma","Piura"],
         "spyNames": ["Jose Antonio"]
