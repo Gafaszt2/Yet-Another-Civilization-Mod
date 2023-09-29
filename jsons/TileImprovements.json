@@ -1,0 +1,29 @@
+[
+      {
+		"name": "Labor Exploitation"
+            "uniqueTo": "Colonial Empire of Belgium",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"production": 6,
+            "happiness": -2,
+		"turnsToBuild": 7,
+		"techRequired": "Industrialization",
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+			"[+1 Production] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Production] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+                  "[-1 Happiness] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[-1 Happiness] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+	},
+      {
+		"name": "Zawia"
+            "uniqueTo": "Libia Sennusi",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"faith": 3,
+            "science": 3,
+		"turnsToBuild": 7,
+		"techRequired": "Scientific Theory",
+		"uniques": ["[+1 Faith] from [Fresh water] tiles",
+			"[+1 Science] from [non-fresh water] tiles",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+	},
+]

@@ -1,0 +1,77 @@
+[
+     {
+		"name": "Ithuba",
+		"hurryCostModifier": 25,
+            "uniqueTo": "Buganda",
+		"uniques": ["[+15]% Production when constructing [Water] units [in this city]",
+			"[+1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Gold] from [Fish] tiles [in this city]",
+			"[+1 Gold] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+        {
+		"name": "Oca",
+		"hurryCostModifier": 25,
+            "uniqueTo": "Tupi",
+		"uniques":
+			["[+1 Food] from [Cattle] tiles [in this city]",
+			"[+1 Food] from [Fish] tiles [in this city]",
+			"[+1 Food] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+        {
+		"name": "Criollo Center",
+		"hurryCostModifier": 25,
+            "uniqueTo": "Yucatan",
+		"uniques": ["[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Farm] tiles [in this city]",
+			"[+2 Production] from [Plantation] tiles [in this city]",
+			"[-2 Happiness] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+        {
+		"name": "Faith Mosques",
+                "replaces": "Temple",
+		"uniqueTo": "Tulunids",
+		"faith": 3,
+		"requiredBuilding": "Shrine",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+        {
+		"name": "Great Citadel",
+                "replaces": "Garden",
+		"uniqueTo": "Tulunids",
+		"uniques": ["[+30]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+        {
+		"name": "Feitoria",
+                "replaces": "Factory",
+		"uniqueTo": "Portugal",
+		"cost": 360,
+		"production": 3,
+                "food": 1,
+		"percentStatBonus": {"production": 5},
+		"specialistSlots": {"Engineer": 1},
+		"requiredBuilding": "Workshop",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Industrialization"
+	},
+        {
+		"name": "Intendencia",
+		"uniqueTo": "Viceroyalty of Peru",
+		"cost": 490,
+		"culture": 2,
+                "gold": 1,
+		"percentStatBonus": {"production": 3},
+		"maintenance": 4,
+		"hurryCostModifier": 0,
+		"requiredTech": "Education"
+	},
+]
