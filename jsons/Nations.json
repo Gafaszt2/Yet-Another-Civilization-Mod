@@ -1104,4 +1104,115 @@
 	"Trujillo","Huanuco","Huamanga","Tarma","Piura"],
         "spyNames": ["Jose Antonio"]
     },
+    {
+		"name": "The Gunditjmara",
+		"leaderName": "Boorn Boorn",
+		"adjective": ["Gunditjmara"],
+		"startBias": ["Marsh"],
+		"preferredVictoryType": "Cultural",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "I greet you, stranger! If you are as intelligent and tactful as you are attractive, we'll get along just fine.",
+		"neutralHello": "Hello!",
+		"hateHello": "What do you need?!",
+		"tradeRequest": "How would you like it if I propose this kind of exchange?",
+"outerColor": [35, 107, 58],
+		"innerColor": [155, 228, 242],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Fighting Gunditjmara",
+		"uniques": ["[+1 Faith] from every [Marsh]","[+1 Faith] from every [Fresh water]"],
+		"cities": ["Lima","Cusco","Arequipa"
+	"Trujillo","Huanuco","Huamanga","Tarma","Piura"],
+        "spyNames": ["Born"]
+    },
+    {
+		//nations
+		"name": "United Provinces of The Rio de la Plata",
+		"leaderName": "Manuel Belgrano",
+		"adjective": ["Argentine"],
+		"startBias": ["Marsh"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The United Provinces of The Rio de la Plata i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Is this goodbye now, Farewell, Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [213, 230, 245],
+		"innerColor": [10, 66, 115],
+		"uniqueName": "Nation's War of Independence",
+		"uniques": ["[+2 Culture] from every [Marsh]","[+1 Gold] from every [Coast]", "[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
+                            "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"]
+	},
+      {
+		//nations
+		"name": "Kingdom of Georgia",
+		"leaderName": "Tamar",
+		"adjective": ["Georgia"],
+		"startBias": ["Marsh"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [224, 150, 179],
+		"innerColor": [177, 31, 31],
+		"uniqueName": "Glory of the World",
+		"uniques": ["[-50]% City-State Influence degradation", "[+2 Gold] from every [Temple]", "[+1 Production] from every [Marsh]"],
+		"cities": ["Tiflis", "Guria" ,"Imereti", "Kakheti", "Kvemo Kartli", "Mtskheta", "Racha", "Zemo Svaneti", "Samtskhe",
+			"Javakheti",
+			"Shida Kartli", "Batumi"]
+	},
+      {
+		//nations
+		"name": "Kingdom of Croatia",
+		"leaderName": "Petar Krešimir IV",
+		"adjective": ["Croatia"],
+		"startBias": ["Mash"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [224, 150, 179],
+		"innerColor": [60, 90, 145],
+		"uniqueName": "Regnum Dalmatiae et Chroatia",
+		"uniques": ["[+2 Gold] from every [Coast]", "[+2 Food] from every [Marsh]"],
+		"cities": ["Zagreb", "Vukovar" ,"Krapina", "Zagorije", "Sisak", "Moslavina", "Karlovac", "Krizevci", "Varazdin",
+			"Bilogora",
+			"Medimurje", "Podravina"]
+	},
 ]

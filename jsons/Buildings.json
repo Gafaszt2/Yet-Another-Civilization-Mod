@@ -74,4 +74,37 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Education"
 	},
+        {
+		"name": "Tsikhe",
+            "uniqueTo": "Kingdom of Georgia",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 70,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+      {
+		"name": "Pastura",
+            "uniqueTo": "United Provinces of The Rio de la Plata",
+		"replaces": "Granary",
+		"food": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Cattle] tiles [in this city]",
+			"[+1 Gold] from [Marsh] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+      {
+		"name": "Slavic Polytheist Temple",
+            "uniqueTo": "Kingdom of Croatia",
+		"replaces": "Temple",
+		"faith": 4,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
 ]
