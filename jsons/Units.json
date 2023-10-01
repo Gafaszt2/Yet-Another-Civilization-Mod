@@ -325,4 +325,65 @@
 		"uniques": ["Can move after attacking"],
 		"attackSound": "shot"
 	},
+        {
+		"name": "Fisherman",
+		"unitType": "Civilian",
+                "replaces": "Worker",
+		"uniqueTo": "Norte Chico",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "May create improvements on water resources"],
+		"cost": 70
+	},
+        {
+		"name": "Malon",
+                "replaces": "Horseman",
+		"uniqueTo": "Mapuche",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 15,
+		"cost": 81,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","[-20]% Strength <vs [Gunpowder] units> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+        {
+		"name": "Cable-backed bowman",
+                "replaces": "Archer",
+		"uniqueTo": "Inuits",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 8,
+		"cost": 42,
+                "uniques": ["Can move after attacking","[+10]% Strength <vs [Mounted] units> <when attacking>"],
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+        {
+		"name": "Soukisehnleng",
+		"unitType": "Civilian",
+                "replaces": "Missionary",
+		"uniqueTo": "Pohnpei",
+		"uniques": ["Can [Spread Religion] [3] times", "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
+		"movement": 4,
+		"religiousStrength": 1000
+	},
+        {
+		"name": "Bullock Cart",
+		"unitType": "Civilian",
+                "replaces": "Worker",
+		"uniqueTo": "Harappa",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Double movement in [Forest]", "Double movement in [Hill]", "Double movement in [Jungle]", "Automation is a primary action"],
+		"cost": 71
+	},
 ]

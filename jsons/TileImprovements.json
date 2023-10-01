@@ -36,4 +36,12 @@
 		"uniques": ["[+1 Production] from [Fresh water] tiles",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 	},
+        {
+		"name": "Igloo"
+            "uniqueTo": "Inuits",
+		"terrainsCanBeBuiltOn": ["Snow"],
+		"food": 1,
+		"turnsToBuild": 3,
+		"uniques": ["Pillaging this improvement yields approximately [+18 Gold]"],
+	},
 ]

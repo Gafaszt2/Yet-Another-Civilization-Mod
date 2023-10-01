@@ -38,6 +38,13 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Chemamull
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
 NationIcons/Bulgarian Empire
   rotate: false
   xy: 4, 764
@@ -45,23 +52,16 @@ NationIcons/Bulgarian Empire
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/China
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Colonial Empire of Belgium
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Chief
+UnitIcons/Bullock Cart
   rotate: false
   xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Cable-backed bowman
+  rotate: false
+  xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -72,28 +72,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Criollo Center
+NationIcons/China
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Corregidor
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Croban
+NationIcons/Colonial Empire of Belgium
   rotate: false
   xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Dihqan
+UnitIcons/Chief
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Corregidor
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -106,21 +106,21 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Faith Mosques
+BuildingIcons/Criollo Center
   rotate: false
-  xy: 764, 4
+  xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/Egypt
+UnitIcons/Croban
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/England
+UnitIcons/Dihqan
   rotate: false
   xy: 764, 764
   size: 752, 752
@@ -129,7 +129,7 @@ NationIcons/England
   index: -1
 UnitIcons/Dua
   rotate: false
-  xy: 4, 764
+  xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -140,16 +140,50 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Faith Mosques
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
 BuildingIcons/Feitoria
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Egypt
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-BuildingIcons/Great Citadel
+NationIcons/England
   rotate: false
-  xy: 764, 4
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game6.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Great Bath
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Fisherman
+  rotate: false
+  xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -163,34 +197,68 @@ UnitIcons/Force Republique
   index: -1
 UnitIcons/Great Builder
   rotate: false
-  xy: 764, 764
+  xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 
-game6.png
+game7.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Intendencia
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Habsburg Empire
+BuildingIcons/Great Citadel
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/India
+ImprovementIcons/Igloo
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Habsburg Empire
   rotate: false
   xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Harappa
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game8.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Intendencia
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/India
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Inuits
+  rotate: false
+  xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -203,7 +271,7 @@ UnitIcons/Italo-Sennusi War Soldier
   offset: 0, 0
   index: -1
 
-game7.png
+game9.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -237,7 +305,7 @@ UnitIcons/Khevsur
   offset: 0, 0
   index: -1
 
-game8.png
+game10.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -271,33 +339,33 @@ UnitIcons/Magyar Grenadier
   offset: 0, 0
   index: -1
 
-game9.png
+game11.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Namibia Basters
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Matabele Warrior
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Mayan Rebel
+NationIcons/Mapuche
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Nau
+UnitIcons/Malon
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Matabele Warrior
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Mayan Rebel
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -305,7 +373,41 @@ UnitIcons/Nau
   offset: 0, 0
   index: -1
 
-game10.png
+game12.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Nahs
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Namibia Basters
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Norte Chico
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Nau
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game13.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -324,123 +426,14 @@ BuildingIcons/Pastura
   orig: 752, 752
   offset: 0, 0
   index: -1
+NationIcons/Pohnpei
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
 NationIcons/Portugal
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Reiter
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game11.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Rhodesia
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Shahist Iran
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Revolutionary Guard
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Revolutionary Shield
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Royal Regiment
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game12.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-BuildingIcons/Slavic Polytheist Temple
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Tanzania Nyamwezi
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/The Gunditjmara
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Slavic Infantry
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game13.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-BuildingIcons/Tsikhe
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Tulunids
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Tupi
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Tupi Warrior
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -453,28 +446,35 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ImprovementIcons/Yereroc
+NationIcons/Rhodesia
   rotate: false
   xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/United Provinces of The Rio de la Plata
+UnitIcons/Reiter
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/Viceroyalty of Peru
+UnitIcons/Revolutionary Guard
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/Yucatan
+UnitIcons/Revolutionary Shield
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Royal Regiment
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -483,15 +483,158 @@ NationIcons/Yucatan
   index: -1
 
 game15.png
-size: 2048, 1024
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ImprovementIcons/Zawia
+BuildingIcons/Shicra Pyramid
   rotate: false
-  xy: 4, 44
+  xy: 4, 4
   size: 752, 752
   orig: 752, 752
+  offset: 0, 0
+  index: -1
+BuildingIcons/Slavic Polytheist Temple
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Shahist Iran
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Slavic Infantry
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game16.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Tsikhe
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Tanzania Nyamwezi
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/The Gunditjmara
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Soukisehnleng
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game17.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Tulunids
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Tupi
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/United Provinces of The Rio de la Plata
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Tupi Warrior
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game18.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Yereroc
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Zawia
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Viceroyalty of Peru
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/Yucatan
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game19.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Igloo
+  rotate: false
+  xy: 4, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Labor Exploitation
+  rotate: false
+  xy: 764, 804
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Yereroc
@@ -501,9 +644,23 @@ TileSets/FantasyHex/Tiles/Yereroc
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Zawia
+  rotate: false
+  xy: 44, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Zawia2
+  rotate: false
+  xy: 764, 764
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 UnitIcons/Zebra Rider
   rotate: false
-  xy: 764, 44
+  xy: 4, 84
   size: 752, 752
   orig: 752, 752
   offset: 0, 0

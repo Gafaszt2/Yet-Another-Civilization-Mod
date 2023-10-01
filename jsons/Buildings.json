@@ -96,6 +96,15 @@
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
+        {
+		"name": "Shicra Pyramid",
+                "uniqueTo": "Norte Chico",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Pottery",
+		"uniques": ["[+1 Gold] from [Fishing Boats] tiles [in this city]", "Hidden when religion is disabled"]
+	},
       {
 		"name": "Slavic Polytheist Temple",
             "uniqueTo": "Kingdom of Croatia",
@@ -106,5 +115,38 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+        {
+		"name": "Chemamull",
+                "uniqueTo": "Mapuche",
+		"replaces": "Monument",
+		"culture": 1,
+                "faith": 1,
+		"cost": 60,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Nahs",
+                "uniqueTo": "Pohnpei",
+		"replaces": "Granary",
+		"food": 1,
+                "faith": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+                        "[+1 Faith] from [Mountain] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+        {
+		"name": "Great Bath",
+                "uniqueTo": "Harappa",
+		"replaces": "Aqueduct",
+		"food": 2,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
 	},
 ]

@@ -1127,8 +1127,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Fighting Gunditjmara",
 		"uniques": ["[+1 Faith] from every [Marsh]","[+1 Faith] from every [Fresh water]"],
-		"cities": ["Lima","Cusco","Arequipa"
-	"Trujillo","Huanuco","Huamanga","Tarma","Piura"],
+		"cities": ["Tae Rak","Budj Bim","Tyrendarra"
+	"Kurtonitj","Warnambool","Euneralla","Kardermudelar","Tapoc"],
         "spyNames": ["Born"]
     },
     {
@@ -1214,5 +1214,137 @@
 		"cities": ["Zagreb", "Vukovar" ,"Krapina", "Zagorije", "Sisak", "Moslavina", "Karlovac", "Krizevci", "Varazdin",
 			"Bilogora",
 			"Medimurje", "Podravina"]
+	},
+        {
+		//nations
+		"name": "Norte Chico",
+		"leaderName": "Qhapaq",
+		"adjective": ["Nortechiquense"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 44, 37],
+		"innerColor": [156, 114, 96],
+		"uniqueName": "Maritime Foundation",
+		"uniques": ["[+1 Production] from every [Fishing Boats]", "[+1 Production] from every [Trading post]"],
+		"cities": ["Caral", "Aspero" ,"Huarincanga", "Caballete", "Porvenir", "Upaca", "Cerro Blanco", "Potao", "Carreteria",
+			"Huayto",
+			"Piedra Parada", "Luisihuasi"]
+	},
+        {
+		//nations
+		"name": "Mapuche",
+		"leaderName": "Calfucura",
+		"adjective": ["Mapuche"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [43, 43, 43],
+		"innerColor": [93, 93, 232],
+		"uniqueName": "Halcón veloz",
+		"uniques": ["New [Military] units start with [20] Experience [in capital]", "[+1] Movement <for [{Military} {Mounted}] units>",
+			"[+1] Sight <for [{Military} {Mounted}] units>"],
+		"cities": ["Antuco", "Biobio" ,"Chos Malal", "Curico", "Llanquihue", "Pucón", "Rancul", "Traful", "Villarica",
+			"Zapala"]
+	},
+        {
+		//nations
+		"name": "Inuits",
+		"leaderName": "Apanuugak",
+		"adjective": ["Inuit"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [43, 43, 43],
+		"innerColor": [233, 237, 245],
+		"uniqueName": "Artic People",
+		"uniques": ["[+1 Food] from every [Snow]", "[+1 Food] from every [Tundra]", "[+1 Science] from every [Atoll]"],
+		"cities": ["Iqaluit", "Nunanik" ,"Nuuk", "Inuvik", "Barrow", "Kangerlussuaq", "Iglulik", "Sismiut", "Tuktoyaktuk"]
+	},
+        {
+		"name": "Pohnpei",
+		"leaderName": "Olosohpa",
+		"adjective": ["Pohnpeians"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [17, 32, 125],
+		"innerColor": [184, 70, 9],
+		"uniqueName": "Kampa",
+		"uniques": [ "[+1 Faith] from every [Plantation]", "[+33% Gold] during [Golden Age]", "[+33% Food] during [Golden Age]"],
+		"cities": ["Nan Madol", "Onohnleng" ,"Kepihleng", "Ant Atoll", "Palikir", "Sohehs", "Tipwen", "Dongalap"]
+	},
+        {
+		"name": "Harappa",
+		"leaderName": "Went-Antu",
+		"adjective": ["Harappans"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [0, 0, 0],
+		"innerColor": [168, 139, 113],
+		"uniqueName": "Trade Seals",
+		"uniques": ["[+50% Gold] from City-States", "[+60% Gold] from City-States during [Golden Age]"],
+		"cities": ["Nan Madol", "Onohnleng" ,"Kepihleng", "Ant Atoll", "Palikir", "Sohehs", "Tipwen", "Dongalap"]
 	},
 ]
