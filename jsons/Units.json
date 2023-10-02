@@ -15,7 +15,7 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
-      {
+        {
 		"name": "Force Republique",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
@@ -44,7 +44,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "[+20]% Strength <vs [Siege] units> <when attacking>", "[-20]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
-      {
+        {
 		"name": "Royal Regiment",
 		"unitType": "Gunpowder",
             "replaces": "Paratrooper",
@@ -57,7 +57,7 @@
 		"attackSound": "shot"
 		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
 	},
-      {
+        {
 		"name": "Matabele Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Rhodesia",
@@ -89,7 +89,7 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
-      {
+        {
 		"name": "Reiter",
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
@@ -104,22 +104,22 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
 	},
-      {
+        {
 		"name": "Magyar Grenadier",
 		"unitType": "Siege",
             "replaces": "Cannon",
 		"uniqueTo": "Habsburg Empire",
-		"movement": 4,
+		"movement": 3,
 		"strength": 10,
 		"rangedStrength": 20,
 		"cost": 175,
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["[+180]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"uniques": ["[+180]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
-      {
+        {
 		"name": "Great Builder",
 		"unitType": "Civilian",
             "replaces": "Great Merchant",
@@ -128,7 +128,7 @@
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
-      {
+        {
 		"name": "Baster Maschinenkanone",
 		"unitType": "Ranged Gunpowder",
             "replaces": "Gatling Gun",
@@ -143,7 +143,7 @@
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
 	},
-      {
+        {
 		"name": "Zebra Rider",
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
@@ -158,7 +158,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
 	},
-      {
+        {
 		"name": "Chief",
 		"unitType": "Sword",
 		"uniqueTo": "Tanzania Nyamwezi",
@@ -171,7 +171,7 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
-      {
+        {
 		"name": "Italo-Sennusi War Soldier",
 		"unitType": "Gunpowder",
             "uniqueTo": "Libia Sennusi",
@@ -198,7 +198,7 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
-      {
+        {
 		"name": "Mayan Rebel",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
@@ -297,7 +297,7 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
-      {
+        {
 		"name": "Khevsur",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
@@ -311,7 +311,7 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
-      {
+        {
 		"name": "Patricio",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
@@ -385,5 +385,111 @@
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Double movement in [Forest]", "Double movement in [Hill]", "Double movement in [Jungle]", "Automation is a primary action"],
 		"cost": 71
+	},
+        {
+		"name": "Perico",
+                "replaces": "Musketman",
+		"uniqueTo": "Central Americans",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+                "uniques": ["Double movement in [Jungle]"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+        {
+		"name": "Umpakhati",
+                "replaces": "Spearman",
+		"uniqueTo": "Zulu",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 13,
+		"cost": 58,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+20]% Strength <vs [Wounted] units>"],
+		"attackSound": "metalhit"
+	},
+        {
+		"name": "Huszarlovag",
+                "replaces": "Lancer",
+		"uniqueTo": "Hungary",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 27,
+		"cost": 195,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I","Magyar Knight"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+        {
+		"name": "Fekete Hadsereg",
+                "replaces": "Cavalry",
+		"uniqueTo": "Hungary",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 36,
+		"cost": 235,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+                "promotions": ["Magyar Knight"],
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+        {
+		"name": "Conscript",
+                "replaces": "Worker",
+		"uniqueTo": "Australia",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Excess Food converted to Production when under construction"],
+		"cost": 90
+	},
+        {
+		"name": "Sto mex",
+                "replaces": "Swordsman",
+		"uniqueTo": "Haida",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+                "uniques": ["Double movement in [Forest]", "Double movement in [Jungle]"],
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+        {
+		"name": "Voluntario da Patria",
+                "replaces": "Rifleman",
+		"uniqueTo": "Brasil",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 28,
+		"cost": 100,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+        {
+		"name": "African Slave",
+                "replaces": "Worker",
+		"uniqueTo": "Brasil",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 50
 	},
 ]

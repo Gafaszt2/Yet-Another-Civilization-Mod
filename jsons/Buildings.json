@@ -149,4 +149,39 @@
 		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Engineering"
 	},
+        {
+		"name": "Distrital Academia",
+                "uniqueTo": "Central Americans",
+		"replaces": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Strategic resource] tiles [in this city]", "[+1 Gold] from [Luxury resource] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+        {
+		"name": "Ikhorali",
+                "uniqueTo": "Zulu",
+		"replaces": "Water Mill",
+		"maintenance": 1,
+		"food": 1,
+		"production": 1,
+                "happiness": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
+        {
+		"name": "Totem Pole",
+                "uniqueTo": "Haida",
+		"replaces": "Monument",
+		"culture": 1,
+                "faith": 3,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
