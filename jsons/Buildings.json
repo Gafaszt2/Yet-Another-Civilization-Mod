@@ -184,4 +184,60 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
+        {
+		"name": "Te Aat",
+                "uniqueTo": "Tongva",
+		"replaces": "Granary",
+		"gold": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Lakes] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+        {
+		"name": "Hogan",
+                "uniqueTo": "Navajo",
+		"replaces": "Granary",
+		"food": 2,
+                "production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Culture] from [Desert] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+        {
+		"name": "WigWam",
+                "uniqueTo": "Mi Qmack",
+		"replaces": "Monument",
+		"culture": 2,
+                "food": 1,
+		"cost": 44,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Bohio",
+                "uniqueTo": "Taino Sun",
+		"replaces": "Shrine",
+		"faith": 1,
+                "happiness": 1,
+		"cost": 40,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+        {
+		"name": "Council House",
+                "uniqueTo": "Cherokee",
+		"replaces": "Amphitheater",
+		"culture": 2,
+                "science": 1,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
 ]

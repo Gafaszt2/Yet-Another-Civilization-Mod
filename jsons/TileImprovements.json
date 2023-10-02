@@ -54,4 +54,21 @@
                 "techRequired": "Rifling",
 		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%"],
 	},
+        {
+		"name": "Tipi"
+            "uniqueTo": "Sioux",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
+		"faith": 1,
+                "food": 1,
+		"turnsToBuild": 3,
+		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [20]%"],
+	},
+        {
+		"name": "Shonshone Tipi"
+            "uniqueTo": "Shonshone",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"culture": 2,
+		"turnsToBuild": 3,
+		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [20]%"],
+	},
 ]
