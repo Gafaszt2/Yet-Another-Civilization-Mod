@@ -208,7 +208,7 @@
 	},
         {
 		"name": "WigWam",
-                "uniqueTo": "Mi Qmack",
+                "uniqueTo": "Mi Qmak",
 		"replaces": "Monument",
 		"culture": 2,
                 "food": 1,
@@ -239,5 +239,80 @@
 		"hurryCostModifier": 25,
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
+	},
+        {
+		"name": "Mound",
+                "uniqueTo": "Choctaw",
+		"replaces": "Monument",
+		"culture": 3,
+                "faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Painted Cave",
+                "uniqueTo": "Chumash",
+		"replaces": "Monument",
+		"science": 2,
+		"cost": 90,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Basket",
+                "uniqueTo": "Pomo",
+		"replaces": "Monument",
+		"production": 2,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Horse Pen",
+                "uniqueTo": "Comanche",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "[+1 Food] from [Horses] tiles [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+        {
+		"name": "Seri Hogan",
+                "uniqueTo": "Seri",
+		"replaces": "Shrine",
+		"faith": 1,
+                "production": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+        {
+		"name": "Delegate Longhouse",
+                "uniqueTo": "Lenape",
+		"replaces": "Granary",
+		"food": 2,
+                "production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bison] tiles [in this city]",
+			"[+1 Food] from [Cattle] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+        {
+		"name": "Wampum",
+                "uniqueTo": "Pequot",
+		"replaces": "Market",
+		"gold": 2,
+                "culture": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
 	},
 ]
