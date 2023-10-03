@@ -1719,4 +1719,241 @@
 		"cities": ["Isunigu","Overhill",
 			"Middle","Valley","Out Towns","Lower Towns","Keowee","Sugar Town","Chota","Etowa","Seneca"]
 	},
+
+        /* Native American2 */
+
+        {
+		"name": "Beothuk",
+		"leaderName": "Desmasduit",
+		"adjective": ["Beothuk"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [8, 3, 1],
+		"innerColor": [48, 58, 161],
+		"uniqueName": "Ochre People",
+		"uniques": ["[+1 Culture] and [+1 Faith] from every [Forest] and [Jungle]", "[+1 Culture] from every [Natural Wonder]"],
+		"cities": ["Konek","Shanawdithit",
+			"Oubee","Dildo","Red Indian Lake","Boyd´s Cove","Naskapi","Shabogamo","Makkovik","Tshishkutamashu","Ochre River"]
+	},
+        {
+		"name": "Choctaw",
+		"leaderName": "Pushmataha",
+		"adjective": ["Choctaw"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [87, 32, 21],
+		"innerColor": [255, 85, 51],
+		"uniqueName": "Chahta",
+		"uniques": ["[+1 Food] and [+1 Production] from each [Trade route]"],
+		"cities": ["Okla Chahta","Nanih Waiya",
+			"Bok Chitto","Tushka Lusa","Pushmataha","Chata Ima","Nashoba","Talahina","Yowani","Ishtaboli","Chahta Tamaha"]
+	},
+        {
+		"name": "Comanche",
+		"leaderName": "Ten Bears",
+		"adjective": ["Comanche"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 12, 8],
+		"innerColor": [82, 79, 110],
+		"uniqueName": "Lords of the Plains",
+		"uniques": ["[+1 Culture] and [+1 Gold] from every [Horses]", "[+15]% Strength <for [Mounted] units>"],
+		"cities": ["Tehuacana","Quanah",
+			"Wichita","Nokoni","Tosawi","Isatai","Pahayoko","Tabanaica","Kotsoteka","Penateka","Yamparika"]
+	},
+        {
+		"name": "Crow",
+		"leaderName": "Plenty Coups",
+		"adjective": ["Crow"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [56, 51, 51],
+		"innerColor": [189, 119, 119],
+		"uniqueName": "Apsaacooke",
+		"uniques": ["[+1 Culture] from every [Natural Wonder]"],
+		"cities": ["Apsaaloke","Biliike",
+			"Ashshiile","Baawaxaawuua","Daxpitcheeaashe","Kaalaxpaalax","Seetcheechee","Uuwatashe","Xaasheeke","Aashbacheeitche"]
+	},
+        {
+		"name": "Chumash",
+		"leaderName": "Anapamu",
+		"adjective": ["Chumash"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [189, 173, 119],
+		"innerColor": [77, 70, 46],
+		"uniqueName": "Bead Makers",
+		"uniques": ["[+1 Culture] from every [Ocean] and [Coast]", "[+1 Culture] from every [Luxury resource]"],
+		"cities": ["Shimiyi","Swaxil",
+			"Hutash","Kalawashaq","Tishlini","Mishopshno","Nicala","Saqikila","Malibu","Shalawa"]
+	},
+        {
+		"name": "Seri",
+		"leaderName": "Jose Astorga",
+		"adjective": ["Seri"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [252, 238, 189],
+		"innerColor": [69, 110, 222],
+		"uniqueName": "Comcaac",
+		"uniques": ["[+1 Faith] from every [Ocean] and [Coast]"],
+		"cities": ["Haxol Lihom","Cocteel Cmiiquim",
+			"Hehe Itom","Xnaamotat","Ziix Cmaam","Hant Caail","Tehejoc Comcaac","Xepe Coosot","Cmiique Caait","Hapx Coquim","Xiica Hast"]
+	},
+        {
+		"name": "Pomo",
+		"leaderName": "Essie Parish",
+		"adjective": ["Pomo"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [89, 60, 45],
+		"innerColor": [240, 90, 41],
+		"uniqueName": "Red Earth",
+		"uniques": ["[+1 Culture] and [+1 Faith] from every [Desert] and [Tundra]"],
+		"cities": ["Dry Creek","Kashaya",
+			"Mendocino","Clear","Potter","Sonoma","San Francisco","Colusa","Napa","Sacramento","Redding","Eureka"]
+	},
+        {
+		"name": "Lenape",
+		"leaderName": "Tamanend",
+		"adjective": ["Lenape"],
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [27, 69, 14],
+		"innerColor": [127, 181, 149],
+		"uniqueName": "Lenape Hoking",
+		"uniques": ["[+1 Culture] and [+1 Faith] from every [Lakes]"],
+		"cities": ["Delaware","Minsi",
+			"Unami","Unalachtigo","Scheyichbi","Manahatta","Minisink","Lehigh","Nanticoke","Shawnee","Moraviantown"]
+	},
+        {
+		"name": "Pequot",
+		"leaderName": "Sassacus",
+		"adjective": ["Pequot"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [194, 171, 81],
+		"innerColor": [8, 3, 1],
+		"uniqueName": "Destroyers",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"cities": ["Pequotown","Sassacus",
+			"Miantonomo","Uncas","Narragansett","New Haven","Hartford","Springfield","Providence","New London","Mashpee"]
+	},
 ]

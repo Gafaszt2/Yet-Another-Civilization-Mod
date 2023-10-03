@@ -1,0 +1,11 @@
+[	
+	{
+		"name": "Bison",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		"food": 1,
+		"improvement": "Camp",
+                "uniques": ["Generated on every [50] tiles <in [Featureless] [Plains] tiles>", "Generated on every [90] tiles <in [Grassland] [Plains] tiles>"]
+		"improvementStats": {"production": 1}
+	},
+]
