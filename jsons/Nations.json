@@ -1508,7 +1508,9 @@
 			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
 			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
 	},
+
         /* Native American */
+
         {
 		"name": "Tongva",
 		"leaderName": "Toypuruva",
@@ -1532,10 +1534,8 @@
 		"innerColor": [105, 157, 255],
 		"uniqueName": "Wiyot",
 		"uniques": ["[+3 Food] from every [Whales]", "[+1 Production] from every [Fish]"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Tibananga","Xaxaamonga","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
+			"Juyubit","Yangna","Sibangna","Pimu","San Gabriel","San Fernando","Kizh"]
 	},
         {
 		"name": "Pueblo",
@@ -1560,10 +1560,9 @@
 		"innerColor": [212, 119, 13],
 		"uniqueName": "Kachina",
 		"uniques": ["[+1 Faith] per [2] [Desert]", "[+1 Culture] per [2] [Desert]"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Acoma","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
+			"Hopi","Kachina","Zuni","Taos", "Sandia"
+			"Acoma","Kiowa","Phoenix","Tucson","O Odham","San Carlos","Tonto","Prescott","Sedona"]
 	},
         {
 		"name": "Sioux",
@@ -1588,10 +1587,7 @@
 		"innerColor": [120, 42, 40],
 		"uniqueName": "Great Sioux Nation",
 		"uniques": ["[+1 Culture] from every [Plains]", "[+1 Gold] per [2] [Grassland]"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Little Bighorn","Cedar Creek","Sioux Falls","Sisseton","Wounded Knee","Rapid City", "Stony Lake", "Killdeer", "Big Mound", "Pine Ridge", "Owanka", "Turtle River", "Oglala"]
 	},
         {
 		"name": "Navajo",
@@ -1616,10 +1612,8 @@
 		"innerColor": [255, 235, 105],
 		"uniqueName": "Dine Bizaad",
 		"uniques": ["[+1 Culture] from each [Trade route]", "[+1 Science] from each [Trade route]"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Alamo","To hani","Tha tsini",
+			"Kai","Kinlitsi","Destsini","Pocahontas","Des Moines","Marshalltown","Grinnell","Fairfield","Leon"]
 	},
         {
 		"name": "Shonshone",
@@ -1644,10 +1638,8 @@
 		"innerColor": [112, 70, 55],
 		"uniqueName": "Numa",
 		"uniques": ["[+33% Culture] from City-States","[+33% Gold] from City-States"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Great Basin","Cadlwell",
+			"Nampa","Jerome","Burley","Twin Falls","Blackfoot","McCall","Jackpot","Salmon","Rexburg"]
 	},
         {
 		"name": "Mi Qmak",
@@ -1672,10 +1664,8 @@
 		"innerColor": [37, 40, 99],
 		"uniqueName": "Wabanaki Confederacy",
 		"uniques": ["[+20% Culture] from City-States","[+40% Faith] from City-States"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Halifax","St John","Moncton",
+			"Saint John","Cape Breton","Truro","Bathurst","Brook","Miramichi","Kentville","Summerside","Windsor"]
 	},
         {
 		"name": "Taino Sun",
@@ -1700,10 +1690,8 @@
 		"innerColor": [25, 46, 12],
 		"uniqueName": "Yacayeque",
 		"uniques": ["[+1 Faith] from every [Forest]", "[+1 Food] from every [Forest]"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Guanahatabey","Lucayan","Arawan","Jagua",
+			"Boriquen","Guama","Ciboney","Taino","Cacica","Vesce","Maguana","Higuey","Ciguayo"]
 	},
         {
 		"name": "Cherokee",
@@ -1728,9 +1716,7 @@
 		"innerColor": [150, 14, 5],
 		"uniqueName": "Clan System",
 		"uniques": ["[+1 Production] from every [Forest]", "[+5]% growth [in all cities]"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"cities": ["Isunigu","Overhill",
+			"Middle","Valley","Out Towns","Lower Towns","Keowee","Sugar Town","Chota","Etowa","Seneca"]
 	},
 ]
