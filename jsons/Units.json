@@ -742,4 +742,44 @@
 		"hurryCostModifier": 30,
 		"attackSound": "metalhit"
 	},
+        {
+		"name": "Highlander",
+                "replaces": "Rifleman",
+		"uniqueTo": "Scotland",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 37,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+        {
+		"name": "IRA Soldier",
+                "replaces": "Infantry",
+		"uniqueTo": "Ireland",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 345,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+        {
+		"name": "Polisie",
+                "replaces": "Infantry",
+		"uniqueTo": "South Africa",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+                "uniques": ["[+1] Sight", "[+50]% Strength <vs [Sword] units>", "[+50]% Strength <vs [Barbarian] units>"],
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
 ]

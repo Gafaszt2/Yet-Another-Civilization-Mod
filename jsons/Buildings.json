@@ -315,4 +315,38 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
 	},
+        {
+		"name": "Distillery",
+                "uniqueTo": "Scotland",
+		"replaces": "Bank",
+		"gold": 3,
+                "happiness": 2,
+		"specialistSlots": {"Artist": 2},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+        {
+		"name": "Homeland",
+                "uniqueTo": "South Africa",
+		"replaces": "Bank",
+		"gold": 5,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+        {
+		"name": "Pub",
+                "uniqueTo": "Ireland",
+		"replaces": "Market",
+		"gold": 2,
+                "culture": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
 ]

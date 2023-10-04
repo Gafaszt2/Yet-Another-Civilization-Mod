@@ -302,7 +302,7 @@
 		"outerColor": [188, 235, 195],
 		"innerColor": [45, 161, 62],
 		"uniqueName": "White Revolution",
-		"uniques": ["[+1 Science] [in all cities]", "Receive free [Great Scientist] when you discover [Military Science]", "Receive free [Great Scientist] when you discover [Ballistics]", "[+1 Production] from every [Temple]", "[+1 Culture] from every [Monument]"],
+		"uniques": ["[+1 Science] [in all cities]", "Recieve free [Great Scientist] when you discover [Military Science]", "Recieve free [Great Scientist] when you discover [Ballistics]", "[+1 Production] from every [Temple]", "[+1 Culture] from every [Monument]"],
 		"cities": ["Teherán", "Isfahán" ,"Shiraz", "Kashan", "Kermán", "Yazd", "Persépolis", "Mashhad", "Naqsh-e Rostam",
 			"Bam"]
 	},
@@ -1369,7 +1369,7 @@
 		"outerColor": [245, 209, 66],
 		"innerColor": [47, 47, 120],
 		"uniqueName": "Beneficio",
-		"uniques": ["[+33% Science] from City-States", "+10% Strength when fighting City-State units and cities", "[+1 Science] [in all cities] during [Golden Age]"],
+		"uniques": ["[+33% Science] from City-States", "[+1 Science] [in all cities] during [Golden Age]"],
 		"cities": ["San Miguel", "Conchagua" ,"Tegucigalpa", "Leon", "Granada", "San Salvador", "Managua", "San Jose", "Belmopán"]
 	},
         {
@@ -1955,5 +1955,83 @@
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"cities": ["Pequotown","Sassacus",
 			"Miantonomo","Uncas","Narragansett","New Haven","Hartford","Springfield","Providence","New London","Mashpee"]
+	},
+
+        /* Rebels */
+
+        {
+		"name": "Ireland",
+		"leaderName": "Michael Collins",
+		"adjective": ["Irish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [158, 80, 6],
+		"innerColor": [11, 224, 68],
+		"uniqueName": "Come out ye Black and Tans",
+		"uniques": ["[+25]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Dublin","Cork","Galway","Limerick","Waterford","Kilkenny","Sligo","Derry","Belfast","Dun Laogharie","Ennis"]
+	},
+        {
+		"name": "Scotland",
+		"leaderName": "John Maclean",
+		"adjective": ["Scotish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [20, 141, 247],
+		"innerColor": [179, 214, 245],
+		"uniqueName": "Red Clydeside",
+		"uniques": ["[+2 Production] and [+1 Gold] from every [Factory]"],
+		"cities": ["Edimburg","Glasgow","Iverness","Stirling","Dundee","Aberdeen","Perth","St Andrews","Oban","Fort William"]
+	},
+        {
+		"name": "South Africa",
+		"leaderName": "Hendrik Verwoerd",
+		"adjective": ["South African"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of white people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 129, 10],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Apartheid",
+		"uniques": ["[-1 Happiness] from every [Mine]", "Rebel units may spawn", "[+50]% Strength <vs [Barbarian] units>", "[+2 Gold] from each [Trade route]"],
+		"cities": ["Cape Town","Hogannesburg","Pretoria","Durban","Bloemfontein","Soweto","Elizabeth Port","Nelspruit","Kimberley","Polokwane"]
 	},
 ]
