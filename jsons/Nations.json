@@ -1956,6 +1956,32 @@
 		"cities": ["Pequotown","Sassacus",
 			"Miantonomo","Uncas","Narragansett","New Haven","Hartford","Springfield","Providence","New London","Mashpee"]
 	},
+        {
+		"name": "The Mississippians",
+		"leaderName": "Tuskaloosa",
+		"adjective": ["Mississippian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [21, 49, 84],
+		"innerColor": [252, 186, 3],
+		"uniqueName": "Mound Builder",
+		"uniques": ["[+1 Culture] from every [Improvement]"],
+		"cities": ["Cahokia","Moundville",
+			"Spiro","Angel Mounds","Atahachi","Emeral Mound","Etowah","Kincaid","Castalian Springs","Cloverdale","Grand Village","Mabila"]
+	},
 
         /* Rebels */
 
@@ -2033,5 +2059,31 @@
 		"uniqueName": "Apartheid",
 		"uniques": ["[-1 Happiness] from every [Mine]", "Rebel units may spawn", "[+50]% Strength <vs [Barbarian] units>", "[+2 Gold] from each [Trade route]"],
 		"cities": ["Cape Town","Hogannesburg","Pretoria","Durban","Bloemfontein","Soweto","Elizabeth Port","Nelspruit","Kimberley","Polokwane"]
+	},
+        {
+		"name": "Abkhazia",
+		"leaderName": "Leon II",
+		"adjective": ["Abkhazia"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of white people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [84, 21, 55],
+		"innerColor": [99, 209, 242],
+		"uniqueName": "Kingdom of the Golden Fleece",
+		"uniques": ["[-10]% Culture cost of natural border growth [in all cities]", 
+"[-10]% Gold cost of acquiring tiles [in all cities]", "[+20]% Production when constructing [All] buildings [in all cities] <in [Coast] tiles>"],
+		"cities": ["Sujimi","Gagra","Gali","Ochamchira","Pitsunda","Tkvarcheli","Novy Afon","Tquarchal","Gulripshi","Leselidze"]
 	},
 ]

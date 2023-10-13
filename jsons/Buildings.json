@@ -1,5 +1,19 @@
 [
      {
+		"name": "Apsny",
+                "replaces": "Amphitheater",
+		"uniqueTo": "Abkhazia",
+		"culture": 2,
+                "happiness": 1,
+                "faith": 1,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+     {
 		"name": "Ithuba",
 		"hurryCostModifier": 25,
             "uniqueTo": "Buganda",

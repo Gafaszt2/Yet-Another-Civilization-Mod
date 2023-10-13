@@ -37,6 +37,17 @@
             "Pillaging this improvement yields approximately [+18 Gold]"],
 	},
         {
+		"name": "Mississippi Mound"
+            "uniqueTo": "The Mississippians",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+		"faith": 1,
+                "science": 1,
+		"turnsToBuild": 3,
+		"techRequired": "Construction",
+		"uniques": ["[+1 Faith] from [Fresh water] tiles",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+	},
+        {
 		"name": "Igloo"
             "uniqueTo": "Inuits",
 		"terrainsCanBeBuiltOn": ["Snow"],

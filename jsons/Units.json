@@ -1,5 +1,33 @@
 [
       {
+		"name": "Abazgi",
+                "uniqueTo": "Abkhazia",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Double movement in [Hill]", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+      {
+		"name": "Falcon Dancer",
+                "uniqueTo": "The Mississippians",
+		"replaces": "Inquisitor",
+                "strength": 14,
+		"unitType": "Civilian",
+		"uniques": ["Prevents spreading of religion to the city it is next to",
+			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
+            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
+		],
+		"movement": 4
+	},
+      {
 		"name": "Dua",
 		"unitType": "Sword",
 		"uniqueTo": "Buganda",
