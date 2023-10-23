@@ -810,4 +810,18 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
+        {
+		"name": "Fulani Archer",
+                "replaces": "Composite Bowman",
+		"uniqueTo": "Hausa Kingdom",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 10,
+		"cost": 60,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
 ]

@@ -90,4 +90,16 @@
 		"turnsToBuild": 3,
 		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [20]%"],
 	},
+        {
+		"name": "Sanga Cow Market"
+            "uniqueTo": "Hausa Kingdom",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert"],
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Animal Husbandry",
+		"uniques": [
+			"[+1 Gold] from adjacent [Cattle] tiles",
+			"[+1 Production] from adjacent [Cattle] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+30 Gold]"],
+	},
 ]

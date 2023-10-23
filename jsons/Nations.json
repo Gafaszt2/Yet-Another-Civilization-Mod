@@ -2086,4 +2086,34 @@
 "[-10]% Gold cost of acquiring tiles [in all cities]", "[+20]% Production when constructing [All] buildings [in all cities] <in [Coast] tiles>"],
 		"cities": ["Sujimi","Gagra","Gali","Ochamchira","Pitsunda","Tkvarcheli","Novy Afon","Tquarchal","Gulripshi","Leselidze"]
 	},
+        {
+		"name": "Hausa Kingdom",
+		"leaderName": "King Umbi",
+		"adjective": ["Hausa"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Ma Aikata",
+                "uniques": ["[+10]% Production when constructing [Civilian] units for cities on [Desert] tiles", "[+1 Science] from every [2] [Trading post]", "[+10]% Strength for cities on [Desert] tiles"],
+
+		"outerColor": [189, 52, 235],
+		"innerColor": [11, 48, 5],
+		"cities": ["Kano","Zaria","Katsina",
+			"Daura",
+			"Gobir","Rano","Biram","Kebbi",
+			"Zamfara","Yauri"],
+        "spyNames": ["Sir Charles"]
+	},
 ]
