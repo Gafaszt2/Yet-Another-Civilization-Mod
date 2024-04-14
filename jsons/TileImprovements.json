@@ -94,12 +94,10 @@
 		"name": "Sanga Cow Market"
             "uniqueTo": "Hausa Kingdom",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert"],
-		"gold": 1,
-		"turnsToBuild": 7,
+		"gold": 4,
+		"turnsToBuild": 9,
 		"techRequired": "Animal Husbandry",
 		"uniques": [
-			"[+1 Gold] from adjacent [Cattle] tiles",
-			"[+1 Production] from adjacent [Cattle] tiles <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+30 Gold]"],
 	},
 ]
