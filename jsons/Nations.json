@@ -1,4 +1,105 @@
 [
+{
+		"name": "Iceland",
+		"leaderName": "Jón Sigurðsson",
+		"adjective": ["Iceland"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [5, 63, 84],
+		"innerColor": [120, 215, 250],
+		"uniqueName": "Notwithstanding",
+		"uniques": ["[1] free [Scout] units appear","[+1 Science, +1 Happiness] from all [Science] buildings","[+1 Culture] from every [Geothermal Plant]"],
+		"cities": ["Reykjavík","Akureyri","Kópavogur","Hafnarfjörður","Reykjanesbær","Garðabær","Mosfellsbær","Árborg","Akranes","Fjarðabyggð"],
+	},
+{
+		"name": "Great Para",
+		"leaderName": "Maria de Belém",
+		"adjective": ["Pará"],
+		"startBias": ["Jungle","Plains"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [246, 250, 120],
+		"innerColor": [89, 48, 2],
+		"uniqueName": "Heart of the Amazon",
+		"uniques": ["[+2 Gold] from all [Food] buildings","[+1 Production] from every [Forest]","[+3 Gold] from every [Jungle]"],
+		"cities": ["Belém","Santarém","Marabá","Castanhal","Abaetetuba","Braganca","Parauapebas","Altamira","Cametá","Barcarena"],
+	},
+{
+		"name": "Yemen",
+		"leaderName": "Yahya Hamid ed-Din",
+		"adjective": ["Yemen"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [230, 216, 219],
+		"innerColor": [33, 61, 37],
+		"uniqueName": "Isolationist Imam",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>","[+1 Culture] [in all cities] <with [1] to [6] neighboring [improved] [Hill] tiles>"],
+		"cities": ["Sanaa", "Taiz", "Amrān", "Raydah", "Huth", "Sa’dah", "Al Hazm", "Jihanah", "Ma’rib", "Harib", "Al Bayda’", "Rida’", "Ma’bar", "Dhamar", "Yarim", "An Nadirah", "Qa’tabah", "Ibb", "At Turbah", "Mecca", "Hays", "Zabid", "Manakhah", "Al Mansuriyah", "Bajil", "Al Hudaydah", "Hajja", "Ad Dabi", "Ad Zaydiyah", "Salif", "Al Qanawis", "Az Zubrah", "Al Luhayyah Suq ‘Abs", "Harad", "Maydi"],
+	},
+{
+		"name": "Sultanate of Darfur",
+		"leaderName": "Ali Dinar",
+		"adjective": ["Darfur"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 33, 36],
+		"innerColor": [252, 159, 88],
+		"uniqueName": "Ata el-Mawla",
+		"uniques": ["Provides the cheapest [Faith] building in your first [4] cities for free","[+3 Gold] from every [Holy site]"],
+		"cities": ["Sanaa", "Taiz", "Amrān", "Raydah", "Huth", "Sa’dah", "Al Hazm", "Jihanah", "Ma’rib", "Harib", "Al Bayda’", "Rida’", "Ma’bar", "Dhamar", "Yarim", "An Nadirah", "Qa’tabah", "Ibb", "At Turbah", "Mecca", "Hays", "Zabid", "Manakhah", "Al Mansuriyah", "Bajil", "Al Hudaydah", "Hajja", "Ad Dabi", "Ad Zaydiyah", "Salif", "Al Qanawis", "Az Zubrah", "Al Luhayyah Suq ‘Abs", "Harad", "Maydi"],
+	},
+
         {
 		//nations
 		"name": "Bulgarian Empire",

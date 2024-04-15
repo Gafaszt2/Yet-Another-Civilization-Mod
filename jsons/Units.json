@@ -1,4 +1,78 @@
 [
+{
+		"name": "Veioimaour",
+                "uniqueTo": "Iceland",
+		"replaces": "Musketman",
+                "upgradesTo": "Rifleman",
+                "requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+                "uniques": ["Can build [Lumber mill] improvements on tiles","Double movement in [Snow]","[+20]% Strength <when defending>"],           
+		"cost": 150,
+		"attackSound": "shot"
+        },
+        {
+		"name": "Snjovorour",
+                "uniqueTo": "Iceland",
+		"replaces": "Longswordsman",
+                "requiredTech": "Steel",
+                "obsoleteTech": "Rifling",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+                "requiredResource": "Iron",
+                "uniques": ["Can build [Farm] improvements on tiles","Double movement in [Snow]","[+20]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+        },
+        {
+		"name": "Japanese Immigrant",
+                "uniqueTo": "Great Para",
+		"replaces": "Longswordsman",
+                "requiredTech": "Steel",
+                "obsoleteTech": "Rifling",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+                "requiredResource": "Iron",
+                "uniques": ["Can build [Plantation] improvements on tiles","[+10]% Strength <vs [Wounded] units>","[+25]% Strength <vs [Gunpowder] units>"],
+		"attackSound": "metalhit"
+        },
+
+        {
+		"name": "Ukfa Troop",
+"unitType": "Gunpowder",
+
+                "uniqueTo": "Yemen",
+		"replaces": "Great War Infantry",
+                "movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+                "promotions": ["Drill I","Drill II"],
+                 "uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+        },
+        {
+		"name": "Fursan",
+                "uniqueTo": "Sultanate of Darfur",
+		"replaces": "Musketman",
+                "upgradesTo": "Rifleman",
+                "requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+               "cost": 150,
+  "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"],
+		"attackSound": "shot"
+},
+
       {
 		"name": "Abazgi",
                 "uniqueTo": "Abkhazia",
@@ -529,7 +603,7 @@
 		"strength": 10,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Can enter ocean tiles", "[+1] Sight",  "Never appears as a Barbarian unit"],
+		"uniques": ["[+1] Sight",  "Never appears as a Barbarian unit"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
@@ -543,7 +617,7 @@
 		"strength": 13,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Can enter ocean tiles",  "Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
