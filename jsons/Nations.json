@@ -4,7 +4,7 @@
 		"leaderName": "Jón Sigurðsson",
 		"adjective": ["Iceland"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Political",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -29,7 +29,7 @@
 		"leaderName": "Maria de Belém",
 		"adjective": ["Pará"],
 		"startBias": ["Jungle","Plains"],
-		"preferredVictoryType": "Political",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -54,7 +54,7 @@
 		"leaderName": "Yahya Hamid ed-Din",
 		"adjective": ["Yemen"],
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Political",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -71,7 +71,7 @@
 		"outerColor": [230, 216, 219],
 		"innerColor": [33, 61, 37],
 		"uniqueName": "Isolationist Imam",
-		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>","[+1 Culture] [in all cities] <with [1] to [6] neighboring [improved] [Hill] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>","[+2 Culture] [in all cities] <with [1] to [2] neighboring [{improved} {Hill}] tiles>"],
 		"cities": ["Sanaa", "Taiz", "Amrān", "Raydah", "Huth", "Sa’dah", "Al Hazm", "Jihanah", "Ma’rib", "Harib", "Al Bayda’", "Rida’", "Ma’bar", "Dhamar", "Yarim", "An Nadirah", "Qa’tabah", "Ibb", "At Turbah", "Mecca", "Hays", "Zabid", "Manakhah", "Al Mansuriyah", "Bajil", "Al Hudaydah", "Hajja", "Ad Dabi", "Ad Zaydiyah", "Salif", "Al Qanawis", "Az Zubrah", "Al Luhayyah Suq ‘Abs", "Harad", "Maydi"],
 	},
 {
@@ -79,7 +79,7 @@
 		"leaderName": "Ali Dinar",
 		"adjective": ["Darfur"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Political",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -705,8 +705,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Druidic Lore",
-		"uniques": ["[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
-			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>"],
+		"uniques": ["[+1 Culture] from every [Forest]","[+1 Faith] from every [Forest]","[+1 Faith] from every [Luxury resource]"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
 			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
 			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
@@ -1771,7 +1770,7 @@
 		"leaderName": "Anagaona",
 		"adjective": ["Taino Sun"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1797,7 +1796,7 @@
 		"leaderName": "John Ross",
 		"adjective": ["Cherokee"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1826,7 +1825,7 @@
 		"leaderName": "Desmasduit",
 		"adjective": ["Beothuk"],
 		"startBias": ["Jungle"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1852,7 +1851,7 @@
 		"leaderName": "Pushmataha",
 		"adjective": ["Choctaw"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1878,7 +1877,7 @@
 		"leaderName": "Ten Bears",
 		"adjective": ["Comanche"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1904,7 +1903,7 @@
 		"leaderName": "Plenty Coups",
 		"adjective": ["Crow"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1930,7 +1929,7 @@
 		"leaderName": "Anapamu",
 		"adjective": ["Chumash"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1956,7 +1955,7 @@
 		"leaderName": "Jose Astorga",
 		"adjective": ["Seri"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -1982,7 +1981,7 @@
 		"leaderName": "Essie Parish",
 		"adjective": ["Pomo"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -2008,7 +2007,7 @@
 		"leaderName": "Tamanend",
 		"adjective": ["Lenape"],
 		"startBias": ["Lakes"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -2034,7 +2033,7 @@
 		"leaderName": "Sassacus",
 		"adjective": ["Pequot"],
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -2060,7 +2059,7 @@
 		"leaderName": "Tuskaloosa",
 		"adjective": ["Mississippian"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -2089,7 +2088,7 @@
 		"leaderName": "Michael Collins",
 		"adjective": ["Irish"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -2114,7 +2113,7 @@
 		"leaderName": "John Maclean",
 		"adjective": ["Scotish"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -2139,7 +2138,7 @@
 		"leaderName": "Hendrik Verwoerd",
 		"adjective": ["South African"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
@@ -2164,7 +2163,7 @@
 		"leaderName": "Leon II",
 		"adjective": ["Abkhazia"],
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
 		
