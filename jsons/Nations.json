@@ -1,5 +1,31 @@
 [
 {
+		"name": "Charrua",
+		"leaderName": "Carabí",
+		"adjective": ["Charrua"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [228, 240, 139],
+		"innerColor": [54, 45, 30],
+		"uniqueName": "Pampa´s Hunters",
+		"uniques": ["[-100]% maintenance costs <for [Mounted] units>","[+15]% Production when constructing [Mounted] units [in this city]","Double quantity of [Horses] produced"],
+		"cities": ["Salsipuedes","Entre Ríos","Rio Grande do Sul","Ñandu","Chana","Guenoa","Bohane","Minuan"],
+	},
+
+{
 		"name": "Iceland",
 		"leaderName": "Jón Sigurðsson",
 		"adjective": ["Iceland"],

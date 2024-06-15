@@ -1,5 +1,19 @@
 [
 {
+		"name": "Na Tinu",
+                "uniqueTo": "Charrua",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 70,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+{
 		"name": "Veioimaour",
                 "uniqueTo": "Iceland",
 		"replaces": "Musketman",
