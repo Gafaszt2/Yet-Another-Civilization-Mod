@@ -1,5 +1,34 @@
 [
 {
+		"name": "Acho Atupat",
+                "uniqueTo": "Chamorro",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+                "promotions": ["Drill I"],
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+{
+		"name": "Sakman",
+                "uniqueTo": "Chamorro",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["[+10]% Strength <when fighting in [Foreign Land] tiles>","Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+{
 		"name": "Na Tinu",
                 "uniqueTo": "Charrua",
 		"replaces": "Spearman",
@@ -649,6 +678,19 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
+	},
+        {
+		"name": "Pueblo Pathfinder",
+                "replaces": "Scout",
+		"uniqueTo": "Pueblo",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 6,
+		"cost": 32,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["[+10]% Strength <when fighting in [Friendly Land] tiles>","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	},
         {
 		"name": "Pathfinder",

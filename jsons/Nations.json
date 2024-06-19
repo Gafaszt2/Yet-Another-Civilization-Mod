@@ -1,5 +1,30 @@
 [
 {
+		"name": "Chamorro",
+		"leaderName": "Matå'pang",
+		"adjective": ["Chamorro"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [181, 207, 247],
+		"innerColor": [46, 63, 89],
+		"uniqueName": "Chenchule' System",
+		"uniques": ["[+2 Production] from each Trade Route","No Maintenance costs for improvements in [Coast] tiles","[+10]% Strength decreasing with distance from the capital"],
+		"cities": ["Barrigada","Ordot","Dededo","Agat","Agatna","Umatac","Inajaran","Merizo"],
+	},
+{
 		"name": "Charrua",
 		"leaderName": "Carabí",
 		"adjective": ["Charrua"],
@@ -1680,8 +1705,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [222, 183, 138],
-		"innerColor": [212, 119, 13],
+		"outerColor": [56, 41, 29],
+		"innerColor": [252, 182, 126],
 		"uniqueName": "Kachina",
 		"uniques": ["[+1 Food] from every [Desert]","[+1 Faith] from every [Forest]"],
 		"cities": ["Acoma","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
