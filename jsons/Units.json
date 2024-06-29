@@ -1,5 +1,31 @@
 [
 {
+		"name": "Pechin",
+                "uniqueTo": "Ryukyu",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": ["Can hurry technology research",
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+{
+		"name": "Kurdaitcha",
+                "uniqueTo": "Arrernte",
+		"replaces": "Inquisitor",
+                "strength": 15,
+		"unitType": "Civilian",
+		"uniques": ["Prevents spreading of religion to the city it is next to",
+			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
+            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"Heals [15] damage if it kills a unit","[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
+		],
+		"movement": 3
+	},
+{
 		"name": "Acho Atupat",
                 "uniqueTo": "Chamorro",
 		"replaces": "Archer",

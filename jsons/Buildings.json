@@ -1,4 +1,28 @@
 [
+{
+		"name": "Kumemura",
+               "replaces": "University",
+		"uniqueTo": "Ryukyu",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+1 Science] from [Fishing Boats] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+     {
+		"name": "Porcupine Grass Hut",
+                "replaces": "Water Mill",
+		"uniqueTo": "Arrernte",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","Must be on [Desert]"],
+		"requiredTech": "The Wheel"
+	},
+     
      {
 		"name": "Apsny",
                 "replaces": "Amphitheater",
