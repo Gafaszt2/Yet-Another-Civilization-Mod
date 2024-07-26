@@ -1,5 +1,20 @@
 [
 {
+		"name": "Zenata Cavalry",
+                "uniqueTo": "Al Andalus",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 100,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[+33]% XP gained from combat","[+25]% Strength decreasing with distance from the capital","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+{
 		"name": "Pechin",
                 "uniqueTo": "Ryukyu",
 		"replaces": "Great General",
@@ -542,7 +557,7 @@
 		"unitType": "Civilian",
                 "replaces": "Missionary",
 		"uniqueTo": "Pohnpei",
-		"uniques": ["Can [Spread Religion] [3] times", "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+		"uniques": ["Can Spread Religion <for [4] movement> <[3] times> <after which this unit is consumed>","May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
 		"movement": 4,

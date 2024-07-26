@@ -1,5 +1,30 @@
 [
 {
+		"name": "Al Andalus",
+		"leaderName": "Abd al-Rahman III",
+		"adjective": ["Al Andalus"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [42, 61, 43],
+		"innerColor": [255, 103, 43],
+		"uniqueName": "Madinat al-Zahra",
+		"uniques": ["[+33]% Production when constructing [Science] buildings [in all cities] <during a Golden Age>","[+33]% Production when constructing [Faith] buildings [in all cities] <during a Golden Age>"],
+		"cities": ["Córdoba", "Tulaytulah", "Mursiya", "Isbiliya", "al-Mariyya", "Balansiya", "Morvedre", "Malaqah", "Laqant", "Almeria", "Garnatah", "Medina Mayurqa", "Qadis", "al-Yazirat", "Bayyana", "Turtuxa", "Larida", "Saraqusta", "Madinat-Salim", "Kulumriyya", "Batalyaws", "al-Lixbuna"],
+	},
+{
 		"name": "Ryukyu",
 		"leaderName": "Sho Hashi",
 		"adjective": ["Ryukyu"],
@@ -875,36 +900,6 @@
 			"Paishiyauvada","Patigrbana","Phrada"],
         "spyNames": ["Azi", "Dabir", "Firuz", "Gaspar", "Shahzad", "Aga", "Marjane", "Peri", "Sartaj ", "Yasmin"]
     },
-	{
-		"name": "Polynesia",
-		"leaderName": "Kamehameha I",
-		"adjective": ["Polynesia"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
-		"attacked": "It is obvious now that I misjudged you and your true intentions.",
-		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
-		"introduction": "Aloha! Greetings and blessings upon you, friend. I am Kamehameha, Great King of this strand of islands.",
-		"neutralHello": "Welcome, friend!",
-		"hateHello": "Oh, it's you.",
-		"tradeRequest": "Come, let our people feast together!",
-		"outerColor": [64, 36, 1],
-		"innerColor": [252, 141, 3],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Wayfinding",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>",
-            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
-            "[+1] Sight <for [Embarked] units>",  "[+10]% Strength <within [2] tiles of a [Moai]>"],
-		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
-			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
-			"Rakahanga","Bora Bora","Kailua","Uvea","Futuna","Rotuma","Tokelau","Lahaina","Bellona","Mungava","Tikopia",
-			"Emae","Kapingamarangi","Takuu","Nukuoro","Sikaiana","Anuta","Nuguria","Pileni","Nukumanu"],
-        "spyNames": ["Tiki", "Hotu Matua", "Rongo-ma-tane", "Kupe", "Haloti", "Degei", "Babamik", "Kulu Lau", "Nangananga", "Turua"]
-    },
     {
 		"name": "Korea",
 		"leaderName": "Sejong",
@@ -1006,7 +1001,7 @@
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		"outerColor": [46, 45, 43],
-		"innerColor": [179, 39, 39],
+		"innerColor": [250, 55, 55],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",

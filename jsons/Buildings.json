@@ -1,5 +1,17 @@
 [
 {
+		"name": "Alcazar",
+               "replaces": "University",
+		"uniqueTo": "Al Andalus",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+1 Science] from [Holy Site] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+{
 		"name": "Kumemura",
                "replaces": "University",
 		"uniqueTo": "Ryukyu",
@@ -8,7 +20,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+1 Science] from [Fishing Boats] tiles [in this city]"],
+		"uniques": ["[+1 Science] from [Fishing Boats] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 	},
      {
