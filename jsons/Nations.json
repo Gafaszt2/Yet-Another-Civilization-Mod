@@ -1,5 +1,84 @@
 [
 {
+		"name": "Mangkunegaran",
+		"leaderName": "Mangkunegara IV",
+		"adjective": ["Mangkuneragan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [147, 232, 49],
+		"innerColor": [250, 74, 15],
+                "favoredReligion": "Islam",
+		"uniqueName": "Wedhatama",
+		"uniques": ["Free [Great Artist] appears <upon discovering [Industrialization] technology>","[+2 Faith] from all [Culture] buildings","Provides [1] [Sugar] <with [100]% chance>"],
+		"cities": ["Mangkunegara","Surakarta","Saidabad","Pakubuwonograd","Solo Mangku"],
+	}
+{
+		"name": "Mughal Empire",
+		"leaderName": "Akbar",
+		"adjective": ["Mughals"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 161, 114],
+		"innerColor": [236, 255, 184],
+                "favoredReligion": "Hinduism",
+		"uniqueName": "Conquest of Rajputana",
+		"uniques": ["[-50]% maintenance costs <for [Siege] units>","[+33]% Strength <when fighting in [Hill] tiles>"],
+		"cities": ["Agra","Delhi","Lahore","Fatehpur Sikri","Dhaka","Srinagar","Multan","Allahabad","Kabul"],
+	}
+{
+		"name": "Indonesia",
+		"leaderName": "Sukarno",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [150, 224, 198],
+		"innerColor": [59, 23, 66],
+                "favoredReligion": "Islam",
+		"uniqueName": "Pancasila",
+		"uniques": ["[+1 Production] per [2] social policies adopted","[+1 Food] per [1] social policies adopted"],
+		"cities": ["Jakarta", "Surabaya", "Yogyakarta", "Medan", "Bandung", "Semarang", "Palembang", "Makassar", "Pekanbaru", "Bandar Lampung", "Batam", "Padang", "Malang", "Denpasar", "Samarinda", "Banjarmasin", "Serang", "Balikpapan", "Pontianak", "Jambi", "Surakarta", "Tanjung Pinang", "Pangkal Pinang", "Gorontalo", "Ternate", "Metro"],
+	}
+
+{
 		"name": "Al Andalus",
 		"leaderName": "Abd al-Rahman III",
 		"adjective": ["Al Andalus"],
@@ -1611,8 +1690,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [98, 204, 53],
-		"innerColor": [34, 41, 31],
+		"outerColor": [53, 89, 55],
+		"innerColor": [255, 194, 71],
 		"uniqueName": "Varjak Lovagja",
 		"uniques": ["[+50]% Production when constructing [Mounted] units [in all cities]", "[+25]% Production when constructing [Faith] buildings [in all cities]"],
 		"cities": ["Buda","Pest","Esztergom","Debrecen","Pecs","Eger","Miskolc","Gyor","Szekesfehervar","Szeged",

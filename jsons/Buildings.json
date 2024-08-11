@@ -1,5 +1,27 @@
 [
 {
+		"name": "Red Fort",
+                "uniqueTo": "Mughal Empire",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 28,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
+		"name": "Puskesmas",
+                "uniqueTo": "Indonesia",
+		"replaces": "Hospital",
+		"food": 6,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+                "uniques": ["[+1 Culture] from [Academy] tiles [in this city]"],
+		"requiredTech": "Biology"
+	},
+{
 		"name": "Alcazar",
                "replaces": "University",
 		"uniqueTo": "Al Andalus",
