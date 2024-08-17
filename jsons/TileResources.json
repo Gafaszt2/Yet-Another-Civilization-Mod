@@ -1,4 +1,7 @@
-[	
+[	{
+		"name": "Uro",
+		"resourceType": "Luxury",
+	},
 	{
 		"name": "Bison",
 		"resourceType": "Bonus",

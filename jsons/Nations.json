@@ -1,5 +1,100 @@
 [
 {
+		"name": "Nubia",
+		"leaderName": "Piye",
+		"adjective": ["Nubia"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [227, 215, 182],
+		"innerColor": [59, 37, 19],
+		"uniqueName": "Ta-Seti",
+		"uniques": ["[+35]% [Culture] from every [Wonder]","[Gold] cost of purchasing items in cities [-25]%"],
+		"cities": ["Meroe",
+"Napata",
+"Gebel Barkal",
+"Nuri",
+"Kerma",
+"Soleb",
+"Naqa",
+"Semna",
+"Dakka",
+"Philae",
+"Dabod",
+"Kawa",
+"Aswan",
+"Tankassi",
+"Debba",
+"Berber",
+"Amara",
+"Kosha",
+"Tangur",
+"Okma"],
+	}
+
+{
+		"name": "Wahgi",
+		"leaderName": "Kaipel Ka",
+		"adjective": ["Wahgi"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [105, 94, 87],
+		"innerColor": [32, 23, 33],
+		"uniqueName": "Beware The Man Who Never Dies",
+		"uniques": ["No damage penalty for wounded units","May heal outside of friendly territory","[+5]% XP gained from combat"],
+		"cities": ["Mount Hagen", "Goroka", "Banz", "Korn", "Ambang", "Nondugl", "Kundiawa", "Kuno", "Tolu", "Minj", "Kondiu", "Kombulno", "Wabag", "Baiyer", "Mainakoru", "Pogera", "Mornmaul", "Ero'ara", "Amulibanth"],
+	}
+{
+		"name": "Motu",
+		"leaderName": "Edai Siabo",
+		"adjective": ["Motu"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [56, 25, 28],
+		"innerColor": [242, 176, 99],
+		"uniqueName": "Hiri Trade Cycle",
+		"uniques": ["[+1 Gold, +2 Culture] from each Trade Route", "[+25]% [Culture] <during We Love The King Day>"],
+		"cities": ["Hanuabada", "Boera", "Elevala", "Baruni", "Tanobada", "Hohodae", "Dobi", "Poreporena", "Tatana", "Vabukori", "Kouderika", "Pari", "Tupuseleia", "Porebada", "Papalealea", "Manumanu", "Barakau", "Koka", "Korobosea", "Roku", "Badihagwa", "Kilakila", "Boteka", "Papa", "Gairi", "Gabagaba", "Doura", "Konedobu", "Gorohu"],
+	}
+{
 		"name": "Mangkunegaran",
 		"leaderName": "Mangkunegara IV",
 		"adjective": ["Mangkuneragan"],

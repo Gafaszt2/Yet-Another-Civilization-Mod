@@ -1,4 +1,47 @@
-[
+[ 
+{
+		"name": "Apedemak Archer",
+                "uniqueTo": "Nubia",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+                "promotions": ["Siege I"],
+                "uniques": ["[+25]% XP gained from combat <when fighting in [Fresh water] tiles>"],
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+                {
+                "name":"Kumb Tapi",
+                "uniqueTo": "Wahgi",
+		"replaces": "Pikeman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 17,
+		"cost": 91,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% XP gained from combat <when fighting in [Rough terrain] tiles>"],
+		"upgradesTo": "Rifleman",
+		"attackSound": "metalhit"
+	        },
+{
+		"name": "Lakatoi",
+                "uniqueTo": "Motu",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit","[+1] Sight"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
 {
 		"name": "Gajnal",
                 "uniqueTo": "Mughal Empire",

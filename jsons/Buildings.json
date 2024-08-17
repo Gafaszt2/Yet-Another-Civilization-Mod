@@ -1,5 +1,41 @@
 [
 {
+		"name": "Royal Pyramid",
+                "uniqueTo": "Nubia",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled","[+1 Culture] from [Desert] tiles [in this city]"]
+	},
+{
+		"name": "Kep Pene",
+                "uniqueTo": "Wahgi",
+                "specialistSlots": {"Artist": 1},
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Hill] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+{
+		"name": "Uro Works",
+                "uniqueTo": "Motu",
+		"replaces": "Stone Works",
+		"happiness": 1,
+		"production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["Must not be on [Plains]", "Provides [1] [Uro]",
+			"[+1 Production] from [Stone] tiles [in this city]",
+			"[+1 Production] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
+	},
+{
 		"name": "Red Fort",
                 "uniqueTo": "Mughal Empire",
 		"replaces": "Castle",
