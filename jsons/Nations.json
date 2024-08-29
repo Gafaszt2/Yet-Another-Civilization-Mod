@@ -1,5 +1,95 @@
 [
 {
+		"name": "Dravidians",
+		"leaderName": "Rajendra Chola I",
+		"adjective": ["Dravidians"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [203, 214, 245],
+		"innerColor": [39, 42, 51],
+		"uniqueName": "Maritime Traders",
+		"uniques": ["[+25]% Strength <for [Melee Water] units>","[+5]% Strength <for [Wounded] units>","[+1 Gold] from each Trade Route"],
+		"cities": ["Thanjavur","Gyumri", "Artashat", "Tigranocerta", "Yervantashat", "Gavar", "Armavir", "Ararat", "Etchimadzin", "Ani", "Ghapan", "Dvin", "Kars", "Bitlis", "Karahissar", "Erzurum", "Naxcivan"],
+	}
+{
+		"name": "Armenia",
+		"leaderName": "Tigranes II",
+		"adjective": ["Armenian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [168, 66, 50],
+		"innerColor": [250, 247, 182],
+		"uniqueName": "Stone Curtain",
+		"uniques": ["[+1 Faith, +2 Culture] in cities on [Hill] tiles","[+2 Faith] in cities on [Hill] tiles <after founding a religion>"],
+		"cities": ["Yerevan","Gyumri", "Artashat", "Tigranocerta", "Yervantashat", "Gavar", "Armavir", "Ararat", "Etchimadzin", "Ani", "Ghapan", "Dvin", "Kars", "Bitlis", "Karahissar", "Erzurum", "Naxcivan"],
+	}
+
+{
+		"name": "The Goths",
+		"leaderName": "Alaric I",
+		"adjective": ["Goths"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [54, 50, 49],
+		"innerColor": [204, 201, 200],
+		"uniqueName": "Sacker of Rome",
+		"uniques": ["[+15]% Strength <for [Sword] units> <upon entering the [Medieval era]>","[+10]% Strength <for [Sword] units>","Gain [100] [Gold] <upon conquering a city>"],
+		"cities": ["Árheimar",
+"Ravenna",
+"Tolosa",
+"Aquincum",
+"Sirmium",
+"Noviomagus",
+"Singidunum",
+"Marcianopolis",
+"Naissus",
+"Durostorum",
+"Viminacium",
+"Scupi",
+"Thessalonica",
+"Hadrianopolis",
+"Philippopolis"],
+	}
+{
 		"name": "Nubia",
 		"leaderName": "Piye",
 		"adjective": ["Nubia"],

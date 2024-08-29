@@ -1,5 +1,27 @@
 [
 {
+		"name": "Vank",
+                "uniqueTo": "Armenia",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Culture] in cities on [Hill] tiles","Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+{
+		"name": "Hov",
+                "uniqueTo": "The Goths",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+                "uniques": ["[+1 Culture] from [Trading post] tiles [in this city]"]
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+{
 		"name": "Royal Pyramid",
                 "uniqueTo": "Nubia",
 		"replaces": "Shrine",
