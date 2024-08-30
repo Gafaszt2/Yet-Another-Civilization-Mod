@@ -1,5 +1,24 @@
 [
 {
+		"name": "Rova",
+                "uniqueTo": "Merina Kingdom",
+		"replaces": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["[+1 Happiness] from [Coast] tiles [in this city]","Destroyed when the city is captured"]
+	},
+{
+		"name": "Guild",
+                "uniqueTo": "Benin Kingdom",
+		"replaces": "Mint",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold] from [Jungle] tiles [in this city]", "[+2 Gold] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+{
 		"name": "Oppidum",
                 "uniqueTo": "Gallia",
 		"replaces": "Walls",

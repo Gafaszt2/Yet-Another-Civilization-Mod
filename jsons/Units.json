@@ -1,5 +1,73 @@
 [
 {
+		"name": "Pombo Governor",
+                "uniqueTo": "Kongo Kingdom",
+		"unitType": "Civilian",
+		"uniques": ["[+5]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Mbanza] improvement <by consuming this unit>",
+			"Great Person - [War]","Uncapturable"],
+                "cost": 190,
+		"movement": 3
+	},
+{
+		"name": "Amazon Mino",
+                "uniqueTo": "Dahomey Kingdom",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 20,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+                "uniques": ["[+15]% Strength bonus for [Amazon Guard] units within [2] tiles"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+
+{
+		"name": "Amazon Guard",
+                "uniqueTo": "Dahomey Kingdom",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 25,
+		"cost": 148,
+		"requiredTech": "Gunpowder",
+                "uniques": ["[+15]% Strength bonus for [Mounted] units within [2] tiles"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+{
+		"name": "Hova",
+                "uniqueTo": "Merina Kingdom",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 190,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Formation I","Medic","Medic II"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+{
+		"name": "Leopard Guard",
+                "uniqueTo": "Benin Kingdom",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 145,
+		"requiredTech": "Gunpowder",
+                "uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+{
 		"name": "Gaesatae",
                 "uniqueTo": "Gallia",
 		"replaces": "Spearman",

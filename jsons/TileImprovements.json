@@ -1,5 +1,16 @@
 [
       {
+		"name": "Mbanza",
+                "production": 1,
+                "uniqueTo": "Kongo Kingdom",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Adjacent enemy units ending their turn take [5] damage",
+			"Removes removable features when built","[+2 Food] for each adjacent [Mbanza]"]
+	},
+      {
 		"name": "Labor Exploitation"
             "uniqueTo": "Colonial Empire of Belgium",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],

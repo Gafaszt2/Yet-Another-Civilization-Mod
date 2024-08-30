@@ -1,5 +1,108 @@
 [
 {
+		"name": "Merina Kingdom",
+		"leaderName": "Queen Ranavalona I",
+		"adjective": ["Merina"],
+		"startBias": ["Baobab"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [16, 36, 18],
+		"innerColor": [240, 93, 77],
+		"uniqueName": "Christian Killer",
+		"uniques": ["[+1 Faith] from every [Farm]","[+1 Faith] from every [Forest]","[+1 Production] from every [Camp]"],
+		"cities": ["Antananarivo Renivohitra", "Toamasina" ,"Fianarantsoa", "Mahajanga", "Toliara", "Antsirabe", "Antsiranana", "Ambovombe", "Ambositra","Ambanja","Ambatolampy","Ambatondrazaka","Ambilobe"]
+	},
+        {
+		"name": "Benin Kingdom",
+		"leaderName": "Oba Ovonramwen",
+		"adjective": ["Benin"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [197, 226, 237],
+		"innerColor": [16, 71, 92],
+		"uniqueName": "The Rising Sun which spreads over all",
+		"uniques": ["[+1 Production] from every [Oil]","[+1 Production] from every [Ocean]","[+1 Production] from every [Jungle]"],
+		"cities": ["Benin City", "Udo" ,"Ekpoma", "Auchi", "Akure", "Warri", "Ondo", "Ife","Ijebu Ode","Abeokuta"]
+	},
+        {
+		"name": "Kongo Kingdom",
+		"leaderName": "Henrique III",
+		"adjective": ["Kongo"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [204, 198, 200],
+		"innerColor": [94, 1, 27],
+		"uniqueName": "Kivuzu Faction Fracturation",
+		"uniques": ["[+1 Culture] from every [Plantation]","[+2 Production] from every [Plantation]"],
+		"cities": ["Mbanza Kongo", "Soyo" ,"Boma", "Matadi", "Bandundu", "Kinshasa", "Kisantu", "Kikwit","Kananga","Lubumbashi","Likasi"]
+	},
+        {
+		"name": "Dahomey Kingdom",
+		"leaderName": "King Béhanzin",
+		"adjective": ["Dahomey"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [245, 215, 118],
+		"innerColor": [70, 115, 104],
+		"uniqueName": "King Wives",
+		"uniques": ["[+10]% [Production] [in capital] <when at war>","[+50]% [Gold] [in capital] <when at war>","[+50]% [Happiness] [in capital] <when at war>"],
+		"cities": ["Abomey", "Allada" ,"Porto-Novo", "Cotonou", "Ouidah", "Parakou", "Djougou", "Bohicon","Kandi","Lokossa"]
+	},
+
+
+
+{
 		"name": "Gallia",
 		"leaderName": "Vercingetorix",
 		"adjective": ["Gallia"],
