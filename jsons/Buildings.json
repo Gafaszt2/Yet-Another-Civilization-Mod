@@ -1,5 +1,16 @@
 [
 {
+		"name": "Food Street Market",
+                "uniqueTo": "Pakistan",
+		"replaces": "Market",
+		"gold": 2,
+                "food": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+{
 		"name": "Rova",
                 "uniqueTo": "Merina Kingdom",
 		"replaces": "Monument",

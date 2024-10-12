@@ -1,5 +1,19 @@
 [
 {
+		"name": "Khyber",
+                "uniqueTo": "Pakistan",
+		"replaces": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 250,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+                "uniques": ["[+25]% Strength <when below [20] HP>"],
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
+{
 		"name": "Pombo Governor",
                 "uniqueTo": "Kongo Kingdom",
 		"unitType": "Civilian",
@@ -1207,12 +1221,12 @@
 		"uniqueTo": "Beothuk",
 		"unitType": "Melee Water",
 		"movement": 4,
-		"strength": 22,
+		"strength": 24,
 		"cost": 110,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+2] Sight", "May withdraw before melee ([80]%)"],
+		"uniques": ["[+2] Sight"],
 		"hurryCostModifier": 30,
 		"attackSound": "metalhit"
 	},
