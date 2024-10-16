@@ -1,5 +1,122 @@
 [
 {
+		"name": "Kingdom of Jerusalem",
+		"leaderName": "Baldwin IV",
+		"adjective": ["Jerusalem"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [235, 235, 237],
+		"innerColor": [201, 146, 6],
+		"uniqueName": "The Leper King",
+		"uniques": ["[+1 Faith] in cities on [Desert] tiles","[+10]% Strength <vs [Land] units> <when fighting in [Desert] tiles>","[+10]% Strength <vs [Land] units> <when fighting in [Flood plains] tiles>","[+10]% Strength <vs [Land] units> <when defending>","[+20]% Strength <in cities following our religion>"],
+		"cities": ["Jerusalem",
+"Acre",
+"Jaffa",
+"Ascalon",
+"Tyre",
+"Sidon",
+"Haifa",
+"Nazareth",
+"Bethlehem",
+"Hebron",
+"Tiberias",
+"Ramla",
+"Nablus",
+"Gaza"]
+	},
+
+{
+		"name": "Kievan Rus",
+		"leaderName": "Sviatoslav I",
+		"adjective": ["Kievan"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [54, 60, 173],
+		"innerColor": [255, 207, 105],
+		"uniqueName": "Golden Field",
+		"uniques": ["[+2 Faith] from every specialist [in capital]","[+2 Faith] from every specialist [in all cities] <during the [Medieval era]>","[+1 Gold] from [Farm] tiles [in all cities]","[+2 Gold] from [Farm] tiles [in all cities] <after discovering [Fertilizer]>"],
+		"cities": ["Kyiv"
+"Lviv",
+"Odessa",
+"Kharkiv",
+"Dnipro",
+"Zaporizhzhia",
+"Vinnytsia",
+"Poltava",
+"Ivano-Frankivsk",
+"Kherson",
+"Mykolaiv",
+"Chernihiv",
+"Sumy",
+"Ternopil"]
+	},
+
+{
+		"name": "Norway",
+		"leaderName": "Erna Solberg",
+		"adjective": ["Norway"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [245, 72, 66],
+		"innerColor": [50, 61, 252],
+		"uniqueName": "Nordic Innovation",
+		"uniques": ["[+1 Faith, +1 Culture] in cities on [Tundra] tiles","[+1 Science] per [3] social policies adopted <starting from the [Modern era]>","[+1 Gold] from every [Camp]","[+15]% Production when constructing [Warrior] units [in all cities]","[+10]% Production when constructing [Scout] units [in all cities]"],
+		"cities": ["Oslo",
+"Bergen",
+"Trondheim",
+"Stavanger",
+"Tromsø",
+"Ålesund",
+"Kristiansand",
+"Drammen",
+"Bodø",
+"Narvik",
+"Haugesund",
+"Molde",
+"Sandnes",
+"Fredrikstad"]
+	},
+
+{
 		"name": "Pakistan",
 		"leaderName": "Muhammad Ali Jinnah",
 		"adjective": ["Pakistan"],
@@ -373,7 +490,7 @@
 				
 		"outerColor": [227, 215, 182],
 		"innerColor": [59, 37, 19],
-		"uniqueName": "Ta-Seti",
+		"uniqueName": "Nubian Pyramids",
 		"uniques": ["[+35]% [Culture] from every [Wonder]","[Gold] cost of purchasing items in cities [-25]%"],
 		"cities": ["Meroe",
 "Napata",
@@ -1641,8 +1758,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [156, 145, 132],
-		"innerColor": [255, 235, 105],
+		"outerColor": [255, 225, 196],
+		"innerColor": [173, 94, 17],
 		"uniqueName": "Dine Bizaad",
 		"uniques": ["[+2 Culture] from every [Trading Post]"],
 		"cities": ["Alamo","To hani","Tha tsini",
@@ -2087,8 +2204,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [255, 129, 10],
-		"innerColor": [255, 255, 255],
+		"outerColor": [24, 51, 29],
+		"innerColor": [77, 118, 255],
 		"uniqueName": "Apartheid",
 		"uniques": ["Rebel units may spawn", "[+70]% Strength <vs [Barbarian] units>", "[+2 Gold] from every [Mine]","[+1 Production] from every [Mine]"],
 		"cities": ["Cape Town","Hogannesburg","Pretoria","Durban","Bloemfontein","Soweto","Elizabeth Port","Nelspruit","Kimberley","Polokwane"]

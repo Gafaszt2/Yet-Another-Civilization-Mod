@@ -1,5 +1,15 @@
 [
       {
+		"name": "Fjellhus"
+            "uniqueTo": "Norway",
+		"terrainsCanBeBuiltOn": ["Forest","Tundra"],
+		"gold": 1,
+                "production": 1,
+                "techRequired": "Architecture",
+		"turnsToBuild": 5,
+		"uniques": ["[+1 Culture, +1 Production] <after discovering [Flight]>","Pillaging this improvement yields approximately [+18 Gold]"],
+	},
+      {
 		"name": "Mbanza",
                 "production": 1,
                 "uniqueTo": "Kongo Kingdom",

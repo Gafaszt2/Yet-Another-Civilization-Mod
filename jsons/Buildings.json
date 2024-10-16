@@ -1,5 +1,17 @@
 [
 {
+		"name": "Crusader Temple",
+		"cost": 125,
+                "uniqueTo": "Kingdom of Jerusalem",
+		"replaces": "Grand Temple",
+		"culture": 1,
+		"faith": 8,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled","[+20]% Golden Age length","Free [Inquisitor] appears"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
+{
 		"name": "Food Street Market",
                 "uniqueTo": "Pakistan",
 		"replaces": "Market",
