@@ -1,5 +1,196 @@
 [
 {
+		"name": "Siberia",
+		"leaderName": "Yermak Timofeyevich",
+		"adjective": ["Siberia"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [232, 255, 248],
+		"innerColor": [49, 173, 135],
+		"uniqueName": "Frozen Frontier",
+		"uniques": ["[+15]% Strength <when fighting in [Tundra] tiles>","[+15]% Strength <when fighting in [Forest] tiles>","[+2 Gold, +2 Food] in cities on [Tundra] tiles","[+2 Faith] in cities on [Tundra] tiles <during a Golden Age>"],
+		"cities": ["Tobolsk",
+"Tomsk",
+"Irkutsk",
+"Krasnoyarsk",
+"Omsk",
+"Novosibirsk",
+"Yakutsk",
+"Norilsk",
+"Vladivostok",
+"Magadan"]
+	},
+
+{
+		"name": "The Franks",
+		"leaderName": "Charlemagne",
+		"adjective": ["Franks"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [23, 20, 74],
+		"innerColor": [255, 210, 120],
+		"uniqueName": "Holy Roman Emperor",
+		"uniques": ["[+5]% [Faith] [in capital]","[+10]% [Production] [in capital]","[+1 Faith, +1 Production] from every [Grand Temple]","[+1 Faith, +1 Production] from every [Workshop]","[+1 Faith, +1 Science] from every [University]"],
+		"cities": ["Aachen",
+"Paris",
+"Reims",
+"Trier",
+"Cologne",
+"Strasbourg",
+"Lyon",
+"Tours",
+"Rouen",
+"Orleans"]
+	},
+{
+		"name": "Uzbekistan",
+		"leaderName": "Muhammad Rahim Khan II",
+		"adjective": ["Uzbek"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [62, 54, 69],
+		"innerColor": [118, 245, 164],
+                "favoredReligion": "Islam",
+		"uniqueName": "Emirate of Bukhara Silk Road Merchants",
+		"uniques": ["[+1 Culture] from every [Desert]","[+1 Gold] from every [Pasture]","[+1 Faith] in cities on [Hill] tiles","[+50]% Happiness from luxury resources gifted by City-States"],
+		"cities": ["Tashkent","Samarkand","Bukhara","Nukus","Fergana","Qarshi","Kokand","Margilan","Termez","Jizzakh","Angren","Chirchiq","Navoiy","Urgench","Shahrisabz"]
+	},
+
+{
+		"name": "Bukhara",
+		"leaderName": "Shah Murad",
+		"adjective": ["Bukhara"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [50, 168, 82],
+		"innerColor": [247, 246, 178],
+                "favoredReligion": "Islam",
+		"uniqueName": "The Sinless Emir",
+		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <upon founding a Pantheon>","Gain a free [Namazgah] [in all cities] <upon conquering a city>"],
+		"cities": ["Bukhara", "Samarkand", "Qarshi", "Balkh", "Shakhrisabz", "Chardjuy", "Hisor", "G'uzor", "Kattakurgan", "Sheberghan", "Khujand", "Jizzakh", "Maimana", "Chirakchi", "Denau", "Kulab", "Nurota", "Termez", "Kurganteppa", "Karakul", "Kermine", "Vobkent", "Uroteppa"],
+	}
+
+{
+		"name": "Palestine",
+		"leaderName": "Yasser Arafat",
+		"adjective": ["Palestine"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [53, 92, 62],
+		"innerColor": [218, 237, 223],
+		"uniqueName": "Resistance Spirit",
+		"uniques": ["[+1 Gold, +1 Faith] from [Desert] tiles without [Farm] [in all cities]","[+1 Faith] from every [Monument]","[-10]% Faith cost of generating Great Prophet equivalents"],
+		"cities": ["Jerusalem",
+"Gaza",
+"Ramallah",
+"Hebron",
+"Nablus",
+"Bethlehem",
+"Jenin",
+"Jericho",
+"Tulkarm",
+"Qalqilya"]
+	},
+{
+		"name": "Sumeria",
+		"leaderName": "Gilgamesh",
+		"adjective": ["Jerusalem"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [69, 60, 50],
+		"innerColor": [255, 224, 189],
+		"uniqueName": "Epic of Gilgamesh",
+		"uniques": ["[+30]% [Culture] [in all cities] <during a Golden Age>","[+30]% [Science] [in all cities] <during a Golden Age>","[+5]% [Production] [in capital]"],
+		"cities": ["Ur",
+"Uruk",
+"Eridu",
+"Lagash",
+"Nippur",
+"Kish",
+"Larsa",
+"Sippar",
+"Shuruppak",
+"Adab"]
+	},
+{
 		"name": "Kingdom of Jerusalem",
 		"leaderName": "Baldwin IV",
 		"adjective": ["Jerusalem"],
@@ -21,7 +212,7 @@
 		"outerColor": [235, 235, 237],
 		"innerColor": [201, 146, 6],
 		"uniqueName": "The Leper King",
-		"uniques": ["[+1 Faith] in cities on [Desert] tiles","[+10]% Strength <vs [Land] units> <when fighting in [Desert] tiles>","[+10]% Strength <vs [Land] units> <when fighting in [Flood plains] tiles>","[+10]% Strength <vs [Land] units> <when defending>","[+20]% Strength <in cities following our religion>"],
+		"uniques": ["[+1 Faith] in cities on [Desert] tiles","[+5]% Strength <vs [Land] units> <when fighting in [Desert] tiles>","[+10]% Strength <vs [Land] units> <when fighting in [Flood plains] tiles>","[+10]% Strength <vs [Land] units> <when defending>","[+20]% Strength <in cities following our religion>"],
 		"cities": ["Jerusalem",
 "Acre",
 "Jaffa",
@@ -714,7 +905,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
 		"outerColor": [245, 203, 164],
-		"innerColor": [237, 104, 83],
+		"innerColor": [79, 31, 16],
 		"uniqueName": "Parrtjima",
 		"uniques": ["Gain [100] [Culture] <upon expending a [Great Artist] unit> <(modified by game speed)>"],
 		"cities": ["Mparntwe", "Tjoritja", "Ntaria", "Papunya", "Napwerte", "Watarrka", "Larapinta", "Irlpme", "Antulye", "Alhekulyele", "Ntaripe", "Anthwerrke", "Akeyulerre", "Atnelkentyarliweke"],
@@ -1944,7 +2135,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
 		"outerColor": [61, 12, 8],
-		"innerColor": [82, 79, 110],
+		"innerColor": [174, 208, 232],
 		"uniqueName": "Lords of the Plains",
 		"uniques": ["[+2 Culture] from every [Horses]", "[+20]% Strength <for [Mounted] units>"],
 		"cities": ["Tehuacana","Quanah",
@@ -2099,8 +2290,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [194, 171, 81],
-		"innerColor": [8, 3, 1],
+		"outerColor": [255, 248, 199],
+		"innerColor": [117, 115, 100],
 		"uniqueName": "Destroyers",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"cities": ["Pequotown","Sassacus",
@@ -2259,7 +2450,7 @@
                 "uniques": ["[+1 Production] from every [Temple]", "[+1 Faith] from every [Desert]", "[+1 Gold] from every [Hill]"],
 
 		"outerColor": [191, 160, 98],
-		"innerColor": [242, 245, 215],
+		"innerColor": [79, 67, 44],
 		"cities": ["Kano","Zaria","Katsina",
 			"Daura",
 			"Gobir","Rano","Biram","Kebbi",

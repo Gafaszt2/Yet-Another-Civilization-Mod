@@ -1,13 +1,81 @@
 [
 {
+		"name": "Siberian Yurt",
+                "uniqueTo": "Siberia",
+		"replaces": "Granary",
+		"food": 3,
+                "production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+{
+		"name": "Aachen Cathedral",
+                "uniqueTo": "The Franks",
+		"faith": 3,
+                "culture": 3,
+		"happiness": 5,
+		"isWonder": true,
+		"requiredTech": "Physics",
+		"quote": "'There is no answer. It's okay. But even if it wasn't okay, what am I supposed to do?' - Raymond Carver"
+	},
+{
+		"name": "Central Courtyard",
+                "uniqueTo": "Uzbekistan",
+		"replaces": "Market",
+		"gold": 2,
+                "culture": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+{
+		"name": "Namazgah",
+                "uniqueTo": "Bukhara",
+		"replaces": "Temple",
+		"faith": 2,
+                "gold": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+{
+		"name": "Souq",
+                "uniqueTo": "Palestine",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+                "uniques": ["[+1 Culture] from [Dyes] tiles [in this city]","[+1 Culture] from [Incense] tiles [in this city]","Destroyed when the city is captured"]
+		"requiredTech": "Currency"
+	},
+{
+		"name": "Ziggurat",
+                "uniqueTo": "Sumeria",
+		"replaces": "Temple",
+		"faith": 1,
+                "culture": 1,
+                "science": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+5]% Production when constructing [Wonder] buildings [in this city]","Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+{
 		"name": "Crusader Temple",
 		"cost": 125,
                 "uniqueTo": "Kingdom of Jerusalem",
 		"replaces": "Grand Temple",
 		"culture": 1,
 		"faith": 8,
-		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled","[+20]% Golden Age length","Free [Inquisitor] appears"],
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [40] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled","[+10]% Golden Age length","Free [Inquisitor] appears"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
