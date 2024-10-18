@@ -1,4 +1,9 @@
-[	{
+[	
+        {
+		"name": "Wool",
+		"resourceType": "Luxury",
+	},
+        {
 		"name": "Uro",
 		"resourceType": "Luxury",
 	},

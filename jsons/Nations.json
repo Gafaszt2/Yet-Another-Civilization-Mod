@@ -1,5 +1,146 @@
 [
 {
+		"name": "Turkiye",
+		"leaderName": "Mustafa Kemal Atatürk",
+		"adjective": ["Turkiye"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 65, 59],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Republican Reforms",
+		"uniques": ["[+1 Culture, +1 Science] from every specialist [in all cities] <during a Golden Age>","[+40]% Production when constructing [Siege] units [in all cities] <during a Golden Age>"],
+		"cities": ["Ankara",
+"Istanbul",
+"Izmir",
+"Bursa",
+"Antalya",
+"Konya",
+"Adana",
+"Gaziantep",
+"Kayseri",
+"Trabzon"]
+	},
+{
+		"name": "Banten",
+		"leaderName": "Sultan Ageng Tirtayasa",
+		"adjective": ["Banten"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [145, 132, 70],
+		"innerColor": [255, 251, 232],
+		"uniqueName": "Maritime Mastery",
+		"uniques": ["[+1 Gold, +1 Culture] in cities on [Jungle] tiles","[+2 Gold] from [Plantation] tiles [in all cities]","[+2 Culture] from each Trade Route"],
+		"cities": ["Banten",
+"Serang",
+"Cilegon",
+"Pandeglang",
+"Anyer",
+"Labuan",
+"Rangkasbitung",
+"Malingping",
+"Tangerang",
+"Merak"]
+	},
+{
+		"name": "The Azeris",
+		"leaderName": "Yermak Timofeyevich",
+		"adjective": ["Azeris"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [84, 190, 255],
+		"innerColor": [176, 44, 32],
+		"uniqueName": "Cultural Renaissance",
+		"uniques": ["[-5]% Culture cost of natural border growth [in all cities]","[+10]% Strength for cities","[+1 Culture, +1 Faith] from [Mountain] tiles [in all cities]","[+1 Gold, +1 Faith] from all [Market] buildings"],
+		"cities": ["Baku",
+"Ganja",
+"Sumqayit",
+"Sheki",
+"Qabala",
+"Lankaran",
+"Mingachevir",
+"Nakhchivan",
+"Shamakhi",
+"Quba"]
+	},
+{
+		"name": "Hutsul Republic",
+		"leaderName": "Yermak Timofeyevich",
+		"adjective": ["Hutsul"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [152, 217, 163],
+		"innerColor": [94, 41, 0],
+		"uniqueName": "Mountain Resilence",
+		"uniques": ["Provides [1] [Wool] <with [100]% chance>","[+1 Culture, +2 Gold] from [Sheep] tiles [in all cities]","[+1 Culture] from [Mountain] tiles [in all cities]"],
+		"cities": ["Kolomyia",
+"Verkhovyna",
+"Yaremche",
+"Rakhiv",
+"Kosiv",
+"Vyzhnytsia",
+"Putyla",
+"Krasnoyilsk",
+"Pechenizhyn",
+"Sheshory"]
+	},
+
+
+
+
+
+{
 		"name": "Siberia",
 		"leaderName": "Yermak Timofeyevich",
 		"adjective": ["Siberia"],

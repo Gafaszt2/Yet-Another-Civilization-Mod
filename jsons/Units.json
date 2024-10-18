@@ -1,5 +1,62 @@
 [
-
+{
+		"name": "Redif Infantry",
+                "uniqueTo": "Turkiye",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+                "uniques": ["[+25]% Strength decreasing with distance from the capital","[+10]% to Flank Attack bonuses"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+{
+		"name": "Javanese Archer",
+                "uniqueTo": "Banten",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 7,
+		"cost": 40,
+                "uniques": ["[+20]% Strength <when fighting in [Jungle] tiles> <when attacking>","[+20]% Strength <when fighting in [Forest] tiles> <when attacking>"],
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+{
+		"name": "Qizilbash Warrior",
+                "uniqueTo": "The Azeris",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[+20]% Strength <when fighting in [Hill] tiles> <when attacking>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+{
+		"name": "Hutsul Rifleman",
+                "uniqueTo": "Hutsul Republic",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Rifling",
+                "uniques": ["[+15]% Strength <when fighting in [Forest] tiles> <when attacking>","[+15]% Strength <when fighting in [Hill] tiles> <when attacking>"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
 {
 		"name": "Mounted Cossack Scout",
                 "uniqueTo": "Siberia",

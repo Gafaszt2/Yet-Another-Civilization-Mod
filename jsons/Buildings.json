@@ -1,5 +1,54 @@
 [
 {
+		"name": "Anatolian Academy",
+                "uniqueTo": "Turkiye",
+		"replaces": "University",
+		"maintenance": 2,
+                "happiness": 2,
+                "culture": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+{
+		"name": "Pepper Plantation",
+                "uniqueTo": "Banten",
+		"replaces": "Water Mill",
+		"gold": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
+{
+		"name": "The Silk Road",
+		"cost": 125,
+                "uniqueTo": "The Azeris",
+		"replaces": "National Treasury",
+		"gold": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["[+1 Culture] from [Luxury resource] tiles [in this city]",
+"Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Guilds"
+	},
+{
+		"name": "Carpathian Sheepfold",
+                "uniqueTo": "Hutsul Republic",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from [Pasture] tiles [in this city]","[+1 Food] from [Pasture] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+{
 		"name": "Siberian Yurt",
                 "uniqueTo": "Siberia",
 		"replaces": "Granary",
