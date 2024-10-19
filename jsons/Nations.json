@@ -1,5 +1,193 @@
 [
 {
+		"name": "Prussia",
+		"leaderName": "Frederick the Great",
+		"adjective": ["Prussia"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [69, 70, 84],
+		"innerColor": [219, 219, 219],
+		"uniqueName": "Military Reforms!",
+		"uniques": ["[Gold] cost of purchasing [Land] units [-20]%","[Gold] cost of purchasing [Land] units [-50]% <during a Golden Age>","[+1 Science] from all [Barracks] buildings","[+1 Science] from all [University] buildings","[+1 Science] from all [Factory] buildings"],
+		"cities": ["Berlin",
+"Königsberg",
+"Potsdam",
+"Danzig",
+"Breslau",
+"Stettin",
+"Magdeburg",
+"Elbing",
+"Frankfurt",
+"Pomerania"]
+	},
+{
+		"name": "British Empire",
+		"leaderName": "Queen Victoria",
+		"adjective": ["Bititsh"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [0, 26, 92],
+		"innerColor": [252, 76, 111],
+		"uniqueName": "Rule Brittania!",
+		"uniques": ["[+1 Production] from [Strategic resource] tiles [in all cities]","[+1 Production] from [Luxury resource] tiles [in all cities]","[+20]% Production when constructing [Gunpowder] units [in all cities] <during a Golden Age>
+","[+20]% Production when constructing [Production] buildings [in all cities] <during a Golden Age>
+"],
+		"cities": ["London",
+"Liverpool",
+"Manchester",
+"Edinburgh",
+"Dublin",
+"Belfast",
+"Glasgow",
+"Birmingham",
+"Cardiff",
+"Bristol",
+"Boston",
+"Bridgetown",
+"Cape Town",
+"Calcutta",
+"Hong Kong",
+"Bombay",
+"Melbourne",
+"New Delhi",
+"Sydney",
+"Toronto"]
+	},
+{
+		"name": "Irak",
+		"leaderName": "Nouri al-Maliki",
+		"adjective": ["Irak"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [0, 94, 5],
+		"innerColor": [224, 255, 226],
+		"uniqueName": "Heart of Mesopotamia",
+		"uniques": ["[+1 Food] from [River] tiles [in all cities]","[+1 Food] from [Flood plains] tiles [in all cities]","[+20]% Production when constructing [Food] buildings [in all cities]"],
+		"cities": ["Baghdad",
+"Basra",
+"Mosul",
+"Erbil",
+"Najaf",
+"Karbala",
+"Kirkuk",
+"Fallujah",
+"Samarra",
+"Nasiriyah"]
+	},
+{
+		"name": "Sparta",
+		"leaderName": "King Leonidas",
+		"adjective": ["Sparta"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [207, 14, 0],
+		"innerColor": [255, 231, 161],
+		"uniqueName": "Molon Labe",
+		"uniques": ["[-40]% maintenance costs","[+30]% XP gained from combat","[+1 Production] from every specialist [in capital]"],
+		"cities": ["Sparta",
+"Messenia",
+"Laconia",
+"Gythium",
+"Amyclae",
+"Helos",
+"Pharae",
+"Sellasia",
+"Tegea",
+"Caryae"]
+	},
+
+{
+		"name": "Argentina",
+		"leaderName": "Faustino Sarmiento",
+		"adjective": ["Argentinian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [17, 124, 186],
+		"innerColor": [232, 243, 255],
+		"uniqueName": "Era of Education",
+		"uniques": ["[+1 Faith, +2 Science] per [5] population [in all cities]","[+1 Culture] from all [University] buildings","[+1 Gold] from [Cattle] tiles [in all cities]"],
+		"cities": ["Buenos Aires",
+"Córdoba",
+"Rosario",
+"Mendoza",
+"La Plata",
+"San Miguel de Tucumán",
+"Salta",
+"Santa Fe",
+"San Juan",
+"Resistencia",
+"Neuquén",
+"Posadas",
+"Mar del Plata",
+"San Fernando del Valle de Catamarca",
+"Ushuaia"]
+	},
+{
 		"name": "Turkiye",
 		"leaderName": "Mustafa Kemal Atatürk",
 		"adjective": ["Turkiye"],
@@ -69,7 +257,7 @@
 	},
 {
 		"name": "The Azeris",
-		"leaderName": "Yermak Timofeyevich",
+		"leaderName": "King Urnayr",
 		"adjective": ["Azeris"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
@@ -1251,10 +1439,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [57, 167, 132],
-		"innerColor": [254, 189, 77],
-		"uniqueName": "White Rhodesia",
-		"uniques": ["[-1 Happiness] from every [Plantation]", "[+1 Production] [in all cities]", "[+1 Production] from every [Plantation]"],
+		"outerColor": [45, 64, 45],
+		"innerColor": [255, 249, 199],
+		"uniqueName": "Rhodesians Never Die",
+		"uniques": ["[+1 Gold] from every [Plantation]", "[+1 Gold] from every [Bank]","[+1 Culture] from every [Lakes]", "[+1 Production] from every [Plantation]"],
 		"cities": ["Salisbury", "Bulawayo" ,"Umtali", "Kariba", "Victoria Falls", "Beitbridge", "Manicaland", "Harare", "Masvingo",
 			"Matabeleland",
 			"Midlands", "Mashonaland"]
@@ -1338,7 +1526,7 @@
 		"outerColor": [97, 144, 244],
 		"innerColor": [8, 27, 77],
 		"uniqueName": "Kabaka",
-		"uniques": ["[+1 Food] [in all cities]", "[+1 Food] from every [Plantation]", "[+1 Production] from every [Jungle]", "[+45]% Strength <when fighting in [Jungle] tiles>"],
+		"uniques": ["[+1 Food] [in all cities]", "[+1 Food] from every [Plantation]", "[+1 Production] from every [Jungle]", "[+20]% Strength <when fighting in [Jungle] tiles>"],
 		"cities": ["Buikwe", "Bukomansimbi", "Butambala", "Buvuma", "Gomba", "Kalangala", "Kalungu", "Kampala",
 			"Kayunga", "Kyankwanzi", "Luwero"],
 	},
@@ -1365,7 +1553,7 @@
 		"outerColor": [115, 22, 7],
 		"innerColor": [250, 207, 200],
 		"uniqueName": "Apartheid Outcasts",
-		"uniques": ["[+2 Production] [in all cities]", "[+1 Production] from every [Farm]", "[+3 Food] from every [Mountain]", "[+45]% Strength <when fighting in [Hill] tiles>"],
+		"uniques": ["[+1 Production] [in all cities]", "[+2 Food] from every [Mountain]", "[+35]% Strength <when fighting in [Hill] tiles>"],
 		"cities": ["Rehoboth ", "Kunene" ,"Omusati", "Oshana", "Ohangwena", "Oshikoto", "Kavango", "Zambezi", "Eongo",
 			"Otjozondjupa",
 			"Omaheke", "Khomas"]
@@ -1393,7 +1581,7 @@
 		"outerColor": [165, 124, 53],
 		"innerColor": [71, 45, 6],
 		"uniqueName": "Slavery and Ivory Market",
-		"uniques": ["[+1 Culture] [in all cities]", "[+3 Gold] from every [Ivory]", "[+3 Gold] from every [Gold Ore]", "[+3 Gold] from every [Gems]", "[-5 Happiness] from every [Trading post]"],
+		"uniques": ["[+1 Culture] [in all cities]", "[+3 Gold] from every [Ivory]", "[+3 Gold] from every [Gold Ore]", "[+3 Gold] from every [Gems]"],
 		"cities": ["Unyamwezi", "Shinyunga" ,"Tabora", "Dar es Salaam", "Arusha", "Lindi", "Pwani", "Tabora", "Dodoma",
 			"Manyara",
 			"Tanga", "Mara"]
@@ -1418,10 +1606,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [0, 0, 0],
+		"outerColor": [69, 42, 47],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Islamic African Unification",
-		"uniques": ["[+2 Faith] from each Trade Route", "[+1 Faith] [in all cities]", "[+1 Food] from every [Desert]", "[+1 Production] from every [Desert]", "[+2 Faith] from every [Farm]"],
+		"uniques": ["[+2 Faith] from each Trade Route", "[+1 Faith] [in all cities]", "[+1 Food] from every [Desert]", "[+1 Production] from every [Desert]"],
 		"cities": ["Tripolitania", "Cirenaica" ,"Fezán", "Gharyan", "Surt", "Ash Shati", "Al Jufrah", "Sabha", "Marzuq",
 			"Awbari",
 			"Sawfajin", "Ghadamis"]
@@ -1449,7 +1637,7 @@
 		"outerColor": [137, 184, 143],
 		"innerColor": [188, 41, 41],
 		"uniqueName": "Caste War",
-		"uniques": ["[+10]% [Production]<when at war>", "[+10]% [Science]<when at war>", "[-1 Happiness] [in all cities]", "[-1 Happiness] from every [Farm]", "[+1 Science] [in all cities]"],
+		"uniques": ["[+10]% [Production] <when at war>", "[+10]% [Science] <when at war>", "[+1 Science] [in all cities]"],
 		"cities": ["Motul", "Nolo" ,"Euán", "Yaxcucul", "Chicxulub", "Acanceh", "Peto", "Valladolid", "Izamal",
 			"Chichimilá",
 			"Tihosuco", "Campeche"]
