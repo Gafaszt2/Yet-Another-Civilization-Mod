@@ -1,5 +1,226 @@
 [
 {
+		"name": "Assyria",
+		"leaderName": "Agha Petros",
+		"adjective": ["Assyria"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [75, 62, 79],
+		"innerColor": [255, 199, 110],
+		"uniqueName": "Khigga",
+		"uniques": ["[+1 Culture] from all [Amphitheater] buildings","[+1 Happiness] from all [Amphitheater] buildings","[+1 Science] from all [Library] buildings","[+1 Science] from all [University] buildings","[+1 Faith] from all [University] buildings"],
+		"cities": ["Nineveh",
+"Ashur",
+"Nimrud",
+"Dur-Sharrukin",
+"Harran",
+"Arbela",
+"Til-Barsip",
+"Carchemish",
+"Dura-Europos",
+"Kalhu"],
+	},
+
+
+{
+		"name": "Vietnam",
+		"leaderName": "Emperor Tu Duc",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [139, 181, 98],
+		"innerColor": [23, 39, 77],
+		"uniqueName": "Water Puppetry",
+		"uniques": ["[+2 Food] from every [Lakes]","[+2 Faith] from every [Lakes]","[+1 Food] from every [Jungle]"],
+		"cities": ["Thang Long","Ho Chi Minh","Da Nang","Hue","Nha Trang","Ha Long","Can Tho","Da Lat","Hai Phong","Vinh"],
+	},
+
+{
+		"name": "Lesotho",
+		"leaderName": "King Moshoeshoe I",
+		"adjective": ["Lesotho"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [28, 27, 112],
+		"innerColor": [92, 237, 129],
+		"uniqueName": "Mountain Kingdom",
+		"uniques": ["[+2 Gold, +2 Production] in cities on [Hill] tiles","[+1 Food, +1 Production] in cities on [Hill] tiles <during a Golden Age>"],
+		"cities": ["Maseru",
+"Teyateyaneng",
+"Mafeteng",
+"Hlotse",
+"Mohale's Hoek",
+"Quthing",
+"Qacha's Nek",
+"Butha-Buthe",
+"Mokhotlong",
+"Thaba-Tseka",
+"Semonkong",
+"Roma",
+"Peka",
+"Maputsoe",
+"Tsa-Kholo"]
+	},
+{
+		"name": "Kingdom of Zimbabwe",
+		"leaderName": "King Mutota",
+		"adjective": ["Kingdom of Zimbabwe"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 216, 110],
+		"innerColor": [38, 79, 0],
+		"uniqueName": "Golden Wealth",
+		"uniques": ["[+1 Gold] from all [Monument] buildings","[+1 Gold] from all [Granary] buildings","[+1 Gold] from all [Walls] buildings","[+1 Food, +2 Gold] from [Trading post] tiles [in capital]"],
+		"cities": ["Great Zimbabwe",
+"Mapungubwe",
+"Khami",
+"Dhlodhlo",
+"Nyanga",
+"Dhlo-Dhlo",
+"Mupungubwe",
+"Ziwa",
+"Naletale",
+"Leopard's Kopje",
+"Mberengwa",
+"Matendere",
+"Makaha",
+"Macheke",
+"Gokomere"]
+	},
+{
+		"name": "Zimbabwe",
+		"leaderName": "Robert Mugabe",
+		"adjective": ["Zimbabwe"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [38, 79, 0],
+		"innerColor": [81, 252, 144],
+		"uniqueName": "Indigenization",
+		"uniques": ["[+1 Culture] from [Hill] tiles without [Mine] [in all cities]","[+1 Culture] from [Wheat] tiles without [Farm] [in all cities]","[+1 Gold, +1 Culture] from [Lakes] tiles [in capital]"],
+		"cities": ["Harare",
+"Bulawayo",
+"Mutare",
+"Gweru",
+"Kwekwe",
+"Masvingo",
+"Chitungwiza",
+"Hwange",
+"Marondera",
+"Victoria Falls",
+"Kadoma",
+"Norton",
+"Kariba",
+"Bindura",
+"Chegutu"]
+	},
+{
+		"name": "Romania",
+		"leaderName": "Vlad Tepes",
+		"adjective": ["Romania"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [125, 25, 0],
+		"innerColor": [18, 14, 12],
+		"uniqueName": "Terror of Turks",
+		"uniques": ["Free [Longswordsman] appears <upon constructing [Armory] [in all cities]>","[+2 Culture, +2 Faith] from every [Castle]"],
+		"cities": ["Bucharest",
+"Târgoviște",
+"Brașov",
+"Sighisoara",
+"Sibiu",
+"Constanța",
+"Iași",
+"Cluj-Napoca",
+"Timișoara",
+"Craiova",
+"Buzău",
+"Pitești",
+"Giurgiu",
+"Alba Iulia",
+"Suceava",
+"Oradea",
+"Râmnicu Vâlcea",
+"Făgăraș"]
+	},
+{
 		"name": "Prussia",
 		"leaderName": "Frederick the Great",
 		"adjective": ["Prussia"],
@@ -329,8 +550,8 @@
 
 
 {
-		"name": "Siberia",
-		"leaderName": "Yermak Timofeyevich",
+		"name": "Siberian Khanate",
+		"leaderName": "Yadigar",
 		"adjective": ["Siberia"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",

@@ -1,5 +1,61 @@
 [
 {
+		"name": "Water Puppet Theater",
+                "uniqueTo": "Vietnam",
+		"replaces": "Amphitheater",
+		"culture": 3,
+                "faith": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+{
+		"name": "Basotho Village",
+                "uniqueTo": "Lesotho",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"food": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]","[+1 Food] per [10] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+{
+		"name": "Community Garden",
+                "uniqueTo": "Zimbabwe",
+		"replaces": "Windmill",
+		"production": 2,
+                "food": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
+	},
+{
+		"name": "Stonework Complex",
+                "uniqueTo": "Kingdom of Zimbabwe",
+		"replaces": "Shrine",
+		"faith": 1,
+                "culture": 1,
+                "food": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+{
+		"name": "Impalement Grounds",
+                "uniqueTo": "Romania",
+		"replaces": "Courthouse",
+		"culture": 2,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+{
 		"name": "War Ministry",
                 "uniqueTo": "Prussia",
 		"replaces": "Military Academy",
@@ -108,7 +164,7 @@
 	},
 {
 		"name": "Siberian Yurt",
-                "uniqueTo": "Siberia",
+                "uniqueTo": "Siberian Khanate",
 		"replaces": "Granary",
 		"food": 3,
                 "production": 1,
