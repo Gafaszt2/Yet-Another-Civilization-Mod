@@ -1,5 +1,24 @@
 [
 {
+		"name": "Oja Oba",
+                "uniqueTo": "Oyo Kingdom",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+                "uniques": ["[+2 Gold] from [Horses] tiles [in this city]"]
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+{
+		"name": "School of Medicine",
+                "uniqueTo": "Khedivate of Egypt",
+		"requiredBuilding": "Medical Lab",
+		"maintenance": 1,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["[+25]% growth [in this city]"]
+	},
+{
 		"name": "Water Puppet Theater",
                 "uniqueTo": "Vietnam",
 		"replaces": "Amphitheater",

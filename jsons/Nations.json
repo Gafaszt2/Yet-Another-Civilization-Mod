@@ -1,5 +1,138 @@
 [
 {
+		"name": "Umayyad Caliphate",
+		"leaderName": "Abd al-Malik",
+		"adjective": ["Umayyad Caliphate"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [29, 43, 32],
+		"innerColor": [255, 54, 43],
+		"favoredReligion": "Islam",
+		"uniqueName": "Father of Kings",
+		"uniques": ["[+1 Production] from all [Temple] buildings","[+1 Production] from all [Garden] buildings","[+1 Culture] from all [Garden] buildings","[+1 Science] from all [Temple] buildings <during a Golden Age>","[+10]% Production when constructing [Sword] units [in all cities]"],
+		"cities": ["Damascus",
+"Harran",
+"Al-Quds",
+"Fustat",
+"Kairouan",
+"Walili",
+"Qurtubah",
+"Arbuna",
+"Wasit",
+"Aleppo",
+"Homs",
+"Isfahan",
+"Resafa",
+"Mosul",
+"Ghazna",
+"Hama",
+"Azraq",
+"Qasr Al-Hallabat",
+"Marw",
+"Tunis",
+"Al Qastal"]
+	},
+{
+		"name": "Tunisia",
+		"leaderName": "Abu Zakariya",
+		"adjective": ["Tunisia"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [255, 180, 89],
+		"innerColor": [0, 3, 48],
+		"favoredReligion": "Islam",
+		"uniqueName": "Caliphs of Carthage",
+		"uniques": ["[+1 Gold] from [Coast] tiles [in all cities]","[+1 Gold] from [Coast] tiles [in capital]","[+1 Production] from [Coast] tiles [in capital]","[+1 Gold, +1 Production] from each Trade Route"],
+		"cities": ["Tunis", "Kairouan", "Sfax", "Sousse", "Constantine", "Mahdiya", "Monastir", "Bizerta"],
+        "spyNames": ["Nour", "Skander", "Mariem", "Karim", "Hiba", "Ahmed"]
+	},
+
+{
+		"name": "Oyo Kingdom",
+		"leaderName": "Ajiboyede",
+		"adjective": ["Ajiboyede"],
+		"startBias": ["Avoid [Tundra]","Grassland"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [107, 167, 207],
+		"innerColor": [40, 44, 46],
+		"favoredReligion": "Islam",
+		"uniqueName": "Orishas",
+		"uniques": ["[+1 Production] from [Horses] tiles [in all cities]","[+1 Gold] from [Horses] tiles [in all cities]","[+1 Faith] from all [Palace] buildings <upon entering a new era>","[+1 Faith] from all [Shrine] buildings"],
+		"cities": ["Igboho", "Oyo-Ile", "Oyo", "Ibadan", "Iseyin", "Abeokuta", "Osogbo", "Okeho", "Ogbomosho"],
+        "spyNames": ["Oranmiyan", "Shango", "Okukenu", "Lasilo", "Kayode Eso"]
+	},
+{
+		"name": "Khedivate of Egypt",
+		"leaderName": "Muhammad Ali Pasha",
+		"adjective": ["Khedivate of Egypt"],
+		"startBias": ["Avoid [Tundra]","Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [27, 99, 0],
+		"innerColor": [238, 255, 212],
+		"favoredReligion": "Islam",
+		"uniqueName": "Father of Modern Egypt",
+		"uniques": ["[+1 Gold] from all [Production] buildings <after discovering [Industrialization]>","[+1 Gold, +1 Faith] in cities on [Desert] tiles","[+10]% Strength <for [Mounted] units>"],
+		"cities": ["Cairo", "Alexandria", "Giza", "Port Said", "Suez", "Al Mahallah al Kubra", "Luxor", "Asyut", "Al Mansurah", "Tanda", "Al Fayyum", "Zagazig", "Ismailia", "Kafr ad Dawwar", "Aswan", "Qina", "Halwan", "Damanhur", "Al Minya", "Idku", "Sohag", "New Cairo", "Bani Suwayf", "Shibin al Kawn", "Banha", "Talkha", "Kafr ash Shaykh", "Mallawi", "Dikirnis", "Idfu", "Bilbays", "Arish", "Jirja", "Al Hawamidiyah", "Bilqas", "Disaq", "Abu Kabir", "Qalyub"],
+        "spyNames": ["Ali", "Muhammad", "Said", "Baba", "Amir", "Anwar", "Malik", "Hassan", "Omar", "Ahmed"]
+	},
+
+{
 		"name": "Assyria",
 		"leaderName": "Agha Petros",
 		"adjective": ["Assyria"],

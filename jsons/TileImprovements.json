@@ -9,6 +9,25 @@
 		"turnsToBuild": 5,
 		"uniques": ["[+1 Culture, +1 Production] <after discovering [Flight]>","Pillaging this improvement yields approximately [+18 Gold]"],
 	},
+{
+		"name": "Madrasah"
+            "uniqueTo": "Umayyad Caliphate",
+		"terrainsCanBeBuiltOn": ["Desert","Plains"],
+                "faith": 1,
+                "techRequired": "Engineering",
+		"turnsToBuild": 5,
+		"uniques": ["[+1 Gold] from [Desert] tiles","[+1 Science] from [Desert] tiles <during a Golden Age>","Pillaging this improvement yields approximately [+18 Gold]"],
+	},
+{
+		"name": "Ribat"
+            "uniqueTo": "Tunisia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 1,
+                "faith": 1,
+                "techRequired": "Engineering",
+		"turnsToBuild": 5,
+		"uniques": ["Gives a defensive bonus of [+45]%","Pillaging this improvement yields approximately [+18 Gold]"],
+	},
       {
 		"name": "Mbanza",
                 "production": 1,
