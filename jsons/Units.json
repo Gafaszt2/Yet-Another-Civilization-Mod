@@ -1,5 +1,20 @@
 [
 {
+		"name": "Ahdath",
+                "uniqueTo": "The Fatimids",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 19,
+		"cost": 116,
+                "uniques": ["Earn [80]% of killed [Wounded] unit's [Cost] as [Faith]"],
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+	},
+{
 		"name": "Yamani",
                 "uniqueTo": "Umayyad Caliphate",
 		"replaces": "Spearman",

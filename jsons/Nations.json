@@ -1,5 +1,47 @@
 [
 {
+		"name": "The Fatimids",
+		"leaderName": "Al-Mu'Izz",
+		"adjective": ["Fatimids"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [38, 33, 25],
+		"innerColor": [255, 189, 110],
+		"favoredReligion": "Islam",
+		"uniqueName": "House of Knowledge",
+		"uniques": ["[Great Scientist] is earned [33]% faster","[-66]% maintenance costs <for [Archery] units>","[+1 Science] from all [Wonder] buildings <upon founding a Religion>"],
+		"cities": ["Cairo",
+"Fustat",
+"Mahdia",
+"Al-Mansuriyya",
+"Raqqada",
+"Bilbeis",
+"Damascus",
+"Barqa",
+"Tahert",
+"Tunis",
+"Acre",
+"Damietta",
+"Qayrawan",
+"Tripoli",
+"Balarme"]
+	},
+
+{
 		"name": "Umayyad Caliphate",
 		"leaderName": "Abd al-Malik",
 		"adjective": ["Umayyad Caliphate"],
