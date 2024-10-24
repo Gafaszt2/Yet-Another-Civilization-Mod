@@ -1,5 +1,37 @@
 [
 {
+		"name": "Jilamana",
+                "uniqueTo": "The Bunuba",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+                "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+            "Can Spread Religion <for [2] movement> <[4] times>"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+{
+		"name": "Jalgangurru",
+                "uniqueTo": "The Bunuba",
+		"replaces": "Great Prophet",
+		"unitType": "Civilian",
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit", "Hidden when religion is disabled",
+			"Takes your religion over the one in their birth city"],
+		"movement": 2,
+		"religiousStrength": 1000
+	},
+{
 		"name": "Ahdath",
                 "uniqueTo": "The Fatimids",
 		"replaces": "Crossbowman",

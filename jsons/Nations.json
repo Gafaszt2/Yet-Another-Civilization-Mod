@@ -1,5 +1,30 @@
 [
 {
+		"name": "The Bunuba",
+		"leaderName": "Jandamarra",
+		"adjective": ["Bunuba"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [147, 189, 182],
+		"innerColor": [18, 18, 46],
+		"uniqueName": "Windjana Resistance",
+		"uniques": ["Earn [35]% of killed [Military] unit's [Strength] as [Faith]","Earn [5]% of killed [Military] unit's [Strength] as [Culture]","[+1 Faith] from all [Granary] buildings","[+10]% Production when constructing [Settler] units [in all cities]"],
+		"cities": ["Junjuwa","Daringunaya","Bandilngan","Dimalurru", "Yaranggi", "Baraa", "Jijidu", "Yuwa", "Miluwindi", "Mindi Rardi", "Gurang.ngadja", "Dawadiya", "Danggu", "Biridu", "Balili", "Kurnangki", "Bungardi", "Galamunda", "Malarabah", "Yirimalay", "Buruwa", "Jimbalakudunj"],
+	},
+{
 		"name": "The Fatimids",
 		"leaderName": "Al-Mu'Izz",
 		"adjective": ["Fatimids"],
