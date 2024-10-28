@@ -1,5 +1,48 @@
 [
 {
+		"name": "Surku Archer",
+                "uniqueTo": "Ainu",
+		"replaces": "Archer",
+
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 9,
+		"cost": 40,
+		"requiredTech": "Archery",
+                "promotions": ["Woodsman"],
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+{
+		"name": "Revolutionary Troop",
+                "uniqueTo": "Uganda",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 200,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+5]% Strength bonus for [Military] units within [2] tiles","[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"attackSound": "shot"
+	},
+{
+		"name": "Great Libertador",
+                "uniqueTo": "Gran Colombia",
+		"replaces": "Great General",
+                "strength": 20,
+		"unitType": "Civilian",
+		"uniques": ["[+44]% Strength <upon entering a new era>",
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+{
 		"name": "Jilamana",
                 "uniqueTo": "The Bunuba",
 		"replaces": "Rifleman",

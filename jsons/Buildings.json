@@ -1,5 +1,16 @@
 [
 {
+		"name": "Human Meat Restaurant",
+                "uniqueTo": "Uganda",
+		"replaces": "Hospital",
+		"food": 5,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+                "uniques": ["[+1 Food, +1 Gold] per [4] population [in all cities]"]
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology"
+	},
+{
 		"name": "Oja Oba",
                 "uniqueTo": "Oyo Kingdom",
 		"replaces": "Market",

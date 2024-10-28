@@ -1,4 +1,23 @@
 [
+       {
+		"name": "Colombian Hacienda"
+            "uniqueTo": "Gran Colombia",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+		"food": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Construction",
+		"uniques": ["[+1 Gold] for each adjacent [Luxury resource]","[+1 Production] for each adjacent [Wheat]",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+	},
+       {
+		"name": "Kotan"
+            "uniqueTo": "Ainu",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Construction",
+		"uniques": ["[+1 Culture] for each adjacent [Forest]","[+1 Culture] for each adjacent [Mountain]","[+3 Culture] for each adjacent [Natural Wonder]",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+	},
       {
 		"name": "Fjellhus"
             "uniqueTo": "Norway",
@@ -84,8 +103,8 @@
 		"name": "Zawia"
             "uniqueTo": "Libia Sennusi",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"faith": 3,
-            "science": 3,
+		"faith": 1,
+            "science": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Scientific Theory",
 		"uniques": ["[+1 Faith] from [Fresh water] tiles",
@@ -113,6 +132,7 @@
 		"uniques": ["[+1 Faith] from [Fresh water] tiles",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 	},
+        
         {
 		"name": "Igloo"
             "uniqueTo": "Inuits",
@@ -126,7 +146,7 @@
             "uniqueTo": "Australia",
 		"terrainsCanBeBuiltOn": ["Desert"],
 		"production": 2,
-                "food": 2,
+                "food": 1,
 		"turnsToBuild": 5,
                 "techRequired": "Rifling",
 		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%"],
