@@ -1,5 +1,19 @@
 [
 {
+		"name": "Solomon Temple",
+                "uniqueTo": "Israel",
+		"replaces": "National College",
+		"cost": 125,
+		"science": 3,
+                "faith": 4,
+                "gold": 4,
+		"culture": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
+	},
+{
 		"name": "Human Meat Restaurant",
                 "uniqueTo": "Uganda",
 		"replaces": "Hospital",

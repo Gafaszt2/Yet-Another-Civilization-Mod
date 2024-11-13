@@ -1,5 +1,16 @@
 [
        {
+		"name": "Kibbutz"
+            "uniqueTo": "State of Israel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+                "culture": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Economics",
+		"uniques": ["[-1 Food] for each adjacent [Kibbutz]","[-1 Culture] for each adjacent [Kibbutz]","[+1 Food] for each adjacent [Farm]",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+	},
+       {
 		"name": "Colombian Hacienda"
             "uniqueTo": "Gran Colombia",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains"],

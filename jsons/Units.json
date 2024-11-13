@@ -1,5 +1,36 @@
 [
 {
+		"name": "Maccabee",
+                "uniqueTo": "Israel",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+                "uniques": ["Earn [30]% of killed [Wounded] unit's [Cost] as [Faith]","Earn [2]% of killed [Wounded] unit's [Cost] as [Culture]"],
+
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Merkava",
+                "uniqueTo": "State of Israel",
+		"replaces": "Modern Armor",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 100,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"upgradesTo": "Giant Death Robot",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+20]% Strength <vs [Armored] units>","Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+{
 		"name": "Surku Archer",
                 "uniqueTo": "Ainu",
 		"replaces": "Archer",

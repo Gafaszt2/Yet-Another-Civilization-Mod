@@ -1,5 +1,66 @@
 [
 {
+		"name": "Israel",
+		"leaderName": "King David",
+		"adjective": ["Israel"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [130, 149, 158],
+		"uniqueName": "Divine Covenant",
+		"uniques": ["[Great Prophet] is earned [+15]% faster","[Great Scientist] is earned [+5]% faster","When spreading religion to a city, gain [3] times the amount of followers of other religions as [Science]"],
+		"cities": ["Jerusalem",
+"Hebron",
+"Bethlehem",
+"Jericho",
+"Shechem",
+"Beersheba",
+"Samaria",
+"Gibeon",
+"Ai",
+"Ashkelon",
+"Arad",
+"Gezer"],
+	},
+{
+		"name": "State of Israel",
+		"leaderName": "David Ben-Gurion",
+		"adjective": ["State of Israel"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [237, 237, 237],
+		"innerColor": [71, 102, 255],
+		"uniqueName": "Aliyah",
+		"uniques": ["[+1 Gold, +1 Production] per every [5] [Faith]","[+1 Science] per every [9] [Faith]","[+1 Science] per every [4] [Faith] <starting from the [Modern era]>","[+1 Gold, +1 Production] per every [5] [Faith] <starting from the [Modern era]>"],
+		"cities": ["Jerusalem", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Netanya", "Ashdod", "Bnei Brak", "Beersheba", "Holon", "Ramat Gan", "Beit Shemesh", "Ashkelon", "Rehovot", "Bat Yam", "Herzliya", "Hadera", "Kfar Saba", "Modi'in-Maccabim-Re'ut"],
+	},
+{
 		"name": "Ainu",
 		"leaderName": "Shakushain",
 		"adjective": ["Ainu"],
