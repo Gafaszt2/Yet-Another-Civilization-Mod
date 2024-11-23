@@ -1,5 +1,34 @@
 [
 {
+		"name": "Sky Bow",
+                "uniqueTo": "Taiwan",
+		"replaces": "Mobile SAM",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"interceptRange": 2,
+		"strength": 71,
+		"cost": 395,
+		"requiredTech": "Rocketry",
+		"uniques": ["[100]% chance to intercept air attacks", "[+220]% Strength <vs [Air] units>",
+			"[+200]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "missile"
+	},
+{
+		"name": "Rathna Saurabhaya",
+                "uniqueTo": "Sri Lanka",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 27,
+		"cost": 110,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+{
 		"name": "Dhow",
                 "uniqueTo": "Comoros",
 		"replaces": "Trireme",

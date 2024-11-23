@@ -1,5 +1,28 @@
 [
 {
+		"name": "Night Market",
+                "uniqueTo": "Taiwan",
+		"replaces": "Market",
+		"gold": 2,
+                "food": 1,
+                "happiness": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+{
+		"name": "Tea Plantation",
+                "uniqueTo": "Sri Lanka",
+               "gold": 2,
+               "faith": 2,
+               "maintenance": 1,
+		"replaces": "Garden",
+		"uniques": ["[+10]% Great Person generation [in this city]","Provides [1] [Tea]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology"
+	},
+{
 		"name": "Vanilla Plantation",
                 "uniqueTo": "Comoros",
 		"replaces": "Garden",

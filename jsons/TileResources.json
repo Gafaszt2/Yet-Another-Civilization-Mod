@@ -8,6 +8,10 @@
 		"resourceType": "Luxury",
 	},
         {
+		"name": "Tea",
+		"resourceType": "Luxury",
+	},
+        {
 		"name": "Uro",
 		"resourceType": "Luxury",
 	},
