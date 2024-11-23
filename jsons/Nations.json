@@ -1,5 +1,143 @@
 [
 {
+		"name": "Comoros",
+		"leaderName": "Said Mohamed Djohar",
+		"adjective": ["Comoros]"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [0, 128, 9],
+		"innerColor": [255, 247, 0],
+		"uniqueName": "Archipelago Harmony",
+		"uniques": ["[+2 Food, +3 Culture] from [Atoll] tiles [in all cities]","[+2 Faith, +1 Production] from [Atoll] tiles [in all cities] <during a Golden Age>"],
+		"cities": ["Moroni",
+"Mutsamudu",
+"Fomboni",
+"Domoni",
+"Ouani",
+"Chindini",
+"Mitsamiouli",
+"Nioumachoua",
+"Bandrani",
+"Iconi",
+"Mbeni",
+"Sima",
+"Djoiezi",
+"Barakani"],
+	},
+{
+		"name": "The United Arab Republic",
+		"leaderName": "Gamal Abdel Nasser",
+		"adjective": ["The United Arab Republic]"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [57, 69, 45],
+		"innerColor": [252, 255, 227],
+		"uniqueName": "Arab Unity",
+		"uniques": ["[+2 Gold, +2 Culture] from [Oasis] tiles [in all cities]","No Maintenance costs for improvements in [Desert] tiles","Double quantity of [Oil] produced","[+25]% Great Person generation [in capital]"],
+		"cities": ["Cairo","Damascus","Alexandria","Beirut","Giza","Aleppo","Luxor","Homs","Aswan","Port Said","Hama","Marsa Matruh","Tanta"],
+        "spyNames": ["Mister Arab"]
+    },
+{
+		"name": "Seychelles",
+		"leaderName": "France-Albert René",
+		"adjective": ["Seychelles"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [5, 255, 209],
+		"innerColor": [105, 35, 102],
+		"uniqueName": "Seychelles Blue Economy",
+		"uniques": ["[+75]% Gold from Great Merchant trade missions","[Great Merchant] is earned [90]% faster"],
+		"cities": ["Victoria",
+"Beau Vallon",
+"Anse Royale",
+"Praslin",
+"La Digue",
+"Mahé",
+"Silhouette",
+"Anse Boileau",
+"Anse Etoile",
+"Baie Lazare",
+"Cascade",
+"Glacis"],
+	},
+{
+		"name": "Seychelles",
+		"leaderName": "France-Albert René",
+		"adjective": ["Seychelles"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [5, 255, 209],
+		"innerColor": [105, 35, 102],
+		"uniqueName": "Seychelles Blue Economy",
+		"uniques": ["[+75]% Gold from Great Merchant trade missions","[Great Merchant] is earned [90]% faster"],
+		"cities": ["Victoria",
+"Beau Vallon",
+"Anse Royale",
+"Praslin",
+"La Digue",
+"Mahé",
+"Silhouette",
+"Anse Boileau",
+"Anse Etoile",
+"Baie Lazare",
+"Cascade",
+"Glacis"],
+	},
+{
 		"name": "Liberia",
 		"leaderName": "Charles Taylor",
 		"adjective": ["Liberia"],
@@ -2710,8 +2848,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [130, 81, 102],
-		"innerColor": [99, 10, 16],
+		"outerColor": [102, 65, 53],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "Impi Iyehlisa",
 		"uniques": ["[+1] Movement <for [{Military} {Land}] units>", "[+1 Food] from every [Plains]"],
 		"cities": ["Ulundi", "KwaDukuza" ,"Bulawayo", "Isandlwana", "Rorke´s Drift", "Eshowe", "Ondini", "Gingindlovu"]

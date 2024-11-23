@@ -1,5 +1,38 @@
 [
 {
+		"name": "Vanilla Plantation",
+                "uniqueTo": "Comoros",
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]","Provides [1] [Vanilla]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology"
+	},
+{
+		"name": "Radio Cairo",
+                "uniqueTo": "The United Arab Republic",
+                "replaces": "Broadcast Tower",
+		"culture": 5,
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 1,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
+		"name": "Vavang",
+                "uniqueTo": "Seychelles",
+		"replaces": "Amphitheater",
+		"culture": 3,
+                "food": 1,
+                "production": 1,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+{
 		"name": "Kpelle Palace", 
                 "uniqueTo": "Liberia",
 		"replaces": "Palace",
