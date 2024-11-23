@@ -1,5 +1,44 @@
 [
 {
+		"name": "Liberia",
+		"leaderName": "Charles Taylor",
+		"adjective": ["Liberia"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "This is the end for you!",
+		"attacked": "You are joking? I will destroy you!.",
+		"defeated": "It is over. have mercy with my people.",
+		"introduction": "Hello great leader, you are as civilized as us?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [16, 82, 41],
+		"innerColor": [134, 187, 219],
+		"uniqueName": "ONU Mission",
+		"uniques": ["[+20]% Strength <vs [Helicopter] units>","[-15]% Strength <vs [Barbarian] units>","[+1 Science] from all [Production] buildings <while the empire is happy>"],
+		"cities": ["Monrovia",
+"Buchanan",
+"Gbarnga",
+"Harper",
+"Kakata",
+"Zwedru",
+"Voinjama",
+"Greenville",
+"Tubmanburg",
+"Robertsport",
+"Sanniquellie",
+"Fish Town",
+"Barclayville",
+"Bensonville",
+"Bopolu"],
+	},
+{
 		"name": "Israel",
 		"leaderName": "King David",
 		"adjective": ["Israel"],

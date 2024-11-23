@@ -1,5 +1,18 @@
 [
 {
+		"name": "Kpelle Palace", 
+                "uniqueTo": "Liberia",
+		"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 2,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["[+10]% Great Person generation [in all cities]","Indicates the capital city"]
+	},
+{
 		"name": "Solomon Temple",
                 "uniqueTo": "Israel",
 		"replaces": "National College",
@@ -509,9 +522,8 @@
 		"hurryCostModifier": 25,
             "uniqueTo": "Yucatan",
 		"uniques": ["[+15]% Production when constructing [Land] units [in this city]",
-			"[+1 Production] from [Farm] tiles [in this city]",
-			"[+2 Production] from [Plantation] tiles [in this city]",
-			"[-2 Happiness] from [Plantation] tiles [in this city]"],
+			"[+1 Culture] from [Jungle] tiles [in this city]",
+			"[+1 Faith] from [Jungle] tiles [in this city]",],
 		"requiredTech": "Currency"
 	},
         {

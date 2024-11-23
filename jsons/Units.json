@@ -1,5 +1,20 @@
 [
 {
+		"name": "Rebel Child Soldier",
+                "uniqueTo": "Liberia",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 95,
+		"cost": 315,
+		"requiredTech": "Plastics",
+                "uniques": ["[-15]% Strength decreasing with distance from the capital"],
+
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+{
 		"name": "Maccabee",
                 "uniqueTo": "Israel",
 		"replaces": "Swordsman",
