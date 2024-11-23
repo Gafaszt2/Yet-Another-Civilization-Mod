@@ -1,5 +1,40 @@
 [
 {
+		"name": "Puerto de la Secretaria",
+                "uniqueTo": "Mexico",
+		"replaces": "Seaport",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Harbor",
+		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]", "[+25]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Navigation"
+	},
+{
+		"name": "Gompa",
+                "uniqueTo": "Nepal",
+		"replaces": "Shrine",
+		"faith": 1,
+                "production": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Provides [1] [Stone]"]
+	},
+{
+		"name": "Marble Temple",
+                "uniqueTo": "Thailand",
+		"replaces": "Opera House",
+		"culture": 4,
+                "faith": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 1,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
 		"name": "Night Market",
                 "uniqueTo": "Taiwan",
 		"replaces": "Market",

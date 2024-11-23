@@ -1,5 +1,47 @@
 [
 {
+		"name": "Adelita",
+                "uniqueTo": "Mexico",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 34,
+		"cost": 190,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+{
+		"name": "Modern War Elephant",
+                "uniqueTo": "Thailand",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 2,
+		"strength": 52,
+		"cost": 235,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "elephant"
+	},
+{
+		"name": "Nepalese Gurkha",
+                "uniqueTo": "Nepal",
+		"replaces": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 300,
+                "uniques": ["[+15]% Strength <vs [Mounted] units>","[+15]% Strength <vs [Gunpowder] units>"],
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
+{
 		"name": "Sky Bow",
                 "uniqueTo": "Taiwan",
 		"replaces": "Mobile SAM",
