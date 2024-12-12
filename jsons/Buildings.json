@@ -1,5 +1,25 @@
 [
 {
+		"name": "Temple of Almaqah",
+                "uniqueTo": "Saba",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Gold, +1 Faith] from each Trade Route","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+{
+		"name": "Marib Dam",
+                "uniqueTo": "Himyarite Kingdom",
+		"replaces": "Aqueduct",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Food] from [Desert] tiles [in this city]","[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
+{
 		"name": "Puerto de la Secretaria",
                 "uniqueTo": "Mexico",
 		"replaces": "Seaport",
@@ -635,7 +655,6 @@
                 "uniqueTo": "Sultanate of Darfur",
                 "replaces": "Temple",
 		"faith": 3,
-                "greatPersonPoints": {"Great Prophet": 1},
 		"cost": 100,
 		"hurryCostModifier": 40,
 		"maintenance": 1,

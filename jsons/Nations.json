@@ -1,5 +1,95 @@
 [
 {
+		"name": "Norman Duchy",
+		"leaderName": "William the Conqueror",
+		"adjective": ["Norman Duchy]"],
+		"startBias": ["Forest","Hill"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [242, 234, 194],
+		"innerColor": [32, 40, 69],
+		"uniqueName": "Conquest of England",
+		"uniques": ["Upon capturing a city, receive [4] times its [Gold] production as [Gold] immediately","Earn [40]% of killed [Wounded] unit's [Cost] as [Gold]"],
+		"cities": ["Rouen",
+"Caen",
+"Bayeux",
+"Falaise",
+"Évreux",
+"Cherbourg",
+"Alençon",
+"Lisieux",
+"Honfleur",
+"Le Havre",
+"Dieppe",
+"Avranches",
+"Argentan"],
+	},
+{
+		"name": "Saba",
+		"leaderName": "Bilqis",
+		"adjective": ["Saba]"],
+		"startBias": ["Coast","Desert"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [211, 255, 191],
+		"innerColor": [89, 69, 53],
+		"uniqueName": "Queen of Sheba",
+		"uniques": ["[+1 Gold] per [3] population [in all cities]","[+1 Gold, +1 Faith] from [Luxury resource] tiles [in all cities]"],
+		"cities": ["Marib", "Sana'a", "Sirwah", "Nashan", "Baynun", "Najran", "Samhar", "Haram", "Baraqish", "Nashaq", "Mocha", "Kaminahu", "Shabwa", "Yathill", "Qarnawu", "Timna", "Kohr Rori", "Ragmat"],
+	},
+{
+		"name": "Himyarite Kingdom",
+		"leaderName": "Dhu Nuwas",
+		"adjective": ["Himyarite Kingdom]"],
+		"startBias": ["Coast","Desert"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [61, 52, 51],
+		"innerColor": [250, 186, 97],
+		"uniqueName": "Ash‘bān",
+		"uniques": ["[Gold] cost of purchasing [Water] units [-50]%","[+2 Faith, +2 Culture] for every known Natural Wonder","[+5]% Great Person generation [in all cities]"],
+		"cities": ["Zafar", "Sana'a", "Marib", "Najran", "Aden", "Shabwah", "Samawah", "Taiz"],
+	},
+{
 		"name": "Mexico",
 		"leaderName": "Benito Juárez",
 		"adjective": ["Mexico]"],
