@@ -1,5 +1,67 @@
 [
 {
+		"name": "The Purepecha",
+		"leaderName": "Tariácuri",
+		"adjective": ["The Purepecha]"],
+		"startBias": ["Lakes","Jungle"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [189, 178, 115],
+		"innerColor": [51, 50, 45],
+		"uniqueName": "Crafts of Michoacan",
+		"uniques": ["[+1 Production] from every [Mine]", "Starts with [Mining]"],
+		"cities": ["Tzintzuntzan", "Pátzcuaro", "Ihuatzio", "Angamuco", "Erongarícuaro", "Urichu", "Tzinguitzuri", "Uruapan", "Tziróndaro", "Cutzamala", "Huandacareo", "Tzacapu", "Zacatotlán", "Uringuarapexo", "Cherán", "Cuerámaro", "Tlazazalca", "Janitzio", "Purépero"],
+	},
+{
+		"name": "Guarani",
+		"leaderName": "Chief Sepé Tiaraju",
+		"adjective": ["Guarani]"],
+		"startBias": ["Jungle","Marsh"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [26, 79, 25],
+		"innerColor": [207, 255, 207],
+		"uniqueName": "Children of the Land",
+		"uniques": ["[+1 Food, +1 Faith] in cities on [Fresh Water] tiles","[+1 Food, +1 Faith] in cities on [Jungle] tiles","[+15]% growth [in all cities]"],
+		"cities": ["Asunción",
+"Ciudad del Este",
+"Encarnación",
+"Villarrica",
+"Concepción",
+"San Lorenzo",
+"Luque",
+"Caacupé",
+"Areguá",
+"Ayolas",
+"Filadelfia"],
+	},
+{
 		"name": "Norman Duchy",
 		"leaderName": "William the Conqueror",
 		"adjective": ["Norman Duchy]"],

@@ -1,5 +1,28 @@
 [
 {
+		"name": "Yacata",
+                "uniqueTo": "The Purepecha",
+		"replaces": "Mint",
+
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Iron", "Copper"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+25]% [Gold] <during We Love The King Day>","[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+2 Gold] from [Iron] tiles [in this city]","[+2 Gold] from [Copper] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+{
+		"name": "Opy",
+                "uniqueTo": "Guarani",
+		"replaces": "Temple",
+		"faith": 2,
+                "food": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
 		"name": "Temple of Almaqah",
                 "uniqueTo": "Saba",
 		"replaces": "Temple",
