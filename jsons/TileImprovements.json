@@ -7,6 +7,16 @@
 		"turnsToBuild": 8,
 		"uniques": ["Gives a defensive bonus of [+50]%","Unpillagable","Can be built outside your borders"],
        },
+	   {
+		"name": "Hoxeheome"
+        "uniqueTo": "Cheyenne",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"food": 1,
+        "culture": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Philosophy",
+		"uniques": ["Pillaging this improvement yields approximately [+5 Gold]"],
+	},
        {
 		"name": "Kibbutz"
             "uniqueTo": "State of Israel",

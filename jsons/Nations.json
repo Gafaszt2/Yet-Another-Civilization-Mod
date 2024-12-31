@@ -1,4 +1,58 @@
 [
+	{
+		"name": "Cheyenne",
+		"leaderName": "Woqini",
+		"adjective": ["Cheyenne]"],
+		"startBias": ["Plains"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [245, 206, 176],
+		"innerColor": [153, 38, 20],
+		"uniqueName": "Bundle of Sacred Arrows",
+		"uniques": ["[+15]% Strength <for [Mounted] units>","[+10]% Production when constructing [Archery] units [in all cities]","[+25]% XP gained from combat"],
+		"cities": ["Bear Butte", "Toh'nihvoos", "Omisis", "Suhtai", "Hévhaitanio", "Tsétsehéstahese", "Oévemano", "Hisiometaneo", "Oktoguna", "Masikota", "Hónowa"],
+	},
+	{
+		"name": "The Calusa",
+		"leaderName": "Caalus",
+		"adjective": ["The Calusa]"],
+		"startBias": ["River","Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [157, 195, 237],
+		"innerColor": [6, 14, 23],
+		"uniqueName": "River of Grass",
+		"uniques": ["Reveal up to [3] [Marsh] within a [10] tile radius","Reveal up to [3] [Lakes] within a [10] tile radius", "Starts with [Sailing]"],
+		"cities": ["Escampaha", "Muspa", "Mayaimi", "Tekesta", "Guarugunbe", "Cuchiaga", "Hobe", "Jece", "Tampa", "Sacaspada", "Non", "Cayovea", "Tomo", "Queyhica"],
+	},
+
+
 {
 		"name": "The Purepecha",
 		"leaderName": "Tariácuri",
@@ -3631,7 +3685,7 @@
 		"outerColor": [56, 51, 51],
 		"innerColor": [189, 119, 119],
 		"uniqueName": "Apsaacooke",
-		"uniques": ["[+1 Culture] from every [Natural Wonder]"],
+		"uniques": ["[+3 Culture] from every [Natural Wonder]"],
 		"cities": ["Apsaaloke","Biliike",
 			"Ashshiile","Baawaxaawuua","Daxpitcheeaashe","Kaalaxpaalax","Seetcheechee","Uuwatashe","Xaasheeke","Aashbacheeitche"]
 	},
@@ -3787,7 +3841,7 @@
 		"outerColor": [21, 49, 84],
 		"innerColor": [252, 186, 3],
 		"uniqueName": "Mound Builder",
-		"uniques": ["[+1 Culture] from every [Improvement]"],
+		"uniques": ["[+1 Culture, +1 Food] from every specialist [in all cities]","[+2 Gold, +2 Food] from every specialist [in capital]","[+1 Gold, +1 Food] from every specialist [in capital] <during a Golden Age>"],
 		"cities": ["Cahokia","Moundville",
 			"Spiro","Angel Mounds","Atahachi","Emeral Mound","Etowah","Kincaid","Castalian Springs","Cloverdale","Grand Village","Mabila"]
 	},

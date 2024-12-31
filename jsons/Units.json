@@ -1,7 +1,38 @@
 [
+	{
+		"name": "Dog Soldier",
+		"uniqueTo": "Cheyenne",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 31,
+		"cost": 195,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["No movement cost to pillage","Destroys tile improvements when attacking","Double movement in [Plains]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	
+	{
+		"name": "Noka Canoe",
+		"uniqueTo": "The Calusa",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 8,
+		"cost": 35,
+		"requiredTech": "Sailing",
+		"uniques": ["[+15]% Strength bonus for [Noka Canoe] units within [2] tiles","Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
 {
 		"name": "Macuahuitlist",
-                "uniqueTo": "The Purepecha",
+        "uniqueTo": "The Purepecha",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 3,
