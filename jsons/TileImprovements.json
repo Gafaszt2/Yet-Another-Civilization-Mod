@@ -8,6 +8,16 @@
 		"uniques": ["Gives a defensive bonus of [+50]%","Unpillagable","Can be built outside your borders"],
        },
 	   {
+		"name": "Kanuhses"
+        "uniqueTo": "Huron Confederacy",
+		"terrainsCanBeBuiltOn": ["Jungle"],
+		"culture": 1,
+		"gold": 1,
+        "techRequired": "Trapping",
+		"turnsToBuild": 8,
+		"uniques": ["Pillaging this improvement yields approximately [+5 Gold]"],
+       },
+	   {
 		"name": "Hoxeheome"
         "uniqueTo": "Cheyenne",
 		"terrainsCanBeBuiltOn": ["Plains"],

@@ -1,5 +1,83 @@
 [
 	{
+		"name": "Huron Confederacy",
+		"leaderName": "Kondiaronk",
+		"adjective": ["Huron Confederacy"],
+		"startBias": ["Forest"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [0, 110, 16],
+		"innerColor": [155, 212, 163],
+		"uniqueName": "Yandatsa",
+		"uniques": ["[+30]% [Culture] from Trade Routes","[-15]% Culture cost of natural border growth [in all cities]","All newly-trained [Scout] units [in all cities] receive the [Woodsman] promotion"],
+		"cities": ["Ossossane","Arente","Toanche","Touaguainchain","Quieunonascaran","Tequenonquiaye","Carhagouha","Wenrio"],
+	},
+	{
+		"name": "Kurdistan",
+		"leaderName": "Mustafa Barzani",
+		"adjective": ["Kurdistan]"],
+		"startBias": ["Desert"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [214, 150, 0],
+		"uniqueName": "No Friends But the Mountains",
+		"uniques": ["[+2 Food, +2 Production] from every [Mountain]","No Maintenance costs for improvements in [Hill] tiles","[+15]% Strength <when fighting in [Hill] tiles>"],
+		"cities": ["Hewler", "Silemani", "Kerkuk", "Dihok", "Amed", "Kirmasan", "Kobani", "Riha", "Wan", "Piranshahr", "Eleziz"],
+	},
+	{
+		"name": "Elam",
+		"leaderName": "Shutruk-Nakhunte",
+		"adjective": ["Elam]"],
+		"startBias": ["Desert"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [79, 4, 30],
+		"innerColor": [219, 132, 149],
+		"uniqueName": "Beloved Servants of Inshushinak",
+		"uniques": ["[+1 Gold, +2 Culture] from every [Temple]","[+20]% Production when constructing [Faith] buildings [in all cities]","[+15]% Strength <when fighting in [Desert] tiles>"],
+		"cities": ["Susa", "Anshan", "Dur Untash", "Awan", "Kabnak", "Sialk", "Ayapir", "Hamanu", "Tepe Yahya", "Warakshe", "Jiroft"],
+	},
+	{
 		"name": "Cheyenne",
 		"leaderName": "Woqini",
 		"adjective": ["Cheyenne]"],
@@ -2505,7 +2583,7 @@
 		"outerColor": [5, 63, 84],
 		"innerColor": [120, 215, 250],
 		"uniqueName": "Notwithstanding",
-		"uniques": ["[1] free [Scout] units appear","[+1 Science, +1 Happiness] from all [Science] buildings","[+1 Culture] from every [Geothermal Plant]"],
+		"uniques": ["[1] free [Scout] units appear","[+1 Science, +1 Happiness] from all [Science] buildings","[+1 Culture] from every [Tundra]"],
 		"cities": ["Reykjavík","Akureyri","Kópavogur","Hafnarfjörður","Reykjanesbær","Garðabær","Mosfellsbær","Árborg","Akranes","Fjarðabyggð"],
 	},
 {
@@ -3323,8 +3401,8 @@
 				
 		"outerColor": [53, 89, 55],
 		"innerColor": [255, 194, 71],
-		"uniqueName": "Varjak Lovagja",
-		"uniques": ["[+50]% Production when constructing [Mounted] units [in all cities]", "[+25]% Production when constructing [Faith] buildings [in all cities]"],
+		"uniqueName": "Pearl of the Danube",
+		"uniques": ["[+1 Food, +1 Production] from all [Water Mill] buildings","Allied City-States provide [Food] equal to [+15]% of what they produce for themselves","[Gold] cost of purchasing [Mounted] units [-25]%","Roads connect tiles across rivers"],
 		"cities": ["Buda","Pest","Esztergom","Debrecen","Pecs","Eger","Miskolc","Gyor","Szekesfehervar","Szeged",
 			"Koszeg","Obuda","Kolozsvar","Diosgyor","Tatabanya","Kassa","Eperjes","Kisszeben","Eger","Mohacs","Tata",
 			"Szolnok","Sarvar","Zagrab","Temesvar","Nyiregyhaza","Kecskemet","Sopron"]
@@ -3401,14 +3479,13 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [191, 178, 117],
-		"innerColor": [37, 64, 184],
-		"uniqueName": "Imperio da Grandeza",
-		"uniques": ["[+2 Culture] from every [Lakes]", "[+2 Food] from every [Lakes]", "[+2 Gold] from every [Plantation]"],
-		"cities": ["Rio de Janeiro","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
-			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
-			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
-			"Kalgoorlie","Lismore","Lithgow","Maryborough","Orange","Port Macquarie","Port Pirie","Boomahnoomoonah","Tweed Heads"]
+		"outerColor": [59, 177, 45],
+		"innerColor": [254, 232, 79],
+		"uniqueName": "African Slaves",
+		"uniques": ["[+2 Gold] from every [Plantation]", "[+2 Gold] from every [Market]", "[+1 Gold] from every [Coast]"],
+		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+                            "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"],
 	},
 
         /* Native American */
