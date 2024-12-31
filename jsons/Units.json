@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Chasseur",
+		"uniqueTo": "Belgian Empire",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 155,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I","Charge","Blitz"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Dog Soldier",
 		"uniqueTo": "Cheyenne",
 		"replaces": "Lancer",
@@ -1279,7 +1295,7 @@
 		"name": "Force Republique",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
-		"uniqueTo": "Colonial Empire of Belgium",
+		"uniqueTo": "Congo Free State",
 		"movement": 2,
 		"strength": 20,
 		"cost": 225,

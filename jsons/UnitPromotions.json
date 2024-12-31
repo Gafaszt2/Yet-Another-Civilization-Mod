@@ -1,4 +1,10 @@
 [
+        {
+                "name": "Tortured",
+                "innerColor": [33, 33, 30],
+		"outerColor": [255, 68, 61],
+                "uniques": ["[+1] Movement"],
+                },
 {
         "name": "Sami People",
         "uniques": ["[+15]% Strength <when fighting in [Tundra] tiles> <when attacking>","[+15]% Strength <when fighting in [Snow] tiles> <when attacking>","[+15]% Strength <when fighting in [Forest] tiles> <when attacking>","[+1] Sight"],

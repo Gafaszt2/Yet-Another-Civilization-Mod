@@ -2669,12 +2669,11 @@
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
 			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"],
 	},
-      {
-		//nations
-		"name": "Colonial Empire of Belgium",
+	{
+		"name": "Belgian Empire",
 		"leaderName": "Leopold II",
-		"adjective": ["Belgium"],
-		"startBias": ["Forest"],
+		"adjective": ["Belgian Empire"],
+		"startBias": ["Jungle","River"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
@@ -2689,12 +2688,50 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [187, 139, 57],
-		"innerColor": [77, 9, 9],
-		"uniqueName": "Belgium Congo",
-		"uniques": ["[+5]% Strength <when fighting units from a Civilization with more Cities than you>", "[+1 Production] from every [Courthouse]", "[+5]% Strength <when fighting in [Foreign Land] tiles>"],
-		"cities": ["Brussels", "Ostend", "Brabante", "West Vlaanderen", "Henao", "Lieja", "Limburg", "Luxemburg",
-			"Namur", "Antwerpen", "Hainaut"],
+		"outerColor": [25, 28, 41],
+		"innerColor": [255, 225, 181],
+		"uniqueName": "Congo Free State",
+		"uniques": ["[+1 Production] from all [Granary] buildings","[+3 Gold] from all [Market] buildings <starting from the [Industrial era]>","[+3 Production] from all [Workshop] buildings <starting from the [Industrial era]>"],
+		"cities": ["Brussels",
+"Antwerp",
+"Ghent",
+"Bruges",
+"Liège",
+"Namur",
+"Leuven",
+"Mons"],
+	},
+      {
+		"name": "Congo Free State",
+		"leaderName": "Théophile Wahis",
+		"adjective": ["Congo Free State"],
+		"startBias": ["Jungle","River"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [0, 151, 232],
+		"innerColor": [255, 251, 232],
+		"uniqueName": "Inhumanity",
+		"uniques": ["No Maintenance costs for improvements in [Plains] tiles","No Maintenance costs for improvements in [Jungle] tiles","When conquering an encampment, earn [100] Gold and recruit a Barbarian unit <during a Golden Age>","All newly-trained [Worker] units [in all cities] receive the [Tortured] promotion"],
+		"cities": ["Boma",
+"Stanleyville",
+"Léopoldville",
+"Coquilhatville",
+"Bukavu",
+"Vivi",
+"Luluabourg",
+"Bukama"],
 	},
       {
 		//nations

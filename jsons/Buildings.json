@@ -1,5 +1,18 @@
 [
 	{
+		"name": "Chocolaterie",
+		"uniqueTo": "Belgian Empire",
+		"replaces": "Bank",
+		"gold": 3,
+		"happiness": 2,
+		"food": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
 		"name": "Watercourts",
 		"uniqueTo": "The Calusa",
 		"replaces": "Aqueduct",
