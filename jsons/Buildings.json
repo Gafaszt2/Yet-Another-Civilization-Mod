@@ -1,5 +1,25 @@
 [
 	{
+		"name": "Thart",
+		"uniqueTo": "Laos",
+		"replaces": "Shrine",
+		"faith": 2,
+		"cost": 30,
+		"requiredTech": "Pottery",
+	},
+	{
+		"name": "Fale Tele",
+		"uniqueTo": "Samoa",
+		"replaces": "Harbor",
+		"cost": 120,
+		"food": 2,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+	{
 		"name": "Qela",
 		"uniqueTo": "Kurdistan",
 		"replaces": "Walls",

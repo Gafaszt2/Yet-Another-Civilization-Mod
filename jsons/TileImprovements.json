@@ -1,4 +1,51 @@
 [
+	{
+		"name": "Hare Paenga",
+                "uniqueTo": "Rapa Nui",
+                "turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Atoll"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Adjacent enemy units ending their turn take [5] damage",
+			"Removes removable features when built","[+2 Faith] for each adjacent [Coast]","[+3 Faith] for each adjacent [Bonus resource]"]
+	},
+	{
+		"name": "Mala e",
+                "uniqueTo": "Tui Tonga",
+                "turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Adjacent enemy units ending their turn take [5] damage",
+			"Removes removable features when built","[+1 Food] for each adjacent [Coast]","[+1 Food] for each adjacent [Mala e]","[+1 Culture] for each adjacent [Coast]"]
+	},
+	{
+		"name": "Rapa Nui Moai",
+                "uniqueTo": "Rapa Nui",
+                                        "culture": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [20]%",
+			"Adjacent enemy units ending their turn take [10] damage",
+			"Can be built just outside your borders",
+        	"Gain control over [all] tiles in a [1]-tile radius",
+			"Removes removable features when built",
+		]
+	},
+	{
+		"name": "Pa",
+                "uniqueTo": "Maori",
+                "turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Adjacent enemy units ending their turn take [5] damage",
+			"Removes removable features when built","[+1 Production] for each adjacent [Coast]","[+1 Gold] for each adjacent [Coast]"]
+	},
        {
 		"name": "Motte Bailey"
             "uniqueTo": "Norman Duchy",
@@ -6,6 +53,16 @@
                 "techRequired": "Engineering",
 		"turnsToBuild": 8,
 		"uniques": ["Gives a defensive bonus of [+50]%","Unpillagable","Can be built outside your borders"],
+       },
+	   {
+		"name": "Baray"
+        "uniqueTo": "Khmer",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+		"faith": 2,
+                "techRequired": "Engineering",
+		"turnsToBuild": 8,
+		"uniques": ["[-1 Food] for each adjacent [Baray]","[-2 Faith] for each adjacent [Baray]","Unpillagable"],
        },
 	   {
 		"name": "Kanuhses"

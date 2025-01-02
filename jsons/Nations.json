@@ -1,5 +1,155 @@
 [
 	{
+		"name": "Khmer",
+		"leaderName": "Jayavarman VII",
+		"adjective": ["Khmer"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [242, 206, 153],
+		"innerColor": [133, 46, 0],
+		"uniqueName": "Great Barays of Angkor",
+		"uniques": ["[+2 Faith, +2 Food] from each Trade Route","[+10]% [Culture] [in all cities]","[+10]% [Food] [in all cities]"],
+		"cities": ["Angkor Thom", "Yasodharapura", "Hariharalaya", "Nagara Jayasri", "Rajavihara", "Isvarapura", "Banteay Kdei", "Jayendranagari", "Pre Rup"],
+	},
+	{
+		"name": "Laos",
+		"leaderName": "Fa Ngum",
+		"adjective": ["Laos"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [92, 9, 13],
+		"innerColor": [255, 168, 194],
+		"uniqueName": "One Million Elephants and a White Parasol",
+		"uniques": ["[+1 Culture] per every [2] [Faith]"],
+		"cities": ["Luang Prabang", "Thakhek", "Pakse", "Muang Thaeng", "Xiang Hung", "Roi Et", "Xiang Khuang", "Nakhom Phanom", "Champasak"],
+	},
+	{
+		"name": "Samoa",
+		"leaderName": "Lauaki Namulauulu Mamoe",
+		"adjective": ["Samoa"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [118, 247, 114],
+		"innerColor": [60, 69, 60],
+		"uniqueName": "Ava Ceremony",
+		"uniques": ["[-20]% Food consumption by specialists [in all cities]","[-25]% Culture cost of adopting new Policies"],
+		"cities": ["Apia","Salelologa","Afega","Afiamalu","Alafua","Alamagoto","Aleipata","Aleisa","Amaile","Amouli","Aopo","Apai","Apolima Tai","Apolima Uta","Asaga","Asau","Auala","A’ufaga","Aele","Elisefou"],
+	},
+	{
+		"name": "Tui Tonga",
+		"leaderName": "Aho eitu",
+		"adjective": ["Tongan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [166, 5, 5],
+		"innerColor": [173, 234, 237],
+		"uniqueName": "Sea Warriors",
+		"uniques": ["[+2] Sight <for [Embarked] units>","[+15]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Nuku´alofa","Mu´a","Neiafu","Vaini","Nukunuku"],
+	},
+	{
+		"name": "Rapa Nui",
+		"leaderName": "King Hotu Matu´a",
+		"adjective": ["Rapa Nui"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 32, 32],
+		"innerColor": [235, 64, 52],
+		"uniqueName": "Easter Island",
+		"uniques": ["[+20]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Hanga Roa","Mataveri","Anaken´a","Rano Raraku","Ahu Tongariki","Rano Kau","Orongo","Ahu Akivi","Puna Pau","Ahu Vinapu","Ahu Te Pito Kura","Ahu Nau Nau"],
+	},
+	{
+		"name": "Maori",
+		"leaderName": "King Tawhiao",
+		"adjective": ["Maori"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
+		"attacked": "It is obvious now that I misjudged you and your true intentions.",
+		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
+		"introduction": "Aloha! Greetings and blessings upon you, friend.",
+		"neutralHello": "Welcome, friend!",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come, let our people feast together!",
+		"outerColor": [63, 77, 99],
+		"innerColor": [250, 180, 67],
+		"uniqueName": "Mana Whenua",
+		"uniques": ["[+25]% Strength <within [1] tiles of a [Pa]>", "Reveal up to [10] [Coast] within a [20] tile radius","Reveal up to [10] [Ocean] within a [20] tile radius"],
+		"cities": ["Whangarei","Rotorua","Taupo","Napier","Whanganui","Manukau","Waitakere","Porirua","Tauranga","Hamilton"]
+    },
+	{
 		"name": "Huron Confederacy",
 		"leaderName": "Kondiaronk",
 		"adjective": ["Huron Confederacy"],
