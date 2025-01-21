@@ -1,5 +1,157 @@
 [
 	{
+		"name": "Finland",
+		"leaderName": "Mannerheim",
+		"adjective": ["Finland"],
+		"startBias":["Snow","Tundra"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 255, 255],
+		"innerColor": [52, 75, 224],
+		"uniqueName": "Kalevala",
+		"uniques": ["[+2 Culture] in cities on [Tundra] tiles","[+2 Culture] in cities on [Snow] tiles","[+1 Culture] from [Forest] tiles [in all cities]"],
+		"cities": ["Helsinki", "Espoo","Tampere","Vantaa","Oulu","Turku","Jyvaskyla","Lahti","Kuopio","Pori","Joensuu","Lappeenranta","Hameenlinna","Vaasa"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Maasai People",
+		"leaderName": "Mbatian",
+		"adjective": ["Maasai People"],
+		"startBias":["Plains","Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [54, 49, 49],
+		"innerColor": [255, 54, 54],
+		"uniqueName": "May God Give Us Cattle",
+		"uniques": ["[+1 Food] in cities on [Plains] tiles","[+1 Food] in cities on [Hill] tiles","[+1 Food, +1 Culture] from [Cattle] tiles [in all cities]"],
+		"cities": ["Nairobi", "Serengit", "Ngorongoro", "Oldoinyo Lengai", "Loliondo", "Mara", "Oldupai", "Manyara", "Nai'posha", "Grumeti", "Menengai", "Nakuru", "Ilkinangop", "Elmenteita"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Metis",
+		"leaderName": "Louis Riel",
+		"adjective": ["Metis"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [0, 71, 186],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Chosen from the Flock",
+		"uniques": ["[+30]% Production when constructing [Faith] buildings [in all cities]","[+1 Faith] from all [Faith] buildings"],
+		"cities": ["Batoche", "Winnipeg", "Pembina", "Duck Lake", "St. Laurent", "St. Norbert", "Fish Creek", "Frog Lake", "Nipawin", "La Ronge", "Regina"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Murrinh Patha",
+		"leaderName": "Nemarluk",
+		"adjective": ["Murrinh Patha"],
+		"startBias":["Marsh"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [197, 219, 31],
+		"innerColor": [51, 44, 40],
+		"uniqueName": "Ngoiminggi",
+		"uniques": ["When defeating a [{Land}] unit, earn [20] Gold and recruit it <with [30]% chance>","[+1 Food] from all [Food] buildings","[+1 Food] from all [Production] buildings"],
+		"cities": ["Werntek Nganaiyi", "Wadeye", "Nganmarriyanga", "Thamarur", "Yambarnyi", "Nemarluk", "Thuykem", "Bullo River", "Kultjill", "Legune", "Auvergne", "Litchfield", "Mulyung"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Dutch East India Company",
+		"leaderName": "Jan Pieterszoon Coen",
+		"adjective": ["Dutch"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Company i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [38, 38, 37],
+		"innerColor": [250, 250, 107],
+        "favoredReligion": "Christianity",
+		"uniqueName": "Slave Trade Monopoly",
+		"uniques": ["[+1 Production] per every [4] [Gold]"],
+		"cities": ["Surat","Madras","Banten","West Java","Jayakarta","Jepara","Aceh","Pariaman","Jambi","Ambon","Banda Neira","Bengkulu","Cirebon","Makassar","Malacca","Patani","Ternate"]
+	},
+	{
+		"name": "Philipines",
+		"leaderName": "Emilio Aguinaldo",
+		"adjective": ["Philipines"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Philipines i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [138, 255, 214],
+		"innerColor": [0, 60, 97],
+        "favoredReligion": "Christianity",
+		"uniqueName": "Pear of the Orient Seas",
+		"uniques": ["[+1 Culture] from every [Coast]","[+2 Faith] [in all cities] <with [1] to [2] neighboring [Coast] tiles>","[+3 Faith] [in all cities] <with [3] to [4] neighboring [Coast] tiles>"],
+		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
+	},
+	{
 		"name": "Khmer",
 		"leaderName": "Jayavarman VII",
 		"adjective": ["Khmer"],

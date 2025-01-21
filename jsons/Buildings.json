@@ -1,5 +1,50 @@
 [
 	{
+		"name": "Sauna",
+		"uniqueTo": "Finland",
+		"replaces": "Shrine",
+		"faith": 1,
+		"culture": 1,
+		"happiness": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Enkang",
+		"uniqueTo": "Maasai People",
+		"replaces": "Granary",
+		"food": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]","[Wounded] Units adjacent to this city heal [5] HP per turn when healing",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Bahay Kubo",
+		"uniqueTo": "Philipines",
+		"replaces": "Granary",
+		"food": 2,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Lakes] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Slave Spices Plantation",
+		"uniqueTo": "Dutch East India Company",
+		"replaces": "Windmill",
+		"production": 2,
+		"gold": 3,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
+	},
+	{
 		"name": "Thart",
 		"uniqueTo": "Laos",
 		"replaces": "Shrine",
@@ -116,7 +161,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Gold, +1 Faith] from each Trade Route","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Gold, +1 Faith] from each Trade Route","Only available <when religion is enabled>","Destroyed when the city is captured"]
 	},
 {
 		"name": "Marib Dam",
@@ -319,7 +364,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Only available <when religion is enabled>"]
 	},
 {
 		"name": "Impalement Grounds",
@@ -480,7 +525,7 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 {
 		"name": "Souq",
@@ -504,7 +549,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+5]% Production when constructing [Wonder] buildings [in this city]","Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["[+5]% Production when constructing [Wonder] buildings [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 {
 		"name": "Crusader Temple",
@@ -514,7 +559,7 @@
 		"culture": 1,
 		"faith": 8,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [40] per owned city",
-			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled","[+10]% Golden Age length","Free [Inquisitor] appears"],
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>","[+10]% Golden Age length","Free [Inquisitor] appears"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -595,7 +640,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Culture] in cities on [Hill] tiles","Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Culture] in cities on [Hill] tiles","Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 {
 		"name": "Hov",
@@ -616,7 +661,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled","[+1 Culture] from [Desert] tiles [in this city]"]
+		"uniques": ["Only available <when religion is enabled>","[+1 Culture] from [Desert] tiles [in this city]"]
 	},
 {
 		"name": "Kep Pene",
@@ -768,7 +813,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
         {
 		"name": "Great Citadel",
@@ -833,7 +878,7 @@
 		"faith": 1,
 		"cost": 40,
 		"requiredTech": "Pottery",
-		"uniques": ["[+1 Gold] from [Fishing Boats] tiles [in this city]", "Hidden when religion is disabled"]
+		"uniques": ["[+1 Gold] from [Fishing Boats] tiles [in this city]", "Only available <when religion is enabled>"]
 	},
 {
 		"name": "Caboclo Village",
@@ -854,7 +899,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
         {
 		"name": "Chemamull",
@@ -965,7 +1010,7 @@
                 "happiness": 1,
 		"cost": 40,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Only available <when religion is enabled>"]
 	},
         {
 		"name": "Council House",
@@ -1029,7 +1074,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Only available <when religion is enabled>"]
 	},
         {
 		"name": "Delegate Longhouse",
