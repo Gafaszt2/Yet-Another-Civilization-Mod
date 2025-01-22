@@ -1,5 +1,27 @@
 [
 	{
+		"name": "Toguna",
+		"uniqueTo": "Dogon",
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"happiness": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Grand Ezana Stele",
+		"uniqueTo": "Aksum",
+		"replaces": "Grand Temple",
+		"cost": 125,
+		"culture": 1,
+	    "gold": 1,
+		"faith": 8,
+		"uniques": ["[+1 Gold] from [Hill] tiles [in this city]","Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
+	{
 		"name": "Sauna",
 		"uniqueTo": "Finland",
 		"replaces": "Shrine",

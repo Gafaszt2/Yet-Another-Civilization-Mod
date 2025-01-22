@@ -1,5 +1,55 @@
 [
 	{
+		"name": "Dogon",
+		"leaderName": "Ogotemmeli",
+		"adjective": ["Dogon"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [245, 125, 125],
+		"innerColor": [30, 31, 36],
+		"uniqueName": "The Sirius Mystery",
+		"uniques": ["[+1 Science] in cities on [Hill] tiles","[+1 Science] from every [Observatory]","All newly-trained [Sword] units [in all cities] receive the [Amphibious] promotion"],
+		"cities": ["Bandiagara", "Kendié", "Ningari", "Kani-Gogouna", "Goundaka", "Sangha", "Dourou", "Ouo", "Koro", "Diankabou", "Dinangourou", "Dioungani"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Aksum",
+		"leaderName": "Ezana",
+		"adjective": ["Aksum"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [15, 20, 56],
+		"innerColor": [255, 214, 143],
+		"uniqueName": "Kingdom of Natural Wealth",
+		"uniques": ["[+1 Faith] in cities on [Hill] tiles","[+1 Gold] from [Bonus resource] tiles [in all cities]","[+1 Gold] from [Strategic resource] tiles [in all cities]"],
+		"cities": ["Aksum", "Kubar", "Matara", "Zula", "Yeha", "Adulis", "Beta Samati", "Ag’azi", "Mendefera", "Qohaito", "Wakarida", "Tekondo", "Zala-Bet-Makeda"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Finland",
 		"leaderName": "Mannerheim",
 		"adjective": ["Finland"],
