@@ -65,6 +65,16 @@
 		"uniques": ["[-1 Food] for each adjacent [Baray]","[-2 Faith] for each adjacent [Baray]","Unpillagable"],
        },
 	   {
+		"name": "Mawaskawe Skote"
+        "uniqueTo": "Shawnee",
+		"terrainsCanBeBuiltOn": ["Jungle","Forest","Marsh"],
+		"food": 3,
+		"gold": 1,
+                "techRequired": "Guilds",
+		"turnsToBuild": 8,
+		"uniques": ["[-3 Food] for each adjacent [Mawaskawe Skote]","[-1 Gold] for each adjacent [Mawaskawe Skote]","Unpillagable"],
+       },
+	   {
 		"name": "Kanuhses"
         "uniqueTo": "Huron Confederacy",
 		"terrainsCanBeBuiltOn": ["Jungle"],

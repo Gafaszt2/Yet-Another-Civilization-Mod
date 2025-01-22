@@ -1,5 +1,80 @@
 [
 	{
+		"name": "Sumenep",
+		"leaderName": "Panembahan Somala",
+		"adjective": ["Sumenep"],
+		"startBias":["Jungle","Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [224, 225, 255],
+		"innerColor": [4, 5, 20],
+		"uniqueName": "Madura Wetan",
+		"uniques": ["[+15]% [Culture] [in capital]", "[+20]% [Gold] [in all cities]", "[+100]% [Culture] from City-States", "[+5]% Production when constructing [Gold] buildings [in all cities]"],
+		"cities": ["Kota Sumenep", "Bluto", "Lenteng", "Arjasa", "Gapura", "Batang Batang", "Ambunten", "Dasuk", "Dungkek", "Batuputih"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Majapahit",
+		"leaderName": "Hayam Wuruk",
+		"adjective": ["Majapahit"],
+		"startBias":["Jungle","Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [196, 13, 0],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Nagarakretagama",
+		"uniques": ["[-20]% unhappiness from the number of cities","[+1 Gold, +1 Production] from [Coast] tiles [in all cities]"],
+		"cities": ["Trowulan", "Daha", "Kahuripan", "Lumajang", "Lasem", "Pajang", "Tumban", "Madura", "Tumasik", "Palembang"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Shawnee",
+		"leaderName": "Tecumseh",
+		"adjective": ["Shawnee"],
+		"startBias":["Grassland","River"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [38, 37, 37],
+		"innerColor": [240, 221, 129],
+		"uniqueName": "Nepekifaki",
+		"uniques": ["[+1 Culture] in cities on [River] tiles","[+1 Culture] from [Fishing Boats] tiles [in all cities]"],
+		"cities": ["Cilakofa", "Penfekim’Teko", "Ikan’Hatki","Wakacaalli", "Prophetstown", "Mequachake", "Catawissa", "Peixtan", "Scoutash"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Dogon",
 		"leaderName": "Ogotemmeli",
 		"adjective": ["Dogon"],
