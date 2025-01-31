@@ -1,5 +1,112 @@
 [
 	{
+		"name": "Nigeria",
+		"leaderName": "Awolowo",
+		"adjective": ["Nigeria"],
+		"startBias":["River","Lakes"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [138, 242, 159],
+		"innerColor": [4, 14, 48],
+		"uniqueName": "Giant of Africa",
+		"uniques": ["[+20]% [Gold] [in capital]","[+20]% [Food] [in capital]","Enemy [Wounded] units must spend [1] extra movement points when inside your territory","All newly-trained [Melee] units [in all cities] receive the [Cover I] promotion"],
+		"cities": ["Kota Sumenep", "Bluto", "Lenteng", "Arjasa", "Gapura", "Batang Batang", "Ambunten", "Dasuk", "Dungkek", "Batuputih"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Namibia",
+		"leaderName": "Jacob Morenga",
+		"adjective": ["Namibia"],
+		"startBias":["Plains","Lakes"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [41, 77, 153],
+		"innerColor": [255, 109, 31],
+		"uniqueName": "The Land God Made In Anger",
+		"uniques": ["May buy [Mounted] units with [Faith] [in all cities]","[Faith] cost of purchasing [Mounted] units [-30]%","Earn [60]% of killed [Wounded] unit's [Cost] as [Faith]"],
+		"cities": ["Kota Sumenep", "Bluto", "Lenteng", "Arjasa", "Gapura", "Batang Batang", "Ambunten", "Dasuk", "Dungkek", "Batuputih"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Senegal",
+		"leaderName": "Leopold Senghor",
+		"adjective": ["Senegal"],
+		"startBias":["Plains"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [243, 255, 168],
+		"innerColor": [24, 99, 45],
+		"uniqueName": "Négritude",
+		"uniques": ["[+15]% [Happiness] [in capital]","No damage penalty for wounded units <during a Golden Age>","[+70]% Golden Age length"],
+		"cities": ["Kota Sumenep", "Bluto", "Lenteng", "Arjasa", "Gapura", "Batang Batang", "Ambunten", "Dasuk", "Dungkek", "Batuputih"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Nicaragua",
+		"leaderName": "Sandino",
+		"adjective": ["Nicaragua"],
+		"startBias":["Jungle"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [0, 149, 255],
+		"innerColor": [0, 20, 71],
+		"uniqueName": "El Güegüense",
+		"uniques": ["[-10]% Culture cost of adopting new Policies","[Great Artist] is earned [+50]% faster","[+5]% [Culture] [in all cities]"],
+		"cities": ["Kota Sumenep", "Bluto", "Lenteng", "Arjasa", "Gapura", "Batang Batang", "Ambunten", "Dasuk", "Dungkek", "Batuputih"],
+		"spyNames": ["Saki"]
+	},
+
+
+
+
+
+
+
+	{
 		"name": "Sumenep",
 		"leaderName": "Panembahan Somala",
 		"adjective": ["Sumenep"],

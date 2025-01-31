@@ -1,5 +1,73 @@
 [
 	{
+		"name": "Yan Lifida",
+		"uniqueTo": "Nigeria",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 24,
+		"cost": 125,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[+10]% Strength bonus for [Yan Lifida] units within [2] tiles","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Ox Rider",
+		"uniqueTo": "Namibia",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 35,
+		"cost": 195,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"upgradesTo": "Landship",
+		"uniques": ["[+30]% Strength <vs [Ranged Gunpowder] units>","[+30]% Strength <vs [Gunpowder] units>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "bull"
+	},
+	{
+		"name": "Griot",
+		"uniqueTo": "Senegal",
+		"replaces": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [16]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <[2] times>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Tirailleur",
+		"uniqueTo": "Senegal",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 41,
+		"cost": 250,
+		"uniques": ["[-30]% maintenance costs"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Sandinista",
+		"uniqueTo": "Nicaragua",
+		"replaces": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 52,
+		"cost": 270,
+		"uniques": ["[+30]% Strength <vs [Ranged Gunpowder] units>"],
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Songenepan",
 		"uniqueTo": "Sumenep",
 		"replaces": "Musketman",

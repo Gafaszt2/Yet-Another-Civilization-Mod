@@ -1,5 +1,40 @@
 [
 	{
+		"name": "Hausa Mosque",
+		"uniqueTo": "Nigeria",
+		"replaces": "Grand Temple",
+		"cost": 125,
+		"culture": 1,
+		"gold": 2,
+		"faith": 9,
+		"uniques": ["[+5]% [Faith] [in this city]","Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
+	{
+		"name": "Khauxanas",
+		"uniqueTo": "Namibia",
+		"replaces": "Castle",
+		"cityStrength": 8,
+		"cityHealth": 27,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[+1 Faith] from [Desert] tiles without [Farm] [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Modernism Library",
+		"uniqueTo": "Nicaragua",
+		"replaces": "Theatre",
+		"happiness": 4,
+		"culture": 2,
+		"hurryCostModifier": 10,
+		"maintenance": 1,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+	{
 		"name": "Taneyan Lanjhang",
 		"uniqueTo": "Sumenep",
 		"replaces": "Windmill",
