@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Mtepe",
+		"uniqueTo": "Kilwa",
+		"replaces": "Galleass",
+		"unitType": "Ranged Water",
+		"movement": 3,
+		"strength": 19,
+		"rangedStrength": 21,
+		"cost": 90,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Yan Lifida",
 		"uniqueTo": "Nigeria",
 		"replaces": "Knight",

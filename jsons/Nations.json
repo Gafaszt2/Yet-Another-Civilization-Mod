@@ -1,5 +1,30 @@
 [
 	{
+		"name": "Kilwa",
+		"leaderName": "Ali ibn al-Hassan",
+		"adjective": ["Kilwa"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [120, 66, 24],
+		"innerColor": [215, 255, 168],
+		"uniqueName": "Swahili Traders",
+		"uniques": ["[+1 Gold, +1 Faith] from every [Coast]","[+1 Gold, +1 Faith] from every [Ocean]","[+2 Gold] from every [Luxury resource]"],
+		"cities": ["Kilwa Kisiwani", "Zanzibar", "Mombasa", "Malindi", "Sofala", "Pemba", "Mozambique", "Mogadishu", "Lamu", "Mahajanga"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Nigeria",
 		"leaderName": "Awolowo",
 		"adjective": ["Nigeria"],
