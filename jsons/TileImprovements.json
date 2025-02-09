@@ -1,5 +1,33 @@
 [
 	{
+		"name": "Tree House"
+        "uniqueTo": "The Korowai",
+		"terrainsCanBeBuiltOn": ["Jungle"],
+		"food": 2,
+		"culture": 1,
+        "techRequired": "Construction",
+		"turnsToBuild": 4,
+		"uniques": ["Unpillagable"],
+       },
+	{
+		"name": "Mumu"
+        "uniqueTo": "Asaro",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 2,
+        "techRequired": "Pottery",
+		"turnsToBuild": 4,
+		"uniques": ["Unpillagable"],
+       },
+	{
+		"name": "Haru Oms"
+        "uniqueTo": "The Nama",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"culture": 2,
+        "techRequired": "Animal Husbandry",
+		"turnsToBuild": 6,
+		"uniques": ["Unpillagable"],
+       },
+	{
 		"name": "Hare Paenga",
                 "uniqueTo": "Rapa Nui",
                 "turnsToBuild": 7,

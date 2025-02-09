@@ -1,5 +1,105 @@
 [
 	{
+		"name": "The Korowai",
+		"leaderName": "Kilikili",
+		"adjective": ["The Korowai"],
+		"startBias":["Jungle"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [245, 144, 61],
+		"innerColor": [66, 13, 11],
+		"uniqueName": "Khakhua Killer",
+		"uniques": ["[-60]% maintenance costs","[+10]% Production when constructing [Melee] units [in all cities]","Earn [70]% of killed [Wounded] unit's [Cost] as [Faith]"],
+		"cities": ["Yaniruma", "Mu", "Mbasman", "Manggél", "Yafufla", "Mabül", "Khaiflambölup"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Asaro",
+		"leaderName": "Ruipo Okoroho",
+		"adjective": ["Asaro"],
+		"startBias":["Hill","Jungle"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [215, 240, 177],
+		"innerColor": [32, 48, 32],
+		"uniqueName": "Puri Puri",
+		"uniques": ["[+1 Gold, +2 Faith] per [3] population [in all cities]","[+2 Gold, +2 Faith] in cities on [Jungle] tiles"],
+		"cities": ["Goroka", "Komunive", "Watabung", "Anengu", "Kombiangu", "Namta", "Pikosa", "Aneguyufa", "Kwonggi", "Wesan"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Palau",
+		"leaderName": "Kuniwo Nakamura",
+		"adjective": ["Palau"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [67, 72, 168],
+		"innerColor": [189, 203, 255],
+		"uniqueName": "Chelbacheb",
+		"uniques": ["[+1 Gold, +1 Food] [in all cities]","[+1 Gold, +3 Culture] from [Atoll] tiles [in all cities]","[+1 Culture] from each Trade Route"],
+		"cities": ["Koror City", "Ngerulmud", "Meyuns", "Kloulklubed", "Ulimang", "Imeong", "Mongami", "Mengellang", "Ngersuul", "Ngereklmadel"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Nama",
+		"leaderName": "Hendrik Witbooi",
+		"adjective": ["The Nama"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [240, 187, 127],
+		"innerColor": [13, 12, 11],
+		"uniqueName": "Chief of Great Namaqualand",
+		"uniques": ["[+2 Culture] per [3] population [in all cities]","[+50]% [Culture] from City-States","Gifts of Gold to City-States generate [+30]% more Influence"],
+		"cities": ["Gibeon", "Hornkranz", "Hoachanas", "Warmbad", "Utusab", "Rooibank", "Gochas", "Lokgwabe", "Amper-Bo", "Koës", "Bethanie", "Schlip"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Kilwa",
 		"leaderName": "Ali ibn al-Hassan",
 		"adjective": ["Kilwa"],

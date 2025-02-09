@@ -1,5 +1,27 @@
 [
 	{
+		"name": "Ngudangu",
+		"uniqueTo": "Murrinh Patha",
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"food": 2,
+		"faith": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Bai",
+		"uniqueTo": "Palau",
+		"replaces": "Amphitheater",
+		"culture": 4,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"faith": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
 		"name": "Coral Lighthouse",
 		"uniqueTo": "Kilwa",
 		"replaces": "Lighthouse",
