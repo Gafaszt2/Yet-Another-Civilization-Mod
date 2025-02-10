@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Lanceiro",
+		"uniqueTo": "Rio Grande do Sul",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 160,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I","Formation II","Drill I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Free Slave",
+		"uniqueTo": "Quilombo",
+		"replaces": "Musketman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 26,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"promotions": ["Woodsman"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Red Band",
 		"uniqueTo": "Murrinh Patha",
 		"replaces": "Musketman",

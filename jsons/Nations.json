@@ -1,5 +1,55 @@
 [
 	{
+		"name": "Quilombo",
+		"leaderName": "Zumbi dos Palmares",
+		"adjective": ["Quilombo"],
+		"startBias":["Jungle"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [54, 41, 36],
+		"innerColor": [237, 223, 218],
+		"uniqueName": "Resilient Spirit",
+		"uniques": ["[-60]% maintenance costs","[+10]% Production when constructing [Melee] units [in all cities]","Earn [70]% of killed [Wounded] unit's [Cost] as [Faith]"],
+		"cities": ["Palmares", "Macaco", "Amaro", "Dambraganga", "Mocambo", "Cafundó", "Jabaquara"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Rio Grande do Sul",
+		"leaderName": "Bento Gonçalves",
+		"adjective": ["Rio Grande do Sul"],
+		"startBias":["Jungle"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [245, 144, 61],
+		"innerColor": [66, 13, 11],
+		"uniqueName": "Brasilian Pampas Prosperity",
+		"uniques": ["[-60]% maintenance costs","[+10]% Production when constructing [Melee] units [in all cities]","Earn [70]% of killed [Wounded] unit's [Cost] as [Faith]"],
+		"cities": ["Porto Alegre", "Pelotas", "Santa Maria", "Caxias do Sul", "Bagé", "Uruguaiana", "Santa Cruz do Sul"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "The Korowai",
 		"leaderName": "Kilikili",
 		"adjective": ["The Korowai"],

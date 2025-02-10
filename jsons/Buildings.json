@@ -1,4 +1,26 @@
+
 [
+	{
+		"name": "Chimarrao Estancia",
+		"uniqueTo": "Rio Grande do Sul",
+		"replaces": "Water Mill",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Capoeira Barracks",
+		"uniqueTo": "Quilombo",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"culture": 1,
+		"happiness": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
 	{
 		"name": "Ngudangu",
 		"uniqueTo": "Murrinh Patha",
