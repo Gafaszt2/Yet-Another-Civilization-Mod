@@ -14,7 +14,7 @@
 	{
 		"name": "Imperial Diet",
 		"uniqueTo": "Holy Roman Empire",
-		"replaces": "National Treasury",
+		"replaces": "National Epic",
 		"cost": 125,
 		"gold": 9,
 		"culture": 4,
