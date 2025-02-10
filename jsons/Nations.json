@@ -3475,11 +3475,10 @@
 			"Midlands", "Mashonaland"]
 	},
       {
-		//nations
-		"name": "Habsburg Empire",
-		"leaderName": "Maria Theresa",
-		"adjective": ["Habsburg"],
-		"startBias": ["Tundra"],
+		"name": "Holy Roman Empire",
+		"leaderName": "Francis II",
+		"adjective": ["Holy Roman Empire"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
@@ -3494,11 +3493,11 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [95, 71, 67],
-		"innerColor": [253, 113, 113],
-		"uniqueName": "House of Habsburg",
-		"uniques": ["[-50]% maintenance costs <for [Land] units>", "[+1 Culture] from every [Fort]", "[+1 Gold] [in all cities]"],
-		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
+		"outerColor": [245, 161, 66],
+		"innerColor": [6, 5, 10],
+		"uniqueName": "Heiliges Römisches Reich",
+		"uniques": ["[+1 Gold] from every specialist [in all cities]","[+100]% [Gold] from City-States","Gifts of Gold to City-States generate [+15]% more Influence","Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
+		"cities": ["Wetzlar", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
 			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"],

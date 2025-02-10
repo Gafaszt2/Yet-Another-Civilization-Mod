@@ -1,6 +1,28 @@
 
 [
 	{
+		"name": "Hivernant",
+		"uniqueTo": "Metis",
+		"replaces": "Granary",
+		"food": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Lumber mill] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Imperial Diet",
+		"uniqueTo": "Holy Roman Empire",
+		"replaces": "National Treasury",
+		"cost": 125,
+		"gold": 9,
+		"culture": 4,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Guilds"
+	},
+	{
 		"name": "Chimarrao Estancia",
 		"uniqueTo": "Rio Grande do Sul",
 		"replaces": "Water Mill",

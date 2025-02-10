@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Buffalo Runner",
+		"uniqueTo": "Metis",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 27,
+		"cost": 165,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can build [Lumber mill] improvements on tiles","Can build [Camp] improvements on tiles","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Lanceiro",
 		"uniqueTo": "Rio Grande do Sul",
 		"replaces": "Lancer",
@@ -1826,35 +1842,20 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
-        {
+	{
 		"name": "Reiter",
-		"unitType": "Mounted",
 		"replaces": "Cavalry",
-		"uniqueTo": "Habsburg Empire",
-		"movement": 5,
-		"strength": 30,
-		"cost": 205,
+		"uniqueTo": "Holy Roman Empire",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 35,
+		"cost": 225,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["[+35]% to Flank Attack bonuses","[+30]% Strength when stacked with [Great General]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
-	},
-        {
-		"name": "Magyar Grenadier",
-		"unitType": "Siege",
-            "replaces": "Cannon",
-		"uniqueTo": "Habsburg Empire",
-		"movement": 3,
-		"strength": 10,
-		"rangedStrength": 20,
-		"cost": 175,
-		"requiredTech": "Chemistry",
-		"upgradesTo": "Artillery",
-		"obsoleteTech": "Dynamite",
-		"uniques": ["[+180]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Never appears as a Barbarian unit"],
-		"attackSound": "cannon"
 	},
         {
 		"name": "Great Builder",
