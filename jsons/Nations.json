@@ -3476,7 +3476,7 @@
 	},
       {
 		"name": "Holy Roman Empire",
-		"leaderName": "Francis II",
+		"leaderName": "Charles V",
 		"adjective": ["Holy Roman Empire"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
@@ -3495,7 +3495,7 @@
 				
 		"outerColor": [245, 161, 66],
 		"innerColor": [6, 5, 10],
-		"uniqueName": "Heiliges Römisches Reich",
+		"uniqueName": "Universal Monarchy",
 		"uniques": ["[+1 Gold] from every specialist [in all cities]","[+100]% [Gold] from City-States","Gifts of Gold to City-States generate [+15]% more Influence","Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
 		"cities": ["Wetzlar", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
