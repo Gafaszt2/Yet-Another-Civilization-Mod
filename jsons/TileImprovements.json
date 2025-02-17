@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Palatial Fortress"
+		"uniqueTo": "Judea",
+		"terrainsCanBeBuiltOn": ["Land"],
+                "techRequired": "Engineering",
+		"turnsToBuild": 10,
+		"food": 1,
+		"uniques": ["Gives a defensive bonus of [+50]%","Unpillagable","Can be built outside your borders"],
+       },
+	{
 		"name": "Tree House"
         "uniqueTo": "The Korowai",
 		"terrainsCanBeBuiltOn": ["Jungle"],
@@ -8,6 +17,15 @@
         "techRequired": "Construction",
 		"turnsToBuild": 4,
 		"uniques": ["Unpillagable"],
+       },
+	   {
+		"name": "Souk"
+        "uniqueTo": "Lebanon",
+		"terrainsCanBeBuiltOn": ["Desert","Plains","River"],
+		"gold": 1,
+        "techRequired": "Guilds",
+		"turnsToBuild": 4,
+		"uniques": ["[+2 Gold, +1 Production] from [Incense] tiles","[+3 Gold] from [Salt] tiles","[+2 Gold, +1 Production] from [Marble] tiles","[+3 Gold] from [Ivory] tiles","Unpillagable"],
        },
 	{
 		"name": "Mumu"
