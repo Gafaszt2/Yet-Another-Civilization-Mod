@@ -1,6 +1,43 @@
 
 [
 	{
+		"name": "Pizzeria",
+		"uniqueTo": "Italy",
+		"replaces": "Windmill",
+		"gold": 3,
+		"food": 3,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
+	},
+	{
+		"name": "Djouf Market",
+		"uniqueTo": "Chad",
+		"replaces": "Market",
+		"gold": 4,
+		"happiness": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "National Store",
+		"uniqueTo": "Paraguay",
+		"replaces": "Forge",
+		"maintenance": 1,
+		"food": 2,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+	},
+	{
 		"name": "Ruca",
 		"uniqueTo": "Tehuelche People",
 		"replaces": "Granary",
@@ -74,7 +111,7 @@
 		"maintenance": 1,
 		"culture": 1,
 		"happiness": 1,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -561,7 +598,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
 {
@@ -1240,7 +1277,7 @@
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "[+1 Food] from [Horses] tiles [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+1 Food] from [Horses] tiles [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
         {

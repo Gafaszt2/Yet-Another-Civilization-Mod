@@ -1,5 +1,46 @@
 [
 	{
+		"name": "Alpino",
+		"uniqueTo": "Italy",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 140,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"uniques": ["[+35]% to Flank Attack bonuses","[+25]% Strength <when fighting in [Hill] tiles>"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Panhard AML",
+		"uniqueTo": "Chad",
+		"replaces": "Modern Armor",
+		"unitType": "Armored",
+		"movement": 6,
+		"strength": 100,
+		"cost": 310,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"upgradesTo": "Giant Death Robot",
+		"uniques": ["[-44]% maintenance costs","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Primero de Linea",
+		"uniqueTo": "Paraguay",
+		"replaces": "Musketman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 13,
+		"cost": 45,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Sebastenoi",
 		"uniqueTo": "Judea",
 		"replaces": "Swordsman",
