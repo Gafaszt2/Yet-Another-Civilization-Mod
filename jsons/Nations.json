@@ -1,5 +1,105 @@
 [
 	{
+		"name": "The Kulin",
+		"leaderName": "William Barak",
+		"adjective": ["The Kulin"],
+		"startBias":["Grassland"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [23, 16, 61],
+		"innerColor": [255, 109, 56],
+		"uniqueName": "Tanderrum",
+		"uniques": ["Gain [10]-[30] [Culture] <upon founding a city>","Gain [30]-[40] [Culture] <upon discovering a Natural Wonder>","[+15]% [Gold] from City-States","[+15]% [Science] from City-States"],
+		"cities": ["Coranderrk", "Barere Barere Balug", "Mooroolbark", "Coolaroo", "Marnebek", "Tanjenong", "Eumemmerring", "Koo Wee Rup"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Yaghan",
+		"leaderName": "Masémikensh",
+		"adjective": ["Yaghan"],
+		"startBias":["Plains","Tundra","Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [32, 38, 33],
+		"innerColor": [118, 196, 135],
+		"uniqueName": "Uttermost Part of the Earth",
+		"uniques": ["Enemy [Wounded] units must spend [1] extra movement points when inside your territory","All newly-trained [Civilian] units [in all cities] receive the [Woodsman] promotion","All newly-trained [Civilian] units [in all cities] receive the [Medic] promotion"],
+		"cities": ["Wulaia", "Paiakoala", "Lapataia", "Ukika", "Shunuko", "Yachkusin", "Ushuwaia", "Yendegaia", "Acigami", "Lewaia", "Shunushu", "Tuwujilumbiauaia"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Dilmun",
+		"leaderName": "Yagli-El",
+		"adjective": ["Dilmun"],
+		"startBias":["Coast","Fresh Water"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [219, 211, 195],
+		"innerColor": [31, 29, 27],
+		"uniqueName": "The Land of Immortality",
+		"uniques": ["[+1 Food] from [Fresh Water] tiles [in all cities]","[+1 Gold] from [Luxury resource] tiles [in all cities]","[+2 Gold] from [Gold] tiles [in all cities]","[+2 Gold] from [Silver] tiles [in all cities]","[+2 Gold] from [Copper] tiles [in all cities]"],
+		"cities": ["Qal'at al-Bahrain", "Sar", "Ain Umm Sujoor", "Umm an-Nussi", "Umm ar-Ramadh", "Barbar", "Diraz", "A'ali", "Agarum"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Antarctica",
+		"leaderName": "Roald Amundsen",
+		"adjective": ["Antarctica"],
+		"startBias":["Snow","Avoid [Grassland]","Avoid [Plains]","Avoid [Desert]","Avoid [Coast]","Avoid [Hill]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [52, 110, 235],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Heroic Age of Exploration",
+		"uniques": ["[+3 Science] in cities on [Snow] tiles","[+2 Science] in cities on [Tundra] tiles","[+1 Gold, +2 Science] from [Snow] tiles [in all cities]"],
+		"cities": ["Framheim", "McMurdo", "Amundsen-Scott", "Polheim", "Troll", "Tor", "Vostok", "Aboa", "Arctowski", "Vernadsky", "Concordia", "Mendel", "Law-Racovita"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Italy",
 		"leaderName": "Victor Emmanuel II",
 		"adjective": ["Italy"],
@@ -20,7 +120,7 @@
 		"outerColor": [138, 255, 157],
 		"innerColor": [255, 74, 71],
 		"uniqueName": "Pizza, Guerra e Pasta",
-		"uniques": ["[+3 Gold] from [Plantation] tiles [in all cities]","[Great Merchant] is earned [+25]% faster","[+3 Gold] from [Customs house] tiles [in all cities]","[Gold] cost of purchasing [Gunpowder] units [-35]%"],
+		"uniques": ["[+1 Gold] from [Plantation] tiles [in all cities]","[Great Merchant] is earned [+25]% faster","[+3 Gold] from [Customs house] tiles [in all cities]","[Gold] cost of purchasing [Gunpowder] units [-35]%"],
 		"cities": ["Rome",
 "Milan",
 "Venice",

@@ -16,6 +16,10 @@
 		"resourceType": "Luxury",
 	},
 	{
+		"name": "Possum Skin Cloak",
+		"resourceType": "Luxury",
+	},
+	{
 		"name": "Bison",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Grassland"],

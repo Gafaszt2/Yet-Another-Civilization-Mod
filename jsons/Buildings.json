@@ -1,6 +1,27 @@
 
 [
 	{
+		"name": "Walert-Gurn Maker",
+		"uniqueTo": "The Kulin",
+		"replaces": "Market",
+		"gold": 3,
+		"happiness": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Possum Skin Cloak]"],
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Ma'bad",
+		"uniqueTo": "Dilmun",
+		"replaces": "Shrine",
+		"faith": 1,
+		"food": 1,
+		"cost": 40,
+		"requiredTech": "Pottery",
+	},
+	{
 		"name": "Pizzeria",
 		"uniqueTo": "Italy",
 		"replaces": "Windmill",

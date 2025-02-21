@@ -1,12 +1,29 @@
 [
 	{
+		"name": "Madāfin"
+		"uniqueTo": "Dilmun",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Agriculture",
+		"turnsToBuild": 5,
+		"uniques": ["[+1 Culture] for each adjacent [Farm]","[+1 Faith] for each adjacent [Pasture]"]
+       },
+	{
+		"name": "Research Station"
+		"uniqueTo": "Antarctica",
+		"terrainsCanBeBuiltOn": ["Snow","Tundra"],
+        "techRequired": "Scientific Theory",
+		"turnsToBuild": 5,
+		"science": 2,
+		"uniques": ["Gives a defensive bonus of [+50]%","[-2 Science] for each adjacent [Research Station]"]
+       },
+	{
 		"name": "Palatial Fortress"
 		"uniqueTo": "Judea",
 		"terrainsCanBeBuiltOn": ["Land"],
                 "techRequired": "Engineering",
 		"turnsToBuild": 10,
 		"food": 1,
-		"uniques": ["Gives a defensive bonus of [+50]%","Unpillagable","Can be built outside your borders"],
+		"uniques": ["Gives a defensive bonus of [+50]%","Can be built outside your borders"]
        },
 	{
 		"name": "Tree House"
