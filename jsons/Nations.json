@@ -1,5 +1,38 @@
 [
 	{
+		"name": "Phoenicians",
+		"leaderName": "Hiram I",
+		"adjective": ["Phoenicians"],
+		"startBias":["Coast","Plains"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [115, 50, 168],
+		"innerColor": [207, 215, 255],
+		"uniqueName": "Mediterranean Colonies",
+		"uniques": ["[+2 Gold] from [Coast] tiles [in all cities]","Gain a free [Cothon] [in all cities] <on foreign continents>","Starts with [Sailing]"],
+		"cities": ["Tyre",
+"Sidon",
+"Byblos",
+"Carthage",
+"Arwad",
+"Ugarit",
+"Gadir",
+"Hippo Regius",
+"Kition"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "The Kulin",
 		"leaderName": "William Barak",
 		"adjective": ["The Kulin"],
@@ -3297,9 +3330,9 @@
 	}
 
 {
-		"name": "Dravidians",
+		"name": "Chola",
 		"leaderName": "Rajendra Chola I",
-		"adjective": ["Dravidians"],
+		"adjective": ["Chola"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		

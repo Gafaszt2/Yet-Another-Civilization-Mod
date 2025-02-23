@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Bireme",
+		"uniqueTo": "Phoenicians",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 14,
+		"cost": 39,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Diorite Axeman",
 		"uniqueTo": "The Kulin",
 		"replaces": "Warrior",
@@ -1604,7 +1618,7 @@
 	},
 {
 		"name": "Thirisadai",
-                "uniqueTo": "Dravidians",
+                "uniqueTo": "Chola",
 		"replaces": "Galleass",
 		"unitType": "Melee Water",
 		"movement": 3,
@@ -1618,7 +1632,7 @@
 	},
 {
 		"name": "Urumi Swordsman",
-                "uniqueTo": "Dravidians",
+                "uniqueTo": "Chola",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
