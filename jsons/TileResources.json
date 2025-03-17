@@ -28,4 +28,9 @@
                 "uniques": ["Generated on every [10] tiles <in [Plains] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"]
 		"improvementStats": {"production": 1}
 	},
+	{
+		"name": "Nomad Manpower",
+		"resourceType": "Strategic",
+		"uniques":["Cannot be traded","Stockpiled"]
+	}
 ]

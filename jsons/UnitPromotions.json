@@ -10,6 +10,10 @@
         "uniques": ["[+15]% Strength <when fighting in [Tundra] tiles> <when attacking>","[+15]% Strength <when fighting in [Snow] tiles> <when attacking>","[+15]% Strength <when fighting in [Forest] tiles> <when attacking>","[+1] Sight"]
 	},
         {
+                "name": "Guaycuru Raider",
+                "uniques": ["[+15]% Strength <vs cities>"]
+                },
+        {
                 "name": "Mountain Lifestyle",
                 "uniques": ["[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
                 },

@@ -1,5 +1,59 @@
 [
 	{
+		"name": "The Guaycuru",
+		"leaderName": "Eso",
+		"adjective": ["The Guaycuru"],
+		"startBias":["Grassland"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [52, 61, 48],
+		"innerColor": [247, 245, 168],
+		"uniqueName": "Dance of the Scalps",
+		"uniques": [
+	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+	"All newly-trained [Land] units [in all cities] receive the [Guaycuru Raider] promotion","Cannot build [Settler] units","May not annex cities"],
+		"cities": ["Misión El Toba", "Sombrero Negro", "San Martín del Tabacal", "Laguna Martín", "Laguna Los Paces", "Jesús María", "Nuevo Pilcomayo"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Dzungars",
+		"leaderName": "Galdan Khan",
+		"adjective": ["The Dzungars"],
+		"startBias":["Grassland"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [250, 222, 217],
+		"innerColor": [63, 82, 145],
+		"uniqueName": "The Last Nomadic Empire",
+		"uniques": [
+	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+	"All newly-trained [Land] units [in all cities] receive the [Mountain Lifestyle] promotion","Land units may cross [Mountain] tiles after the first [Great General] is earned","Cannot build [Settler] units","May not annex cities"],
+		"cities": ["Ghulja", "Tarbagatai", "Uliastai", "Irtysh", "Ürümqi", "Yulduz", "Manas", "Hami", "Kobdo", "Kur-Karausu", "Ölgii", "Altai", "Kyakhta"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Phoenicians",
 		"leaderName": "Hiram I",
 		"adjective": ["Phoenicians"],
