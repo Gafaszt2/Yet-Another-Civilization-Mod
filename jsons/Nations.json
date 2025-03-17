@@ -1,5 +1,80 @@
 [
 	{
+		"name": "Punt",
+		"leaderName": "Ati",
+		"adjective": ["Punt"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 176, 77],
+		"innerColor": [99, 61, 12],
+		"uniqueName": "Ta Netjer",
+		"uniques": ["Gain [100] [Gold] <upon constructing [Temple]>","Gain [300] [Gold] <upon gaining a [Great Prophet] unit>"],
+		"cities": ["Punt", "Irem", "Nemyw", "Wargaade", "Adulis", "Avalites", "Malao", "Mosylon", "Mundus", "Opone", "Pano", "Akannai", "Aromata"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Jolof",
+		"leaderName": "Ndiadiane Ndiaye",
+		"adjective": ["Jolof"],
+		"startBias":["Desert","River"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [237, 209, 171],
+		"innerColor": [54, 46, 36],
+		"uniqueName": "Dexug Senegaal",
+		"uniques": ["[+1 Food, +1 Culture] from [Fresh Water] tiles [in all cities]","[+1 Culture] in cities on [Fresh Water] tiles"],
+		"cities": ["Worxax", "Njiayeen Sabur", "Thieung", "Ouarkhokh", "Yang-Yang", "Ndiourbel", "Diakhao", "Kahone", "Mboul", "Lambaye"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Funj",
+		"leaderName": "Amara Dunqas",
+		"adjective": ["Funj"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [26, 35, 79],
+		"innerColor": [110, 134, 255],
+		"uniqueName": "Blue Sultanate",
+		"uniques": ["Free [Great General] appears <upon conquering a city>","Upon capturing a city, receive [2] times its [Faith] production as [Culture] immediately","Upon capturing a city, receive [2] times its [Faith] production as [Gold] immediately"],
+		"cities": ["Sennar", "Dongola", "Lam'ul", "Qarri", "Khurtum", "Umm Durman", "Al-Ays", "Arbadji", "Barbar", "Fazughli", "Salima", "Karkoj"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "The Guaycuru",
 		"leaderName": "Eso",
 		"adjective": ["The Guaycuru"],
@@ -439,9 +514,9 @@
 		"spyNames": ["Saki"]
 	},
 	{
-		"name": "Tehuelche People",
+		"name": "Tehuelche",
 		"leaderName": "Casimiro Biguá",
-		"adjective": ["Tehuelche People"],
+		"adjective": ["Tehuelche"],
 		"startBias":["Plains"],
 		"preferredVictoryType": "Domination",
 	
@@ -951,9 +1026,9 @@
 		"spyNames": ["Saki"]
 	},
 	{
-		"name": "Maasai People",
+		"name": "The Maasai",
 		"leaderName": "Mbatian",
-		"adjective": ["Maasai People"],
+		"adjective": ["The Maasai"],
 		"startBias":["Plains","Hill"],
 		"preferredVictoryType": "Domination",
 	
@@ -1052,9 +1127,9 @@
 		"cities": ["Surat","Madras","Banten","West Java","Jayakarta","Jepara","Aceh","Pariaman","Jambi","Ambon","Banda Neira","Bengkulu","Cirebon","Makassar","Malacca","Patani","Ternate"]
 	},
 	{
-		"name": "Philipines",
+		"name": "The Philippines",
 		"leaderName": "Emilio Aguinaldo",
-		"adjective": ["Philipines"],
+		"adjective": ["The Philippines"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
@@ -1155,9 +1230,9 @@
 		"cities": ["Apia","Salelologa","Afega","Afiamalu","Alafua","Alamagoto","Aleipata","Aleisa","Amaile","Amouli","Aopo","Apai","Apolima Tai","Apolima Uta","Asaga","Asau","Auala","A’ufaga","Aele","Elisefou"],
 	},
 	{
-		"name": "Tui Tonga",
+		"name": "Tonga",
 		"leaderName": "Aho eitu",
-		"adjective": ["Tongan"],
+		"adjective": ["Tonga"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
@@ -1228,9 +1303,9 @@
 		"cities": ["Whangarei","Rotorua","Taupo","Napier","Whanganui","Manukau","Waitakere","Porirua","Tauranga","Hamilton"]
     },
 	{
-		"name": "Huron Confederacy",
+		"name": "Huron",
 		"leaderName": "Kondiaronk",
-		"adjective": ["Huron Confederacy"],
+		"adjective": ["Huron"],
 		"startBias": ["Forest"],
 		"preferredVictoryType":"Diplomatic",
 
@@ -1422,9 +1497,9 @@
 "Filadelfia"],
 	},
 {
-		"name": "Norman Duchy",
+		"name": "Normandy",
 		"leaderName": "William the Conqueror",
-		"adjective": ["Norman Duchy]"],
+		"adjective": ["Normandy]"],
 		"startBias": ["Forest","Hill"],
 		"preferredVictoryType":"Diplomatic",
 
@@ -1486,9 +1561,9 @@
 		"cities": ["Marib", "Sana'a", "Sirwah", "Nashan", "Baynun", "Najran", "Samhar", "Haram", "Baraqish", "Nashaq", "Mocha", "Kaminahu", "Shabwa", "Yathill", "Qarnawu", "Timna", "Kohr Rori", "Ragmat"],
 	},
 {
-		"name": "Himyarite Kingdom",
+		"name": "Himyar",
 		"leaderName": "Dhu Nuwas",
-		"adjective": ["Himyarite Kingdom]"],
+		"adjective": ["Himyar]"],
 		"startBias": ["Coast","Desert"],
 		"preferredVictoryType":"Diplomatic",
 
@@ -2145,9 +2220,9 @@
 	},
 
 {
-		"name": "Umayyad Caliphate",
+		"name": "The Umayyads",
 		"leaderName": "Abd al-Malik",
-		"adjective": ["Umayyad Caliphate"],
+		"adjective": ["The Umayyads"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 
@@ -2221,9 +2296,9 @@
 	},
 
 {
-		"name": "Oyo Kingdom",
+		"name": "Oyo",
 		"leaderName": "Ajiboyede",
-		"adjective": ["Ajiboyede"],
+		"adjective": ["Oyo"],
 		"startBias": ["Avoid [Tundra]","Grassland"],
 		"preferredVictoryType": "Domination",
 
@@ -2533,9 +2608,9 @@
 "Pomerania"]
 	},
 {
-		"name": "British Empire",
+		"name": "Great Britain",
 		"leaderName": "Queen Victoria",
-		"adjective": ["Bititsh"],
+		"adjective": ["Great Britain"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
@@ -2579,9 +2654,9 @@
 "Toronto"]
 	},
 {
-		"name": "Irak",
+		"name": "Iraq",
 		"leaderName": "Nouri al-Maliki",
-		"adjective": ["Irak"],
+		"adjective": ["Iraq"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
@@ -2755,9 +2830,9 @@
 "Merak"]
 	},
 {
-		"name": "The Azeris",
+		"name": "Azerbaijan",
 		"leaderName": "King Urnayr",
-		"adjective": ["Azeris"],
+		"adjective": ["Azerbaijan"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
@@ -2789,7 +2864,7 @@
 "Quba"]
 	},
 {
-		"name": "Hutsul Republic",
+		"name": "Hutsul",
 		"leaderName": "Yermak Timofeyevich",
 		"adjective": ["Hutsul"],
 		"startBias": ["Forest"],
@@ -2828,9 +2903,9 @@
 
 
 {
-		"name": "Siberian Khanate",
+		"name": "Sibir",
 		"leaderName": "Yadigar",
-		"adjective": ["Siberia"],
+		"adjective": ["Sibir"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		
@@ -3019,7 +3094,7 @@
 "Adab"]
 	},
 {
-		"name": "Kingdom of Jerusalem",
+		"name": "Jerusalem",
 		"leaderName": "Baldwin IV",
 		"adjective": ["Jerusalem"],
 		"startBias": ["Flood plains"],
@@ -3079,7 +3154,7 @@
 		"outerColor": [54, 60, 173],
 		"innerColor": [255, 207, 105],
 		"uniqueName": "Golden Field",
-		"uniques": ["[+2 Faith] from every specialist [in capital]","[+2 Faith] from every specialist [in all cities] <during the [Medieval era]>","[+1 Gold] from [Farm] tiles [in all cities]","[+2 Gold] from [Farm] tiles [in all cities] <after discovering [Fertilizer]>"],
+		"uniques": ["[+1 Faith] from every specialist [in capital]","[+1 Faith] from every specialist [in all cities] <during the [Medieval era]>","[+1 Gold] from [Wheat] tiles [in capital]","[+2 Gold] from [Wheat] tiles [in all cities] <after discovering [Fertilizer]>"],
 		"cities": ["Kyiv"
 "Lviv",
 "Odessa",
@@ -3175,9 +3250,9 @@
 "Jhelum"]
 	},
 {
-		"name": "Merina Kingdom",
+		"name": "Madagascar",
 		"leaderName": "Queen Ranavalona I",
-		"adjective": ["Merina"],
+		"adjective": ["Madagascar"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
@@ -3225,7 +3300,7 @@
 		"cities": ["Benin City", "Udo" ,"Ekpoma", "Auchi", "Akure", "Warri", "Ondo", "Ife","Ijebu Ode","Abeokuta"]
 	},
         {
-		"name": "Kongo Kingdom",
+		"name": "Kongo",
 		"leaderName": "Henrique III",
 		"adjective": ["Kongo"],
 		"startBias": ["Jungle"],
@@ -3250,7 +3325,7 @@
 		"cities": ["Mbanza Kongo", "Soyo" ,"Boma", "Matadi", "Bandundu", "Kinshasa", "Kisantu", "Kikwit","Kananga","Lubumbashi","Likasi"]
 	},
         {
-		"name": "Dahomey Kingdom",
+		"name": "Dahomey",
 		"leaderName": "King Béhanzin",
 		"adjective": ["Dahomey"],
 		"startBias": ["Jungle"],
@@ -3278,9 +3353,9 @@
 
 
 {
-		"name": "Gallia",
+		"name": "Gaul",
 		"leaderName": "Vercingetorix",
-		"adjective": ["Gallia"],
+		"adjective": ["Gaul"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
@@ -3311,11 +3386,11 @@
 "Divodurum",
 "Alesia"
 ],
-	}
+	},
 {
-		"name": "Seljuk Empire",
+		"name": "Great Seljuk",
 		"leaderName": "Alp Arslan",
-		"adjective": ["Seljuk"],
+		"adjective": ["Great Seljuk"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
@@ -3346,11 +3421,11 @@
 "Baghdad",
 "Tabriz"
 ],
-	}
+	},
 {
-		"name": "Crimean Khanate",
+		"name": "Crimea",
 		"leaderName": "Hacı I Giray",
-		"adjective": ["Crimean"],
+		"adjective": ["Crimea"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
@@ -3381,8 +3456,7 @@
 "Balaklava",
 "Inkerman"
 ],
-	}
-
+	},
 {
 		"name": "Chola",
 		"leaderName": "Rajendra Chola I",
@@ -3422,7 +3496,7 @@
 "Salem",
 "Erode"
 ],
-	}
+	},
 {
 		"name": "Armenia",
 		"leaderName": "Tigranes II",
@@ -3447,8 +3521,7 @@
 		"uniqueName": "Stone Curtain",
 		"uniques": ["[+1 Faith, +2 Culture] in cities on [Hill] tiles","[+2 Faith] in cities on [Hill] tiles <after founding a religion>"],
 		"cities": ["Yerevan","Gyumri", "Artashat", "Tigranocerta", "Yervantashat", "Gavar", "Armavir", "Ararat", "Etchimadzin", "Ani", "Ghapan", "Dvin", "Kars", "Bitlis", "Karahissar", "Erzurum", "Naxcivan"],
-	}
-
+	},
 {
 		"name": "The Goths",
 		"leaderName": "Alaric I",
@@ -3487,7 +3560,7 @@
 "Thessalonica",
 "Hadrianopolis",
 "Philippopolis"],
-	}
+	},
 {
 		"name": "Nubia",
 		"leaderName": "Piye",
@@ -3531,8 +3604,7 @@
 "Kosha",
 "Tangur",
 "Okma"],
-	}
-
+	},
 {
 		"name": "Wahgi",
 		"leaderName": "Kaipel Ka",
@@ -3557,7 +3629,7 @@
 		"uniqueName": "Beware The Man Who Never Dies",
 		"uniques": ["No damage penalty for wounded units","May heal outside of friendly territory","[+5]% XP gained from combat"],
 		"cities": ["Mount Hagen", "Goroka", "Banz", "Korn", "Ambang", "Nondugl", "Kundiawa", "Kuno", "Tolu", "Minj", "Kondiu", "Kombulno", "Wabag", "Baiyer", "Mainakoru", "Pogera", "Mornmaul", "Ero'ara", "Amulibanth"],
-	}
+	},
 {
 		"name": "Motu",
 		"leaderName": "Edai Siabo",
@@ -3582,7 +3654,7 @@
 		"uniqueName": "Hiri Trade Cycle",
 		"uniques": ["[+1 Gold, +2 Culture] from each Trade Route", "[+25]% [Culture] <during We Love The King Day>"],
 		"cities": ["Hanuabada", "Boera", "Elevala", "Baruni", "Tanobada", "Hohodae", "Dobi", "Poreporena", "Tatana", "Vabukori", "Kouderika", "Pari", "Tupuseleia", "Porebada", "Papalealea", "Manumanu", "Barakau", "Koka", "Korobosea", "Roku", "Badihagwa", "Kilakila", "Boteka", "Papa", "Gairi", "Gabagaba", "Doura", "Konedobu", "Gorohu"],
-	}
+	},
 {
 		"name": "Mangkunegaran",
 		"leaderName": "Mangkunegara IV",
@@ -3608,7 +3680,7 @@
 		"uniqueName": "Wedhatama",
 		"uniques": ["Free [Great Artist] appears <upon discovering [Industrialization] technology>","[+2 Faith] from all [Culture] buildings","Provides [1] [Sugar] <with [100]% chance>"],
 		"cities": ["Mangkunegara","Surakarta","Saidabad","Pakubuwonograd","Solo Mangku"],
-	}
+	},
 {
 		"name": "Mughal Empire",
 		"leaderName": "Akbar",
@@ -3634,7 +3706,7 @@
 		"uniqueName": "Conquest of Rajputana",
 		"uniques": ["[-50]% maintenance costs <for [Siege] units>","[+33]% Strength <when fighting in [Hill] tiles>"],
 		"cities": ["Agra","Delhi","Lahore","Fatehpur Sikri","Dhaka","Srinagar","Multan","Allahabad","Kabul"],
-	}
+	},
 {
 		"name": "Indonesia",
 		"leaderName": "Sukarno",
@@ -3660,7 +3732,7 @@
 		"uniqueName": "Pancasila",
 		"uniques": ["[+1 Production] per [2] social policies adopted","[+1 Food] per [1] social policies adopted"],
 		"cities": ["Jakarta", "Surabaya", "Yogyakarta", "Medan", "Bandung", "Semarang", "Palembang", "Makassar", "Pekanbaru", "Bandar Lampung", "Batam", "Padang", "Malang", "Denpasar", "Samarinda", "Banjarmasin", "Serang", "Balikpapan", "Pontianak", "Jambi", "Surakarta", "Tanjung Pinang", "Pangkal Pinang", "Gorontalo", "Ternate", "Metro"],
-	}
+	},
 
 {
 		"name": "Al Andalus",
@@ -3865,7 +3937,7 @@
 		"cities": ["Sanaa", "Taiz", "Amrān", "Raydah", "Huth", "Sa’dah", "Al Hazm", "Jihanah", "Ma’rib", "Harib", "Al Bayda’", "Rida’", "Ma’bar", "Dhamar", "Yarim", "An Nadirah", "Qa’tabah", "Ibb", "At Turbah", "Mecca", "Hays", "Zabid", "Manakhah", "Al Mansuriyah", "Bajil", "Al Hudaydah", "Hajja", "Ad Dabi", "Ad Zaydiyah", "Salif", "Al Qanawis", "Az Zubrah", "Al Luhayyah Suq ‘Abs", "Harad", "Maydi"],
 	},
 {
-		"name": "Sultanate of Darfur",
+		"name": "Darfur",
 		"leaderName": "Ali Dinar",
 		"adjective": ["Darfur"],
 		"startBias": ["Desert"],
@@ -3891,10 +3963,9 @@
 	},
 
         {
-		//nations
-		"name": "Bulgarian Empire",
+		"name": "Bulgaria",
 		"leaderName": "Ivan Asen II",
-		"adjective": ["Bulgarians"],
+		"adjective": ["Bulgaria"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
 		
@@ -3910,8 +3981,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [60, 74, 15],
-		"innerColor": [210, 255, 61],
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 176, 32],
 		"uniqueName": "Apostolic Legacy",
 		"uniques": ["[+1 Production] from every [Mountain]", "[+1 Culture] from every [Citadel]", "[+10]% Production when constructing [Culture] buildings [in all cities]","[+10]% Production when constructing [Production] buildings [in all cities]"],
 		"cities": ["Sofia", "Plovdiv" ,"Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Sliven", "Dobrich",
@@ -3919,7 +3990,6 @@
 			"Pernik", "Haskovo"]
 	},
 	{
-		//nations
 		"name": "Rhodesia",
 		"leaderName": "Ian Douglas Smith",
 		"adjective": ["Rhodesian"],
@@ -3975,9 +4045,9 @@
 			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"],
 	},
 	{
-		"name": "Belgian Empire",
+		"name": "Belgium",
 		"leaderName": "Leopold II",
-		"adjective": ["Belgian Empire"],
+		"adjective": ["Belgium"],
 		"startBias": ["Jungle","River"],
 		"preferredVictoryType": "Scientific",
 		
@@ -4039,7 +4109,6 @@
 "Bukama"],
 	},
       {
-		//nations
 		"name": "Buganda",
 		"leaderName": "Mutesa I",
 		"adjective": ["Buganda"],
@@ -4066,7 +4135,6 @@
 			"Kayunga", "Kyankwanzi", "Luwero"],
 	},
       {
-		//nations
 		"name": "Namibia Basters",
 		"leaderName": "Hans Diergaardt",
 		"adjective": ["Baster"],
@@ -4094,7 +4162,6 @@
 			"Omaheke", "Khomas"]
 	},
       {
-		//nations
 		"name": "Tanzania Nyamwezi",
 		"leaderName": "Isike",
 		"adjective": ["Nyamwezi"],
@@ -4122,7 +4189,6 @@
 			"Tanga", "Mara"]
 	},
       {
-		//nations
 		"name": "Libia Sennusi",
 		"leaderName": "Sidi Mohammed El Mahdi as-Senussi",
 		"adjective": ["Sennusi"],
@@ -4150,7 +4216,6 @@
 			"Sawfajin", "Ghadamis"]
 	},
       {
-		//nations
 		"name": "Yucatan",
 		"leaderName": "Manuel Antonio Ay",
 		"adjective": ["Yucatan"],
@@ -4208,9 +4273,9 @@
         "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
 	},
         {
-		"name": "Shahist Iran",
+		"name": "Pahlavi Iran",
 		"leaderName": "Shah Mohammad Reza Pahlavi",
-		"adjective": ["Persians"],
+		"adjective": ["Pahlavi Iran"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Cultural",
 		
@@ -4342,10 +4407,9 @@
         "spyNames": ["Born"]
     },
     {
-		//nations
-		"name": "United Provinces of The Rio de la Plata",
+		"name": "Río de la Plata",
 		"leaderName": "Manuel Belgrano",
-		"adjective": ["Argentine"],
+		"adjective": ["Río de la Plata"],
 		"startBias": ["Marsh"],
 		"preferredVictoryType": "Scientific",
 		
@@ -4370,8 +4434,7 @@
                             "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"]
 	},
       {
-		//nations
-		"name": "Kingdom of Georgia",
+		"name": "Georgia",
 		"leaderName": "Tamar",
 		"adjective": ["Georgia"],
 		"startBias": ["Marsh"],
@@ -4389,8 +4452,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [224, 150, 179],
-		"innerColor": [177, 31, 31],
+		"outerColor": [250, 230, 230],
+		"innerColor": [117, 15, 15],
 		"uniqueName": "Glory of the World",
 		"uniques": ["[-50]% City-State Influence degradation", "[+2 Gold] from every [Temple]", "[+1 Production] from every [Marsh]"],
 		"cities": ["Tiflis", "Guria" ,"Imereti", "Kakheti", "Kvemo Kartli", "Mtskheta", "Racha", "Zemo Svaneti", "Samtskhe",
@@ -4398,8 +4461,7 @@
 			"Shida Kartli", "Batumi"]
 	},
       {
-		//nations
-		"name": "Kingdom of Croatia",
+		"name": "Croatia",
 		"leaderName": "Petar Krešimir IV",
 		"adjective": ["Croatia"],
 		"startBias": ["Mash"],
@@ -4417,8 +4479,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [224, 150, 179],
-		"innerColor": [60, 90, 145],
+		"outerColor": [255, 255, 255],
+		"innerColor": [240, 0, 0],
 		"uniqueName": "Regnum Dalmatiae et Chroatia",
 		"uniques": ["[+2 Gold] from every [Coast]", "[+2 Food] from every [Marsh]"],
 		"cities": ["Zagreb", "Vukovar" ,"Krapina", "Zagorije", "Sisak", "Moslavina", "Karlovac", "Krizevci", "Varazdin",
@@ -4482,10 +4544,9 @@
 			"Zapala"]
 	},
         {
-		//nations
-		"name": "Inuits",
+		"name": "The Inuit",
 		"leaderName": "Apanuugak",
-		"adjective": ["Inuit"],
+		"adjective": ["The Inuit"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
@@ -4558,9 +4619,9 @@
 		"cities": ["Nan Madol", "Onohnleng" ,"Kepihleng", "Ant Atoll", "Palikir", "Sohehs", "Tipwen", "Dongalap"]
 	},
         {
-		"name": "Central Americans",
+		"name": "Central America",
 		"leaderName": "Francisco Morazán",
-		"adjective": ["Central Americans"],
+		"adjective": ["Central America"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
 		
@@ -4688,9 +4749,9 @@
 		"cities": ["Taaw Tldáaw","X̱aayda Kil","Hl̓aagilda","Dal Kún","Dal Ḵáahlii","T'aaw Tlldaaw","G̱aauuw G̱an","Hlg̱uulaang","Q̱aadas","Tllda G̱awaay"]
 	},
         {
-		"name": "Brasil",
+		"name": "Brazil",
 		"leaderName": "Dom Pedro II",
-		"adjective": ["Brasilian"],
+		"adjective": ["Brazil"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
 		
@@ -4846,9 +4907,9 @@
 			"Nampa","Jerome","Burley","Twin Falls","Blackfoot","McCall","Jackpot","Salmon","Rexburg"]
 	},
         {
-		"name": "Mi Qmak",
+		"name": "Mi'kmaq",
 		"leaderName": "Henri Membertou",
-		"adjective": ["Mi Qmak"],
+		"adjective": ["Mi'kmaq"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
@@ -4872,9 +4933,9 @@
 			"Saint John","Cape Breton","Truro","Bathurst","Brook","Miramichi","Kentville","Summerside","Windsor"]
 	},
         {
-		"name": "Taino Sun",
+		"name": "Taino",
 		"leaderName": "Anagaona",
-		"adjective": ["Taino Sun"],
+		"adjective": ["Taino"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
 		
@@ -4928,9 +4989,9 @@
 
         {
 		"name": "Beothuk",
-		"leaderName": "Desmasduit",
+		"leaderName": "Nonosabasut",
 		"adjective": ["Beothuk"],
-		"startBias": ["Jungle"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
@@ -4945,10 +5006,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [39, 47, 48],
-		"innerColor": [126, 121, 252],
-		"uniqueName": "Ochre People",
-		"uniques": ["[+2 Culture] from every [Forest]", "[+2 Culture] from every [Natural Wonder]"],
+		"outerColor": [33, 16, 12],
+		"innerColor": [240, 216, 175],
+		"uniqueName": "Rules of Acquisition",
+		"uniques": ["[+1 Science] from every specialist [in all cities]","[+1 Culture, +1 Faith] from [Forest] tiles [in all cities]"],
 		"cities": ["Konek","Shanawdithit",
 			"Oubee","Dildo","Red Indian Lake","Boyd´s Cove","Naskapi","Shabogamo","Makkovik","Tshishkutamashu","Ochre River"]
 	},
@@ -4971,10 +5032,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [87, 32, 21],
-		"innerColor": [255, 85, 51],
+		"outerColor": [45, 31, 77],
+		"innerColor": [255, 179, 102],
 		"uniqueName": "Chahta",
-		"uniques": ["[+1 Food] from every [Bonus resource]"],
+		"uniques": ["[+2 Food] per [3] population [in all cities]","[+25]% Production when constructing [Food] buildings [in all cities]"],
 		"cities": ["Okla Chahta","Nanih Waiya",
 			"Bok Chitto","Tushka Lusa","Pushmataha","Chata Ima","Nashoba","Talahina","Yowani","Ishtaboli","Chahta Tamaha"]
 	},
@@ -5291,7 +5352,7 @@
 		"cities": ["Sujimi","Gagra","Gali","Ochamchira","Pitsunda","Tkvarcheli","Novy Afon","Tquarchal","Gulripshi","Leselidze"]
 	},
         {
-		"name": "Hausa Kingdom",
+		"name": "Hausa",
 		"leaderName": "King Umbi",
 		"adjective": ["Hausa"],
 		"startBias": ["Desert"],

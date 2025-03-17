@@ -1,6 +1,53 @@
 
 [
 	{
+		"name": "Beehive House",
+		"uniqueTo": "Punt",
+		"replaces": "Lighthouse",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"food": 1,
+		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Plantation] tiles [in this city]","[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]" ],
+		"requiredTech": "Optics"
+	},
+	{
+		"name": "Jaraaf Jambuure",
+		"uniqueTo": "Jolof",
+		"replaces": "Courthouse",
+		"maintenance": 4,
+		"happiness": 2,
+		"culture": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Mangil's Palace",
+		"uniqueTo": "Funj",
+		"replaces": "Bank",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"uniques": ["[+1 Gold] from [Plantation] tiles [in this city]","[+15]% Production when constructing [Melee] units [in this city]"],
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Moon Emblems",
+		"uniqueTo": "Beothuk",
+		"replaces": "Shrine",
+		"faith": 1,
+		"food": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+1 Science] <during a Golden Age>","Only available <when religion is enabled>"]
+	},
+	{
 		"name": "Cothon",
 		"uniqueTo": "Phoenicians",
 		"replaces": "Lighthouse",
@@ -71,7 +118,7 @@
 	},
 	{
 		"name": "Ruca",
-		"uniqueTo": "Tehuelche People",
+		"uniqueTo": "Tehuelche",
 		"replaces": "Granary",
 		"food": 3,
 		"hurryCostModifier": 25,
@@ -259,7 +306,7 @@
 	},
 	{
 		"name": "Enkang",
-		"uniqueTo": "Maasai People",
+		"uniqueTo": "The Maasai",
 		"replaces": "Granary",
 		"food": 2,
 		"hurryCostModifier": 25,
@@ -270,7 +317,7 @@
 	},
 	{
 		"name": "Bahay Kubo",
-		"uniqueTo": "Philipines",
+		"uniqueTo": "The Philippines",
 		"replaces": "Granary",
 		"food": 2,
 		"culture": 1,
@@ -356,7 +403,7 @@
 	},
 	{
 		"name": "Chocolaterie",
-		"uniqueTo": "Belgian Empire",
+		"uniqueTo": "Belgium",
 		"replaces": "Bank",
 		"gold": 3,
 		"happiness": 2,
@@ -412,7 +459,7 @@
 	},
 {
 		"name": "Marib Dam",
-                "uniqueTo": "Himyarite Kingdom",
+                "uniqueTo": "Himyar",
 		"replaces": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
@@ -550,7 +597,7 @@
 	},
 {
 		"name": "Oja Oba",
-                "uniqueTo": "Oyo Kingdom",
+                "uniqueTo": "Oyo",
 		"replaces": "Market",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
@@ -602,7 +649,7 @@
 		"requiredTech": "Economics"
 	},
 {
-		"name": "Stonework Complex",
+		"name": "Dzimbabwe",
                 "uniqueTo": "Kingdom of Zimbabwe",
 		"replaces": "Shrine",
 		"faith": 1,
@@ -635,7 +682,7 @@
 	},
 {
 		"name": "Royal Navy Dockyard",
-                "uniqueTo": "British Empire",
+                "uniqueTo": "Great Britain",
 		"replaces": "Harbor",
 		"cost": 120,
 		"maintenance": 1,
@@ -646,7 +693,7 @@
 	},
 {
 		"name": "Oil Refinery",
-                "uniqueTo": "Irak",
+                "uniqueTo": "Iraq",
 		"replaces": "Factory",
 		"cost": 360,
 		"production": 4,
@@ -709,7 +756,7 @@
 {
 		"name": "The Silk Road",
 		"cost": 125,
-                "uniqueTo": "The Azeris",
+                "uniqueTo": "Azerbaijan",
 		"replaces": "National Treasury",
 		"gold": 8,
 		"culture": 1,
@@ -720,7 +767,7 @@
 	},
 {
 		"name": "Carpathian Sheepfold",
-                "uniqueTo": "Hutsul Republic",
+                "uniqueTo": "Hutsul",
 		"replaces": "Granary",
 		"food": 2,
 		"maintenance": 2,
@@ -732,7 +779,7 @@
 	},
 {
 		"name": "Siberian Yurt",
-                "uniqueTo": "Siberian Khanate",
+                "uniqueTo": "Sibir",
 		"replaces": "Granary",
 		"food": 3,
                 "production": 1,
@@ -801,7 +848,7 @@
 {
 		"name": "Crusader Temple",
 		"cost": 125,
-                "uniqueTo": "Kingdom of Jerusalem",
+                "uniqueTo": "Jerusalem",
 		"replaces": "Grand Temple",
 		"culture": 1,
 		"faith": 8,
@@ -823,7 +870,7 @@
 	},
 {
 		"name": "Rova",
-                "uniqueTo": "Merina Kingdom",
+                "uniqueTo": "Madagascar",
 		"replaces": "Monument",
 		"culture": 2,
 		"cost": 40,
@@ -842,7 +889,7 @@
 	},
 {
 		"name": "Oppidum",
-                "uniqueTo": "Gallia",
+                "uniqueTo": "Gaul",
 		"replaces": "Walls",
 		"cityStrength": 5,
 		"cityHealth": 50,
@@ -852,7 +899,7 @@
 	},
 {
 		"name": "Nizamiyyah",
-                "uniqueTo": "Seljuk Empire",
+                "uniqueTo": "Great Seljuk",
 		"replaces": "University",
 		"maintenance": 2,
                 "science": 2,
@@ -866,7 +913,7 @@
 	},
 {
 		"name": "Yurt Stable",
-                "uniqueTo": "Crimean Khanate",
+                "uniqueTo": "Crimea",
 		"replaces": "Stable",
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
@@ -1042,7 +1089,7 @@
 {
 		"name": "Qubba",
                 "requiredTech": "Philosophy",
-                "uniqueTo": "Sultanate of Darfur",
+                "uniqueTo": "Darfur",
                 "replaces": "Temple",
 		"faith": 3,
 		"cost": 100,
@@ -1098,7 +1145,7 @@
 	},
         {
 		"name": "Tsikhe",
-            "uniqueTo": "Kingdom of Georgia",
+            "uniqueTo": "Georgia",
 		"replaces": "Walls",
 		"cityStrength": 5,
 		"cityHealth": 70,
@@ -1108,7 +1155,7 @@
 	},
       {
 		"name": "Pastura",
-            "uniqueTo": "United Provinces of The Rio de la Plata",
+            "uniqueTo": "Río de la Plata",
 		"replaces": "Granary",
 		"food": 1,
 		"maintenance": 1,
@@ -1139,7 +1186,7 @@
 
       {
 		"name": "Slavic Polytheist Temple",
-            "uniqueTo": "Kingdom of Croatia",
+            "uniqueTo": "Croatia",
 		"replaces": "Temple",
 		"faith": 4,
 		"requiredBuilding": "Shrine",
@@ -1183,7 +1230,7 @@
 	},
         {
 		"name": "Distrital Academia",
-                "uniqueTo": "Central Americans",
+                "uniqueTo": "Central America",
 		"replaces": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
@@ -1240,7 +1287,7 @@
 	},
         {
 		"name": "WigWam",
-                "uniqueTo": "Mi Qmak",
+                "uniqueTo": "Mi'kmaq",
 		"replaces": "Monument",
 		"culture": 2,
                 "food": 1,
@@ -1251,7 +1298,7 @@
 	},
         {
 		"name": "Bohio",
-                "uniqueTo": "Taino Sun",
+                "uniqueTo": "Taino",
 		"replaces": "Shrine",
 		"faith": 1,
                 "happiness": 1,

@@ -75,7 +75,7 @@
 	},
 	{
 		"name": "Mala e",
-                "uniqueTo": "Tui Tonga",
+                "uniqueTo": "Tonga",
                 "turnsToBuild": 7,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
@@ -111,7 +111,7 @@
 	},
        {
 		"name": "Motte Bailey"
-            "uniqueTo": "Norman Duchy",
+            "uniqueTo": "Normandy",
 		"terrainsCanBeBuiltOn": ["Land"],
                 "techRequired": "Engineering",
 		"turnsToBuild": 8,
@@ -139,7 +139,7 @@
        },
 	   {
 		"name": "Kanuhses"
-        "uniqueTo": "Huron Confederacy",
+        "uniqueTo": "Huron",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 		"culture": 1,
 		"gold": 1,
@@ -208,7 +208,7 @@
 	},
 {
 		"name": "Madrasah"
-            "uniqueTo": "Umayyad Caliphate",
+            "uniqueTo": "The Umayyads",
 		"terrainsCanBeBuiltOn": ["Desert","Plains"],
                 "faith": 1,
                 "techRequired": "Engineering",
@@ -228,7 +228,7 @@
       {
 		"name": "Mbanza",
                 "production": 1,
-                "uniqueTo": "Kongo Kingdom",
+                "uniqueTo": "Kongo",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
@@ -264,8 +264,8 @@
 		"shortcutKey": "F"
 	},
       {
-		"name": "Zawia"
-            "uniqueTo": "Libia Sennusi",
+		"name": "Zawia",
+        "uniqueTo": "Libia Sennusi",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"faith": 1,
             "science": 1,
@@ -276,8 +276,8 @@
             "Pillaging this improvement yields approximately [+18 Gold]"],
 	},
         {
-		"name": "Yereroc"
-            "uniqueTo": "The Gunditjmara",
+		"name": "Yereroc",
+        "uniqueTo": "The Gunditjmara",
 		"terrainsCanBeBuiltOn": ["Marsh"],
 		"production": 1,
 		"turnsToBuild": 3,
@@ -286,8 +286,8 @@
             "Pillaging this improvement yields approximately [+18 Gold]"],
 	},
         {
-		"name": "Mississippi Mound"
-            "uniqueTo": "The Mississippians",
+		"name": "Potkop",
+        "uniqueTo": "The Mississippians",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
 		"faith": 1,
                 "science": 1,
@@ -298,8 +298,8 @@
 	},
         
         {
-		"name": "Igloo"
-            "uniqueTo": "Inuits",
+		"name": "Igloo",
+        "uniqueTo": "The Inuit",
 		"terrainsCanBeBuiltOn": ["Snow"],
 		"food": 1,
 		"turnsToBuild": 3,
@@ -341,13 +341,12 @@
 		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [20]%"],
 	},
         {
-		"name": "Sanga Cow Market"
-            "uniqueTo": "Hausa Kingdom",
+		"name": "Sanga Cow Market",
+        "uniqueTo": "Hausa",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert"],
-		"gold": 4,
 		"turnsToBuild": 9,
 		"techRequired": "Animal Husbandry",
-		"uniques": [
+		"uniques": ["[+3 Gold] from [Cattle] tiles",
             "Pillaging this improvement yields approximately [+30 Gold]"],
 	},
 ]

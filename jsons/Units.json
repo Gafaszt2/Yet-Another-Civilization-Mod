@@ -1,5 +1,93 @@
 [
 	{
+		"name": "Billao Swordsman",
+		"uniqueTo": "Punt",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 72,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"uniques": ["Can move after attacking","[-100]% maintenance costs"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Lamane",
+		"uniqueTo": "Jolof",
+		"replaces": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Uncapturable","Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction","Double movement in [Desert]"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Abdallab",
+		"uniqueTo": "Funj",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 145,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I","Charge"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Chahta Brave",
+		"uniqueTo": "Choctaw",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 27,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["[+15]% Strength <vs [Gunpowder] units> <when attacking>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Druzhyna",
+		"uniqueTo": "Kievan Rus",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[+1] Sight","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Town Militia",
+		"uniqueTo": "Kievan Rus",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 22,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"uniques": ["[+20]% Strength when stacked with [Worker]","[+5] HP when healing <in [Friendly Land] tiles>"],
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Guaycuru Nomad",
 		"uniqueTo": "The Guaycuru",
 		"replaces": "Settler",
@@ -294,14 +382,14 @@
 		"cost": 140,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Double movement in [Hill tiles]"],
+		"uniques": ["Double movement in [Hill]"],
 		"promotions": ["Ignore terrain cost"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
 	{
 		"name": "Puelche Hunter",
-		"uniqueTo": "Tehuelche People",
+		"uniqueTo": "Tehuelche",
 		"replaces": "Scout",
 		"unitType": "Scout",
 		"movement": 3,
@@ -617,7 +705,7 @@
 	},
 	{
 		"name": "Moran",
-		"uniqueTo": "Maasai People",
+		"uniqueTo": "The Maasai",
 		"replaces": "Crossbowman",
 		"unitType": "Archery",
 		"movement": 2,
@@ -632,7 +720,7 @@
 	},
 	{
 		"name": "Katipunero",
-		"uniqueTo": "Philipines",
+		"uniqueTo": "The Philippines",
 		"replaces": "Musketman",
 		"unitType": "Gunpowder",
 		"movement": 3,
@@ -725,7 +813,7 @@
 	},
 		{
 			"name": "Kalia",
-			"uniqueTo": "Tui Tonga",
+			"uniqueTo": "Tonga",
             "replaces": "Trireme",
 			"unitType": "Melee Water",
 			"movement": 4,
@@ -748,7 +836,7 @@
 	},
 	{
 		"name": "Ruffian Musketman",
-		"uniqueTo": "Huron Confederacy",
+		"uniqueTo": "Huron",
 		"replaces": "Musketman",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -791,7 +879,7 @@
 	},
 	{
 		"name": "Chasseur",
-		"uniqueTo": "Belgian Empire",
+		"uniqueTo": "Belgium",
 		"replaces": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -868,7 +956,7 @@
 	},
 {
 		"name": "Chevalier",
-                "uniqueTo": "Norman Duchy",
+                "uniqueTo": "Normandy",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -898,7 +986,7 @@
 	},
 {
 		"name": "Alfaris Dhu Alqaws",
-                "uniqueTo": "Himyarite Kingdom",
+                "uniqueTo": "Himyar",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1160,7 +1248,7 @@
 	},
 {
 		"name": "Yamani",
-                "uniqueTo": "Umayyad Caliphate",
+                "uniqueTo": "The Umayyads",
 		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -1187,7 +1275,7 @@
 	},
 {
 		"name": "Eso Ikoyi",
-                "uniqueTo": "Oyo Kingdom",
+                "uniqueTo": "Oyo",
 		"replaces": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1290,8 +1378,8 @@
 		"attackSound": "shot"
 	},
 {
-		"name": "Bantu Warrior",
-                "uniqueTo": "Kingdom of Zimbabwe",
+		"name": "Uajero",
+        "uniqueTo": "Kingdom of Zimbabwe",
 		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 3,
@@ -1333,7 +1421,7 @@
 	},
 {
 		"name": "Redcoat",
-                "uniqueTo": "British Empire",
+        "uniqueTo": "Great Britain",
 		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -1347,7 +1435,7 @@
 	},
 {
 		"name": "T55 Tank",
-                "uniqueTo": "Irak",
+                "uniqueTo": "Iraq",
 		"replaces": "Tank",
 		"unitType": "Armored",
 		"movement": 5,
@@ -1388,7 +1476,7 @@
 		"attackSound": "horse"
 	},
 {
-		"name": "Redif Infantry",
+		"name": "Rediff Infantry",
                 "uniqueTo": "Turkiye",
 		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
@@ -1418,7 +1506,7 @@
 	},
 {
 		"name": "Qizilbash Warrior",
-                "uniqueTo": "The Azeris",
+                "uniqueTo": "Azerbaijan",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1433,7 +1521,7 @@
 	},
 {
 		"name": "Hutsul Rifleman",
-                "uniqueTo": "Hutsul Republic",
+                "uniqueTo": "Hutsul",
 		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -1447,7 +1535,7 @@
 	},
 {
 		"name": "Mounted Cossack Scout",
-                "uniqueTo": "Siberian Khanate",
+                "uniqueTo": "Sibir",
 		"replaces": "Scout",
 		"unitType": "Scout",
 		"movement": 3,
@@ -1517,7 +1605,7 @@
 		"attackSound": "shot"
 	},
 {
-		"name": "Enkidu Warrior",
+		"name": "Vulture",
                 "uniqueTo": "Sumeria",
 		"replaces": "Spearman",
 		"unitType": "Sword",
@@ -1532,7 +1620,7 @@
 	},
 {
 		"name": "Hospitaller Knight",
-                "uniqueTo": "Kingdom of Jerusalem",
+                "uniqueTo": "Jerusalem",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1544,35 +1632,6 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can build [Fort] improvements on tiles","Heals [10] damage if it kills a unit","Can move after attacking","[+15]% Strength <vs [Camel Archer] units>","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
-	},
-{
-		"name": "Ukranian Artillery",
-                "uniqueTo": "Kievan Rus",
-		"replaces": "Cannon",
-		"unitType": "Siege",
-		"movement": 2,
-		"strength": 14,
-		"rangedStrength": 20,
-		"cost": 195,
-		"requiredTech": "Chemistry",
-		"upgradesTo": "Artillery",
-		"obsoleteTech": "Dynamite",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Land] units>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
-		"attackSound": "cannon"
-	},
-{
-		"name": "Kievan Rus Warrior",
-                "uniqueTo": "Kievan Rus",
-		"replaces": "Spearman",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 14,
-		"cost": 56,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <vs [Mounted] units> <during a Golden Age>","Excess Food converted to Production when under construction"],
-		"attackSound": "metalhit"
 	},
 {
 		"name": "Sami Rider",
@@ -1590,23 +1649,22 @@
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "deer"
 	},
-{
-		"name": "Khyber",
-                "uniqueTo": "Pakistan",
-		"replaces": "Great War Infantry",
+	{
+		"name": "Sindh Ranger",
+		"uniqueTo": "Pakistan",
+		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 50,
-		"cost": 250,
-		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
-                "uniques": ["[+25]% Strength <when below [20] HP>"],
-		"obsoleteTech": "Plastics",
+		"strength": 68,
+		"cost": 390,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+25]% Strength <when below [30] HP>","[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
 		"attackSound": "shot"
 	},
 {
 		"name": "Pombo Governor",
-                "uniqueTo": "Kongo Kingdom",
+                "uniqueTo": "Kongo",
 		"unitType": "Civilian",
 		"uniques": ["[+5]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Mbanza] improvement <by consuming this unit>",
@@ -1615,8 +1673,8 @@
 		"movement": 3
 	},
 {
-		"name": "Amazon Mino",
-                "uniqueTo": "Dahomey Kingdom",
+		"name": "Amazon Commander",
+                "uniqueTo": "Dahomey",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 20,
@@ -1630,7 +1688,7 @@
 
 {
 		"name": "Amazon Guard",
-                "uniqueTo": "Dahomey Kingdom",
+                "uniqueTo": "Dahomey",
 		"replaces": "Musketman",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -1644,7 +1702,7 @@
 	},
 {
 		"name": "Hova",
-                "uniqueTo": "Merina Kingdom",
+                "uniqueTo": "Madagascar",
 		"replaces": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1674,7 +1732,7 @@
 	},
 {
 		"name": "Gaesatae",
-                "uniqueTo": "Gallia",
+                "uniqueTo": "Gaul",
 		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -1688,7 +1746,7 @@
 	},
 {
 		"name": "Ghulam Cavalry",
-                "uniqueTo": "Seljuk Empire",
+                "uniqueTo": "Great Seljuk",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1703,7 +1761,7 @@
 	},
 {
 		"name": "Tatar Cavalry",
-                "uniqueTo": "Crimean Khanate",
+                "uniqueTo": "Crimea",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 5,
@@ -2024,7 +2082,7 @@
         },
         {
 		"name": "Fursan",
-                "uniqueTo": "Sultanate of Darfur",
+                "uniqueTo": "Darfur",
 		"replaces": "Musketman",
                 "upgradesTo": "Rifleman",
                 "requiredTech": "Gunpowder",
@@ -2082,7 +2140,7 @@
 		"attackSound": "metalhit"
 	},
         {
-		"name": "Force Republique",
+		"name": "Force Publique",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Congo Free State",
@@ -2098,7 +2156,7 @@
         {
 		"name": "Bulgar Heavy Cavalry",
                 "replaces": "Knight",
-		"uniqueTo": "Bulgarian Empire",
+		"uniqueTo": "Bulgaria",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 22,
@@ -2142,7 +2200,7 @@
         {
 		"name": "Slavic Infantry",
 		"unitType": "Sword",
-		"uniqueTo": "Bulgarian Empire",
+		"uniqueTo": "Bulgaria",
 		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 16,
@@ -2238,7 +2296,7 @@
         {
 		"name": "Revolutionary Shield",
 		"unitType": "Gunpowder",
-            "uniqueTo": "Shahist Iran",
+            "uniqueTo": "Pahlavi Iran",
 		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 73,
@@ -2250,7 +2308,7 @@
 		"attackSound": "shot"
 	},
         {
-		"name": "Mayan Rebel",
+		"name": "Cruzob",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Yucatan",
@@ -2265,7 +2323,7 @@
         {
 		"name": "Dihqan",
 		"unitType": "Civilian",
-		"uniqueTo": "Shahist Iran",
+		"uniqueTo": "Pahlavi Iran",
 		"replaces": "Great General",
 		"uniques": [
             "Empire enters a [10]-turn Golden Age <by consuming this unit>",
@@ -2336,7 +2394,7 @@
         {
 		"name": "Croban",
 		"unitType": "Sword",
-		"uniqueTo": "Kingdom of Croatia",
+		"uniqueTo": "Croatia",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 15,
@@ -2352,7 +2410,7 @@
 		"name": "Khevsur",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
-		"uniqueTo": "Kingdom of Georgia",
+		"uniqueTo": "Georgia",
 		"movement": 2,
 		"strength": 24,
 		"cost": 130,
@@ -2366,7 +2424,7 @@
 		"name": "Patricio",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
-		"uniqueTo": "United Provinces of The Rio de la Plata",
+		"uniqueTo": "Río de la Plata",
 		"movement": 2,
 		"strength": 20,
 		"cost": 90,
@@ -2403,8 +2461,8 @@
 	},
         {
 		"name": "Cable-backed bowman",
-                "replaces": "Archer",
-		"uniqueTo": "Inuits",
+        "replaces": "Archer",
+		"uniqueTo": "The Inuit",
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 5,
@@ -2413,7 +2471,6 @@
                 "uniques": ["Can move after attacking","[+10]% Strength <vs [Mounted] units> <when attacking>"],
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-		"replaces": "Archer",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
@@ -2440,7 +2497,7 @@
         {
 		"name": "Perico",
                 "replaces": "Musketman",
-		"uniqueTo": "Central Americans",
+		"uniqueTo": "Central America",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 24,
@@ -2482,12 +2539,12 @@
 		"attackSound": "horse"
 	},
         {
-		"name": "Conscript",
-                "replaces": "Worker",
+		"name": "Convict Worker",
+        "replaces": "Worker",
 		"uniqueTo": "Australia",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Excess Food converted to Production when under construction"],
+		"uniques": ["Can build [Land] improvements on tiles","Can be purchased for [70] [Gold] [in all cities]", "Automation is a primary action", "Excess Food converted to Production when under construction"],
 		"cost": 90
 	},
         {
@@ -2508,7 +2565,7 @@
         {
 		"name": "Voluntario da Patria",
                 "replaces": "Rifleman",
-		"uniqueTo": "Brasil",
+		"uniqueTo": "Brazil",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 33,
@@ -2521,7 +2578,7 @@
         {
 		"name": "African Slave",
                 "replaces": "Worker",
-		"uniqueTo": "Brasil",
+		"uniqueTo": "Brazil",
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
@@ -2544,7 +2601,7 @@
         {
 		"name": "Birchbark Canoe",
                 "replaces": "Trireme",
-		"uniqueTo": "Mi Qmak",
+		"uniqueTo": "Mi'kmaq",
 		"unitType": "Melee Water",
 		"movement": 5,
 		"strength": 13,
@@ -2598,7 +2655,7 @@
         {
 		"name": "Canoa",
                 "replaces": "Work Boats",
-		"uniqueTo": "Taino Sun",
+		"uniqueTo": "Taino",
 		"unitType": "Civilian Water",
 		"movement": 6,
 		"cost": 30,
@@ -2678,32 +2735,6 @@
                 "promotions": ["Amphibious"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
-	},
-        {
-		"name": "Mamateek",
-                "replaces": "Scout",
-		"uniqueTo": "Beothuk",
-		"unitType": "Scout",
-		"movement": 3,
-		"strength": 5,
-		"cost": 20,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
-		"attackSound": "nonmetalhit"
-	},
-        {
-		"name": "Stickball Player",
-                "replaces": "Warrior",
-		"uniqueTo": "Choctaw",
-		"unitType": "Sword",
-		"movement": 4,
-		"strength": 8,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"attackSound": "nonmetalhit"
 	},
         {
 		"name": "Comanche Rider",
@@ -2833,7 +2864,7 @@
         {
 		"name": "Fulani Archer",
                 "replaces": "Composite Bowman",
-		"uniqueTo": "Hausa Kingdom",
+		"uniqueTo": "Hausa",
 		"unitType": "Archery",
 		"movement": 3,
 		"strength": 7,
