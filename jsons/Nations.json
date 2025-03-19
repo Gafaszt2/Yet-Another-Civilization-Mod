@@ -1,5 +1,255 @@
 [
 	{
+		"name": "Lapita",
+		"leaderName": "Qasavara",
+		"adjective": ["Lapita"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [214, 70, 26],
+		"innerColor": [26, 9, 3],
+		"uniqueName": "The Peopling of the Pacific",
+		"uniques": ["[+25]% [Gold] [in coastal cities]","[+10]% growth [in coastal cities]","Allied City-States provide [Gold] equal to [+15]% of what they produce for themselves"],
+		"cities": ["Teouma", "Mulifanua", "Mu'a", "Motalava", "Vanua Lava", "Gaua", "Taumako", "Grande Terre", "Ile des Pins", "Lolokoka", "Nenumbo"],
+		"spyNames": ["Tangaroa"]
+	},
+	{
+		"name": "Khazaria",
+		"leaderName": "Bulan",
+		"adjective": ["Khazaria"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [46, 32, 24],
+		"innerColor": [159, 221, 252],
+		"uniqueName": "Khazar Correspondence",
+		"uniques": ["[+25]% [Faith] [in annexed cities]","Allied City-States provide [Faith] equal to [+25]% of what they produce for themselves"],
+		"cities": ["Atil", "Balanjar", "Sarkel", "Samandar", "Tamantarkha", "Derbent", "Astrakhan", "Kiev", "Sarychin", "Saratau", "Lharka"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Minoa",
+		"leaderName": "Minos",
+		"adjective": ["Minoa"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [15, 15, 15],
+		"innerColor": [242, 75, 75],
+		"uniqueName": "Poseidon's Trident",
+		"uniques": ["[+20]% [Science] [in coastal cities]","[+2 Science] from [Great Improvement] tiles [in all cities]"],
+		"cities": ["Knossos", "Phaistos", "Malia", "Gournia", "Zakros", "Agia Triada", "Amnisos", "Nirou Khani", "Palekastro", "Akrotiri"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Sentinelese",
+		"leaderName": "White Flower",
+		"adjective": ["The Sentinelese"],
+		"startBias":["Avoid [Desert]","Jungle","Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [252, 255, 153],
+		"innerColor": [23, 23, 20],
+		"uniqueName": "Isolationism",
+		"uniques": ["[-5]% [Science] [in all cities]","Earn [50]% of killed [Military] unit's [Strength] as [Science]","Earn [10]% of killed [Military] unit's [Strength] as [Culture]","Cannot build [Settler] units","May not annex cities"],
+		"cities": ["North Sentinel Island"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Emishi",
+		"leaderName": "Aterui",
+		"adjective": ["The Emishi"],
+		"startBias":["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [61, 34, 29],
+		"innerColor": [255, 124, 99],
+		"uniqueName": "Sotaisho",
+		"uniques": ["[+25]% Strength for cities","[+1] Movement <for [{Military} {Mounted}] units> <when at war>"],
+		"cities": ["Isawa", "Atoroi", "Okachi", "Toyoma", "Korehari", "Nishimonai", "Obane", "Akka", "Osanai", "Hirahoko", "Igarashi", "Sarugaishi"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Diriyah",
+		"leaderName": "Muhammad bin Saud",
+		"adjective": ["Diriyah"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [33, 66, 41],
+		"innerColor": [247, 250, 248],
+		"uniqueName": "Wahhabism",
+		"uniques": ["[+30]% XP gained from combat <for [Military] units>","May buy [Melee] units with [Faith] for [2] times their normal Production cost","[Faith] cost of purchasing [Melee] units [-25]% <when at war>"],
+		"cities": ["Diriyah", "Ta'if", "Mecca", "Medina", "Ha'il", "Riyadh", "Jeddah", "Tabuk", "Jizan", "Abha", "Bisha", "Yanbu", "Al-Safra", "Badr"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Chukchi",
+		"leaderName": "Lawtiliwadlin",
+		"adjective": ["Chukchi"],
+		"startBias":["Tundra"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [183, 245, 247],
+		"innerColor": [31, 48, 48],
+		"uniqueName": "Enapyeratirghin",
+		"uniques": ["Earn [35]% of killed [Land] unit's [Strength] as [Culture]","[+20]% Strength <for [Land] units> <upon gaining the [Shock III] promotion>","[+20]% Strength <for [Land] units> <upon gaining the [Drill III] promotion>"],
+		"cities": ["Kagyrgyn", "Pagytkenay", "Irvykynnot", "Uvelen", "Guvrel", "Kytryn", "Gachgatagyn", "Lyuren", "Gynryretyk", "Ujvyn"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Champa",
+		"leaderName": "Chế Bồng Nga",
+		"adjective": ["Champa"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [21, 69, 163],
+		"innerColor": [247, 255, 184],
+		"uniqueName": "Pirates of the South Sea",
+		"uniques": ["Earn [35]% of killed [Land] unit's [Strength] as [Gold]","Earn [65]% of killed [Water] unit's [Strength] as [Gold]","All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion"],
+		"cities": ["Indrapura", "Vijaya", "Panduranga", "Kauthara", "Amaravati", "Mý So'n", "Lâm Ap Pho", "Simhapura", "Thi Li Bi Nai", "Mang Lý"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Çatalhöyük",
+		"leaderName": "Potus",
+		"adjective": ["Çatalhöyük"],
+		"startBias":["River"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [214, 192, 146],
+		"innerColor": [23, 22, 20],
+		"uniqueName": "Neolithic Revolution",
+		"uniques": ["[+1 Food] from all [Aqueduct] buildings","[+15]% [Food] [in capital]","[+1 Culture] from [River] tiles [in all cities]"],
+		"cities": ["Çatalhöyük", "Alisar Höyük", "Melid", "Cafer Höyük", "Kültepe", "Gözlükule", "Alaca Höyük", "Domuztepe", "Yumuktepe"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Amis",
+		"leaderName": "Raho Ari",
+		"adjective": ["The Amis"],
+		"startBias":["Grassland"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [54, 90, 255],
+		"innerColor": [10, 12, 20],
+		"uniqueName": "Malalikid",
+		"uniques": ["[+1 Happiness] from all [Food] buildings","[+20]% of excess happiness converted to [Culture]"],
+		"cities": ["A'tola", "Batongguan", "Kongpo", "Fuli Ami", "Smangus", "Na'an", "Zhishan", "Ugmaz", "Cihalaay", "Fakong", "Fata'an"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Punt",
 		"leaderName": "Ati",
 		"adjective": ["Punt"],
@@ -3155,7 +3405,7 @@
 		"innerColor": [255, 207, 105],
 		"uniqueName": "Golden Field",
 		"uniques": ["[+1 Faith] from every specialist [in capital]","[+1 Faith] from every specialist [in all cities] <during the [Medieval era]>","[+1 Gold] from [Wheat] tiles [in capital]","[+2 Gold] from [Wheat] tiles [in all cities] <after discovering [Fertilizer]>"],
-		"cities": ["Kyiv"
+		"cities": ["Kyiv",
 "Lviv",
 "Odessa",
 "Kharkiv",
@@ -5380,5 +5630,5 @@
 			"Gobir","Rano","Biram","Kebbi",
 			"Zamfara","Yauri"],
         "spyNames": ["Sir Charles"]
-	},
+	}
 ]

@@ -1,6 +1,15 @@
 [
 	{
-		"name": "Madāfin"
+		"name": "Kura",
+		"uniqueTo": "The Emishi",
+		"terrainsCanBeBuiltOn": ["Jungle"],
+        "techRequired": "Trapping",
+		"turnsToBuild": 5,
+		"food": 1,
+		"uniques": ["[+2 Food, +2 Culture] <after discovering [Industrialization]>"]
+       },
+	{
+		"name": "Madāfin",
 		"uniqueTo": "Dilmun",
 		"terrainsCanBeBuiltOn": ["Land"],
         "techRequired": "Agriculture",
@@ -8,7 +17,7 @@
 		"uniques": ["[+1 Culture] for each adjacent [Farm]","[+1 Faith] for each adjacent [Pasture]"]
        },
 	{
-		"name": "Research Station"
+		"name": "Research Station",
 		"uniqueTo": "Antarctica",
 		"terrainsCanBeBuiltOn": ["Snow","Tundra"],
         "techRequired": "Scientific Theory",
@@ -17,7 +26,7 @@
 		"uniques": ["Gives a defensive bonus of [+50]%","[-2 Science] for each adjacent [Research Station]"]
        },
 	{
-		"name": "Palatial Fortress"
+		"name": "Palatial Fortress",
 		"uniqueTo": "Judea",
 		"terrainsCanBeBuiltOn": ["Land"],
                 "techRequired": "Engineering",
@@ -26,7 +35,7 @@
 		"uniques": ["Gives a defensive bonus of [+50]%","Can be built outside your borders"]
        },
 	{
-		"name": "Tree House"
+		"name": "Tree House",
         "uniqueTo": "The Korowai",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 		"food": 2,
@@ -36,7 +45,7 @@
 		"uniques": ["Unpillagable"],
        },
 	   {
-		"name": "Souk"
+		"name": "Souk",
         "uniqueTo": "Lebanon",
 		"terrainsCanBeBuiltOn": ["Desert","Plains","River"],
 		"gold": 1,
@@ -45,7 +54,7 @@
 		"uniques": ["[+2 Gold, +1 Production] from [Incense] tiles","[+3 Gold] from [Salt] tiles","[+2 Gold, +1 Production] from [Marble] tiles","[+3 Gold] from [Ivory] tiles","Unpillagable"],
        },
 	{
-		"name": "Mumu"
+		"name": "Mumu",
         "uniqueTo": "Asaro",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"food": 2,
@@ -54,7 +63,7 @@
 		"uniques": ["Unpillagable"],
        },
 	{
-		"name": "Haru Oms"
+		"name": "Haru Oms",
         "uniqueTo": "The Nama",
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"culture": 2,

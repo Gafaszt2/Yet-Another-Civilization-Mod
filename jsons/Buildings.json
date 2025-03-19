@@ -1,6 +1,115 @@
 
 [
 	{
+		"name": "Stone Oven",
+		"uniqueTo": "Lapita",
+		"replaces": "Granary",
+		"food": 2,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Shul",
+		"uniqueTo": "Khazaria",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Gold] from each Trade Route","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Anaktoro",
+		"uniqueTo": "Minoa",
+		"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["[+1 Happiness] [in coastal cities]","Indicates the capital city"]
+	},
+	{
+		"name": "Communal Hut",
+		"uniqueTo": "The Sentinelese",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Forest] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Qasr",
+		"uniqueTo": "Diriyah",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"faith": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[+1 Faith] from [Academy] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Yaranga",
+		"uniqueTo": "Chukchi",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"food": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]","[+5]% growth [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Kalan",
+		"uniqueTo": "Champa",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Faith] from [Cattle] tiles [in this city]",
+		            "[+1 Faith] from [Iron] tiles [in this city]",
+					"[+1 Faith] from [Horses] tiles [in this city]",
+					"[+1 Faith] from [Oil] tiles [in this city]",
+					"[+1 Faith] from [Fish] tiles [in this city]",
+		 "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Köy",
+		"uniqueTo": "Çatalhöyük",
+		"replaces": "Granary",
+		"food": 2,
+		"faith": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+		"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Shaman's House",
+		"uniqueTo": "The Amis",
+		"replaces": "Temple",
+		"specialistSlots":{"Artist": 1},
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Comment [+1 Artist slot]", "Destroyed when the city is captured"]
+	},
+	{
 		"name": "Beehive House",
 		"uniqueTo": "Punt",
 		"replaces": "Lighthouse",
@@ -235,7 +344,7 @@
 		"gold": 2,
 		"faith": 9,
 		"uniques": ["[+5]% [Faith] [in this city]","Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+			"[+100]% Natural religion spread [in this city]", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -819,7 +928,7 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
 {
 		"name": "Souq",
@@ -843,7 +952,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+5]% Production when constructing [Wonder] buildings [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["[+5]% Production when constructing [Wonder] buildings [in this city]","Destroyed when the city is captured"]
 	},
 {
 		"name": "Crusader Temple",
@@ -934,7 +1043,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Culture] in cities on [Hill] tiles","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Culture] in cities on [Hill] tiles","Destroyed when the city is captured"]
 	},
 {
 		"name": "Hov",
@@ -1107,7 +1216,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
         {
 		"name": "Great Citadel",
@@ -1193,7 +1302,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
         {
 		"name": "Chemamull",
