@@ -1,5 +1,80 @@
 [
 	{
+        "name": "Poverty Point",
+        "leaderName": "Táhera",
+        "adjective": ["Poverty Point"],
+        "startBias":["Jungle"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [224, 224, 188],
+        "innerColor": [59, 59, 46],
+        "uniqueName": "Monumental Earthworks",
+        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]","[+10]% [Science] [in all cities] <for [5] turns> <upon building a [Effigy Mound] improvement>"],
+        "cities": ["Poverty Point", "Jaketown", "Claiborne", "Beau Rivage", "Watson Brake", "Caney Island", "Copes", "Teoc Creek", "Panther Lake"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "The Mixtecs",
+        "leaderName": "Eight Deer",
+        "adjective": ["The Mixtecs"],
+        "startBias":["Jungle"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [245, 66, 66],
+        "innerColor": [13, 22, 41],
+        "uniqueName": "Sacred Skins",
+        "uniques": ["Free Great Person <upon conquering a city>","[1] free [Worker] units appear <upon conquering a city>"],
+        "cities": ["Tilantongo", "Tututepec", "Tlaxiaco", "Jaltepec", "Yucuñudahui", "Teozacoalco", "Xipe's Bundle", "Achiutla", "Acatlán", "Cuilapan", "Suchixtlan"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "The Olmecs",
+        "leaderName": "U Kix Chan",
+        "adjective": ["The Olmecs"],
+        "startBias":["Jungle"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [66, 245, 149],
+        "innerColor": [7, 31, 18],
+        "uniqueName": "Venus Cycle",
+        "uniques": ["[+25]% [Culture] [in all cities] <for [5] turns> <upon constructing [Temple]>","[+5]% [Science] [in all cities] <for [5] turns> <upon constructing [Shrine]>"],
+        "cities": ["Coatzacoalcos", "Tonalá", "Papaloapan", "Tzapotl", "Tuxtlas", "Tak'alik A'baj", "Oxtotitlán", "Chalcatzingo"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
 		"name": "Lapita",
 		"leaderName": "Qasavara",
 		"adjective": ["Lapita"],
@@ -1127,7 +1202,7 @@
 
 	{
 		"name": "Sumenep",
-		"leaderName": "Panembahan Somala",
+		"leaderName": "Somala",
 		"adjective": ["Sumenep"],
 		"startBias":["Jungle","Coast"],
 		"preferredVictoryType": "Domination",
@@ -1481,7 +1556,7 @@
 	},
 	{
 		"name": "Tonga",
-		"leaderName": "Aho eitu",
+		"leaderName": "ʻAhoʻeitu",
 		"adjective": ["Tonga"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -1531,7 +1606,7 @@
 	},
 	{
 		"name": "Maori",
-		"leaderName": "King Tawhiao",
+		"leaderName": "Pōtatau Te Wherowhero",
 		"adjective": ["Maori"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -1712,7 +1787,7 @@
 	},
 {
 		"name": "Guarani",
-		"leaderName": "Chief Sepé Tiaraju",
+		"leaderName": "Sepé Tiaraju",
 		"adjective": ["Guarani]"],
 		"startBias": ["Jungle","Marsh"],
 		"preferredVictoryType":"Diplomatic",
@@ -1748,7 +1823,7 @@
 	},
 {
 		"name": "Normandy",
-		"leaderName": "William the Conqueror",
+		"leaderName": "William I",
 		"adjective": ["Normandy]"],
 		"startBias": ["Forest","Hill"],
 		"preferredVictoryType":"Diplomatic",
@@ -1919,7 +1994,7 @@
 	},
 {
 		"name": "Thailand",
-		"leaderName": "King Chulalongkorn",
+		"leaderName": "Rama V",
 		"adjective": ["Thailand]"],
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Diplomatic",
@@ -2220,7 +2295,7 @@
 	},
 {
 		"name": "Israel",
-		"leaderName": "King David",
+		"leaderName": "David",
 		"adjective": ["Israel"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
@@ -2640,7 +2715,7 @@
 
 {
 		"name": "Vietnam",
-		"leaderName": "Emperor Tu Duc",
+		"leaderName": "Lê Thánh Tông",
 		"adjective": ["Vietnamese"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
@@ -2666,7 +2741,7 @@
 
 {
 		"name": "Lesotho",
-		"leaderName": "King Moshoeshoe I",
+		"leaderName": "Moshoeshoe I",
 		"adjective": ["Lesotho"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
@@ -2705,7 +2780,7 @@
 	},
 {
 		"name": "Kingdom of Zimbabwe",
-		"leaderName": "King Mutota",
+		"leaderName": "Nyatsimba Mutota",
 		"adjective": ["Kingdom of Zimbabwe"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
@@ -2825,7 +2900,7 @@
 	},
 {
 		"name": "Prussia",
-		"leaderName": "Frederick the Great",
+		"leaderName": "Frederick II",
 		"adjective": ["Prussia"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
@@ -2859,7 +2934,7 @@
 	},
 {
 		"name": "Great Britain",
-		"leaderName": "Queen Victoria",
+		"leaderName": "Victoria",
 		"adjective": ["Great Britain"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -2939,7 +3014,7 @@
 	},
 {
 		"name": "Sparta",
-		"leaderName": "King Leonidas",
+		"leaderName": "Leonidas I",
 		"adjective": ["Sparta"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
@@ -3081,7 +3156,7 @@
 	},
 {
 		"name": "Azerbaijan",
-		"leaderName": "King Urnayr",
+		"leaderName": "Rasulzade",
 		"adjective": ["Azerbaijan"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
@@ -3501,7 +3576,7 @@
 	},
 {
 		"name": "Madagascar",
-		"leaderName": "Queen Ranavalona I",
+		"leaderName": "Ranavalona I",
 		"adjective": ["Madagascar"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
@@ -3526,7 +3601,7 @@
 	},
         {
 		"name": "Benin Kingdom",
-		"leaderName": "Oba Ovonramwen",
+		"leaderName": "Ewuare",
 		"adjective": ["Benin"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
@@ -3576,7 +3651,7 @@
 	},
         {
 		"name": "Dahomey",
-		"leaderName": "King Béhanzin",
+		"leaderName": "Ghezo",
 		"adjective": ["Dahomey"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
@@ -3932,7 +4007,7 @@
 		"cities": ["Mangkunegara","Surakarta","Saidabad","Pakubuwonograd","Solo Mangku"],
 	},
 {
-		"name": "Mughal Empire",
+		"name": "Mughal",
 		"leaderName": "Akbar",
 		"adjective": ["Mughals"],
 		"startBias": ["Grassland"],
@@ -4524,7 +4599,7 @@
 	},
         {
 		"name": "Pahlavi Iran",
-		"leaderName": "Shah Mohammad Reza Pahlavi",
+		"leaderName": "Mohammad Reza Pahlavi",
 		"adjective": ["Pahlavi Iran"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Cultural",
@@ -4795,7 +4870,7 @@
 	},
         {
 		"name": "The Inuit",
-		"leaderName": "Apanuugak",
+		"leaderName": "Nakasuk",
 		"adjective": ["The Inuit"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
@@ -4947,7 +5022,7 @@
 	},
         {
 		"name": "Australia",
-		"leaderName": "Sir Charles Hotham",
+		"leaderName": "Charles Hotham",
 		"adjective": ["Australian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
@@ -5055,9 +5130,9 @@
 			"Juyubit","Yangna","Sibangna","Pimu","San Gabriel","San Fernando","Kizh"]
 	},
         {
-		"name": "Pueblo",
-		"leaderName": "Pope",
-		"adjective": ["Pueblo"],
+		"name": "The Pueblo",
+		"leaderName": "Po'pay",
+		"adjective": ["The Pueblo"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
 		
@@ -5131,9 +5206,9 @@
 			"Kai","Kinlitsi","Destsini","Pocahontas","Des Moines","Marshalltown","Grinnell","Fairfield","Leon"]
 	},
         {
-		"name": "Shonshone",
+		"name": "Shoshone",
 		"leaderName": "Washakie",
-		"adjective": ["Shonshone"],
+		"adjective": ["Shoshone"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		

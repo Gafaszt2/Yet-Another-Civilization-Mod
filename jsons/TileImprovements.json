@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Effigy Mound",
+		"uniqueTo": "Poverty Point",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Mining",
+		"turnsToBuild": 5,
+		"uniques":["[+1 Culture] <in cities connected to the capital>","[+1 Culture] <in cities with a major religion>","[+1 Production] <if [Water Mill] is constructed>"]
+       },
+	{
+		"name": "Colossal Head",
+		"uniqueTo": "The Olmecs",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Calendar",
+		"turnsToBuild": 5,
+		"science": 2
+       },
+	{
 		"name": "Kura",
 		"uniqueTo": "The Emishi",
 		"terrainsCanBeBuiltOn": ["Jungle"],
@@ -342,8 +358,8 @@
 		"uniques": ["Can be built outside your borders", "[+2 Food] from [Fresh water] tiles", "Gives a defensive bonus of [20]%"],
 	},
         {
-		"name": "Shonshone Tipi"
-            "uniqueTo": "Shonshone",
+		"name": "Shoshone Tipi",
+        "uniqueTo": "Shoshone",
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"culture": 2,
 		"turnsToBuild": 3,

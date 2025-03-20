@@ -1,6 +1,17 @@
 
 [
 	{
+		"name": "Ball Court",
+		"uniqueTo": "The Olmecs",
+		"replaces": "Colosseum",
+		"maintenance": 1,
+		"happiness": 2,
+		"culture": 1,
+		"faith": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
+	{
 		"name": "Stone Oven",
 		"uniqueTo": "Lapita",
 		"replaces": "Granary",
@@ -437,7 +448,7 @@
 		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Slave Spices Plantation",
+		"name": "Slave Spice Plantation",
 		"uniqueTo": "Dutch East India Company",
 		"replaces": "Windmill",
 		"production": 2,
@@ -1094,7 +1105,7 @@
 	},
 {
 		"name": "Red Fort",
-                "uniqueTo": "Mughal Empire",
+                "uniqueTo": "Mughal",
 		"replaces": "Castle",
 		"cityStrength": 7,
 		"cityHealth": 28,

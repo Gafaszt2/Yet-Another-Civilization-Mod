@@ -1,5 +1,49 @@
 [
 	{
+		"name": "Fox-Man",
+		"uniqueTo": "Poverty Point",
+		"replaces": "Great Prophet",
+		"unitType": "Civilian",
+		"uniques": ["Double movement in [Grassland]",
+            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+			"May enter foreign tiles without open borders", "[+1] Sight", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"Takes your religion over the one in their birth city"],
+		"movement": 2,
+		"religiousStrength": 1000
+	},
+	{
+		"name": "Zandaru",
+		"uniqueTo": "The Mixtecs",
+		"replaces": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 17,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength when stacked with [Great General]"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Chàa Chii",
+		"uniqueTo": "The Mixtecs",
+		"replaces": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+			"Can instantly construct a [Academy] improvement <by consuming this unit>",
+			"Can instantly construct a [Holy site] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Obsidian Prospector",
 		"uniqueTo": "Lapita",
 		"replaces": "Scout",
@@ -1861,7 +1905,7 @@
 		"attackSound": "horse"
 	},
 {
-		"name": "Leopard Guard",
+		"name": "Isienmwenro",
                 "uniqueTo": "Benin Kingdom",
 		"replaces": "Musketman",
 		"unitType": "Gunpowder",
@@ -2025,7 +2069,7 @@
 	},
 {
 		"name": "Gajnal",
-                "uniqueTo": "Mughal Empire",
+                "uniqueTo": "Mughal",
 		"replaces": "Cannon",
 		"unitType": "Siege",
 		"movement": 3,
@@ -2438,7 +2482,7 @@
 		"attackSound": "shot"
 	},
         {
-		"name": "Revolutionary Shield",
+		"name": "Literacy Corps",
 		"unitType": "Gunpowder",
             "uniqueTo": "Pahlavi Iran",
 		"replaces": "Infantry",
@@ -2508,8 +2552,8 @@
 		"attackSound": "horse"
 	},
         {
-		"name": "Tupi Warrior",
-                "replaces": "Composite Bowman",
+		"name": "Uybabaeté",
+        "replaces": "Composite Bowman",
 		"uniqueTo": "Tupi",
 		"unitType": "Archery",
 		"movement": 3,
@@ -2757,9 +2801,9 @@
 		"attackSound": "nonmetalhit"
 	},
         {
-		"name": "Bow Priest",
+		"name": "Lada'kwe",
                 "replaces": "Composite Bowman",
-		"uniqueTo": "Pueblo",
+		"uniqueTo": "The Pueblo",
 		"unitType": "Archery",
 		"movement": 3,
 		"strength": 7,
@@ -2773,7 +2817,7 @@
         {
 		"name": "Pueblo Pathfinder",
                 "replaces": "Scout",
-		"uniqueTo": "Pueblo",
+		"uniqueTo": "The Pueblo",
 		"unitType": "Scout",
 		"movement": 3,
 		"strength": 6,
@@ -2785,8 +2829,8 @@
 	},
         {
 		"name": "Pathfinder",
-                "replaces": "Scout",
-		"uniqueTo": "Shonshone",
+        "replaces": "Scout",
+		"uniqueTo": "Shoshone",
 		"unitType": "Scout",
 		"movement": 3,
 		"strength": 6,
