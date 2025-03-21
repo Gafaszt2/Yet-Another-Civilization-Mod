@@ -1,5 +1,102 @@
 [
 	{
+		"name": "Leryna",
+		"uniqueTo": "The Palawa",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 20,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"uniques":["[+10]% Strength <vs [Gunpowder] units>"],
+		"promotions":["Woodsman"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Volunteers' Corp",
+		"uniqueTo": "Slovakia",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 215,
+		"requiredTech": "Rifling",
+		"promotions":["March","Ignore terrain cost"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Aniwina",
+		"uniqueTo": "Cherokee",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 25,
+		"cost": 150,
+		"uniques":["[+50]% Strength when stacked with [Great General]"],
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Milice du Peuple",
+		"uniqueTo": "Burkina Faso",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 360,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["Turn this tile into a [Jungle] tile <for all movement>","Turn this tile into a [Forest] tile <for all movement>",
+		"[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Koondi",
+		"uniqueTo": "Noongar",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 9,
+		"cost": 40,
+		"uniques":["[-1] Range"],
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Gidjiboryl",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Unbuildable","Cannot be purchased",
+		            "Can instantly construct a [Camp] improvement <by consuming this unit>",
+					"Can instantly construct a [Pasuture] improvement <by consuming this unit>",
+					"Can instantly construct a [Farm] improvement <by consuming this unit>",
+					"Automation is a primary action"],
+		"cost": 70
+	},
+	{
+		"name": "Escuadra Nacional",
+		"uniqueTo": "Chile",
+		"replaces": "Privateer",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 27,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"uniques":["[+75]% XP gained from combat"],
+		"promotions": ["Coastal Raider I", "[Privateer] ability"],
+		"attackSound": "cannon"
+	},
+	{
 		"name": "Fox-Man",
 		"uniqueTo": "Poverty Point",
 		"replaces": "Great Prophet",
@@ -804,7 +901,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Kispoko Nena to",
+		"name": "Kispoko Nena’to",
 		"uniqueTo": "Shawnee",
 		"replaces": "Longswordsman",
 		"unitType": "Sword",
@@ -986,7 +1083,7 @@
 		"cost": 70
 	},
 	{
-		"name": "Nifo oti",
+		"name": "Nifo'oti",
 		"uniqueTo": "Samoa",
 		"replaces": "Spearman",
 		"unitType": "Sword",
@@ -1216,7 +1313,7 @@
 		"attackSound": "elephant"
 	},
 {
-		"name": "Nepalese Gurkha",
+		"name": "Gurkha",
                 "uniqueTo": "Nepal",
 		"replaces": "Great War Infantry",
 		"unitType": "Gunpowder",
@@ -1361,7 +1458,7 @@
 		"attackSound": "arrow"
 	},
 {
-		"name": "Revolutionary Troop",
+		"name": "Revolutionary Suicide Regiment",
                 "uniqueTo": "Uganda",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
@@ -1594,7 +1691,7 @@
 		"attackSound": "metalhit"
 	},
 {
-		"name": "Jaeger",
+		"name": "Jäger",
                 "uniqueTo": "Prussia",
 		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
@@ -1807,7 +1904,7 @@
 		"attackSound": "metalhit"
 	},
 {
-		"name": "Hospitaller Knight",
+		"name": "Knights Hospitaller",
                 "uniqueTo": "Jerusalem",
 		"replaces": "Knight",
 		"unitType": "Mounted",
@@ -1948,7 +2045,7 @@
 		"attackSound": "horse"
 	},
 {
-		"name": "Tatar Cavalry",
+		"name": "Chambul",
                 "uniqueTo": "Crimea",
 		"replaces": "Knight",
 		"unitType": "Mounted",
@@ -2300,7 +2397,7 @@
 	},
       {
 		"name": "Falcon Dancer",
-                "uniqueTo": "The Mississippians",
+                "uniqueTo": "Mississippian",
 		"replaces": "Inquisitor",
                 "strength": 14,
 		"unitType": "Civilian",
@@ -2580,7 +2677,7 @@
 		"attackSound": "metalhit"
 	},
         {
-		"name": "Croban",
+		"name": "Vitez",
 		"unitType": "Sword",
 		"uniqueTo": "Croatia",
 		"replaces": "Swordsman",
@@ -2648,7 +2745,7 @@
 		"attackSound": "horse"
 	},
         {
-		"name": "Cable-backed bowman",
+		"name": "Cable-Backed Bowman",
         "replaces": "Archer",
 		"uniqueTo": "The Inuit",
 		"unitType": "Archery",
@@ -2865,7 +2962,7 @@
 		"attackSound": "shot"
 	},
         {
-		"name": "Codetalker",
+		"name": "Code Talker",
                 "replaces": "Rifleman",
 		"uniqueTo": "Navajo",
 		"unitType": "Gunpowder",
@@ -2877,19 +2974,6 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
-	},
-        {
-		"name": "Chunkey Player",
-                "replaces": "Warrior",
-		"uniqueTo": "Cherokee",
-		"unitType": "Sword",
-		"movement": 3,
-		"strength": 9,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"attackSound": "nonmetalhit"
 	},
 
 
@@ -2969,7 +3053,7 @@
 		"attackSound": "metalhit"
 	},
         {
-		"name": "Sachen",
+		"name": "Sachem",
                 "replaces": "Great General",
 		"uniqueTo": "Lenape",
 		"unitType": "Civilian",

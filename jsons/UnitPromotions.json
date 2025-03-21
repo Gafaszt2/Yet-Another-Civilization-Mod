@@ -17,8 +17,12 @@
                 "name": "Mountain Lifestyle",
                 "uniques": ["[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
                 },
+                {
+                        "name": "[The Palawa] Ability",
+                        "uniques": ["[This Unit] heals [2] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
+                        },
 {
         "name": "Magyar Knight",
         "uniques": ["[+25]% Strength <vs [Sword] units>", "[+10]% Strength <vs [Wounded] units>", "[+10]% Strength <vs cities>"]
-	},
+	}
 ]

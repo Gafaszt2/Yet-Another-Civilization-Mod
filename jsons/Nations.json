@@ -1,5 +1,159 @@
 [
 	{
+        "name": "The Palawa",
+        "leaderName": "Tarenorerer",
+        "adjective": ["The Palawa"],
+        "startBias":["Hill"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [17, 51, 37],
+        "innerColor": [255, 180, 105],
+        "uniqueName": "Oyster Cove Mob",
+        "uniques": ["[+1 Science] from [Pillaged] tiles [in all cities]","All newly-trained [Land] units [in all cities] receive the [[The Palawa] Ability] promotion"],
+        "cities": ["Mutawaynatji", "Pataway", "Putalina", "Kriwa", "Nipaluna", "Niplin", "Kripikara", "Laylatiya", "Maytim", "Takayna", "Luyamantun"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "Slovakia",
+        "leaderName": "Milan Stefanik",
+        "adjective": ["Slovakia"],
+        "startBias":["Forest"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [255, 23, 23],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Lightning Over the Tatras",
+        "uniques": ["[+1 Culture] from [Hill] tiles [in all cities]","All newly-trained [Gunpowder] units [in all cities] receive the [Drill I] promotion","All newly-trained [Sword] units [in all cities] receive the [Drill I] promotion","All newly-trained [Mounted] units [in all cities] receive the [Drill I] promotion"],
+        "cities": ["Bratislava",
+"Košice",
+"Žilina",
+"Prešov",
+"Banská Bystrica",
+"Nitra",
+"Trnava",
+"Poprad"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "Burkina Faso",
+        "leaderName": "Thomas Sankara",
+        "adjective": ["Burkina Faso"],
+        "startBias":["Jungle"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [94, 8, 5],
+        "innerColor": [213, 237, 199],
+        "uniqueName": "The Upright Man",
+        "uniques": ["[+1 Food] in cities on [Jungle] tiles","[+1 Food] in cities on [Forest] tiles",
+	                "[+1 Science] in cities on [Jungle] tiles <starting from the [Modern era]>","[+1 Science] in cities on [Forest] tiles <starting from the [Modern era]>",
+				    "[+2 Production] in cities on [Jungle] tiles <starting from the [Modern era]>","[+2 Production] in cities on [Forest] tiles <starting from the [Modern era]>"],
+        "cities": ["Ouagadougou",
+"Bobo Dioulasso",
+"Banfora",
+"Koudougou",
+"Ouahigouya",
+"Kaya",
+"Fada N'gourma",
+"Tenkodogo",
+"Houndé",
+"Dédougou"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "Noongar",
+        "leaderName": "Yagan",
+        "adjective": ["Noongar"],
+        "startBias":["Coast"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [36, 36, 59],
+        "innerColor": [255, 137, 74],
+        "uniqueName": "Cold Fire",
+        "uniques": ["[+1 Food] from [Pasture] tiles [in all cities] <upon entering a Golden Age> <for [10] turns>","[+1 Food] from [Camp] tiles [in all cities] <upon entering a Golden Age> <for [10] turns>",
+		"Free [Gidjiboryl] appears <upon constructing [Monument]>","Free [Gidjiboryl] appears <upon discovering a Natural Wonder>"],
+        "cities": ["Mendyarrup", "Mandurah", "Pinjarra", "Badjaling", "Nannup", "Jerramungup", "Ballardong", "Katter Kich", "Walyallup"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "Chile",
+        "leaderName": "Bernardo O'Higgins",
+        "adjective": ["Chile"],
+        "startBias":["Coast"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [19, 28, 168],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "By Reason or By Force",
+        "uniques": ["[+2 Gold] per [3] social policies adopted","[+25]% [Gold] [in coastal cities]","[+2 Gold] in cities on [Hill] tiles"],
+        "cities": ["Santiago de Chile",
+"Concepción",
+"Valparaiso",
+"La Serena",
+"Valdivia",
+"Castro",
+"Talca",
+"Copiapo",
+"Iquique",
+"Arica",
+"Puerto Montt"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
         "name": "Poverty Point",
         "leaderName": "Táhera",
         "adjective": ["Poverty Point"],
@@ -606,7 +760,7 @@
 		"tradeRequest": "Check out this",
 		"outerColor": [138, 255, 157],
 		"innerColor": [255, 74, 71],
-		"uniqueName": "Pizza, Guerra e Pasta",
+		"uniqueName": "March of Ordinance",
 		"uniques": ["[+1 Gold] from [Plantation] tiles [in all cities]","[Great Merchant] is earned [+25]% faster","[+3 Gold] from [Customs house] tiles [in all cities]","[Gold] cost of purchasing [Gunpowder] units [-35]%"],
 		"cities": ["Rome",
 "Milan",
@@ -916,7 +1070,7 @@
 		"tradeRequest": "Check out this",
 		"outerColor": [245, 144, 61],
 		"innerColor": [66, 13, 11],
-		"uniqueName": "Brasilian Pampas Prosperity",
+		"uniqueName": "The Legacy of Ragamuffin",
 		"uniques": ["[-60]% maintenance costs","[+10]% Production when constructing [Melee] units [in all cities]","Earn [70]% of killed [Wounded] unit's [Cost] as [Faith]"],
 		"cities": ["Porto Alegre", "Pelotas", "Santa Maria", "Caxias do Sul", "Bagé", "Uruguaiana", "Santa Cruz do Sul"],
 		"spyNames": ["Saki"]
@@ -1447,7 +1601,7 @@
 		"outerColor": [38, 38, 37],
 		"innerColor": [250, 250, 107],
         "favoredReligion": "Christianity",
-		"uniqueName": "Slave Trade Monopoly",
+		"uniqueName": "Cultuurstelsel",
 		"uniques": ["[+1 Production] per every [4] [Gold]"],
 		"cities": ["Surat","Madras","Banten","West Java","Jayakarta","Jepara","Aceh","Pariaman","Jambi","Ambon","Banda Neira","Bengkulu","Cirebon","Makassar","Malacca","Patani","Ternate"]
 	},
@@ -1473,7 +1627,7 @@
 		"outerColor": [138, 255, 214],
 		"innerColor": [0, 60, 97],
         "favoredReligion": "Christianity",
-		"uniqueName": "Pear of the Orient Seas",
+		"uniqueName": "Pearl of the Orient Seas",
 		"uniques": ["[+1 Culture] from every [Coast]","[+2 Faith] [in all cities] <with [1] to [2] neighboring [Coast] tiles>","[+3 Faith] [in all cities] <with [3] to [4] neighboring [Coast] tiles>"],
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
 	},
@@ -1575,7 +1729,7 @@
 				
 		"outerColor": [166, 5, 5],
 		"innerColor": [173, 234, 237],
-		"uniqueName": "Sea Warriors",
+		"uniqueName": "Inasi",
 		"uniques": ["[+2] Sight <for [Embarked] units>","[+15]% Production when constructing [Water] units [in all cities]"],
 		"cities": ["Nuku´alofa","Mu´a","Neiafu","Vaini","Nukunuku"],
 	},
@@ -2138,7 +2292,7 @@
 
 		"outerColor": [0, 128, 9],
 		"innerColor": [255, 247, 0],
-		"uniqueName": "Archipelago Harmony",
+		"uniqueName": "The Perfume Isles",
 		"uniques": ["[+2 Food, +3 Culture] from [Atoll] tiles [in all cities]","[+2 Faith, +1 Production] from [Atoll] tiles [in all cities] <during a Golden Age>"],
 		"cities": ["Moroni",
 "Mutsamudu",
@@ -2275,7 +2429,7 @@
 				
 		"outerColor": [16, 82, 41],
 		"innerColor": [134, 187, 219],
-		"uniqueName": "ONU Mission",
+		"uniqueName": "Little America",
 		"uniques": ["[+20]% Strength <vs [Helicopter] units>","[-15]% Strength <vs [Barbarian] units>","[+1 Science] from all [Production] buildings <while the empire is happy>"],
 		"cities": ["Monrovia",
 "Buchanan",
@@ -2919,7 +3073,7 @@
 				
 		"outerColor": [69, 70, 84],
 		"innerColor": [219, 219, 219],
-		"uniqueName": "Military Reforms!",
+		"uniqueName": "An Army with a State",
 		"uniques": ["[Gold] cost of purchasing [Land] units [-20]%","[Gold] cost of purchasing [Land] units [-50]% <during a Golden Age>","[+1 Science] from all [Barracks] buildings","[+1 Science] from all [University] buildings","[+1 Science] from all [Factory] buildings"],
 		"cities": ["Berlin",
 "Königsberg",
@@ -2953,7 +3107,7 @@
 				
 		"outerColor": [0, 26, 92],
 		"innerColor": [252, 76, 111],
-		"uniqueName": "Rule Brittania!",
+		"uniqueName": "Rule, Britannia!",
 		"uniques": ["[+1 Production] from [Strategic resource] tiles [in all cities]","[+1 Production] from [Luxury resource] tiles [in all cities]","[+20]% Production when constructing [Gunpowder] units [in all cities] <during a Golden Age>
 ","[+20]% Production when constructing [Production] buildings [in all cities] <during a Golden Age>
 "],
@@ -3107,7 +3261,7 @@
 				
 		"outerColor": [255, 65, 59],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Republican Reforms",
+		"uniqueName": "The Six Arrows",
 		"uniques": ["[+1 Culture, +1 Science] from every specialist [in all cities] <during a Golden Age>","[+40]% Production when constructing [Siege] units [in all cities] <during a Golden Age>"],
 		"cities": ["Ankara",
 "Istanbul",
@@ -3209,7 +3363,7 @@
 				
 		"outerColor": [152, 217, 163],
 		"innerColor": [94, 41, 0],
-		"uniqueName": "Mountain Resilence",
+		"uniqueName": "Mountain Shepherds",
 		"uniques": ["Provides [1] [Wool] <with [100]% chance>","[+1 Culture, +2 Gold] from [Sheep] tiles [in all cities]","[+1 Culture] from [Mountain] tiles [in all cities]"],
 		"cities": ["Kolomyia",
 "Verkhovyna",
@@ -3318,7 +3472,7 @@
 		"outerColor": [62, 54, 69],
 		"innerColor": [118, 245, 164],
                 "favoredReligion": "Islam",
-		"uniqueName": "Emirate of Bukhara Silk Road Merchants",
+		"uniqueName": "Land of Silk Road Treasures",
 		"uniques": ["[+1 Culture] from every [Desert]","[+1 Gold] from every [Pasture]","[+1 Faith] in cities on [Hill] tiles","[+50]% Happiness from luxury resources gifted by City-States"],
 		"cities": ["Tashkent","Samarkand","Bukhara","Nukus","Fergana","Qarshi","Kokand","Margilan","Termez","Jizzakh","Angren","Chirchiq","Navoiy","Urgench","Shahrisabz"]
 	},
@@ -3620,7 +3774,7 @@
 				
 		"outerColor": [197, 226, 237],
 		"innerColor": [16, 71, 92],
-		"uniqueName": "The Rising Sun which spreads over all",
+		"uniqueName": "The Walls of Benin",
 		"uniques": ["[+1 Production] from every [Oil]","[+1 Production] from every [Ocean]","[+1 Production] from every [Jungle]"],
 		"cities": ["Benin City", "Udo" ,"Ekpoma", "Auchi", "Akure", "Warri", "Ondo", "Ife","Ijebu Ode","Abeokuta"]
 	},
@@ -3670,7 +3824,7 @@
 				
 		"outerColor": [245, 215, 118],
 		"innerColor": [70, 115, 104],
-		"uniqueName": "King Wives",
+		"uniqueName": "Xwetanu",
 		"uniques": ["[+10]% [Production] [in capital] <when at war>","[+50]% [Gold] [in capital] <when at war>","[+50]% [Happiness] [in capital] <when at war>"],
 		"cities": ["Abomey", "Allada" ,"Porto-Novo", "Cotonou", "Ouidah", "Parakou", "Djougou", "Bohicon","Kandi","Lokossa"]
 	},
@@ -3733,7 +3887,7 @@
 				
 		"outerColor": [75, 145, 28],
 		"innerColor": [195, 235, 169],
-		"uniqueName": "Turko-Persian Legacy",
+		"uniqueName": "Siyasatnama",
 		"uniques": ["[+25]% [Culture] from Trade Routes","[+25]% [Science] from Trade Routes"],
 		"cities": ["Isfahan",
 "Nishapur",
@@ -3803,7 +3957,7 @@
 				
 		"outerColor": [203, 214, 245],
 		"innerColor": [39, 42, 51],
-		"uniqueName": "Maritime Traders",
+		"uniqueName": "Samayam",
 		"uniques": ["[+25]% Strength <for [Melee Water] units>","[+5]% Strength <for [Wounded] units>","[+1 Gold] from each Trade Route"],
 		"cities": ["Thanjavur",
 "Chennai",
@@ -4181,7 +4335,7 @@
 				
 		"outerColor": [228, 240, 139],
 		"innerColor": [54, 45, 30],
-		"uniqueName": "Pampa´s Hunters",
+		"uniqueName": "The Pampas Hunters",
 		"uniques": ["[-100]% maintenance costs <for [Mounted] units>","[+15]% Production when constructing [Mounted] units [in this city]","Double quantity of [Horses] produced"],
 		"cities": ["Salsipuedes","Entre Ríos","Rio Grande do Sul","Ñandu","Chana","Guenoa","Bohane","Minuan"],
 	},
@@ -4588,7 +4742,7 @@
 				
 		"outerColor": [41, 20, 61],
 		"innerColor": [133, 84, 255],
-		"uniqueName": "Independent Dinasty",
+		"uniqueName": "Kitab al-Mukafa'a",
 		"uniques": ["[+2 Gold] [in all cities]", "[+1 Production] from every [Coast]", "[+2 Faith] from every [Desert]"],
 		"cities": ["Cairo","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
@@ -4601,7 +4755,7 @@
 		"name": "Pahlavi Iran",
 		"leaderName": "Mohammad Reza Pahlavi",
 		"adjective": ["Pahlavi Iran"],
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
@@ -4862,7 +5016,7 @@
 				
 		"outerColor": [43, 43, 43],
 		"innerColor": [93, 93, 232],
-		"uniqueName": "Halcón veloz",
+		"uniqueName": "Meli Witran Mapu",
 		"uniques": ["New [Military] units start with [20] XP [in capital]", "[+1] Movement <for [{Military} {Mounted}] units>",
 			"[+1] Sight <for [{Military} {Mounted}] units>"],
 		"cities": ["Antuco", "Biobio" ,"Chos Malal", "Curico", "Llanquihue", "Pucón", "Rancul", "Traful", "Villarica",
@@ -4889,7 +5043,7 @@
 				
 		"outerColor": [43, 43, 43],
 		"innerColor": [233, 237, 245],
-		"uniqueName": "Artic People",
+		"uniqueName": "Inuit Nunangat",
 		"uniques": ["[+1 Food] from every [Snow]", "[+1 Food] from every [Tundra]", "[+1 Science] from every [Atoll]"],
 		"cities": ["Iqaluit", "Nunanik" ,"Nuuk", "Inuvik", "Barrow", "Kangerlussuaq", "Iglulik", "Sismiut", "Tuktoyaktuk"]
 	},
@@ -5041,7 +5195,7 @@
 				
 		"outerColor": [39, 47, 48],
 		"innerColor": [141, 212, 224],
-		"uniqueName": "Outback Prision Mine",
+		"uniqueName": "Land Down Under",
 		"uniques": ["[+1 Food] from every [Desert]", "[+1 Production] from every [Mine]", "[+2 Culture] from every [Natural Wonder]"],
 		"cities": ["Canberra","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
 			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
@@ -5304,7 +5458,7 @@
 				
 		"outerColor": [245, 201, 59],
 		"innerColor": [150, 14, 5],
-		"uniqueName": "Clan System",
+		"uniqueName": "Sequoyah's Syllabary",
 		"uniques": ["[+1 Production] from every [Forest]", "[+5]% growth [in all cities]"],
 		"cities": ["Isunigu","Overhill",
 			"Middle","Valley","Out Towns","Lower Towns","Keowee","Sugar Town","Chota","Etowa","Seneca"]
@@ -5541,13 +5695,13 @@
 				
 		"outerColor": [255, 248, 199],
 		"innerColor": [117, 115, 100],
-		"uniqueName": "Destroyers",
+		"uniqueName": "The Destroyers",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"cities": ["Pequotown","Sassacus",
 			"Miantonomo","Uncas","Narragansett","New Haven","Hartford","Springfield","Providence","New London","Mashpee"]
 	},
         {
-		"name": "The Mississippians",
+		"name": "Mississippian",
 		"leaderName": "Tuskaloosa",
 		"adjective": ["Mississippian"],
 		"startBias": ["Grassland"],
@@ -5695,7 +5849,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-                "uniqueName": "Ma Aikata",
+                "uniqueName": "Hausa Bakwai",
                 "uniques": ["[+1 Production] from every [Temple]", "[+1 Faith] from every [Desert]", "[+1 Gold] from every [Hill]"],
 
 		"outerColor": [191, 160, 98],

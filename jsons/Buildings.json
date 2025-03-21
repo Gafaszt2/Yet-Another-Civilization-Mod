@@ -1,6 +1,63 @@
 
 [
 	{
+		"name": "Ballawinne Quarry",
+		"uniqueTo": "The Palawa",
+		"replaces": "Stone Works",
+		"happiness": 1,
+		"production": 1,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["Must not be on [Plains]","Provides [1] [Ochre]","New [Military] units start with [5] XP [in this city]",
+			"[+1 Production] from [Stone] tiles [in this city]",
+			"[+1 Production] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Carpathian Church",
+		"uniqueTo": "Slovakia",
+		"replaces": "Temple",
+		"faith": 2,
+		"culture": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Freight Station",
+		"uniqueTo": "Burkina Faso",
+		"replaces": "Seaport",
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+1 Culture] from [Railroad] tiles [in this city]",
+			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Navigation"
+	},
+	{
+		"name": "Mia Mia",
+		"uniqueTo": "Noongar",
+		"replaces": "Water Mill",
+		"specialistSlots":{"Artist" : 1},
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Comment [+1 Artist slot]"],
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Medialuna",
+		"uniqueTo": "Chile",
+		"replaces": "Circus",
+		"requiredNearbyImprovedResources": ["Ivory","Horses","Cattle","Sheep"],
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques":["[+1 Culture] from [Pasture] tiles [in this city]"],
+		"requiredTech": "Trapping"
+	},
+	{
 		"name": "Ball Court",
 		"uniqueTo": "The Olmecs",
 		"replaces": "Colosseum",
@@ -849,7 +906,7 @@
 		"requiredTech": "Economics"
 	},
 {
-		"name": "Anatolian Academy",
+		"name": "Halkevleri",
                 "uniqueTo": "Turkiye",
 		"replaces": "University",
 		"maintenance": 2,
@@ -966,7 +1023,7 @@
 		"uniques": ["[+5]% Production when constructing [Wonder] buildings [in this city]","Destroyed when the city is captured"]
 	},
 {
-		"name": "Crusader Temple",
+		"name": "Templum Domini",
 		"cost": 125,
                 "uniqueTo": "Jerusalem",
 		"replaces": "Grand Temple",
@@ -1219,7 +1276,7 @@
 	}
 
         {
-		"name": "Faith Mosques",
+		"name": "Congregational Mosque",
                 "replaces": "Temple",
 		"uniqueTo": "Tulunids",
 		"faith": 3,

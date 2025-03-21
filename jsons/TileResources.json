@@ -11,6 +11,10 @@
 		"name": "Tea",
 		"resourceType": "Luxury",
 	},
+	{
+		"name": "Ochre",
+		"resourceType": "Luxury",
+	},
         {
 		"name": "Uro",
 		"resourceType": "Luxury",
