@@ -1,5 +1,39 @@
 [
 	{
+        "name": "Kazakhstan",
+        "leaderName": "Nursultan Nazarbayev",
+        "adjective": ["Kazakhstan"],
+        "startBias":["Hill","Mountain"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [23, 98, 179],
+        "innerColor": [255, 252, 158],
+        "uniqueName": "Nurly Zhol",
+        "uniques": ["[+1 Food] from every [Saiga] <if [Yet Another Resource Mod Reborn] is enabled>","[+2 Science] from [Strategic resource] tiles [in all cities]"],
+        "cities": ["Astana",
+"Almaty",
+"Shymkent",
+"Karaganda",
+"Aktobe",
+"Taraz",
+"Semey",
+"Pavlodar",
+"Oskemen",
+"Atyrau"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
         "name": "The Palawa",
         "leaderName": "Tarenorerer",
         "adjective": ["The Palawa"],
@@ -1550,7 +1584,7 @@
 		"outerColor": [0, 71, 186],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Chosen from the Flock",
-		"uniques": ["[+30]% Production when constructing [Faith] buildings [in all cities]","[+1 Faith] from all [Faith] buildings"],
+		"uniques": ["[+1 Faith] from every [Bison]","[+30]% Production when constructing [Faith] buildings [in all cities]","[+1 Faith] from all [Faith] buildings"],
 		"cities": ["Batoche", "Winnipeg", "Pembina", "Duck Lake", "St. Laurent", "St. Norbert", "Fish Creek", "Frog Lake", "Nipawin", "La Ronge", "Regina"],
 		"spyNames": ["Saki"]
 	},
@@ -1882,7 +1916,7 @@
 		"outerColor": [245, 206, 176],
 		"innerColor": [153, 38, 20],
 		"uniqueName": "Bundle of Sacred Arrows",
-		"uniques": ["[+15]% Strength <for [Mounted] units>","[+10]% Production when constructing [Archery] units [in all cities]","[+25]% XP gained from combat"],
+		"uniques": ["[+1 Faith] from every [Bison]","[+15]% Strength <for [Mounted] units>","[+10]% Production when constructing [Archery] units [in all cities]","[+25]% XP gained from combat"],
 		"cities": ["Bear Butte", "Toh'nihvoos", "Omisis", "Suhtai", "Hévhaitanio", "Tsétsehéstahese", "Oévemano", "Hisiometaneo", "Oktoguna", "Masikota", "Hónowa"],
 	},
 	{
@@ -2128,7 +2162,7 @@
 		"outerColor": [209, 147, 0],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Roof of the World",
-		"uniques": ["[+1 Faith] from [Hill] tiles [in all cities]","[+2 Faith, +2 Culture] from [Mountain] tiles [in all cities]"],
+		"uniques": ["[+1 Food] from every [Yak] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Faith] from [Hill] tiles [in all cities]","[+2 Faith, +2 Culture] from [Mountain] tiles [in all cities]"],
 		"cities": ["Kathmandu",
 "Pokhara",
 "Lalitpur",
@@ -2530,7 +2564,7 @@
 		"outerColor": [119, 247, 230],
 		"innerColor": [0, 43, 84],
 		"uniqueName": "Kamuy Yukar",
-		"uniques": ["[+1 Gold, +2 Faith] from every [Camp]","[+1 Culture] from every specialist [in all cities]"],
+		"uniques": ["[+1 Food] from every [Orcas] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Gold, +2 Faith] from every [Camp]","[+1 Culture] from every specialist [in all cities]"],
 		"cities": ["Sat Poro Pet", "Shinhidaka", "Shiraoi", "Usukeshi", "Yam Wakkanay", "Mo Ruerani", "Iskarun", "Rurumoppe", "Paramushir", "Shimushir", "Urup", "Iturup", "Kunashir", "Yoichi", "Etomo", "Iwanai", "Akkeshi", "Shiranushi", "Nayoro", "Baluohe", "Turupan", "Kushunkotan", "Shibuchari"],
 	},
 
@@ -2826,7 +2860,7 @@
 		"innerColor": [238, 255, 212],
 		"favoredReligion": "Islam",
 		"uniqueName": "Father of Modern Egypt",
-		"uniques": ["[+1 Gold] from all [Production] buildings <after discovering [Industrialization]>","[+1 Gold, +1 Faith] in cities on [Desert] tiles","[+10]% Strength <for [Mounted] units>"],
+		"uniques": ["[+1 Food] from every [Camel] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Gold] from all [Production] buildings <after discovering [Industrialization]>","[+1 Gold, +1 Faith] in cities on [Desert] tiles","[+10]% Strength <for [Mounted] units>"],
 		"cities": ["Cairo", "Alexandria", "Giza", "Port Said", "Suez", "Al Mahallah al Kubra", "Luxor", "Asyut", "Al Mansurah", "Tanda", "Al Fayyum", "Zagazig", "Ismailia", "Kafr ad Dawwar", "Aswan", "Qina", "Halwan", "Damanhur", "Al Minya", "Idku", "Sohag", "New Cairo", "Bani Suwayf", "Shibin al Kawn", "Banha", "Talkha", "Kafr ash Shaykh", "Mallawi", "Dikirnis", "Idfu", "Bilbays", "Arish", "Jirja", "Al Hawamidiyah", "Bilqas", "Disaq", "Abu Kabir", "Qalyub"],
         "spyNames": ["Ali", "Muhammad", "Said", "Baba", "Amir", "Anwar", "Malik", "Hassan", "Omar", "Ahmed"]
 	},
@@ -3888,7 +3922,7 @@
 		"outerColor": [75, 145, 28],
 		"innerColor": [195, 235, 169],
 		"uniqueName": "Siyasatnama",
-		"uniques": ["[+25]% [Culture] from Trade Routes","[+25]% [Science] from Trade Routes"],
+		"uniques": ["[+1 Food] from every [Camel] <if [Yet Another Resource Mod Reborn] is enabled>","[+25]% [Culture] from Trade Routes","[+25]% [Science] from Trade Routes"],
 		"cities": ["Isfahan",
 "Nishapur",
 "Ray",
@@ -5224,7 +5258,7 @@
 		"outerColor": [99, 1, 1],
 		"innerColor": [252, 242, 242],
 		"uniqueName": "Potlatch",
-		"uniques": ["[+5]% Strength <when fighting in [Friendly Land] tiles>", "[+2 Food] from every [Lakes]", "[+15]% Strength <when fighting in [Forest] tiles>", "[+15]% Strength <when fighting in [Jungle] tiles>"],
+		"uniques": ["[+1 Food] from every [Orcas] <if [Yet Another Resource Mod Reborn] is enabled>","[+5]% Strength <when fighting in [Friendly Land] tiles>", "[+2 Food] from every [Lakes]", "[+15]% Strength <when fighting in [Forest] tiles>", "[+15]% Strength <when fighting in [Jungle] tiles>"],
 		"cities": ["Taaw Tldáaw","X̱aayda Kil","Hl̓aagilda","Dal Kún","Dal Ḵáahlii","T'aaw Tlldaaw","G̱aauuw G̱an","Hlg̱uulaang","Q̱aadas","Tllda G̱awaay"]
 	},
         {
@@ -5330,7 +5364,7 @@
 		"outerColor": [156, 145, 132],
 		"innerColor": [120, 42, 40],
 		"uniqueName": "Great Sioux Nation",
-		"uniques": ["[+1 Culture] from every [Plains]", "[+1 Gold] from every [Hill]"],
+		"uniques": ["[+1 Faith] from every [Bison]","[+70]% XP gained from combat <for [Mounted] units>"],
 		"cities": ["Little Bighorn","Cedar Creek","Sioux Falls","Sisseton","Wounded Knee","Rapid City", "Stony Lake", "Killdeer", "Big Mound", "Pine Ridge", "Owanka", "Turtle River", "Oglala"]
 	},
         {
@@ -5540,7 +5574,7 @@
 		"outerColor": [61, 12, 8],
 		"innerColor": [174, 208, 232],
 		"uniqueName": "Lords of the Plains",
-		"uniques": ["[+2 Culture] from every [Horses]", "[+20]% Strength <for [Mounted] units>"],
+		"uniques": ["[+1 Faith] from every [Bison]","[+2 Culture] from every [Horses]", "[+20]% Strength <for [Mounted] units>"],
 		"cities": ["Tehuacana","Quanah",
 			"Wichita","Nokoni","Tosawi","Isatai","Pahayoko","Tabanaica","Kotsoteka","Penateka","Yamparika"]
 	},

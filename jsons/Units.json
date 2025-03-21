@@ -1,5 +1,19 @@
 [
 	{
+		"name": "T-72",
+		"uniqueTo": "Kazakhstan",
+		"replaces": "Tank",
+		"unitType": "Armored",
+		"movement": 6,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","Double movement in [River]","[+25]% XP gained from combat","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "Leryna",
 		"uniqueTo": "The Palawa",
 		"replaces": "Musketman",

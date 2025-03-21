@@ -1,6 +1,15 @@
 
 [
 	{
+		"name": "Kiiz Uy",
+		"uniqueTo": "Kazakhstan",
+		"replaces": "Circus",
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques":["New [Mounted] units start with [10] XP [in this city]"],
+		"requiredTech": "Trapping"
+	},
+	{
 		"name": "Ballawinne Quarry",
 		"uniqueTo": "The Palawa",
 		"replaces": "Stone Works",
