@@ -18,6 +18,18 @@
                 "uniques": ["[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
                 },
                 {
+                        "name": "[The Tatars] Ability",
+                        "uniques": ["[+50]% Health from pillaging tiles","[+1] Movement"]
+                        },
+                        {
+                                "name": "[Arawak] Ability",
+                                "uniques": ["Double movement in [Jungle]","Double movement in [Marsh]"]
+                                },
+                        {
+                                "name": "[The Magyars] Ability",
+                                "uniques": ["[+25]% Strength"]
+                                },
+                {
                         "name": "[The Palawa] Ability",
                         "uniques": ["[This Unit] heals [2] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
                         },

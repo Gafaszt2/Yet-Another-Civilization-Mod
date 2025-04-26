@@ -1,5 +1,167 @@
 [
 	{
+        "name": "Arawak",
+        "leaderName": "Anacaona",
+        "adjective": ["Arawak"],
+        "startBias":["Jungle","Hill","Marsh"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [247, 99, 99],
+        "innerColor": [13, 1, 1],
+        "uniqueName": "Nature’s Guardians",
+        "uniques": ["Comment [All units have double movement in [Jungle],[Marsh] Tiles]","All newly-trained [Land] units [in all cities] receive the [[Arawak] Ability] promotion <hidden from users>",
+			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+        "cities": ["They dont have cities wow"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "The Magyars",
+        "leaderName": "Árpád",
+        "adjective": ["The Magyars"],
+        "startBias":["Forest","Hill","Grassland"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [166, 0, 0],
+        "innerColor": [237, 206, 206],
+        "uniqueName": "Horde of the Danube",
+        "uniques": ["Comment [Mounted units have +25% strenght]","All newly-trained [Mounted] units [in all cities] receive the [[The Magyars] Ability] promotion <hidden from users>",
+			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+        "cities": ["They dont have cities wow"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "The Tatars",
+        "leaderName": "Tokhtamysh",
+        "adjective": ["The Tatars"],
+        "startBias":["Tundra","Hill","Grassland"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [219, 219, 219],
+        "innerColor": [166, 0, 0],
+        "uniqueName": "Golden Horde Legacy",
+        "uniques": ["Comment [Mounted units heal +50% from pillaging tiles and they gain +1 movement]","All newly-trained [Mounted] units [in all cities] receive the [[The Tatars] Ability] promotion <hidden from users>",
+			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+        "cities": ["They dont have cities wow"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "The Xiongnu",
+        "leaderName": "Modu Chanyu",
+        "adjective": ["The Xiongnu"],
+        "startBias":["Plains","Hill","Mountain"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [222, 222, 222],
+        "innerColor": [36, 36, 36],
+        "uniqueName": "Sky Warriors",
+        "uniques": ["Comment [Torch Porter Units are 25% cheaper]",
+			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+        "cities": ["They dont have cities wow"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "The Scythians",
+        "leaderName": "Tomyris",
+        "adjective": ["The Scythians"],
+        "startBias":["Plains","Hill","Mountain"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [247, 224, 166],
+        "innerColor": [138, 24, 1],
+        "uniqueName": "Nomadic Elegance",
+        "uniques": ["Comment [Cavalry Units are 25% cheaper]",
+			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+        "cities": ["They dont have cities wow"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
+        "name": "The Scythians",
+        "leaderName": "Tomyris",
+        "adjective": ["The Scythians"],
+        "startBias":["Plains","Hill","Mountain"],
+        "preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+        "attacked": "The war has hardened us, but it has not broken us",
+        "defeated": "This cannot happen!",
+        "introduction": "Welcome to our land",
+        "neutralHello": "Hello.",
+        "hateHello": "We do not fear war",
+        "tradeRequest": "Check out this",
+        "outerColor": [247, 224, 166],
+        "innerColor": [138, 24, 1],
+        "uniqueName": "Nomadic Elegance",
+        "uniques": ["Comment [Cavalry Units are 25% cheaper]",
+			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"Cannot build [Settler] units","May not annex cities"],
+        "cities": ["They dont have cities wow"],
+        "spyNames": ["Tangaroa"]
+    },
+	{
         "name": "Kazakhstan",
         "leaderName": "Nursultan Nazarbayev",
         "adjective": ["Kazakhstan"],
@@ -609,8 +771,8 @@
 		"innerColor": [247, 245, 168],
 		"uniqueName": "Dance of the Scalps",
 		"uniques": [
-	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
-	"All newly-trained [Land] units [in all cities] receive the [Guaycuru Raider] promotion","Cannot build [Settler] units","May not annex cities"],
+	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+	"All newly-trained [Land] units [in all cities] receive the [Guaycuru Raider] promotion","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["Misión El Toba", "Sombrero Negro", "San Martín del Tabacal", "Laguna Martín", "Laguna Los Paces", "Jesús María", "Nuevo Pilcomayo"],
 		"spyNames": ["Saki"]
 	},
@@ -635,9 +797,9 @@
 		"outerColor": [250, 222, 217],
 		"innerColor": [63, 82, 145],
 		"uniqueName": "The Last Nomadic Empire",
-		"uniques": [
+		"uniques": ["Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>",
 	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
-	"All newly-trained [Land] units [in all cities] receive the [Mountain Lifestyle] promotion","Land units may cross [Mountain] tiles after the first [Great General] is earned","Cannot build [Settler] units","May not annex cities"],
+	"All newly-trained [Land] units [in all cities] receive the [Mountain Lifestyle] promotion","Land units may cross [Mountain] tiles after the first [Great General] is earned","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["Ghulja", "Tarbagatai", "Uliastai", "Irtysh", "Ürümqi", "Yulduz", "Manas", "Hami", "Kobdo", "Kur-Karausu", "Ölgii", "Altai", "Kyakhta"],
 		"spyNames": ["Saki"]
 	},
