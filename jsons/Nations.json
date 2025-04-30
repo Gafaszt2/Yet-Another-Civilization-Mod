@@ -1,5 +1,338 @@
 [
 	{
+		"name": "Mogollon",
+		"leaderName": "Enee",
+		"adjective": ["Mogollon"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [245, 109, 47],
+		"innerColor": [28, 17, 9],
+		"uniqueName": "Blended Wares",
+		"uniques": ["Starts with [Pottery]","Provides [1] [Ware] <upon constructing [Wonder]>"],
+		"cities": ["Paquimé", "Mimbres", "Hueco Tanks", "Cuarenta Casas", "Huápoca", "Cueva Grande", "Cueva de la Olla", "Trincheras"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Muisca",
+		"leaderName": "Nemequene",
+		"adjective": ["The Muisca"],
+		"startBias":["Jungle","River"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 218, 133],
+		"innerColor": [128, 109, 65],
+		"uniqueName": "Bochica's Teachings",
+		"uniques": ["[+1 Gold] from every [Luxury resource]","[+1 Faith] from every [Luxury resource]","[+1 Faith] from all [Gold] buildings"],
+		"cities": ["Bacatá","Hunza","Sogamoso","Zipaquirá","Guatavita","Suba","Cota","Tocancipá","Chía","Sesquilé"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Tlingit",
+		"leaderName": "Sheiyksh I",
+		"adjective": ["The Tlingit"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [18, 18, 18],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "People of the Tides",
+		"uniques": ["[+1 Culture, +2 Gold] [in coastal cities]","[+20]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Chilkat","Kaliakh","Taku","Sitka","Hoonah","Keex","Tuxekan","Aangoon","Klawock","Gunahoo"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Navarre",
+		"leaderName": "Sancho III",
+		"adjective": ["Navarre"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [97, 0, 15],
+		"innerColor": [255, 202, 66],
+		"uniqueName": "Rex Dei Gratia Hispaniarum",
+		"uniques": ["[+2 Culture, +2 Faith] from [Holy site] tiles [in all cities]","[+1 Gold] from every [Temple]","[+25]% Spread Religion Strength"],
+		"cities": ["Iruña", "Donostia", "Irun", "Bilbo", "Donapaleu", "Balona", "Erriberri", "Maule-Lextarre", "Tudela", "Attarabia", "Gasteiz"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Kalinago",
+		"leaderName": "Kairouane",
+		"adjective": ["The Kalinago"],
+		"startBias":["Coast","Marsh"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [38, 40, 87],
+		"innerColor": [163, 255, 220],
+		"uniqueName": "Spirit of the Rock",
+		"uniques": ["[+1 Happiness] per [3] population [in all cities]","All newly-trained [Sword] units [in all cities] receive the [Ouboutou] promotion"],
+		"cities": ["Camerhogne","Wai'tukubuli","Karukera","Madinina","Hewanorra","Hairoun","Wadadli","Lele","Tobago","Liamuiga"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Seminole",
+		"leaderName": "Micanopy",
+		"adjective": ["The Seminole"],
+		"startBias":["Coast","Marsh"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [204, 230, 145],
+		"innerColor": [22, 26, 15],
+		"uniqueName": "Swamp Survival",
+		"uniques": ["[-10]% Strength <vs [Siege] units>","[+2]% Strength <vs [Sword] units>",
+	                "[+1 Gold, +1 Culture] from all [Granary] buildings <before discovering [Refrigeration]>"],
+		"cities": ["Everglades","Apalachee","Timucua","Creek","Muskogean"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Haiti",
+		"leaderName": "Toussaint Louverture",
+		"adjective": ["Haiti"],
+		"startBias":["Coast","Jungle"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [173, 173, 173],
+		"innerColor": [31, 31, 31],
+		"uniqueName": "Mother of Revolutions",
+		"uniques": ["Provides [1] [Pufferfish] <upon constructing [Lighthouse]>",
+	                "Provides [2] [Pufferfish] <upon constructing [Harbor]>",
+				"Provides [2] [Pufferfish] <upon constructing [Seaport]>",
+			    "[+15]% [Happiness] [in capital]"],
+		"cities": ["Port'Au Prince","Gonaïves","Cape Haiti","Jacmel","Port-de-Paix","Fort-Liberté","Jérémie","Chambellan","The Caobas","La Victoire"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Nazca",
+		"leaderName": "Killer Whale",
+		"adjective": ["Nazca"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [59, 50, 45],
+		"innerColor": [255, 219, 199],
+		"uniqueName": "Secrets of the Wasteland",
+		"uniques": ["[+2 Faith] in cities on [Desert] tiles","[+1 Faith] from every [Plantation]","[+1 Food] <in cities connected to the capital>"],
+		"cities": ["Cahuachi", "Chauchilla", "Estaquería", "Paredones", "Cantalloc", "Ocongalla", "Cantayo", "Ica", "Nazca", "Curis", "Santiago"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Toltecs",
+		"leaderName": "Xochitl",
+		"adjective": ["The Toltecs"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [235, 212, 80],
+		"innerColor": [46, 43, 25],
+		"uniqueName": "Among the Reeds",
+		"uniques": ["Free [Great Artist] appears <upon conquering a city>","Free [Great Artist] appears <upon defeating a [Wounded] unit> <with [5]% chance>"],
+		"cities": ["Tula", "Huapalcalco", "Villagran", "Michatlauhco", "Tlillan-Tlapallan", "Uxmal", "Chingu", "Cholula", "Nextalpan", "Texcalapan"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Teotihuacan",
+		"leaderName": "Spearthrower Owl",
+		"adjective": ["Teotihuacan"],
+		"startBias":["Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [20, 20, 20],
+		"innerColor": [80, 235, 165],
+		"uniqueName": "Where Men Become Gods",
+		"uniques": ["Allied City-States provide [Culture] equal to [+30]% of what they produce for themselves",
+		"Allied City-States provide [Food] equal to [+30]% of what they produce for themselves",
+		"Allied City-States provide [Production] equal to [+30]% of what they produce for themselves",
+		"Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves",
+		"[1] population in a random city <upon conquering a city>"],
+		"cities": ["Teotihuacan", "Pachua", "Choula", "Cacaxtla", "Tula", "Remojadas", "Cuautlancingo", "Ixtepeque", "Escuintla", "Kaminaljuya"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Hohokam",
+		"leaderName": "I'itoi",
+		"adjective": ["Hohokam"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [84, 29, 14],
+		"innerColor": [245, 216, 162],
+		"uniqueName": "Himdag Commandments",
+		"uniques": ["[+1 Food] from [Mountain] tiles [in all cities]","[+25]% [Production] <during a Golden Age>","[+10]% [Production] <when not in a Golden Age>"],
+		"cities": ["Snaketown", "Casa Grande", "Pueblo Grande", "Mesa Grande", "Los Hornos", "Los Morteros", "Cerro de Trincheras", "Rowley"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Greenland",
+		"leaderName": "Erik Thorvaldsson",
+		"adjective": ["Greenland"],
+		"startBias":["Snow","Tundra","Avoid [Desert]","Avoid [Grassland]","Avoid [Plains]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [232, 235, 255],
+		"innerColor": [50, 66, 168],
+		"uniqueName": "The Vinland Sagas",
+		"uniques": ["[+2 Food] in cities on [Snow] tiles","[+2 Food] in cities on [Tundra] tiles"],
+		"cities": ["Brattahlid", "Garedhar", "Sandnes", "Leifsbudir", "Straumsfjord", "Herjolfsnes", "Straumsöy", "Hvalsey", "Dyrnes", "Hóp", "Lysufjord", "Petursvik"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Philistines",
+		"leaderName": "Abimelech",
+		"adjective": ["The Philistines"],
+		"startBias":["Desert","Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [181, 88, 0],
+		"innerColor": [255, 232, 209],
+		"uniqueName": "Mishkeh Feasts",
+		"uniques": ["[+5]% [Gold] [in all cities]","[+1 Culture] from [Wine] tiles [in all cities]","[+1 Faith] from [Wine] tiles [in all cities]"],
+		"cities": ["Ashdod", "Ashkelon", "Gaza", "Ekron", "Gath", "Yurza", "Gerar", "Ziklag", "Sharuhen", "Azeketh", "Tel Qasila", "Aphek", "Azor", "Gibbethon", "Timnah"],
+		"spyNames": ["Saki"]
+	},
+	{
         "name": "Arawak",
         "leaderName": "Anacaona",
         "adjective": ["Arawak"],

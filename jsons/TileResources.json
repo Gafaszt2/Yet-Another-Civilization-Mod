@@ -3,6 +3,15 @@
 		"name": "Wool",
 		"resourceType": "Luxury",
 	},
+	{
+		"name": "Ware",
+		"resourceType": "Luxury",
+	},
+	{
+		"name": "Pufferfish",
+		"uniques":["Not shown on world screen <without [Pufferfish]>"],
+		"resourceType": "Strategic"
+	},
         {
 		"name": "Vanilla",
 		"resourceType": "Luxury",
@@ -35,6 +44,6 @@
 	{
 		"name": "Nomad Manpower",
 		"resourceType": "Strategic",
-		"uniques":["Cannot be traded","Stockpiled"]
+		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]
 	}
 ]

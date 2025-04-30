@@ -33,6 +33,10 @@
                         "name": "[The Palawa] Ability",
                         "uniques": ["[This Unit] heals [2] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
                         },
+                        {
+                                "name": "Ouboutou",
+                                "uniques": ["[+5]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"]
+                                }
 {
         "name": "Magyar Knight",
         "uniques": ["[+25]% Strength <vs [Sword] units>", "[+10]% Strength <vs [Wounded] units>", "[+10]% Strength <vs cities>"]

@@ -1,5 +1,107 @@
 
-[
+[ 
+	{
+		"name": "Pithouse",
+		"uniqueTo": "Mogollon",
+		"replaces": "Granary",
+		"food": 2,
+		"gold": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["New [Military] units start with [5] XP [in this city]","[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Macaw Pen",
+		"uniqueTo": "Mogollon",
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]", "[+2 Gold] per [3] population [in this city]","Must have an owned [Camp] within [3] tiles"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Baserri",
+		"specialistSlots":{"Artist" : 1},
+		"uniqueTo": "Navarre",
+		"replaces": "Granary",
+		"food": 2,
+		"culture": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Karbay",
+		"uniqueTo": "The Kalinago",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"happiness": 2,
+		"uniques": ["New [Military] units start with [17] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+    {
+	"name": "Puquios",
+	"uniqueTo": "Nazca",
+	"specialistSlots":{"Engineer" : 1},
+	"replaces": "Aqueduct",
+	"food": 1,
+	"hurryCostModifier": 0,
+	"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+	"requiredTech": "Engineering"
+    },
+	{
+		"name": "Tzompantli",
+		"uniqueTo": "The Toltecs",
+		"replaces": "Monument",
+		"specialistSlots":{"Artist" : 1},
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured","New [Melee] units start with [5] XP [in this city]"]
+	},
+	{
+		"name": "Sivan Vah'Ki",
+		"uniqueTo": "Hohokam",
+		"replaces": "National Epic",
+		"cost": 125,
+		"culture": 1,
+		"happiness": 2,
+		"gold": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Runestone",
+		"uniqueTo": "Greenland",
+		"replaces": "Monument",
+		"culture": 2,
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Seranim Court",
+		"uniqueTo": "The Philistines",
+		"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["[+10]% [Faith] [in this city]","Indicates the capital city"]
+	},
 	{
 		"name": "Kiiz Uy",
 		"uniqueTo": "Kazakhstan",

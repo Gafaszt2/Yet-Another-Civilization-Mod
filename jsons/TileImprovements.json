@@ -15,6 +15,53 @@
 		"turnsToBuild": 5,
 		"science": 2
        },
+	   {
+		"name": "Pochteca Enclave",
+		"uniqueTo": "Teotihuacan",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Currency",
+		"turnsToBuild": 5,
+		"gold":1,
+		"uniques":["[+1 Gold] for each adjacent [Luxury resource]"]
+       },
+	   {
+		"name": "Atlantean Figures",
+		"uniqueTo": "The Toltecs",
+		"terrainsCanBeBuiltOn": ["Hill"],
+        "techRequired": "Construction",
+		"turnsToBuild": 5,
+		"gold":1,
+		"culture":1
+       },
+	   {
+		"name": "Nazca Lines",
+		"uniqueTo": "Nazca",
+		"terrainsCanBeBuiltOn": ["Desert"],
+        "techRequired": "Mathematics",
+		"turnsToBuild": 5,
+		"faith":2,
+		"culture":1,
+		"uniques":["[+1 Faith] for each adjacent [Holy site]"]
+       },
+	   {
+		"name": "Noow",
+		"uniqueTo": "The Tlingit",
+		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
+        "techRequired": "Metal Casting",
+		"turnsToBuild": 9,
+		"uniques":["Can be built just outside your borders","Gain control over [all] tiles in a [1]-tile radius"]
+       },
+	   {
+		"name": "Chickee",
+		"uniqueTo": "The Seminole",
+		"terrainsCanBeBuiltOn": ["Marsh","Jungle"],
+        "techRequired": "Trapping",
+		"turnsToBuild": 5,
+		"food":1,
+		"gold":1,
+		"culture":1,
+		"uniques":["[+2 Gold] <after discovering [Ecology]>","[+2 Food] <after discovering [Ecology]>"]
+       },
 	{
 		"name": "Kura",
 		"uniqueTo": "The Emishi",
