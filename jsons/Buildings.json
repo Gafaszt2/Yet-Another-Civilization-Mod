@@ -1,6 +1,80 @@
 
 [ 
 	{
+		"name": "Lapa",
+		"uniqueTo": "South Africa",
+		"replaces": "Garden",
+		"uniques": ["Only available <when below [5] [Racism]>","[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"food": 1,
+		"gold": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Maydan",
+		"uniqueTo": "The Timurids",
+		"replaces": "University",
+		"maintenance": 2,
+		"science": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[-20]% enemy spy effectiveness [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Mbari House",
+		"uniqueTo": "Nri",
+		"replaces": "Temple",
+		"faith": 2,
+		"culture": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Provides [1] [Mbari]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Vesara",
+		"uniqueTo": "Vijayanagara",
+		"replaces": "Temple",
+		"faith": 2,
+		"culture": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Comment [+1 Artist slot]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Ayederu",
+		"uniqueTo": "Nok",
+		"replaces": "Forge",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"specialistSlots": {"Artist": 1},
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["Comment [+1 Artist slot]","[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]",
+		"[+2 Culture] from [Iron] tiles [in this city]"]
+	},
+	{
+		"name": "Suguba",
+		"uniqueTo": "Mali",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"uniques":["Comment [+1 Merchant slot]","[+1 Gold] from [Holy site] tiles [in this city]","[+1 Gold] <during a Golden Age>"],
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Pithouse",
 		"uniqueTo": "Mogollon",
 		"replaces": "Granary",
@@ -1689,17 +1763,6 @@
 		"gold": 3,
                 "happiness": 2,
 		"specialistSlots": {"Artist": 2},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
-	},
-        {
-		"name": "Homeland",
-                "uniqueTo": "South Africa",
-		"replaces": "Bank",
-		"gold": 5,
-		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",

@@ -1,5 +1,180 @@
 [
 	{
+		"name": "The Timurids",
+		"leaderName": "Timur",
+		"adjective": ["The Timurids"],
+		"startBias":["Plains"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [8, 8, 8],
+		"innerColor": [255, 48, 48],
+		"uniqueName": "Timurid Renaissance",
+		"uniques": ["[+25]% Strength <vs [All] units> <for [5] turns> <when at war>","[Faith] cost of purchasing [Civilian] units [-35]%"],	
+		"cities": ["Samarqand", "Herat", "Ghazni", "Merv", "Tus", "Bukhara", "Nishapur", "Balk", "Shahrisabz", "Lahor", "Baghdad", "Multan", "Urgench", "Zarani", "Mashhad"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Nri",
+		"leaderName": "Eri",
+		"adjective": ["Nri"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [178, 222, 146],
+		"innerColor": [39, 48, 31],
+		"uniqueName": "Ọmenala",
+		"uniques": ["[+50]% Natural religion spread [in all cities]","[+2 Culture] from every [Copper]"],	
+		"cities": ["Igbo-Nkwo", "Énugwú", "Aguleri", "Awkụzụ", "Owerri", "Inyi", "Ogidi", "Aba", "Ngwo", "Onitsha", "Abagana", "Nimo Owelle", "Eziowelle", "Mbaise", "Agulu"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Vijayanagara",
+		"leaderName": "Krishnadevaraya",
+		"adjective": ["Vijayanagara"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [204, 161, 20],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Rajyas of the Deccan",
+		"uniques": ["[+1 Faith] from every specialist [in all cities]","[+1 Food, +1 Faith] in cities on [Hill] tiles","[+10]% [Culture] [in all cities]"],	
+		"cities": ["Vijayanagara", "Penukonda", "Chandragiri", "Vellore", "Mangalapura", "Gingee", "Belgaum", "Gadag", "Pulicat", "Kalyanapura", "Hospet", "Bellary", "Koppal", "Gooty"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Wagadu",
+		"leaderName": "Dinga",
+		"adjective": ["Wagadu"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [206, 217, 182],
+		"innerColor": [26, 26, 26],
+		"uniqueName": "Legend of the Black Snake",
+		"uniques": ["[+25]% growth [in all cities] <after discovering [Currency]>","[+2 Gold] from every [Copper]","[+2 Gold] from every [Salt]","[+2 Gold] from every [Iron]"],	
+		"cities": ["Koumbi Saleh", "Aoudaghost", "Oualata", "Tichitt", "Nema", "Galam", "Dia", "Sosso", "Diara", "Goumbou"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Nok",
+		"leaderName": "Obatala",
+		"adjective": ["Nok"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [240, 216, 165],
+		"innerColor": [36, 25, 17],
+		"uniqueName": "Terracotta Sculpture Makers",
+		"uniques": ["Starts with [Mining]","Provides [1] [Terracotta Sculpture] <upon founding a city>","[+1 Science] from [Strategic resource] tiles [in all cities]"],	
+		"cities": ["Nok", "Jos", "Taruga", "Samun Dukyai", "Kasina Ala", "Janjala", "Kagara", "Pangajere", "Kamrun", "Rigwallo", "Ogbabu", "Nasarawa"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Mogadishu",
+		"leaderName": "Abu Bakr ibn Umar",
+		"adjective": ["Mogadishu"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 231, 196],
+		"innerColor": [25, 87, 69],
+		"uniqueName": "Port of Blinding Beauty",
+		"uniques": ["[+1 Gold] from every [Luxury resource] <while the empire is happy>","[+2 Gold] from each Trade Route <while the empire is happy>"],	
+		"cities": ["Mogadishu", "Hamar Weyne", "Shangani", "Afgoi", "Merca", "Barawa", "Mnara", "Hiraab", "Aw Dhigle", "Hamar Jajab", "Arba Rukn"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Mali",
+		"leaderName": "Mansa Musa",
+		"adjective": ["Mali"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [69, 15, 12],
+		"innerColor": [250, 177, 75],
+		"uniqueName": "Royal Hajj",
+		"uniques": ["[+1 Faith, +2 Gold] <in cities connected to the capital>","[+1 Gold] from every [Desert]"],
+		"cities": ["Niani", "Timbuktu", "Jenne", "Gao", "Koumbi Saleh", "Walata", "Tawdenni", "Tadmekka", "Awdaghust", "Kirina", "Segu", "Nioro", "Kangaba", "Kouroussa"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Mogollon",
 		"leaderName": "Enee",
 		"adjective": ["Mogollon"],
@@ -5218,7 +5393,7 @@
 		"outerColor": [69, 42, 47],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Islamic African Unification",
-		"uniques": ["[+2 Faith] from each Trade Route", "[+1 Faith] [in all cities]", "[+1 Food] from every [Desert]", "[+1 Production] from every [Desert]"],
+		"uniques": ["[+2 Gold, +1 Faith] [in all cities]","[+1 Food] from every [Desert]"],
 		"cities": ["Tripolitania", "Cirenaica" ,"Fezán", "Gharyan", "Surt", "Ash Shati", "Al Jufrah", "Sabha", "Marzuq",
 			"Awbari",
 			"Sawfajin", "Ghadamis"]
@@ -5242,8 +5417,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [137, 184, 143],
-		"innerColor": [188, 41, 41],
+		"outerColor": [118, 219, 127],
+		"innerColor": [24, 36, 25],
 		"uniqueName": "Caste War",
 		"uniques": ["[+10]% [Production] <when at war>", "[+10]% [Science] <when at war>", "[+1 Science] [in all cities]"],
 		"cities": ["Motul", "Nolo" ,"Euán", "Yaxcucul", "Chicxulub", "Acanceh", "Peto", "Valladolid", "Izamal",
@@ -5269,10 +5444,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [41, 20, 61],
-		"innerColor": [133, 84, 255],
+		"outerColor": [142, 121, 181],
+		"innerColor": [20, 18, 26],
 		"uniqueName": "Kitab al-Mukafa'a",
-		"uniques": ["[+2 Gold] [in all cities]", "[+1 Production] from every [Coast]", "[+2 Faith] from every [Desert]"],
+		"uniques": ["[+1 Gold] from every [Coast]","[+1 Gold] from every [Fish]","[+1 Faith, +1 Science] per [3] population [in all cities]"],
 		"cities": ["Cairo","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -6310,9 +6485,9 @@
 	},
         {
 		"name": "South Africa",
-		"leaderName": "Hendrik Verwoerd",
-		"adjective": ["South African"],
-		"startBias": ["Coast"],
+		"leaderName": "Nelson Mandela",
+		"adjective": ["South Africa"],
+		"startBias": ["Coast","Plains","Desert"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
@@ -6327,11 +6502,18 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [24, 51, 29],
-		"innerColor": [77, 118, 255],
-		"uniqueName": "Apartheid",
-		"uniques": ["Rebel units may spawn", "[+70]% Strength <vs [Barbarian] units>", "[+2 Gold] from every [Mine]","[+1 Production] from every [Mine]"],
-		"cities": ["Cape Town","Hogannesburg","Pretoria","Durban","Bloemfontein","Soweto","Elizabeth Port","Nelspruit","Kimberley","Polokwane"]
+		"outerColor": [148, 112, 255],
+		"innerColor": [13, 10, 23],
+		"uniqueName": "Land of Differences",
+		"uniques": ["[+1 Gold] from every [Camp]","[+10]% [Gold] [in all cities]","[+10]% [Culture] [in all cities]",
+		"[-10]% [Happiness] [in all cities] <when above [7] [Racism]>",
+	"Instantly provides [2] [Racism] <upon entering the [Industrial era]>",
+	"Instantly provides [2] [Racism] <upon adopting [Order]>",
+	"Instantly provides [2] [Racism] <upon discovering [Gunpowder] technology>",
+	"Instantly provides [1] [Racism] <upon discovering [Industrialization] technology>",
+	"Instantly provides [1] [Racism] <upon discovering [Gunpowder] technology>",
+    "Instantly provides [2] [Racism] <upon entering the [Modern era]>"],
+		"cities": ["Johannesburg","Pretoria","Durban","Bloemfontein","Soweto","Elizabeth Port","Nelspruit","Kimberley","Polokwane"]
 	},
         {
 		"name": "Abkhazia",

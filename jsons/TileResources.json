@@ -8,6 +8,14 @@
 		"resourceType": "Luxury",
 	},
 	{
+		"name": "Mbari",
+		"resourceType": "Luxury",
+	},
+	{
+		"name": "Terracotta Sculpture",
+		"resourceType": "Luxury",
+	},
+	{
 		"name": "Pufferfish",
 		"uniques":["Not shown on world screen <without [Pufferfish]>"],
 		"resourceType": "Strategic"
@@ -45,5 +53,10 @@
 		"name": "Nomad Manpower",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Racism",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Racism]>","Cannot be traded","Stockpiled"]
 	}
 ]

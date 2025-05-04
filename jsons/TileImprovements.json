@@ -1,12 +1,21 @@
 [
 	{
+		"name": "Daaq Ah",
+		"uniqueTo": "Mogadishu",
+		"terrainsCanBeBuiltOn": ["Desert","Hill"],
+        "techRequired": "Animal Husbandry",
+		"turnsToBuild": 5,
+		"food":1,
+		"uniques":["[+1 Food] from [Fresh water] tiles","[+1 Food] from [Sheep] tiles","[+1 Food] from [Cattle] tiles","[+1 Food] from [Camel] tiles <if [Yet Another Resource Mod Reborn] is enabled>"]
+    },
+	{
 		"name": "Effigy Mound",
 		"uniqueTo": "Poverty Point",
 		"terrainsCanBeBuiltOn": ["Land"],
         "techRequired": "Mining",
 		"turnsToBuild": 5,
 		"uniques":["[+1 Culture] <in cities connected to the capital>","[+1 Culture] <in cities with a major religion>","[+1 Production] <if [Water Mill] is constructed>"]
-       },
+    },
 	{
 		"name": "Colossal Head",
 		"uniqueTo": "The Olmecs",
