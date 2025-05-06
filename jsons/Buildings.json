@@ -1,10 +1,60 @@
 
 [ 
 	{
+		"name": "Coral Stone Mosque",
+		"uniqueTo": "The Maldives",
+		"replaces": "Temple",
+		"faith": 2,
+		"culture":1,
+		"happiness":1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Posuban",
+		"uniqueTo": "Ashanti",
+		"replaces": "Arsenal",
+		"specialistSlots": {"Artist": 2},
+		"production":1,
+		"cost": 300,
+		"cityStrength": 9,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Castle",
+		"requiredTech": "Metallurgy",
+		"uniques": ["Comment [+2 Artist slot]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Haus Tumbuna",
+		"uniqueTo": "Papua New Guinea",
+		"replaces": "Museum",
+		"culture": 5,
+		"specialistSlots": {"Artist": 2},
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Empire enters a [2]-turn Golden Age","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Peak Tower",
+		"uniqueTo": "San Marino",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"faith":1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[+15]% Production when constructing [Culture] buildings [in this city]","[+10]% Production when constructing [Faith] buildings [in this city]","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Lapa",
 		"uniqueTo": "South Africa",
 		"replaces": "Garden",
-		"uniques": ["Only available <when below [5] [Racism]>","[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"uniques": ["Only available <when below [5] [Racism]> <before discovering [Ecology]>","[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"food": 1,
 		"gold": 1,

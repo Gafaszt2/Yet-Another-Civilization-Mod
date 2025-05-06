@@ -1,5 +1,130 @@
 [
 	{
+		"name": "Yamnaya",
+		"leaderName": "Dyḗus Phtḗr",
+		"adjective": ["Yamnaya"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [43, 20, 16],
+		"innerColor": [255, 68, 36],
+		"uniqueName": "Kurgan Genesis",
+		"uniques": ["Research [+20]% of [Pottery] ","Research [+45]% of [The Wheel]","Research [+20]% of [Animal Husbandry]","Research [+20]% of [Archery]","Research [+20]% of [Mining]"],	
+		"cities": ["Samara", "Sredniy Stog", "Storozhova Mohyla", "Mergeleva", "Sintashta", "Lebyanzhinka", "Arkaim", "Poltavka", "Ustaovo", "Deriivka"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Maldives",
+		"leaderName": "Muhammad Thakurufaanu",
+		"adjective": ["The Maldives"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [222, 255, 234],
+		"innerColor": [21, 38, 27],
+		"uniqueName": "State of the Mahal Dibiyat",
+		"uniques": ["[+30]% [Faith] [in coastal cities]","[+20]% [Gold] [in coastal cities]"],	
+		"cities": ["Malé", "Addu", "Kulhudhuffushi", "Fuvahmulah", "Thinadhoo", "Ungoofaaru", "Dhidhdhoo", "Thulusdhoo", "Funadhoo", "Manadhoo"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Ashanti",
+		"leaderName": "Osei Tutu I",
+		"adjective": ["Ashanti"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [245, 232, 201],
+		"innerColor": [145, 12, 0],
+		"uniqueName": "The Golden Stool",
+		"uniques": ["Provides a [Market] in your first [5] cities for free <upon discovering [Currency] technology>","Gain [200]-[300] [Gold] <upon conquering a city>"],	
+		"cities": ["Kumasi", "Denkyira", "Konongo", "Mampong", "Ejura", "Atebubu", "Yeji", "Winneba", "Accra", "Buna", "Bole", "Mango", "Kong", "Little Popo", "Bekwai", "Obuasi"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Papua New Guinea",
+		"leaderName": "Michael Somare",
+		"adjective": ["Papua New Guinea"],
+		"startBias":["Jungle"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 23, 23],
+		"innerColor": [5, 5, 5],
+		"uniqueName": "Sing-Sing",
+		"uniques": ["[+2 Culture] per [3] population [in all cities]","[+5]% Production when constructing [Settler] units [in capital]","[+30]% Production when constructing [Culture] buildings [in all cities]"],	
+		"cities": ["Port Moresby","Lae","Mount Hagen","Madang","Rabaul","Arawa","Wewak","Goroka","Kokopo","Popondetta"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "San Marino",
+		"leaderName": "Marinus",
+		"adjective": ["San Marino"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [66, 135, 245],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Titanic Refuge",
+		"uniques": ["Allied City-States provide [Faith] equal to [+30]% of what they produce for themselves","May choose [1] additional [Follower] beliefs when [founding] a religion","[Faith] cost of purchasing [Great Prophet] units [-15]%"],	
+		"cities": ["San Marino","Borgo Maggiore","Acquaviva","Chiesanuova","Fiorentino","Montegiardino","Faetano","Domagnano","Serravalle","Santa Mustiola"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "The Timurids",
 		"leaderName": "Timur",
 		"adjective": ["The Timurids"],
@@ -6506,13 +6631,14 @@
 		"innerColor": [13, 10, 23],
 		"uniqueName": "Land of Differences",
 		"uniques": ["[+1 Gold] from every [Camp]","[+10]% [Gold] [in all cities]","[+10]% [Culture] [in all cities]",
-		"[-10]% [Happiness] [in all cities] <when above [7] [Racism]>",
+		"[-10]% [Happiness] [in all cities] <when above [7] [Racism]>","[-5]% [Production] [in all cities] <when above [7] [Racism]>",
 	"Instantly provides [2] [Racism] <upon entering the [Industrial era]>",
 	"Instantly provides [2] [Racism] <upon adopting [Order]>",
+	"Instantly provides [2] [Racism] <upon adopting [Autocracy]>",
 	"Instantly provides [2] [Racism] <upon discovering [Gunpowder] technology>",
 	"Instantly provides [1] [Racism] <upon discovering [Industrialization] technology>",
-	"Instantly provides [1] [Racism] <upon discovering [Gunpowder] technology>",
-    "Instantly provides [2] [Racism] <upon entering the [Modern era]>"],
+    "Instantly provides [2] [Racism] <upon entering the [Modern era]>",
+    "Instantly consumes [9] [Racism] <upon entering the [Atomic era]>"],
 		"cities": ["Johannesburg","Pretoria","Durban","Bloemfontein","Soweto","Elizabeth Port","Nelspruit","Kimberley","Polokwane"]
 	},
         {
