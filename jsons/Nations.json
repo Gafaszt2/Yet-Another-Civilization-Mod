@@ -20,7 +20,7 @@
 		"outerColor": [43, 20, 16],
 		"innerColor": [255, 68, 36],
 		"uniqueName": "Kurgan Genesis",
-		"uniques": ["Research [+20]% of [Pottery] ","Research [+45]% of [The Wheel]","Research [+20]% of [Animal Husbandry]","Research [+20]% of [Archery]","Research [+20]% of [Mining]"],	
+		"uniques": ["Starts with [The Wheel]","[+1 Food, +1 Production] from [Pasture] tiles [in all cities]"],	
 		"cities": ["Samara", "Sredniy Stog", "Storozhova Mohyla", "Mergeleva", "Sintashta", "Lebyanzhinka", "Arkaim", "Poltavka", "Ustaovo", "Deriivka"],
 		"spyNames": ["Saki"]
 	},
