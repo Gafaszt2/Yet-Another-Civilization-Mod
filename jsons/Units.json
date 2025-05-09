@@ -2656,8 +2656,7 @@
                 "uniqueTo": "Kongo",
 		"unitType": "Civilian",
 		"uniques": ["[+5]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Mbanza] improvement <by consuming this unit>",
-			"Great Person - [War]","Uncapturable"],
+            "Can instantly construct a [Mbanza] improvement <by consuming this unit>","Uncapturable"],
                 "cost": 190,
 		"movement": 3
 	},
