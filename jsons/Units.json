@@ -1,5 +1,31 @@
 [
 	{
+		"name": "Mule Cart",
+		"uniqueTo": "Tang",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 200,
+		"requiredTech": "Animal Husbandry",
+		"uniques":["Can build [Trading post] improvements on tiles","May enter foreign tiles without open borders <during a Golden Age>","Limited to [2] per Civilization","Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Forbidden Guard",
+		"uniqueTo": "Tang",
+		"replaces": "Composite Bowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 12,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"uniques":["[+45]% Strength <when defending>"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Uegontum",
 		"uniqueTo": "Yamnaya",
 		"replaces": "Chariot Archer",

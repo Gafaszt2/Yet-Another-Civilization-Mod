@@ -1,5 +1,30 @@
 [
 	{
+		"name": "Tang",
+		"leaderName": "Taizong",
+		"adjective": ["Tang"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [36, 24, 20],
+		"innerColor": [255, 96, 43],
+		"uniqueName": "Four Garrisons of Anxi",
+		"uniques": ["[+2 Science] from each Trade Route","[+1 Science] [in all cities]"],	
+		"cities": ["Chang'an","Luoyang","Yangzhou","Taiyuan","Chengdu","Zhengzhou","Baoji","Kaifeng","Guangzhou","Jicheng"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Yamnaya",
 		"leaderName": "Dyḗus Phtḗr",
 		"adjective": ["Yamnaya"],
