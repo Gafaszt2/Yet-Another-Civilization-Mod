@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Woomera Warrior",
+		"uniqueTo": "Eora",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"promotions":["Accuracy I"],
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Mule Cart",
 		"uniqueTo": "Tang",
 		"unitType": "Civilian",

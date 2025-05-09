@@ -9,6 +9,15 @@
 		"uniques":["[+1 Food] from [Fresh water] tiles","[+1 Food] from [Sheep] tiles","[+1 Food] from [Cattle] tiles","[+1 Food] from [Camel] tiles <if [Yet Another Resource Mod Reborn] is enabled>"]
     },
 	{
+		"name": "Bora Ring",
+		"uniqueTo": "Eora",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+        "techRequired": "Agriculture",
+		"turnsToBuild": 9,
+		"culture":1,
+		"uniques":["[+1 Faith] <after discovering [Archaeology]>","[+3 Culture] <after discovering [Archaeology]>"]
+    },
+	{
 		"name": "Effigy Mound",
 		"uniqueTo": "Poverty Point",
 		"terrainsCanBeBuiltOn": ["Land"],

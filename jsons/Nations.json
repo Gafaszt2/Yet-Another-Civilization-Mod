@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Eora",
+		"leaderName": "Pemulwuy",
+		"adjective": ["Eora"],
+		"startBias":["River"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [73, 235, 154],
+		"innerColor": [179, 50, 7],
+		"uniqueName": "Peaceful Nation",
+		"uniques": ["[+1 Faith] from all [Food] buildings","[+1 Food] from all [Granary] buildings","[+1 Food] from [River] tiles [in all cities]",
+		"[+1 Food] in cities on [River] tiles","[+1 Food] in cities on [Plains] tiles","[+1 Food] in cities on [Flood plains] tiles","[+1 Food] in cities on [Hill] tiles",
+		"[-7]% Strength <vs [Gunpowder] units>","[-7]% Strength <when attacking>"],	
+		"cities": ["Parramatta", "Woolloomooloo", "Toongabbie", "Woollahra", "Coggera", "Tamarama", "Coogee", "Boondi", "Boora", "Bunnerong", "Pan ner rong"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Tang",
 		"leaderName": "Taizong",
 		"adjective": ["Tang"],
