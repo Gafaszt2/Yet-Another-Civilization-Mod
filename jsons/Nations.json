@@ -20,7 +20,7 @@
 		"outerColor": [28, 28, 28],
 		"innerColor": [255, 200, 71],
 		"uniqueName": "Best Man of All Kings",
-		"uniques": ["[+5]% Strength <for [All] units> <before the [Renaissance era]>","[+10]% Strength <for [All] units> <when defending>","[+1 Faith] from every [Luxury resource]"],
+		"uniques": ["Free [Worker] appears <upon declaring friendship>","[+15]% Production when constructing [Worker] units [in all cities]","[Faith] cost of purchasing [Great Merchant] units [-25]%"],
 		"cities": ["Dongola", "Faras", "Qasr Ibrim", "Nuri", "Soleb", "Kerma", "Adindan", "Napata", "Dorginarti", "Semna", "Gebel Barkel", "Qustul", "Buhen"],
 		"spyNames": ["Saki"]
 	},
