@@ -9,6 +9,14 @@
 		"uniques":["[+1 Food] from [Fresh water] tiles","[+1 Food] from [Sheep] tiles","[+1 Food] from [Cattle] tiles","[+1 Food] from [Camel] tiles <if [Yet Another Resource Mod Reborn] is enabled>"]
     },
 	{
+		"name": "Umzi",
+		"uniqueTo": "Xhosa",
+		"terrainsCanBeBuiltOn": ["Desert","Hill"],
+        "techRequired": "Civil Service",
+		"turnsToBuild": 5,
+		"uniques":["[+2 Food] from [Cattle] tiles","Gives a defensive bonus of [25]%"]
+    },
+	{
 		"name": "Dult",
 		"uniqueTo": "Bavaria",
 		"terrainsCanBeBuiltOn": ["Land"],

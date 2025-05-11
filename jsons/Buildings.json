@@ -1,6 +1,45 @@
 
 [ 
 	{
+		"name": "Royal Mausoleum",
+		"uniqueTo": "Numidia",
+		"replaces": "Monument",
+		"culture": 2,
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["[+1 Gold] <during a Golden Age>","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Cenobium",
+		"uniqueTo": "Makuria",
+		"replaces": "Garden",
+		"faith":2,
+		"uniques": ["Requires at least [2] population","[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Rumah Cap Kerajaan",
+		"uniqueTo": "Riau-Lingga",
+		"specialistSlots": {"Scientist": 1},
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Comment [+1 Scientist slot]","[+2 Culture] <after discovering [Printing Press]>","[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Sapitu",
+		"uniqueTo": "Akkad",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]","[+1 Production] <in [Annexed] cities>","[35]% production cost <in [Annexed] cities>", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
 		"name": "Keiar Meta",
 		"uniqueTo": "Meriam",
 		"replaces": "Water Mill",

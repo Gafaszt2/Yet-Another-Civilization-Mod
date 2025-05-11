@@ -1,5 +1,130 @@
 [
 	{
+		"name": "Numidia",
+		"leaderName": "Masinissa",
+		"adjective": ["Numidia"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [28, 28, 28],
+		"innerColor": [255, 200, 71],
+		"uniqueName": "Best Man of All Kings",
+		"uniques": ["[+5]% Strength <for [All] units> <before the [Renaissance era]>","[+10]% Strength <for [All] units> <when defending>","[+1 Faith] from every [Luxury resource]"],
+		"cities": ["Dongola", "Faras", "Qasr Ibrim", "Nuri", "Soleb", "Kerma", "Adindan", "Napata", "Dorginarti", "Semna", "Gebel Barkel", "Qustul", "Buhen"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Makuria",
+		"leaderName": "Merkurios",
+		"adjective": ["Makuria"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [48, 48, 120],
+		"innerColor": [255, 208, 133],
+		"uniqueName": "The Baqt",
+		"uniques": ["[+5]% Strength <for [All] units> <before the [Renaissance era]>","[+10]% Strength <for [All] units> <when defending>","[+1 Faith] from every [Luxury resource]"],
+		"cities": ["Dongola", "Faras", "Qasr Ibrim", "Nuri", "Soleb", "Kerma", "Adindan", "Napata", "Dorginarti", "Semna", "Gebel Barkel", "Qustul", "Buhen"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Riau-Lingga",
+		"leaderName": "Abdurrahman Muazam Syah",
+		"adjective": ["Riau-Lingga"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [162, 165, 186],
+		"innerColor": [11, 11, 13],
+		"uniqueName": "Tuhfat al-Nafis",
+		"uniques": ["[+1 Science] from all [Faith] buildings","[+1 Culture] from all [Faith] buildings"],
+		"cities": ["Penyengat Inderasakti", "Tanjungpinang", "Senggarang", "Bukit Bestari", "Bintan", "Daik", "Lingga", "Singkep", "Bakung Serumpun", "Senayang"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Xhosa",
+		"leaderName": "Hintsa",
+		"adjective": ["Xhosa"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [24, 26, 79],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Red Blanket People",
+		"uniques": ["[+2 Culture, +1 Faith] from every [Cattle]"],
+		"cities": ["Komkhulu", "Nqadu", "Mngqesha", "Ncera", "Tsholomnqa", "Tamarha", "Bhisho", "Zweledinga", "Hewu", "Mthatha", "Centane", "Tsolo", "Mthonjana"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Akkad",
+		"leaderName": "Sargon",
+		"adjective": ["Akkad"],
+		"startBias":["River"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 244, 199],
+		"innerColor": [24, 26, 79],
+		"uniqueName": "Lord of the Four-Quarters",
+		"uniques": ["[+1 Production] from each Trade Route","[+2 Production] [in all cities with a garrison]"],
+		"cities": ["Akkad", "Kish", "Sippar", "Nuzi", "Marad", "Azupiranu", "Eshnunna", "Tell Brak", "Tell Leilan", "Umma", "Nippur", "Girsu", "Uruk", "Lagash", "Ur"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Bavaria",
 		"leaderName": "Ludwig II",
 		"adjective": ["Bavaria"],
