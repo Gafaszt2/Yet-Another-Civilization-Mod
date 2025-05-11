@@ -21,7 +21,7 @@
 		"innerColor": [255, 200, 71],
 		"uniqueName": "Best Man of All Kings",
 		"uniques": ["Free [Worker] appears <upon declaring friendship>","[+15]% Production when constructing [Worker] units [in all cities]","[Faith] cost of purchasing [Great Merchant] units [-25]%"],
-		"cities": ["Dongola", "Faras", "Qasr Ibrim", "Nuri", "Soleb", "Kerma", "Adindan", "Napata", "Dorginarti", "Semna", "Gebel Barkel", "Qustul", "Buhen"],
+		"cities": ["Cirta", "Russicada", "Hippo Regius", "Theveste", "Lambaesis", "Batna", "Tipasa in Numidia", "Tipasa in Mauretania", "Dougga"],
 		"spyNames": ["Saki"]
 	},
 	{
