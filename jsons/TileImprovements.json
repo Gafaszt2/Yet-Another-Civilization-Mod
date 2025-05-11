@@ -9,6 +9,15 @@
 		"uniques":["[+1 Food] from [Fresh water] tiles","[+1 Food] from [Sheep] tiles","[+1 Food] from [Cattle] tiles","[+1 Food] from [Camel] tiles <if [Yet Another Resource Mod Reborn] is enabled>"]
     },
 	{
+		"name": "Dult",
+		"uniqueTo": "Bavaria",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Currency",
+		"turnsToBuild": 5,
+		"happiness":1,
+		"uniques":["[+1 Gold, +1 Culture] for each adjacent [Great Improvement]"]
+    },
+	{
 		"name": "Bora Ring",
 		"uniqueTo": "Eora",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains"],

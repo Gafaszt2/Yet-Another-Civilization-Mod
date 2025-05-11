@@ -1,6 +1,29 @@
 
 [ 
 	{
+		"name": "Keiar Meta",
+		"uniqueTo": "Meriam",
+		"replaces": "Water Mill",
+		"maintenance": 1,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]"],
+		"requiredTech": "Trapping"
+	},
+	{
+		"name": "Lamasery",
+		"uniqueTo": "Tibet",
+		"replaces": "Temple",
+		"specialistSlots": {"Scientist": 2},
+		"faith": 3,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Comment [+2 Scientist slot]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
 		"name": "Coral Stone Mosque",
 		"uniqueTo": "The Maldives",
 		"replaces": "Temple",

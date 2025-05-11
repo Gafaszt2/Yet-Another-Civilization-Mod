@@ -1,44 +1,36 @@
 [
-        {
-                "name": "Tortured",
-                "innerColor": [33, 33, 30],
-		"outerColor": [255, 68, 61],
-                "uniques": ["[+1] Movement"]
-                },
 {
-        "name": "Sami People",
-        "uniques": ["[+15]% Strength <when fighting in [Tundra] tiles> <when attacking>","[+15]% Strength <when fighting in [Snow] tiles> <when attacking>","[+15]% Strength <when fighting in [Forest] tiles> <when attacking>","[+1] Sight"]
-	},
-        {
-                "name": "Guaycuru Raider",
-                "uniques": ["[+15]% Strength <vs cities>"]
-                },
-        {
-                "name": "Mountain Lifestyle",
-                "uniques": ["[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
-                },
-                {
-                        "name": "[The Tatars] Ability",
-                        "uniques": ["[+50]% Health from pillaging tiles","[+1] Movement"]
-                        },
-                        {
-                                "name": "[Arawak] Ability",
-                                "uniques": ["Double movement in [Jungle]","Double movement in [Marsh]"]
-                                },
-                        {
-                                "name": "[The Magyars] Ability",
-                                "uniques": ["[+25]% Strength"]
-                                },
-                {
-                        "name": "[The Palawa] Ability",
-                        "uniques": ["[This Unit] heals [2] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
-                        },
-                        {
-                                "name": "Ouboutou",
-                                "uniques": ["[+5]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"]
-                                }
+"name": "Tortured",
+"innerColor": [33, 33, 30],
+"outerColor": [255, 68, 61],
+"uniques": ["[+1] Movement"]
+},
 {
-        "name": "Magyar Knight",
-        "uniques": ["[+25]% Strength <vs [Sword] units>", "[+10]% Strength <vs [Wounded] units>", "[+10]% Strength <vs cities>"]
-	}
+"name": "Additional Movement",
+"uniques": ["[+1] Movement"]
+},
+{
+"name": "Skirmish",
+"uniques": ["Can move after attacking"]
+},
+{
+"name": "Sami People",
+"uniques": ["[+15]% Strength <when fighting in [Tundra] tiles> <when attacking>","[+15]% Strength <when fighting in [Snow] tiles> <when attacking>","[+15]% Strength <when fighting in [Forest] tiles> <when attacking>","[+1] Sight"]
+},
+{
+"name": "Mountain Lifestyle",
+"uniques": ["[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>","[This Unit] heals [25] HP <upon ending a turn in a [Hill] tile> <for [Tibet] Civilizations>"]
+},
+{
+"name": "[The Palawa] Ability",
+"uniques": ["[This Unit] heals [2] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
+},
+{
+"name": "Ouboutou",
+"uniques": ["[+5]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"]
+},
+{
+"name": "Magyar Knight",
+"uniques": ["[+25]% Strength <vs [Sword] units>", "[+10]% Strength <vs [Wounded] units>", "[+10]% Strength <vs cities>"]
+}
 ]

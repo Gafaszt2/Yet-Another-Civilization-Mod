@@ -1,5 +1,157 @@
 [
 	{
+		"name": "Bavaria",
+		"leaderName": "Ludwig II",
+		"adjective": ["Bavaria"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [207, 232, 252],
+		"innerColor": [57, 74, 87],
+		"uniqueName": "The Swan King",
+		"uniques": ["[+25]% [Culture] from every [Wonder]"],
+		"cities": ["Munich", "Regensburg", "Ingolstadt", "Nuremberg", "Straubing", "Augsburg", "Landshut", "Freising", "Ansbach", "Bayreuth", "Würzburg"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Meriam",
+		"leaderName": "Eddie Mabo",
+		"adjective": ["Meriam"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 17, 0],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "The Mabo Case",
+		"uniques": ["[+1 Culture] from [Atoll] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings"],
+		"cities": ["Las", "Piad", "Dam", "Murbu", "Areb", "Warwe", "Eger", "Mergar", "Terker", "Deru Serwaged", "Keauk", "Pas", "Gigo", "Keweid", "Aketir"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Hejaz",
+		"leaderName": "Hussein bin Ali",
+		"adjective": ["Hejaz"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [18, 18, 18],
+		"innerColor": [255, 191, 71],
+		"uniqueName": "Capture of Damascus",
+		"uniques": ["Free [Foreign Op] appears <upon declaring friendship> <when at war>","All newly-trained [Gunpowder] units [in all cities] receive the [Skirmish] promotion"],
+		"cities": ["Mecca", "Medina", "Jeddah", "Ta'if", "Yanbu", "Tabuk", "Rabigh", "Badr", "Al Bahah", "Al Qunfidhah", "Al Jumum", "Khaybar", "Tayma", "Duba"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Bedouins",
+		"leaderName": "Al-Sufi",
+		"adjective": ["The Bedouins"],
+		"startBias":["Desert","Oasis","Avoid [Grassland]","Avoid [Tundra]","Avoid [Plains]","Avoid [Forest]","Avoid [Jungle]","Avoid [Snow]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 228, 212],
+		"innerColor": [33, 26, 21],
+		"uniqueName": "Asa'ir",
+		"uniques": ["Comment [They gain +5 Nomad points while at a desert tile]","[+5]% Strength <for [Mounted] units>",
+	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+		"cities": ["They dont have cities wow"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "White Huns",
+		"leaderName": "Toramana",
+		"adjective": ["White Huns"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 228, 212],
+		"innerColor": [33, 26, 21],
+		"uniqueName": "Lords of the Sun",
+		"uniques": ["Comment [Adopting policies are 25% cheaper]","[+25]% Strength <vs [Sword] units>",
+	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+		"cities": ["They dont have cities wow"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Tibet",
+		"leaderName": "Trisong Detsen",
+		"adjective": ["Tibet"],
+		"startBias":["Hill","Mountain","Avoid [Desert]","Avoid [Plains]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [237, 237, 237],
+		"innerColor": [0, 158, 90],
+		"uniqueName": "Nyingma",
+		"uniques": ["[3] free [Missionary] units appear <upon entering a Golden Age> <after founding a religion>","Gain [45]-[50] [Faith] <upon founding a Religion>","Gain [45]-[50] [Faith] <upon constructing [Garden]>"],	
+		"cities": ["Lhasa", "Xigaze", "Gyantse", "Chamdo", "Senggezangbo", "Nagchukha", "Bamda", "Rutog", "Nyingchi", "Nedong", "Coqen", "Barkam", "Sakya"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Eora",
 		"leaderName": "Pemulwuy",
 		"adjective": ["Eora"],
@@ -705,7 +857,7 @@
         "outerColor": [247, 99, 99],
         "innerColor": [13, 1, 1],
         "uniqueName": "Nature’s Guardians",
-        "uniques": ["Comment [All units have double movement in [Jungle],[Marsh] Tiles]","All newly-trained [Land] units [in all cities] receive the [[Arawak] Ability] promotion <hidden from users>",
+        "uniques": ["[+1] Movement <for [{Military} {Land}] units>",
 			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
@@ -732,7 +884,7 @@
         "outerColor": [166, 0, 0],
         "innerColor": [237, 206, 206],
         "uniqueName": "Horde of the Danube",
-        "uniques": ["Comment [Mounted units have +25% strenght]","All newly-trained [Mounted] units [in all cities] receive the [[The Magyars] Ability] promotion <hidden from users>",
+        "uniques": ["[+15]% Strength <for [Wounded] units>","[+25]% Strength <for [Mounted] units>",
 			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
@@ -759,7 +911,7 @@
         "outerColor": [219, 219, 219],
         "innerColor": [166, 0, 0],
         "uniqueName": "Golden Horde Legacy",
-        "uniques": ["Comment [Mounted units heal +50% from pillaging tiles and they gain +1 movement]","All newly-trained [Mounted] units [in all cities] receive the [[The Tatars] Ability] promotion <hidden from users>",
+        "uniques": ["Comment [Mounted units heal +100% from pillaging tiles]","[+100]% Health from pillaging tiles",
 			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
@@ -1457,7 +1609,7 @@
 		"uniqueName": "Dance of the Scalps",
 		"uniques": [
 	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
-	"All newly-trained [Land] units [in all cities] receive the [Guaycuru Raider] promotion","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+	"[+25]% Strength <for [Mounted] units>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["Misión El Toba", "Sombrero Negro", "San Martín del Tabacal", "Laguna Martín", "Laguna Los Paces", "Jesús María", "Nuevo Pilcomayo"],
 		"spyNames": ["Saki"]
 	},
@@ -1484,7 +1636,7 @@
 		"uniqueName": "The Last Nomadic Empire",
 		"uniques": ["Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>",
 	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
-	"All newly-trained [Land] units [in all cities] receive the [Mountain Lifestyle] promotion","Land units may cross [Mountain] tiles after the first [Great General] is earned","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+	"Free [Great General] appears <upon conquering a city>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["Ghulja", "Tarbagatai", "Uliastai", "Irtysh", "Ürümqi", "Yulduz", "Manas", "Hami", "Kobdo", "Kur-Karausu", "Ölgii", "Altai", "Kyakhta"],
 		"spyNames": ["Saki"]
 	},
