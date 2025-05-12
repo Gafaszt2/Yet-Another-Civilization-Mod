@@ -1,6 +1,62 @@
 
 [ 
 	{
+		"name": "Barabara",
+		"uniqueTo": "The Aleut",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] <in [Coastal] cities>","[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Camp] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Mayan",
+		"uniqueTo": "The Gamilaraay",
+		"replaces": "Aqueduct",
+		"maintenance": 1,
+		"faith":2,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Gunyah",
+		"uniqueTo": "The Gamilaraay",
+		"replaces": "Granary",
+		"food": 2,
+		"gold": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Sphinx Gate",
+		"uniqueTo": "The Hittites",
+		"replaces": "Monument",
+		"culture": 3,
+		"cost": 40,
+		"cityHealth": 3,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Masgid",
+		"uniqueTo": "Simien",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+2 Production] per [2] population [in this city]","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Royal Mausoleum",
 		"uniqueTo": "Numidia",
 		"replaces": "Monument",

@@ -1,5 +1,105 @@
 [
 	{
+		"name": "The Aleut",
+		"leaderName": "Agugux",
+		"adjective": ["The Aleut"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [31, 156, 151],
+		"innerColor": [255, 238, 181],
+		"uniqueName": "Protection of the Tcimkix",
+		"uniques": ["[+35]% Production when constructing [Work Boats] units [in all cities]","[+1 Food, +2 Culture] from [Whales] tiles [in all cities]","[+1 Food, +2 Culture] from [Orcas] tiles [in all cities] <if [Yet Another Resource Mod Reborn] is enabled>"],
+		"cities": ["Anangula","Adamagan","Chaluka","Ounalashka","Sanak","Amaknak","Idaliuk","Adgaagux","Qagun Tayagungin"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Gamilaraay",
+		"leaderName": "Gambu Ganuurru",
+		"adjective": ["The Gamilaraay"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [54, 37, 84],
+		"innerColor": [247, 242, 255],
+		"uniqueName": "The Red Chief",
+		"uniques": ["Comment [Starts with an Spearman]","Free [Spearman] appears <hidden from users>","Provides [1] [Bush Bread] <upon founding a city> <while the empire is happy>","[+1 Food] <in cities connected to the capital>"],
+		"cities": ["Gunnedah", "Singleton", "Quirindi", "Tamworth", "Narrabri", "Wee Waa", "Walgett", "Moree", "Collarenebri", "Lightning Ridge"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Hittites",
+		"leaderName": "Šuppiluliuma I",
+		"adjective": ["The Hittites"],
+		"startBias":["Avoid [Forest]","Avoid [Jungle]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [214, 181, 64],
+		"innerColor": [20, 20, 18],
+		"uniqueName": "Land of a Thousand Gods",
+		"uniques": ["Comment [Start with an Pantheon]","Gain [10] [Faith] <hidden from users>","[+2 Faith] [in holy cities]","[+2 Culture] [in holy cities]","[+1 Happiness] [in holy cities]"],
+		"cities": ["Hattusa", "Tarhuntassa", "Nesa", "Samuha", "Kussara", "Lusna", "Tunip", "Sapinuwa", "Tarsos", "Alalah", "Karchemish", "Halab", "Kadesh"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Simien",
+		"leaderName": "Gudit",
+		"adjective": ["Simien"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [148, 0, 44],
+		"innerColor": [255, 233, 156],
+		"uniqueName": "Fields of Judith",
+		"uniques": ["[+2 Faith] from [Pillaged] tiles [in all cities]","[+2 Faith] from [Great Improvement] tiles [in annexed cities]"],
+		"cities": ["Gondar", "Wolleka", "Balankab", "Ambober", "Kechene", "Degoma", "Azazo", "Emfraz", "Maksenit", "Teda", "Balnagab", "Liben"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Numidia",
 		"leaderName": "Masinissa",
 		"adjective": ["Numidia"],

@@ -1,5 +1,49 @@
 [
 	{
+		"name": "Iqyax",
+		"uniqueTo": "The Aleut",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 15,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Ansukurra",
+		"uniqueTo": "The Hittites",
+		"replaces": "Chariot Archer",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 14,
+		"cost": 67,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Agaw Archer",
+		"uniqueTo": "Simien",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 17,
+		"cost": 120,
+		"uniques":["[+1] Range","Destroys tile improvements when attacking","[+50]% Health from pillaging tiles"],
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+	},
+	{
 		"name": "Numidian Cavalry",
 		"uniqueTo": "Numidia",
 		"replaces": "Horseman",
@@ -24,7 +68,7 @@
 		"movement": 2,
 		"strength": 26,
 		"cost": 120,
-		"uniques":["[+5]% to Flank Attack bonuses"],
+		"uniques":["[+30]% to Flank Attack bonuses"],
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
@@ -1540,7 +1584,7 @@
 		"cost": 140,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+35]% to Flank Attack bonuses","[+25]% Strength <when fighting in [Hill] tiles>"],
+		"uniques": ["[+30]% to Flank Attack bonuses","[+25]% Strength <when fighting in [Hill] tiles>"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -1643,7 +1687,7 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["[+33]% to Flank Attack bonuses","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["[+30]% to Flank Attack bonuses","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
@@ -2042,7 +2086,6 @@
 		"movement": 4,
 		"strength": 20,
 		"cost": 120,
-		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"uniques": ["Unbuildable","Cannot be purchased","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
@@ -2688,7 +2731,7 @@
 		"strength": 35,
 		"cost": 229,
 		"requiredTech": "Rifling",
-                "uniques": ["[+20]% Strength decreasing with distance from the capital","[+5]% to Flank Attack bonuses"],
+                "uniques": ["[+10]% Strength decreasing with distance from the capital","[+30]% to Flank Attack bonuses"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
@@ -2702,7 +2745,7 @@
 		"strength": 34,
 		"cost": 225,
 		"requiredTech": "Rifling",
-                "uniques": ["[+20]% to Flank Attack bonuses"],
+                "uniques": ["[+30]% to Flank Attack bonuses"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
@@ -2758,7 +2801,7 @@
 		"strength": 34,
 		"cost": 225,
 		"requiredTech": "Rifling",
-                "uniques": ["[+25]% Strength decreasing with distance from the capital","[+10]% to Flank Attack bonuses"],
+                "uniques": ["[+25]% Strength decreasing with distance from the capital","[+30]% to Flank Attack bonuses"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"

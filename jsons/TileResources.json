@@ -1,44 +1,48 @@
 [	
-        {
+    {
 		"name": "Wool",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Bush Bread",
+		"resourceType": "Luxury"
 	},
 	{
 		"name": "Ware",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
 	{
 		"name": "Mbari",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
 	{
 		"name": "Terracotta Sculpture",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
 	{
 		"name": "Pufferfish",
 		"uniques":["Not shown on world screen <without [Pufferfish]>"],
 		"resourceType": "Strategic"
 	},
-        {
+    {
 		"name": "Vanilla",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
-        {
+    {
 		"name": "Tea",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
 	{
 		"name": "Ochre",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
-        {
+    {
 		"name": "Uro",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
 	{
 		"name": "Possum Skin Cloak",
-		"resourceType": "Luxury",
+		"resourceType": "Luxury"
 	},
 	{
 		"name": "Bison",
@@ -46,7 +50,7 @@
 		"terrainsCanBeFoundOn": ["Plains","Grassland"],
 		"food": 1,
 		"improvement": "Camp",
-                "uniques": ["Generated on every [10] tiles <in [Plains] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"]
+        "uniques": ["Generated on every [15] tiles <in [Plains] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"],
 		"improvementStats": {"production": 1}
 	},
 	{
