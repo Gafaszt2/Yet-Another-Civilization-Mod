@@ -4,6 +4,18 @@
 		"resourceType": "Luxury"
 	},
 	{
+		"name": "Relic",
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Maple Syrup",
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Sea Cucumber",
+		"resourceType": "Luxury"
+	},
+	{
 		"name": "Bush Bread",
 		"resourceType": "Luxury"
 	},
@@ -55,6 +67,11 @@
 	},
 	{
 		"name": "Nomad Manpower",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Goods",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]
 	},

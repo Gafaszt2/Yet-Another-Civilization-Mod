@@ -1,5 +1,180 @@
 [
 	{
+		"name": "Canada",
+		"leaderName": "Wilfrid Laurier",
+		"adjective": ["Canada"],
+		"startBias":["Tundra"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 255, 255],
+		"innerColor": [168, 0, 0],
+		"uniqueName": "The Last Best West",
+		"uniques": ["[+2 Food] in cities on [Tundra] tiles","[+1 Food] from [Tundra] tiles [in all cities]","[+1 Production, +2 Gold] from [Deer] tiles [in all cities]"],
+		"cities": ["Ottawa", "Toronto", "Montreal", "Halifax", "Winnipeg", "Vancouver", "Quebec City", "Calgary", "Edmonton", "Mississauga", "Brampton", "Hamilton", "Surrey"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Papal States",
+		"leaderName": "Pius IX",
+		"adjective": ["The Papal States"],
+		"startBias":["Grassland"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [150, 15, 15],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Apostolic See",
+		"uniques": ["[1] free [Great Prophet] units appear","[+1] Movement <for [Missionary] units>","[+1] Movement <for [Inquisitor] units>","[+1] Movement <for [Great Prophet] units>","Provides [1] [Relic] <upon gaining a [Great Prophet] unit>"],
+		"cities": ["Rome", "Benevento", "Pontecorvo", "Ascoli", "Castel Gandolfo", "Avignon", "Ravenna", "Bologna", "Ferrara", "Civitavecchia", "Perugia"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Palmyra",
+		"leaderName": "Zenobia",
+		"adjective": ["Palmyra"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 195, 84],
+		"innerColor": [31, 31, 31],
+		"uniqueName": "Pearl of the Desert",
+		"uniques": ["[+1 Food, +1 Production] in cities on [Desert] tiles","[+1 Food, +1 Production] from each Trade Route","[+10]% Production when constructing [Faith] buildings [in all cities]","[+10]% Production when constructing [Culture] buildings [in all cities]"],
+		"cities": ["Palmyra", "Damascus", "Aleppo", "Baalbek", "Cyrrhus", "Berytus", "Tarsus", "Caesarea", "Antioch", "Zeugma", "Alexandria", "Jerusalem", "Bosra", "Edessa"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Yap",
+		"leaderName": "Yangolap",
+		"adjective": ["Yap"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [0, 119, 255],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Sawey",
+		"uniques": ["[+35]% [Gold] [in annexed cities] <when above [5] [Goods]>","[+85]% [Gold] [in puppeted cities] <when above [3] [Goods]>","Instantly provides [1] [Goods] <upon declaring friendship>"],
+		"cities": ["Gachpar", "Wanyaan", "Colonia", "Maap", "Kanif", "Bugol", "Rumung", "Baleabat'", "Bechyal", "Dinaey", "Gaqnaqun", "Maaq"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "The Yolngu",
+		"leaderName": "Wonggu Mununggurr",
+		"adjective": ["The Yolngu"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 116, 41],
+		"innerColor": [27, 23, 51],
+		"uniqueName": "Garma Festival",
+		"uniques": ["[+3 Culture] [in capital] <upon founding a city>"],
+		"cities": ["Yirrkala", "Milingimbi", "Galiwinku", "Ramingining", "Nhulunbuy", "Gunyangarra", "Gapuwiyak", "Dhalinybuy", "Gurrumuru", "Yilpara", "Gurkawuy", "Barrkira"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Luba",
+		"leaderName": "Ilunga Sungu",
+		"adjective": ["Luba"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [78, 207, 204],
+		"innerColor": [3, 8, 8],
+		"uniqueName": "Bambudye",
+		"uniques": ["[+1 Gold, +1 Culture] <in cities connected to the capital>","[+1 Gold, +1 Culture] from every specialist [in all cities]"],
+		"cities": ["Katende", "Mwibele", "Kipushya", "Kabongo", "Budyende", "Kitabi", "Musumba", "Bukama", "Kamina", "Dyombo", "Bunkaya", "Mwansabombwe", "Kolwezi"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Maravi",
+		"leaderName": "Kalonga Mazula",
+		"adjective": ["Maravi"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [18, 18, 18],
+		"innerColor": [255, 41, 41],
+		"uniqueName": "Prophecy of Chiuta",
+		"uniques": ["New [Military] units start with [25] XP [in all cities] <when above [15] [Goods]>","New [Military] units start with [15] XP [in all cities] <when above [5] [Goods]>","Instantly provides [1] [Goods] <upon building a [Camp] improvement>","Instantly provides [1] [Goods] <upon building a [Mine] improvement>"],
+		"cities": ["Manthimba", "Mankhamba", "Mbewe", "Maano", "Tete", "Sena", "Makawana", "Quelimane", "Mozambique", "Angoche", "Msinja", "Chinguni"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "The Aleut",
 		"leaderName": "Agugux",
 		"adjective": ["The Aleut"],
@@ -4287,7 +4462,7 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [125, 25, 0],
+		"outerColor": [255, 46, 46],
 		"innerColor": [18, 14, 12],
 		"uniqueName": "Terror of Turks",
 		"uniques": ["Free [Longswordsman] appears <upon constructing [Armory] [in all cities]>","[+2 Culture, +2 Faith] from every [Castle]"],
@@ -4585,10 +4760,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [84, 190, 255],
-		"innerColor": [176, 44, 32],
+		"outerColor": [79, 149, 255],
+		"innerColor": [10, 10, 10],
 		"uniqueName": "Cultural Renaissance",
-		"uniques": ["[-5]% Culture cost of natural border growth [in all cities]","[+10]% Strength for cities","[+1 Culture, +1 Faith] from [Mountain] tiles [in all cities]","[+1 Gold, +1 Faith] from all [Market] buildings"],
+		"uniques": ["[-5]% Culture cost of natural border growth [in all cities]","[+10]% Strength for cities","[+1 Culture, +1 Faith] from [Mountain] tiles [in all cities]","[+2 Gold] from each Trade Route"],
 		"cities": ["Baku",
 "Ganja",
 "Sumqayit",
@@ -5038,7 +5213,7 @@
 	},
         {
 		"name": "Kongo",
-		"leaderName": "Henrique III",
+		"leaderName": "Nzinga",
 		"adjective": ["Kongo"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
@@ -5057,8 +5232,8 @@
 				
 		"outerColor": [204, 198, 200],
 		"innerColor": [94, 1, 27],
-		"uniqueName": "Kivuzu Faction Fracturation",
-		"uniques": ["[+1 Culture] from every [Plantation]","[+2 Production] from every [Plantation]"],
+		"uniqueName": "Glory of the Manikongo",
+		"uniques": ["[+1 Gold, +1 Food] in cities on [Jungle] tiles","[+1 Gold, +1 Food] in cities on [River] tiles","[+1 Faith] from each Trade Route","[+10]% growth [in all cities]"],
 		"cities": ["Mbanza Kongo", "Soyo" ,"Boma", "Matadi", "Bandundu", "Kinshasa", "Kisantu", "Kikwit","Kananga","Lubumbashi","Likasi"]
 	},
         {
@@ -5361,8 +5536,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [105, 94, 87],
-		"innerColor": [32, 23, 33],
+		"outerColor": [163, 129, 119],
+		"innerColor": [28, 23, 21],
 		"uniqueName": "Beware The Man Who Never Dies",
 		"uniques": ["No damage penalty for wounded units","May heal outside of friendly territory","[+5]% XP gained from combat"],
 		"cities": ["Mount Hagen", "Goroka", "Banz", "Korn", "Ambang", "Nondugl", "Kundiawa", "Kuno", "Tolu", "Minj", "Kondiu", "Kombulno", "Wabag", "Baiyer", "Mainakoru", "Pogera", "Mornmaul", "Ero'ara", "Amulibanth"],
@@ -5973,8 +6148,8 @@
 				
 		"outerColor": [118, 219, 127],
 		"innerColor": [24, 36, 25],
-		"uniqueName": "Caste War",
-		"uniques": ["[+10]% [Production] <when at war>", "[+10]% [Science] <when at war>", "[+1 Science] [in all cities]"],
+		"uniqueName": "Cruzob Movement",
+		"uniques": ["[+20]% Golden Age length","[+25]% [Culture] [in all cities] <when at war>","[+20]% [Production] [in all cities] <when at war>"],
 		"cities": ["Motul", "Nolo" ,"Euán", "Yaxcucul", "Chicxulub", "Acanceh", "Peto", "Valladolid", "Izamal",
 			"Chichimilá",
 			"Tihosuco", "Campeche"]
@@ -6028,10 +6203,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [188, 235, 195],
-		"innerColor": [45, 161, 62],
+		"outerColor": [26, 35, 66],
+		"innerColor": [255, 229, 143],
 		"uniqueName": "White Revolution",
-		"uniques": ["[+1 Science] [in all cities]", "[+1 Science] from every [Temple]","[+1 Production] from every [Temple]", "[+1 Culture] from every [Monument]"],
+		"uniques": ["[+25]% of excess happiness converted to [Science]", "[-25]% Food consumption by specialists [in all cities]"],
 		"cities": ["Teherán", "Isfahán" ,"Shiraz", "Kashan", "Kermán", "Yazd", "Persépolis", "Mashhad", "Naqsh-e Rostam",
 			"Bam"]
 	},
@@ -6134,8 +6309,8 @@
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
-"outerColor": [35, 107, 58],
-		"innerColor": [155, 228, 242],
+        "outerColor": [29, 61, 53],
+		"innerColor": [186, 255, 238],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Fighting Gunditjmara",
 		"uniques": ["[+1 Faith] from every [Marsh]","[+1 Faith] from every [Fresh water]"],
@@ -6324,8 +6499,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [17, 32, 125],
-		"innerColor": [184, 70, 9],
+		"outerColor": [23, 26, 33],
+		"innerColor": [255, 101, 59],
 		"uniqueName": "Kampa",
 		"uniques": ["[+1 Faith] from every [Plantation]", "[+1 Production] from every [Plantation]"],
 		"cities": ["Nan Madol", "Onohnleng" ,"Kepihleng", "Ant Atoll", "Palikir", "Sohehs", "Tipwen", "Dongalap"]
@@ -7006,15 +7181,15 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [210, 242, 187],
-		"innerColor": [63, 92, 16],
-		"uniqueName": "Come out ye Black and Tans",
-		"uniques": ["[+25]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"outerColor": [5, 36, 8],
+		"innerColor": [255, 180, 66],
+		"uniqueName": "August Destiny",
+		"uniques": ["[+25]% [Culture] [in all cities]","[Great Artist] is earned [+35]% faster"],
 		"cities": ["Dublin","Cork","Galway","Limerick","Waterford","Kilkenny","Sligo","Derry","Belfast","Dun Laogharie","Ennis"]
 	},
         {
 		"name": "Scotland",
-		"leaderName": "John Maclean",
+		"leaderName": "Robert I Bruce",
 		"adjective": ["Scotish"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
@@ -7031,10 +7206,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [20, 141, 247],
-		"innerColor": [179, 214, 245],
-		"uniqueName": "Red Clydeside",
-		"uniques": ["[+2 Production] from every [Factory]","[+1 Culture] from every [Factory]"],
+		"outerColor": [29, 40, 54],
+		"innerColor": [225, 234, 245],
+		"uniqueName": "Last of the Free",
+		"uniques": ["New [Sword] units start with [20] XP [in all cities] ","All newly-trained [Sword] units [in all cities] receive the [Drill I] promotion","[+1 Culture] from every [Hill]"],
 		"cities": ["Edimburg","Glasgow","Iverness","Stirling","Dundee","Aberdeen","Perth","St Andrews","Oban","Fort William"]
 	},
         {
@@ -7116,7 +7291,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Hausa Bakwai",
-                "uniques": ["[+1 Production] from every [Temple]", "[+1 Faith] from every [Desert]", "[+1 Gold] from every [Hill]"],
+                "uniques": ["[+2 Gold] from each Trade Route","[+1 Gold] from every [Cattle]","[+1 Gold] from every [Trading Post]"],
 
 		"outerColor": [191, 160, 98],
 		"innerColor": [79, 67, 44],

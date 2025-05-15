@@ -1,5 +1,40 @@
 [
 	{
+		"name": "Funerary Towers",
+		"uniqueTo": "Palmyra",
+		"terrainsCanBeBuiltOn": ["Desert"],
+        "techRequired": "Construction",
+		"culture":1,
+		"faith":1,
+		"uniques":["Comment [Must not be adjacent to another [Funetary Towers]]","[-1 Culture, -1 Faith] for each adjacent [Funerary Towers] <hidden from users>","[-2 Culture, -2 Gold] for each adjacent [Funerary Towers] <after discovering [Archaeology]> <hidden from users>","[+2 Culture, +2 Gold] <after discovering [Archaeology]>"]
+    },
+	{
+		"name": "Mbanza",
+		"uniqueTo": "Kongo",
+		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
+        "techRequired": "Currency",
+		"food":1,
+		"happiness":1,
+		"uniques":["[+2 Gold] <after discovering [Economics]>","[+1 Food, +2 Culture] <after discovering [Ecology]>"]
+    },
+	{
+		"name": "Rai Stone",
+		"uniqueTo": "Yap",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Currency",
+		"gold":2,
+		"uniques":["[+2 Gold] <after discovering [Archaeology]> <when above [10] [Goods]>"]
+    },
+	{
+		"name": "Trepangers",
+		"uniqueTo": "The Yolngu",
+		"terrainsCanBeBuiltOn": ["Coast"],
+        "techRequired": "Sailing",
+		"food":1,
+		"gold":1,
+		"uniques":["Provides [1] [Sea Cucumber]","Must be next to [Fishing Boats]","[+2 Science] <after discovering [Biology]>"]
+    },
+	{
 		"name": "Daaq Ah",
 		"uniqueTo": "Mogadishu",
 		"terrainsCanBeBuiltOn": ["Desert","Hill"],
@@ -331,17 +366,6 @@
                 "techRequired": "Engineering",
 		"turnsToBuild": 5,
 		"uniques": ["Gives a defensive bonus of [+45]%","Pillaging this improvement yields approximately [+18 Gold]"],
-	},
-      {
-		"name": "Mbanza",
-                "production": 1,
-                "uniqueTo": "Kongo",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": [
-			"Great Improvement",
-			"Gives a defensive bonus of [10]%",
-			"Adjacent enemy units ending their turn take [5] damage",
-			"Removes removable features when built","[+2 Food] for each adjacent [Mbanza]"]
 	},
       {
 		"name": "Labor Exploitation"

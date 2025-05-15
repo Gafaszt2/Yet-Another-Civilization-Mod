@@ -1,6 +1,78 @@
 
 [ 
 	{
+		"name": "Sugar Shack",
+		"uniqueTo": "Canada",
+		"replaces": "Water Mill",
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]","Provides [1] [Maple Syrup]"],
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Carpet Market",
+		"uniqueTo": "Azerbaijan",
+		"replaces": "Market",
+		"gold": 3,
+		"culture": 1,
+		"specialistSlots": {"Merchant": 2},
+		"uniques":["Comment [+1 Merchant slot]"],
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Criollo Center",
+		"uniqueTo": "Yucatan",
+		"replaces": "Granary",
+		"food": 2,
+		"happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10]% Production when constructing [Military] units [in this city]","[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Diocese",
+		"uniqueTo": "The Papal States",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+2 Faith] from [City center] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Kitenta",
+		"uniqueTo": "Luba",
+		"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 2,
+		"faith": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Kachisi",
+		"uniqueTo": "Maravi",
+		"replaces": "Temple",
+		"faith": 2,
+		"food": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
 		"name": "Barabara",
 		"uniqueTo": "The Aleut",
 		"replaces": "Granary",
@@ -1284,18 +1356,6 @@
 		"requiredTech": "The Wheel"
 	},
 {
-		"name": "The Silk Road",
-		"cost": 125,
-                "uniqueTo": "Azerbaijan",
-		"replaces": "National Treasury",
-		"gold": 8,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": ["[+1 Culture] from [Luxury resource] tiles [in this city]",
-"Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Guilds"
-	},
-{
 		"name": "Carpathian Sheepfold",
                 "uniqueTo": "Hutsul",
 		"replaces": "Granary",
@@ -1593,15 +1653,6 @@
 			"[+1 Gold] from [Cattle] tiles [in this city]",
 			"[+1 Gold] from [Fish] tiles [in this city]",
 			"[+1 Gold] from [Plantation] tiles [in this city]"],
-		"requiredTech": "Currency"
-	},
-        {
-		"name": "Criollo Center",
-		"hurryCostModifier": 25,
-            "uniqueTo": "Yucatan",
-		"uniques": ["[+15]% Production when constructing [Land] units [in this city]",
-			"[+1 Culture] from [Jungle] tiles [in this city]",
-			"[+1 Faith] from [Jungle] tiles [in this city]",],
 		"requiredTech": "Currency"
 	},
         {
@@ -1926,7 +1977,7 @@
 	},
         {
 		"name": "Distillery",
-                "uniqueTo": "Scotland",
+        "uniqueTo": "Scotland",
 		"replaces": "Bank",
 		"gold": 3,
                 "happiness": 2,
@@ -1936,15 +1987,15 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
-        {
+    {
 		"name": "Pub",
-                "uniqueTo": "Ireland",
+        "uniqueTo": "Ireland",
 		"replaces": "Market",
 		"gold": 2,
-                "culture": 2,
+        "culture": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
-	},
+	}
 ]
