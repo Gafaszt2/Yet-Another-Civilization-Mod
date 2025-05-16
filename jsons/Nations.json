@@ -1,5 +1,80 @@
 [
 	{
+		"name": "Sierra Leone",
+		"leaderName": "Thomas Peters",
+		"adjective": ["Sierra Leone"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [12, 28, 25],
+		"innerColor": [138, 255, 79],
+		"uniqueName": "Return Ye Ransomed Sinners Home",
+		"uniques": ["[+15]% Great Person generation [in all cities] <during a Golden Age>","[+15]% growth [in all cities] <during a Golden Age>"],
+		"cities": ["Freetown", "Granville Town", "Falaba", "Waterloo", "Port Loko", "Bo", "Bonthe", "Kenema", "Koidu", "King Tom's Point", "Mandimansa", "Bunce"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Jurchen",
+		"leaderName": "Shizong",
+		"adjective": ["Jurchen"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [34, 77, 50],
+		"innerColor": [255, 228, 171],
+		"uniqueName": "Jin Shi",
+		"uniques": ["Comment [[+25]% [Culture] from Science buildings]","[+25]% [Culture] from every [Science] <hidden from users>","[+25]% Production when constructing [Archery] units [in all cities]","[+25]% Production when constructing [Mounted] units [in all cities]"],
+		"cities": ["Zhongdu", "Shangjing", "Bianjing", "Caizhou", "Xianping", "Dongjing", "Beijing", "Zhongjing", "Xijing", "Hejian", "Zhending", "Taiyuan", "Daming"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Romania",
+		"leaderName": "Carol I",
+		"adjective": ["Romania"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [23, 33, 31],
+		"innerColor": [255, 155, 74],
+		"uniqueName": "Nihil sine Deo",
+		"uniques": ["[+2 Faith] from all [Culture] buildings"],
+		"cities": ["Bucharest", "Cluj-Napoca", "Iași", "Constanța", "Timișoara", "Brașov", "Craiova", "Galați", "Oradea", "Ploiești", "Brăila", "Arad", "Pitești", "Bacău"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Canada",
 		"leaderName": "Wilfrid Laurier",
 		"adjective": ["Canada"],
@@ -4444,9 +4519,9 @@
 "Chegutu"]
 	},
 {
-		"name": "Romania",
+		"name": "Wallachia",
 		"leaderName": "Vlad Tepes",
-		"adjective": ["Romania"],
+		"adjective": ["Wallachia"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
@@ -4462,28 +4537,11 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [255, 46, 46],
-		"innerColor": [18, 14, 12],
+		"outerColor": [17, 29, 48],
+		"innerColor": [255, 222, 122],
 		"uniqueName": "Terror of Turks",
 		"uniques": ["Free [Longswordsman] appears <upon constructing [Armory] [in all cities]>","[+2 Culture, +2 Faith] from every [Castle]"],
-		"cities": ["Bucharest",
-"Târgoviște",
-"Brașov",
-"Sighisoara",
-"Sibiu",
-"Constanța",
-"Iași",
-"Cluj-Napoca",
-"Timișoara",
-"Craiova",
-"Buzău",
-"Pitești",
-"Giurgiu",
-"Alba Iulia",
-"Suceava",
-"Oradea",
-"Râmnicu Vâlcea",
-"Făgăraș"]
+		"cities": ["Târgoviște", "Arges", "Campulung", "Craiova", "Turnu", "Bucharest", "Bran", "Buzau", "Giurgiu", "Fagaras", "Targsor", "Braila", "Rusii de Vede", "Ploesti"]
 	},
 {
 		"name": "Prussia",

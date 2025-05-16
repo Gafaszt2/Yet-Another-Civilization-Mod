@@ -1,6 +1,29 @@
 
 [ 
 	{
+		"name": "Sierra Leone Company",
+		"uniqueTo": "Sierra Leone",
+		"replaces": "Seaport",
+		"specialistSlots":{"Merchant": 2},
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"requiredBuilding": "Harbor",
+		"uniques": ["Comment [+2 Merchant slot]","[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Navigation"
+	},
+	{
+		"name": "Jin Jiehao",
+		"uniqueTo": "Jurchen",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[30]% production cost <in [Puppeted] cities>","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Sugar Shack",
 		"uniqueTo": "Canada",
 		"replaces": "Water Mill",
@@ -1264,7 +1287,7 @@
 	},
 {
 		"name": "Impalement Grounds",
-                "uniqueTo": "Romania",
+                "uniqueTo": "Wallachia",
 		"replaces": "Courthouse",
 		"culture": 2,
 		"hurryCostModifier": 50,
