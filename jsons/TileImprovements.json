@@ -395,8 +395,8 @@
 		"shortcutKey": "F"
 	},
       {
-		"name": "Zawia",
-        "uniqueTo": "Libia Sennusi",
+		"name": "Zawiya",
+        "uniqueTo": "Senussi Libya",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"faith": 1,
             "science": 1,

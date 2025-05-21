@@ -1,6 +1,15 @@
 
 [ 
 	{
+		"name": "Alka",
+		"uniqueTo": "Lithuania",
+		"replaces": "Garden",
+		"uniques": ["[+30]% Great Person generation [in this city]", "Must be next to [Forest]"],
+		"hurryCostModifier": 25,
+		"faith": 1,
+		"requiredTech": "Theology"
+	},
+	{
 		"name": "Sierra Leone Company",
 		"uniqueTo": "Sierra Leone",
 		"replaces": "Seaport",
@@ -1843,18 +1852,6 @@
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Strategic resource] tiles [in this city]", "[+1 Gold] from [Luxury resource] tiles [in this city]"],
 		"requiredTech": "Education"
-	},
-        {
-		"name": "Ikhorali",
-                "uniqueTo": "Zulu",
-		"replaces": "Water Mill",
-		"maintenance": 1,
-		"food": 1,
-		"production": 1,
-                "happiness": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["Must be on [River]"],
-		"requiredTech": "The Wheel"
 	},
         {
 		"name": "Totem Pole",

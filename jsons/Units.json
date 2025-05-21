@@ -1,5 +1,102 @@
 [
 	{
+		"name": "Umpakati",
+		"uniqueTo": "Zulu",
+		"replaces": "Musketman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 25,
+		"cost": 150,
+		"uniques":["[+45]% Strength <vs [Siege] units>","[+15]% Strength <vs [Gunpowder] units>"],
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Impi",
+		"uniqueTo": "Zulu",
+		"replaces": "Rifleman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 34,
+		"rangedStrength": 35,
+		"cost": 225,
+		"uniques":["[+25]% Strength <vs [Gunpowder] units>"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Leitis",
+		"uniqueTo": "Lithuania",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[+15]% Strength <vs [Melee] units> <when attacking>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Langen Kusuma",
+		"uniqueTo": "Yogyakarta",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 36,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"promotions":["Great Generals II"],
+		"uniques": ["No movement cost to pillage","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Mantrirejo",
+		"uniqueTo": "Yogyakarta",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 31,
+		"cost": 195,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Gendarmerie Nationale",
+		"uniqueTo": "Gabon",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 67,
+		"cost": 390,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+40]% XP gained from combat <when fighting in [City-State] tiles>","[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Raconteurs",
+		"uniqueTo": "Gabon",
+		"replaces": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Black Loyalist",
 		"uniqueTo": "Sierra Leone",
 		"replaces": "Musketman",
@@ -3763,9 +3860,9 @@
 		"attackSound": "nonmetalhit"
 	},
         {
-		"name": "Italo-Sennusi War Soldier",
+		"name": "Senussi Mujahid",
 		"unitType": "Gunpowder",
-            "uniqueTo": "Libia Sennusi",
+        "uniqueTo": "Senussi Libya",
 		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 78,
@@ -3804,11 +3901,11 @@
 		"attackSound": "shot"
 	},
         {
-		"name": "Dihqan",
+		"name": "SAVAK",
 		"unitType": "Civilian",
 		"uniqueTo": "Pahlavi Iran",
 		"replaces": "Great General",
-		"uniques": [
+		"uniques": ["Can be earned through combat",
             "Empire enters a [10]-turn Golden Age <by consuming this unit>",
             "[+20]% Strength bonus for [Military] units within [2] tiles",
 			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
@@ -3990,20 +4087,6 @@
                 "uniques": ["Double movement in [Jungle]"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
-	},
-        {
-		"name": "Umpakhati",
-                "replaces": "Spearman",
-		"uniqueTo": "Zulu",
-		"unitType": "Sword",
-		"movement": 3,
-		"strength": 13,
-		"cost": 58,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+20]% Strength <vs [Wounted] units>"],
-		"attackSound": "metalhit"
 	},
 	{
 		"name": "Black Army",

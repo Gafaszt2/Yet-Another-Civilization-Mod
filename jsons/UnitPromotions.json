@@ -10,6 +10,14 @@
 "uniques": ["[+1] Movement"]
 },
 {
+"name": "Capture I",
+"uniques": ["May capture killed [Wounded] units <with [30]% chance>"]
+},
+{
+"name": "Capture II",
+"uniques": ["May capture killed [Wounded] units <with [60]% chance>"]
+},
+{
 "name": "Skirmish",
 "uniques": ["Can move after attacking"]
 },

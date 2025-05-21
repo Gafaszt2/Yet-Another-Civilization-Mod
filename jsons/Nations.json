@@ -1,5 +1,88 @@
 [
 	{
+		"name": "Lithuania",
+		"leaderName": "Gediminas",
+		"adjective": ["Lithuania"],
+		"startBias":["Fresh Water"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [222, 0, 0],
+		"innerColor": [255, 242, 191],
+		"uniqueName": "Europe’s Last Pagans",
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Additional Movement] promotion <upon founding a Pantheon>",
+		"All newly-trained [Land] units [in all cities] receive the [Capture I] promotion <in [Holy] cities>","All newly-trained [Land] units [in all cities] receive the [Capture II] promotion <in [Holy] cities>"
+   ],
+		"cities": ["Vilnius", "Trakai", "Kernave", "Voruta", "Kaunas", "Gardinas", "Siauliai", "Klaipeda", "Medvegalis", "Minsk", "Polotsk", "Palanga", "Brest", "Raseiniai", "Naugardukas"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Yogyakarta",
+		"leaderName": "Diponegoro",
+		"adjective": ["Yogyakarta"],
+		"startBias":["Fresh Water"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 255, 255],
+		"innerColor": [222, 0, 0],
+		"uniqueName": "Ksatria Piningit",
+		"uniques": ["[+50]% Production when constructing [Mounted] units [in all cities] <during a Golden Age>"
+   ],
+		"cities": ["Yogyakarta", "Siti Ageng", "Kedu", "Bagelen", "Pajang", "Mataram Ngayogyakarta", "Madiun", "Magetan", "Caruban", "Pacitan"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Gabon",
+		"leaderName": "Léon M'ba",
+		"adjective": ["Gabon"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [48, 76, 255],
+		"innerColor": [10, 10, 10],
+		"uniqueName": "The Land of Fangs",
+		"uniques": ["Gain [100] [Culture] <upon gaining a [Raconteurs] unit>","[+1 Culture] from [Jungle] tiles without [Trading post] [in all cities]","[+1 Culture] from [Jungle] tiles without [Camp] [in all cities]",
+	"[+1 Culture] from [Cattle] tiles without [Pasture] [in all cities]",
+	"[+1 Culture] from [Deer] tiles without [Camp] [in all cities]",
+	"[+1 Culture] from [Truffles] tiles without [Camp] [in all cities]",
+	"[+1 Culture] from [Sheep] tiles without [Pasture] [in all cities]"
+   ],
+		"cities": ["Libreville", "Port-Gentil", "Franceville", "Owendo", "Oyem", "Moanda", "Ntoum", "Lambaréné", "Mouila", "Akanda"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Sierra Leone",
 		"leaderName": "Thomas Peters",
 		"adjective": ["Sierra Leone"],
@@ -45,7 +128,7 @@
 		"outerColor": [34, 77, 50],
 		"innerColor": [255, 228, 171],
 		"uniqueName": "Jin Shi",
-		"uniques": ["Comment [[+25]% [Culture] from Science buildings]","[+25]% [Culture] from every [Science] <hidden from users>","[+25]% Production when constructing [Archery] units [in all cities]","[+25]% Production when constructing [Mounted] units [in all cities]"],
+		"uniques": ["[+2 Culture] from every [Library]","[+25]% Production when constructing [Archery] units [in all cities]","[+25]% Production when constructing [Mounted] units [in all cities]"],
 		"cities": ["Zhongdu", "Shangjing", "Bianjing", "Caizhou", "Xianping", "Dongjing", "Beijing", "Zhongjing", "Xijing", "Hejian", "Zhending", "Taiyuan", "Daming"],
 		"spyNames": ["Saki"]
 	},
@@ -647,7 +730,7 @@
 		"outerColor": [73, 235, 154],
 		"innerColor": [179, 50, 7],
 		"uniqueName": "Peaceful Nation",
-		"uniques": ["[+1 Faith] from all [Food] buildings","[+1 Food] from all [Granary] buildings","[+1 Food] from [River] tiles [in all cities]",
+		"uniques": ["[+1 Faith] from all [Food] buildings","[+1 Food] from [River] tiles [in all cities]",
 		"[+1 Food] in cities on [River] tiles","[+1 Food] in cities on [Plains] tiles","[+1 Food] in cities on [Flood plains] tiles","[+1 Food] in cities on [Hill] tiles",
 		"[-7]% Strength <vs [Gunpowder] units>","[-7]% Strength <when attacking>"],	
 		"cities": ["Parramatta", "Woolloomooloo", "Toongabbie", "Woollahra", "Coggera", "Tamarama", "Coogee", "Boondi", "Boora", "Bunnerong", "Pan ner rong"],
@@ -2032,7 +2115,7 @@
 		"outerColor": [237, 209, 171],
 		"innerColor": [54, 46, 36],
 		"uniqueName": "Dexug Senegaal",
-		"uniques": ["[+1 Food, +1 Culture] from [Fresh Water] tiles [in all cities]","[+1 Culture] in cities on [Fresh Water] tiles"],
+		"uniques": ["[+1 Food] from [Fresh Water] tiles [in all cities]","[+1 Culture] in cities on [Fresh Water] tiles"],
 		"cities": ["Worxax", "Njiayeen Sabur", "Thieung", "Ouarkhokh", "Yang-Yang", "Ndiourbel", "Diakhao", "Kahone", "Mboul", "Lambaye"],
 		"spyNames": ["Saki"]
 	},
@@ -3162,7 +3245,7 @@
 		"outerColor": [242, 206, 153],
 		"innerColor": [133, 46, 0],
 		"uniqueName": "Great Barays of Angkor",
-		"uniques": ["[+2 Faith, +2 Food] from each Trade Route","[+10]% [Culture] [in all cities]","[+10]% [Food] [in all cities]"],
+		"uniques": ["[+1 Faith, +1 Food] from each Trade Route","[+10]% [Culture] [in all cities]","[+10]% [Food] [in all cities]"],
 		"cities": ["Angkor Thom", "Yasodharapura", "Hariharalaya", "Nagara Jayasri", "Rajavihara", "Isvarapura", "Banteay Kdei", "Jayendranagari", "Pre Rup"],
 	},
 	{
@@ -3188,7 +3271,7 @@
 		"outerColor": [92, 9, 13],
 		"innerColor": [255, 168, 194],
 		"uniqueName": "One Million Elephants and a White Parasol",
-		"uniques": ["[+1 Culture] per every [2] [Faith]"],
+		"uniques": ["[+1 Culture] per every [8] [Faith]"],
 		"cities": ["Luang Prabang", "Thakhek", "Pakse", "Muang Thaeng", "Xiang Hung", "Roi Et", "Xiang Khuang", "Nakhom Phanom", "Champasak"],
 	},
 	{
@@ -3975,7 +4058,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
 		"outerColor": [255, 255, 255],
-		"innerColor": [130, 149, 158],
+		"innerColor": [59, 59, 59],
 		"uniqueName": "Divine Covenant",
 		"uniques": ["[Great Prophet] is earned [+15]% faster","[Great Scientist] is earned [+5]% faster","When spreading religion to a city, gain [3] times the amount of followers of other religions as [Science]"],
 		"cities": ["Jerusalem",
@@ -4645,7 +4728,7 @@
 		"outerColor": [0, 94, 5],
 		"innerColor": [224, 255, 226],
 		"uniqueName": "Heart of Mesopotamia",
-		"uniques": ["[+1 Food] from [River] tiles [in all cities]","[+1 Food] from [Flood plains] tiles [in all cities]","[+20]% Production when constructing [Food] buildings [in all cities]"],
+		"uniques": ["[+1 Culture] from [River] tiles [in all cities]","[+10]% Production when constructing [Food] buildings [in all cities]"],
 		"cities": ["Baghdad",
 "Basra",
 "Mosul",
@@ -6159,9 +6242,9 @@
 			"Tanga", "Mara"]
 	},
       {
-		"name": "Libia Sennusi",
-		"leaderName": "Sidi Mohammed El Mahdi as-Senussi",
-		"adjective": ["Sennusi"],
+		"name": "Senussi Libya",
+		"leaderName": "Omar al-Mukhtar",
+		"adjective": ["Senussi Libya"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		
@@ -6634,8 +6717,9 @@
 				
 		"outerColor": [102, 65, 53],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Impi Iyehlisa",
-		"uniques": ["[+1] Movement <for [{Military} {Land}] units>", "[+1 Food] from every [Plains]"],
+		"uniqueName": "Battle of Isandlwana",
+		"uniques": ["[+1] Movement <for [Sword] units> <before the [Industrial era]>","[+1] Movement <for [Archery] units> <before the [Industrial era]>",
+	"[+15]% Strength <for [Sword] units> <during a Golden Age>","[+15]% Strength <for [Archery] units> <during a Golden Age>"],
 		"cities": ["Ulundi", "KwaDukuza" ,"Bulawayo", "Isandlwana", "Rorke´s Drift", "Eshowe", "Ondini", "Gingindlovu"]
 	},
         {
@@ -7005,7 +7089,7 @@
 		"outerColor": [45, 31, 77],
 		"innerColor": [255, 179, 102],
 		"uniqueName": "Chahta",
-		"uniques": ["[+2 Food] per [3] population [in all cities]","[+25]% Production when constructing [Food] buildings [in all cities]"],
+		"uniques": ["[+1 Food] per [3] population [in all cities]","[+25]% Production when constructing [Food] buildings [in all cities]","[+5]% Production when constructing [Production] buildings [in all cities]"],
 		"cities": ["Okla Chahta","Nanih Waiya",
 			"Bok Chitto","Tushka Lusa","Pushmataha","Chata Ima","Nashoba","Talahina","Yowani","Ishtaboli","Chahta Tamaha"]
 	},
@@ -7267,7 +7351,7 @@
 		"outerColor": [29, 40, 54],
 		"innerColor": [225, 234, 245],
 		"uniqueName": "Last of the Free",
-		"uniques": ["New [Sword] units start with [20] XP [in all cities] ","All newly-trained [Sword] units [in all cities] receive the [Drill I] promotion","[+1 Culture] from every [Hill]"],
+		"uniques": ["New [Sword] units start with [20] XP [in all cities]","All newly-trained [Sword] units [in all cities] receive the [Drill I] promotion","[+1 Culture] from every [Hill]"],
 		"cities": ["Edimburg","Glasgow","Iverness","Stirling","Dundee","Aberdeen","Perth","St Andrews","Oban","Fort William"]
 	},
         {
@@ -7351,8 +7435,8 @@
                 "uniqueName": "Hausa Bakwai",
                 "uniques": ["[+2 Gold] from each Trade Route","[+1 Gold] from every [Cattle]","[+1 Gold] from every [Trading Post]"],
 
-		"outerColor": [191, 160, 98],
-		"innerColor": [79, 67, 44],
+		"outerColor": [39, 163, 89],
+		"innerColor": [255, 255, 255],
 		"cities": ["Kano","Zaria","Katsina",
 			"Daura",
 			"Gobir","Rano","Biram","Kebbi",
