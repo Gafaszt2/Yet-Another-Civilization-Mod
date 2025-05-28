@@ -3198,25 +3198,25 @@
 	},
 	{
 		"name": "The Philippines",
-		"leaderName": "Emilio Aguinaldo",
+		"leaderName": "Jose Rizal",
 		"adjective": ["The Philippines"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
 		
-		"declaringWar": "For the good of The Philipines i must declare war!",
-		"attacked": "You are making a big mistake.",
-		"defeated": "Will this be my last goodbye to you?.",
-		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		"declaringWar": "You must shatter the vase to spread its perfume, and smite the rock to get the spark.",
+		"attacked": "We do not sleep; we wait for you with fire in our hearts and weapons in our hands. (lit. We are not sleeping; we are waiting for you with a burning heart and an armed fist.",
+		"defeated": "It is finished.",
+		"introduction": "I am Jose Rizal, poet, painter, revolutionary",
 		
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [138, 255, 214],
-		"innerColor": [0, 60, 97],
+		"outerColor": [130, 182, 224],
+		"innerColor": [29, 54, 74],
         "favoredReligion": "Christianity",
 		"uniqueName": "Pearl of the Orient Seas",
 		"uniques": ["[+1 Culture] from every [Coast]","[+2 Faith] [in all cities] <with [1] to [2] neighboring [Coast] tiles>","[+3 Faith] [in all cities] <with [3] to [4] neighboring [Coast] tiles>"],
