@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Ritterbruder",
+		"uniqueTo": "Teutonic Order",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"promotions":["March","Great Generals II"],
+		"uniques": ["Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Umpakati",
 		"uniqueTo": "Zulu",
 		"replaces": "Musketman",
@@ -3748,7 +3764,7 @@
 		"attackSound": "shot"
 	},
         {
-		"name": "Bulgar Heavy Cavalry",
+		"name": "Boila",
                 "replaces": "Knight",
 		"uniqueTo": "Bulgaria",
 		"unitType": "Mounted",
@@ -4181,7 +4197,7 @@
         {
 		"name": "Lada'kwe",
                 "replaces": "Composite Bowman",
-		"uniqueTo": "The Pueblo",
+		"uniqueTo": "The Hisat'sinom",
 		"unitType": "Archery",
 		"movement": 3,
 		"strength": 7,
@@ -4195,7 +4211,7 @@
         {
 		"name": "Pueblo Pathfinder",
                 "replaces": "Scout",
-		"uniqueTo": "The Pueblo",
+		"uniqueTo": "The Hisat'sinom",
 		"unitType": "Scout",
 		"movement": 3,
 		"strength": 6,
@@ -4232,7 +4248,7 @@
         {
 		"name": "Wakina",
                 "replaces": "Musketman",
-		"uniqueTo": "Sioux",
+		"uniqueTo": "The Oyate",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 26,

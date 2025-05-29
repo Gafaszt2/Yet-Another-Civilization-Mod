@@ -1,6 +1,17 @@
 
 [ 
 	{
+		"name": "Ordensburg",
+		"uniqueTo": "Teutonic Order",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"faith":3,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Alka",
 		"uniqueTo": "Lithuania",
 		"replaces": "Garden",

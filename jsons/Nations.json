@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Teutonic Order",
+		"leaderName": "Hermann von Salza",
+		"adjective": ["Teutonic Order"],
+		"startBias":["Forest","Grassland"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [224, 224, 224],
+		"innerColor": [18, 18, 18],
+		"uniqueName": "Helfen, Wehren, Heilen",
+		"uniques": ["May buy [Barracks] buildings with [Faith] [in all cities]","May buy [Armory] buildings with [Faith] [in all cities]","May buy [Forge] buildings with [Faith] [in all cities]","May buy [Arsenal] buildings with [Faith] [in all cities]",
+		"[+4 Faith] from [Citadel] tiles [in holy cities]"
+   ],
+		"cities": ["Marienburg","Konigsberg","Danzig","Memel","Heilsberg","Kulm","Tuchel","Soldin","Ortelsburg","Osterode"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Lithuania",
 		"leaderName": "Gediminas",
 		"adjective": ["Lithuania"],
@@ -3716,7 +3743,7 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
-		"outerColor": [209, 147, 0],
+		"outerColor": [191, 108, 0],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Roof of the World",
 		"uniques": ["[+1 Food] from every [Yak] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Faith] from [Hill] tiles [in all cities]","[+2 Faith, +2 Culture] from [Mountain] tiles [in all cities]"],
@@ -5835,7 +5862,7 @@
 		"innerColor": [209, 16, 6],
 		"uniqueName": "Shinryo",
 		"uniques": ["[+1 Culture] from each Trade Route","[+1 Production] from every [Fishing Boats]"],
-		"cities": ["Mparntwe", "Tjoritja", "Ntaria", "Papunya", "Napwerte", "Watarrka", "Larapinta", "Irlpme", "Antulye", "Alhekulyele", "Ntaripe", "Anthwerrke", "Akeyulerre", "Atnelkentyarliweke"],
+		"cities": ["Shuri", "Naha", "Tomari", "Kume", "Okinawa City", "Uruma", "Urasoe", "Ginowan", "Nago", "Tomigusuku", "Itoman", "Miyakojima", "Ishigaki"]
 	},
 
 {
@@ -6669,7 +6696,7 @@
 		"innerColor": [214, 200, 141],
 		"uniqueName": "Trade Seals",
 		"uniques": ["[+1 Gold] from every [Trading Post]","[+2 Culture] from every [Plantation]"],
-		"cities": ["Nan Madol", "Onohnleng" ,"Kepihleng", "Ant Atoll", "Palikir", "Sohehs", "Tipwen", "Dongalap"]
+		"cities": ["Harappa", "Mohenjo-daro", "Lothal", "Ganeriwala", "Dholavira", "Sutkagan-dor", "Mehrgarh", "Kalibangan", "Rakhigarhi", "Banwali", "Surkotda"]
 	},
         {
 		"name": "Central America",
@@ -6859,9 +6886,9 @@
 			"Juyubit","Yangna","Sibangna","Pimu","San Gabriel","San Fernando","Kizh"]
 	},
         {
-		"name": "The Pueblo",
+		"name": "The Hisat'sinom",
 		"leaderName": "Po'pay",
-		"adjective": ["The Pueblo"],
+		"adjective": ["The Hisat'sinom"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
 		
@@ -6880,13 +6907,13 @@
 		"outerColor": [56, 41, 29],
 		"innerColor": [252, 182, 126],
 		"uniqueName": "Kachina",
-		"uniques": ["[+1 Food] from every [Desert]","[+1 Faith] from every [Forest]"],
+		"uniques": ["[+2 Food] from each Trade Route","[-25]% Food consumption by specialists [in all cities]"],
 		"cities": ["Acoma","Santa Clara","Taos","Laguna","Isleta","Zuni","Hopi","Cochiti","San Ildefonso","Tesuque"]
 	},
         {
-		"name": "Sioux",
+		"name": "The Oyate",
 		"leaderName": "Sitting Bull",
-		"adjective": ["Sioux"],
+		"adjective": ["The Oyate"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
@@ -6902,11 +6929,11 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [156, 145, 132],
-		"innerColor": [120, 42, 40],
-		"uniqueName": "Great Sioux Nation",
-		"uniques": ["[+1 Faith] from every [Bison]","[+70]% XP gained from combat <for [Mounted] units>"],
-		"cities": ["Little Bighorn","Cedar Creek","Sioux Falls","Sisseton","Wounded Knee","Rapid City", "Stony Lake", "Killdeer", "Big Mound", "Pine Ridge", "Owanka", "Turtle River", "Oglala"]
+		"outerColor": [43, 23, 16],
+		"innerColor": [255, 179, 153],
+		"uniqueName": "Great Oyate Nation",
+		"uniques": ["[+1 Faith] from every [Bison]","[+100]% XP gained from combat <for [Mounted] units>"],
+		"cities": ["Little Bighorn","Cedar Creek","Oyate Falls","Sisseton","Wounded Knee","Rapid City", "Stony Lake", "Killdeer", "Big Mound", "Pine Ridge", "Owanka", "Turtle River", "Oglala"]
 	},
         {
 		"name": "Navajo",
@@ -6930,7 +6957,7 @@
 		"outerColor": [255, 225, 196],
 		"innerColor": [173, 94, 17],
 		"uniqueName": "Dine Bizaad",
-		"uniques": ["[+2 Culture] from every [Trading Post]"],
+		"uniques": ["[+1 Faith] [in all cities]","May buy [Food] buildings with [Faith] [in all cities]","[Faith] cost of purchasing [Food] buildings [-35]%"],
 		"cities": ["Alamo","To hani","Tha tsini",
 			"Kai","Kinlitsi","Destsini","Pocahontas","Des Moines","Marshalltown","Grinnell","Fairfield","Leon"]
 	},
@@ -6956,7 +6983,7 @@
 		"outerColor": [224, 201, 193],
 		"innerColor": [112, 70, 55],
 		"uniqueName": "Numa",
-		"uniques": ["[+1 Faith] from every [Plains]","[+1 Food] from every [Forest]"],
+		"uniques": ["[+25]% growth [in annexed cities]","[+1 Food] from [Forest] tiles [in annexed cities]"],
 		"cities": ["Great Basin","Cadlwell",
 			"Nampa","Jerome","Burley","Twin Falls","Blackfoot","McCall","Jackpot","Salmon","Rexburg"]
 	},
@@ -6982,7 +7009,7 @@
 		"outerColor": [239, 242, 48],
 		"innerColor": [37, 40, 99],
 		"uniqueName": "Wabanaki Confederacy",
-		"uniques": ["[+1 Faith] from every [Mine]","[+1 Faith] from every [Trading Post]"],
+		"uniques": ["[+20]% Production when constructing [Water] units [in all cities]","[Gold] cost of purchasing [Water] units [-50]% <during a Golden Age>"],
 		"cities": ["Halifax","St John","Moncton",
 			"Saint John","Cape Breton","Truro","Bathurst","Brook","Miramichi","Kentville","Summerside","Windsor"]
 	},
@@ -7005,10 +7032,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [106, 109, 176],
-		"innerColor": [25, 46, 12],
+		"outerColor": [14, 53, 179],
+		"innerColor": [207, 255, 229],
 		"uniqueName": "Yacayeque",
-		"uniques": ["[+1 Faith] from every [Forest]", "[+1 Food] from every [Forest]"],
+		"uniques": ["Gain [50]-[60] [Gold] <upon building a [Remove Forest] improvement>","Gain [50]-[60] [Gold] <upon building a [Remove Jungle] improvement>","Gain [50]-[60] [Gold] <upon building a [Remove Marsh] improvement>"],
 		"cities": ["Guanahatabey","Lucayan","Arawan","Jagua",
 			"Boriquen","Guama","Ciboney","Taino","Cacica","Vesce","Maguana","Higuey","Ciguayo"]
 	},
@@ -7034,7 +7061,7 @@
 		"outerColor": [245, 201, 59],
 		"innerColor": [150, 14, 5],
 		"uniqueName": "Sequoyah's Syllabary",
-		"uniques": ["[+1 Production] from every [Forest]", "[+5]% growth [in all cities]"],
+		"uniques": ["[+25]% Production when constructing [Production] buildings [in all cities]","[-20]% City-State Influence degradation"],
 		"cities": ["Isunigu","Overhill",
 			"Middle","Valley","Out Towns","Lower Towns","Keowee","Sugar Town","Chota","Etowa","Seneca"]
 	},
@@ -7141,7 +7168,7 @@
 		"outerColor": [56, 51, 51],
 		"innerColor": [189, 119, 119],
 		"uniqueName": "Apsaacooke",
-		"uniques": ["[+3 Culture] from every [Natural Wonder]"],
+		"uniques": ["[+1 Food] from every [Camp]","All newly-trained [Scout] units [in all cities] receive the [Woodsman] promotion","All newly-trained [Sword] units [in all cities] receive the [Woodsman] promotion"],
 		"cities": ["Apsaaloke","Biliike",
 			"Ashshiile","Baawaxaawuua","Daxpitcheeaashe","Kaalaxpaalax","Seetcheechee","Uuwatashe","Xaasheeke","Aashbacheeitche"]
 	},
@@ -7167,7 +7194,7 @@
 		"outerColor": [189, 173, 119],
 		"innerColor": [77, 70, 46],
 		"uniqueName": "Bead Makers",
-		"uniques": ["[+2 Culture] from every [Coast]", "[+1 Culture] from every [Luxury resource]"],
+		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities]", "[+2 Culture] from every [Luxury resource]"],
 		"cities": ["Shimiyi","Swaxil",
 			"Hutash","Kalawashaq","Tishlini","Mishopshno","Nicala","Saqikila","Malibu","Shalawa"]
 	},
@@ -7245,7 +7272,7 @@
 		"outerColor": [27, 69, 14],
 		"innerColor": [127, 181, 149],
 		"uniqueName": "Lenape Hoking",
-		"uniques": ["[+3 Culture] from every [Lakes]"],
+		"uniques": ["[+2 Culture] from every [Lakes]"],
 		"cities": ["Delaware","Minsi",
 			"Unami","Unalachtigo","Scheyichbi","Manahatta","Minisink","Lehigh","Nanticoke","Shawnee","Moraviantown"]
 	},
