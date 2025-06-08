@@ -1,5 +1,135 @@
 [
 	{
+		"name": "Canaan",
+		"leaderName": "Adonizedek",
+		"adjective": ["Canaan"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [237, 217, 166],
+		"innerColor": [62, 95, 184],
+		"uniqueName": "Land of Milk and Honey",
+		"uniques": ["[+2 Faith] from [Bonus resource] tiles [in all cities]"
+   ],
+		"cities": ["Zedek", "Jericho", "Hazor", "Megiddo", "Sidon", "Beth-Shan", "Kadesh", "Hebron", "Jarmuth", "Lachish", "Illiq", "Toqmaq", "Eglon", "Jaffa"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Burma",
+		"leaderName": "Alaungpaya",
+		"adjective": ["Burma"],
+		"startBias":["Avoid [Jungle]","Avoid [Forest]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [128, 17, 17],
+		"innerColor": [145, 255, 200],
+		"uniqueName": "Ahmudan Conscription",
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Shock I] promotion <upon entering the [Medieval era]>"
+   ],
+		"cities": ["Shwebo", "Sagaing", "Ava", "Amarapura", "Mandalay", "Yangon", "Bagan", "Mawlamyine", "Bago", "Pathein", "Pyay", "Monywa", "Meiktila", "Sittwe"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Libya",
+		"leaderName": "Muammar Gaddafi",
+		"adjective": ["Libya"],
+		"startBias":["Desert","Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [161, 179, 71],
+		"innerColor": [39, 41, 32],
+		"uniqueName": "Third International Theory",
+		"uniques": ["[+1 Culture] from [Strategic resource] tiles [in all cities]","[+1 Happiness] from [Strategic resource] tiles [in all cities]","Gifts of Gold to City-States generate [+25]% more Influence"
+   ],
+		"cities": ["Tripoli", "Benghazi", "Misrata", "Bayda", "Zawiya", "Khoms", "Ajdabiya", "Sabha", "Sirte", "Tobruk", "Derna", "Sabratha", "Zuwara", "Kufra"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Kanem-Bornu",
+		"leaderName": "Idris Alooma",
+		"adjective": ["Kanem-Bornu"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 173, 40],
+		"uniqueName": "Girgam",
+		"uniques": ["Free [Great Merchant] appears <after adopting [Commerce]>","[+2 Gold] from each Trade Route","All newly-trained [Water] units [in all cities] receive the [Coastal Raider I] promotion"
+   ],
+		"cities": ["Ngazargamu", "Njimi", "Manan", "Yao", "Nkongsamba", "Ndjamena", "Bornu", "Tahoua", "Abalak", "Bafoussam", "Birni", "Bamenda", "Madaoua"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Central Africa",
+		"leaderName": "Bokassa I",
+		"adjective": ["Central Africa"],
+		"startBias":["Avoid [Coast]","Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [31, 107, 51],
+		"innerColor": [255, 208, 38],
+		"uniqueName": "Emperor by the Will of the People",
+		"uniques": ["[1] Happiness from each type of luxury resource","[Gold] cost of purchasing items in cities [-44]% <during We Love The King Day>"
+   ],
+		"cities": ["Bangui", "Bimbo", "Berbérati", "Carnot", "Bambari", "Bouar", "Bossangoa", "Bria", "Bangassou", "Nola", "Kaga-Bandoro", "Sibut", "Mbaïki"],
+		"spyNames": ["Saki"]
+	},
+	{
 		"name": "Teutonic Order",
 		"leaderName": "Hermann von Salza",
 		"adjective": ["Teutonic Order"],
@@ -2226,9 +2356,9 @@
 		"spyNames": ["Saki"]
 	},
 	{
-		"name": "Phoenicians",
+		"name": "Phoenicia",
 		"leaderName": "Hiram I",
-		"adjective": ["Phoenicians"],
+		"adjective": ["Phoenicia"],
 		"startBias":["Coast","Plains"],
 		"preferredVictoryType": "Domination",
 	
@@ -2246,7 +2376,7 @@
 		"outerColor": [115, 50, 168],
 		"innerColor": [207, 215, 255],
 		"uniqueName": "Mediterranean Colonies",
-		"uniques": ["[+2 Gold] from [Coast] tiles [in all cities]","Gain a free [Cothon] [in all cities] <on foreign continents>","Starts with [Sailing]"],
+		"uniques": ["[+2 Gold] from [Coast] tiles [in all cities]","Gain a free [Seaside Market] [in all cities] <on foreign continents>","Starts with [Sailing]"],
 		"cities": ["Tyre",
 "Sidon",
 "Byblos",
@@ -2910,8 +3040,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
-		"outerColor": [243, 255, 168],
-		"innerColor": [24, 99, 45],
+		"outerColor": [255, 52, 25],
+		"innerColor": [36, 7, 3],
 		"uniqueName": "Négritude",
 		"uniques": ["[+15]% [Happiness] [in capital]","No damage penalty for wounded units <during a Golden Age>","[+70]% Golden Age length"],
 		"cities": ["Dakar",
@@ -3743,7 +3873,7 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
-		"outerColor": [191, 108, 0],
+		"outerColor": [255, 33, 33],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Roof of the World",
 		"uniques": ["[+1 Food] from every [Yak] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Faith] from [Hill] tiles [in all cities]","[+2 Faith, +2 Culture] from [Mountain] tiles [in all cities]"],

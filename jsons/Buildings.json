@@ -1,6 +1,37 @@
 
 [ 
 	{
+		"name": "Bayith",
+		"uniqueTo": "Canaan",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+1 Gold] from [Bonus resource] tiles [in this city]"]
+	},
+	{
+		"name": "People's Supermarket",
+		"uniqueTo": "Libya",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques":["[+1 Gold] from [Strategic resource] tiles [in this city]","[+15]% of excess happiness converted to [Culture] <after adopting [Order]>"],
+		"requiredTech": "Currency"
+	},
+	{
+        "name": "Third Company",
+		"uniqueTo": "Central Africa",
+		"replaces": "Police Station",
+        "cost": 300,
+        "hurryCostModifier": 10,
+        "uniques": ["[-25]% enemy spy effectiveness [in this city]","[+3 Production] from [Great Improvement] tiles [in this city] <during We Love The King Day>","[+3 Gold] from [Great Improvement] tiles [in this city] <during We Love The King Day>"],
+        "requiredBuilding": "Constabulary",
+        "requiredTech": "Electricity"
+    },
+	{
 		"name": "Ordensburg",
 		"uniqueTo": "Teutonic Order",
 		"replaces": "Castle",
@@ -693,7 +724,7 @@
 		"uniques": ["[+1 Science] <during a Golden Age>","Only available <when religion is enabled>"]
 	},
 	{
-		"name": "Cothon",
+		"name": "Seaside Market",
 		"uniqueTo": "Phoenicians",
 		"replaces": "Lighthouse",
 		"cost": 75,
