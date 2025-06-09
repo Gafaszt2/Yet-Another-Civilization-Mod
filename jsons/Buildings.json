@@ -764,7 +764,7 @@
 	},
 	{
 		"name": "Seaside Market",
-		"uniqueTo": "Phoenicians",
+		"uniqueTo": "Phoenicia",
 		"replaces": "Lighthouse",
 		"cost": 75,
 		"hurryCostModifier": 25,

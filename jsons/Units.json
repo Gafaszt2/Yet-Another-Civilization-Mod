@@ -1993,7 +1993,7 @@
 	},
 	{
 		"name": "Bireme",
-		"uniqueTo": "Phoenicians",
+		"uniqueTo": "Phoenicia",
 		"replaces": "Trireme",
 		"unitType": "Melee Water",
 		"movement": 4,
