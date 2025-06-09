@@ -1,6 +1,45 @@
 
 [ 
 	{
+		"name": "Communal Council",
+		"cost": 0,
+		"culture": 2,
+		"uniques": ["Unbuildable","[+2 Production] per [3] social policies adopted"]
+	},
+	{
+		"name": "Arepa Hacienda",
+		"uniqueTo": "Venezuela",
+		"replaces": "Granary",
+		"food": 2,
+		"culture": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+2 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Apple Tree Plot",
+		"uniqueTo": "Vermont",
+		"replaces": "Granary",
+		"food": 2,
+		"gold": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Propaganda Village",
+		"uniqueTo": "North Korea",
+		"culture": 3,
+		"happiness": 3,
+		"maintenance": 2,
+		"requiredTech": "Telecommunications"
+	},
+	{
 		"name": "Bayith",
 		"uniqueTo": "Canaan",
 		"replaces": "Shrine",
