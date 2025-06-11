@@ -1,6 +1,41 @@
 
 [ 
 	{
+		"name": "Secretariat",
+		"uniqueTo": "Yuan",
+		"replaces": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Yam Station",
+		"uniqueTo": "The Golden Horde",
+		"replaces": "Market",
+		"gold": 2,
+		"production": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"uniques":["Provides [1] [Horses]"],
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Ruznamce",
+		"uniqueTo": "The Ilkhanate",
+		"replaces": "Courthouse",
+		"maintenance": 4,
+		"gold": 1,
+		"food": 1,
+		"production": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
 		"name": "Communal Council",
 		"cost": 0,
 		"culture": 2,

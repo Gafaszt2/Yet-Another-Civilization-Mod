@@ -1,5 +1,105 @@
 [
 	{
+		"name": "Yuan",
+		"leaderName": "Kublai Khan",
+		"adjective": ["Yuan"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [143, 202, 247],
+		"innerColor": [10, 35, 54],
+		"uniqueName": "Mandate Lost",
+		"uniques": ["[+5]% Strength <for [Mounted] units>","Allied City-States provide [Production] equal to [+3]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves","Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves"],
+		"cities": ["Khanbaliq","Shangdu","Ganzhou","Wuchang","Kaifeng","Nanchang","Hangzhou","Liaoyang","Karakorum","Xian"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Golden Horde",
+		"leaderName": "Öz Beg Khan",
+		"adjective": ["The Golden Horde"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [247, 226, 64],
+		"innerColor": [46, 8, 7],
+		"uniqueName": "The Tatar Yoke",
+		"uniques": ["[+5]% Strength <for [Mounted] units>","Allied City-States provide [Production] equal to [+3]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves","Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves"],
+		"cities": ["Sarai Berke","Sarai Batu","Saraichik","Xacitarxan","Bolghar","Sighnaq","Mukhsha","Urgench","Kazan","Ukek"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Ilkhanate",
+		"leaderName": "Mahmud Ghazan",
+		"adjective": ["The Ilkhanate"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 207, 130],
+		"innerColor": [94, 23, 21],
+		"uniqueName": "The Siege of Baghdad",
+		"uniques": ["[+5 Gold] [in cities being razed]","[+4 Culture] [in cities being razed]","[+15]% Strength <when fighting in [Razing] tiles>"],
+		"cities": ["Maragha","Tabriz","Shiraz","Isfahan","Herat","Baghdad","Hamadan","Mosul","Tbilisi","Yerevan"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Chagatai",
+		"leaderName": "Tughluq Tömür",
+		"adjective": ["Chagatai"],
+		"startBias":["Desert","Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [31, 21, 15],
+		"innerColor": [255, 179, 133],
+		"uniqueName": "Sanctuary of the Wild Apple Tree",
+		"uniques": ["[+1] Movement <for [Mounted] units> <upon founding a Religion>", "[+3 Faith] from every [Citadel]", "[+3 Faith] from every [Holy site]"],
+		"cities": ["Almaliq","Qarshi","Beshbaliq","Kashgar","Samarqand","Bukhara","Tulufan","Toshkent","Kābol","Gosthana"],
+        "spyNames": ["Saki"]
+    },
+	{
 		"name": "North Korea",
 		"leaderName": "Kim Il-Sung",
 		"adjective": ["North Korea"],
