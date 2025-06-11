@@ -5,8 +5,9 @@
 		"uniqueTo": "Yuan",
 		"replaces": "Courthouse",
 		"maintenance": 4,
+		"science":1,
 		"hurryCostModifier": 50,
-		"uniques": ["Removes extra unhappiness from annexed cities",
+		"uniques": ["[+15]% Production when constructing [Melee] units [in this city]","Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
 	},

@@ -20,7 +20,7 @@
 		"outerColor": [143, 202, 247],
 		"innerColor": [10, 35, 54],
 		"uniqueName": "Mandate Lost",
-		"uniques": ["[+5]% Strength <for [Mounted] units>","Allied City-States provide [Production] equal to [+3]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves","Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves"],
+		"uniques": ["[+2 Science] per [3] population [in all cities]","Enables conversion of city production to [Science]","Production to [Science] conversion in cities changed by [+20]%"],
 		"cities": ["Khanbaliq","Shangdu","Ganzhou","Wuchang","Kaifeng","Nanchang","Hangzhou","Liaoyang","Karakorum","Xian"],
         "spyNames": ["Saki"]
     },
@@ -70,7 +70,7 @@
 		"outerColor": [255, 207, 130],
 		"innerColor": [94, 23, 21],
 		"uniqueName": "The Siege of Baghdad",
-		"uniques": ["[+5 Gold] [in cities being razed]","[+4 Culture] [in cities being razed]","[+15]% Strength <when fighting in [Razing] tiles>"],
+		"uniques": ["No damage penalty for wounded units <during a Golden Age>","[+1] Movement <for [Archery] units> <before the [Industrial era]>","[+1] Movement <for [Mounted] units> <before the [Industrial era]>","[+100]% Health from pillaging tiles"],
 		"cities": ["Maragha","Tabriz","Shiraz","Isfahan","Herat","Baghdad","Hamadan","Mosul","Tbilisi","Yerevan"],
         "spyNames": ["Saki"]
     },

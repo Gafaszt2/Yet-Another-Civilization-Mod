@@ -35,14 +35,14 @@
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 21,
+		"strength": 23,
 		"cost": 110,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"promotions":["Great Generals II"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Can undertake a trade mission with City-State, giving a large sum of gold and [25] Influence","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
