@@ -65,13 +65,13 @@
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 20,
-		"cost": 120,
+		"strength": 22,
+		"cost": 110,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["[+2]% Strength <upon defeating a [Mounted] unit>","Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"uniques": ["[+15]% Strength <during a Golden Age>","Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
