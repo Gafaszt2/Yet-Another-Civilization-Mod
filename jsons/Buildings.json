@@ -1,6 +1,18 @@
 
 [ 
 	{
+		"name": "Kiva",
+		"uniqueTo": "The Hisat'sinom",
+		"replaces": "Temple",
+		"faith": 2,
+		"culture": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Culture] per [4] population [in this city]","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Secretariat",
 		"uniqueTo": "Yuan",
 		"replaces": "Courthouse",

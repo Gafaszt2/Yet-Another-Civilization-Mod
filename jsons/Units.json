@@ -4467,19 +4467,6 @@
 		"attackSound": "arrow"
 	},
         {
-		"name": "Pueblo Pathfinder",
-                "replaces": "Scout",
-		"uniqueTo": "The Hisat'sinom",
-		"unitType": "Scout",
-		"movement": 3,
-		"strength": 6,
-		"cost": 32,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["[+10]% Strength <when fighting in [Friendly Land] tiles>","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
-		"attackSound": "nonmetalhit"
-	},
-        {
 		"name": "Pathfinder",
         "replaces": "Scout",
 		"uniqueTo": "Shoshone",
