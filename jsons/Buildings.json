@@ -1,6 +1,79 @@
 
 [ 
 	{
+		"name": "Wooden Stockade",
+		"uniqueTo": "The Nyamwezi",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+1 Food] from [Jungle] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Kástro",
+		"uniqueTo": "Cyprus",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"faith": 1,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Can be purchased with [Faith] [in all cities]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Borda",
+		"uniqueTo": "Andorra",
+		"replaces": "Granary",
+		"food": 2,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Bangsatap",
+		"uniqueTo": "Tamna",
+		"replaces": "Shrine",
+		"cityHealth": 2,
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["All newly-trained [Water] units [in all cities] receive the [Additional Movement] promotion"]
+	},
+	{
+		"name": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Agora",
+		"uniqueTo": "The Seleucids",
+		"replaces": "Market",
+		"gold": 3,
+		"happiness": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Mead Hall",
+		"uniqueTo": "The Franks",
+		"replaces": "Circus",
+		"requiredNearbyImprovedResources": ["Ivory","Horses"],
+		"happiness": 3,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping"
+	},
+	{
 		"name": "Kiva",
 		"uniqueTo": "The Hisat'sinom",
 		"replaces": "Temple",
@@ -1539,16 +1612,6 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
-	},
-{
-		"name": "Aachen Cathedral",
-                "uniqueTo": "The Franks",
-		"faith": 3,
-                "culture": 3,
-		"happiness": 5,
-		"isWonder": true,
-		"requiredTech": "Physics",
-		"quote": "'There is no answer. It's okay. But even if it wasn't okay, what am I supposed to do?' - Raymond Carver"
 	},
 {
 		"name": "Central Courtyard",

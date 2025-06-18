@@ -10,6 +10,14 @@
 "uniques": ["[+1] Movement"]
 },
 {
+"name": "Coastal Movement",
+"uniques": ["Double movement in [Fresh Water]"]
+},
+{
+"name": "Altitude Training",
+"uniques": ["Double movement in [Hill]","Can pass through impassable tiles"]
+},
+{
 "name": "Capture I",
 "uniques": ["May capture killed [Wounded] units <with [30]% chance>"]
 },

@@ -18,6 +18,15 @@
 		"uniques":["[+2 Gold] <after discovering [Economics]>","[+1 Food, +2 Culture] <after discovering [Ecology]>"]
     },
 	{
+		"name": "Dol Hareubang",
+		"uniqueTo": "Tamna",
+		"terrainsCanBeBuiltOn": ["Land","Hill"],
+        "techRequired": "Masonry",
+		"food":1,
+		"faith":1,
+		"uniques":["Must be next to [Coast]"]
+    },
+	{
 		"name": "Rai Stone",
 		"uniqueTo": "Yap",
 		"terrainsCanBeBuiltOn": ["Land"],

@@ -1,5 +1,182 @@
 [
 	{
+		"name": "Cyprus",
+		"leaderName": "Guy of Lusignan",
+		"adjective": ["Cyprus"],
+		"startBias":["Plains"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 102, 0],
+		"uniqueName": "Lusignan Crusaders",
+		"uniques": ["All newly-trained [Water] units [in all cities] receive the [Coastal Raider I] promotion <during the [Medieval era]>",
+					"All newly-trained [Water] units [in all cities] receive the [Coastal Raider I] promotion <during the [Renaissance era]>",
+				    "[+15]% [Gold] [in annexed cities]"],
+		"cities": ["Nicosia", "Limassol", "Kolossi", "Paphos", "Larnaca", "Famagusta", "Gastria", "Kantara", "Buffavento", "Bellapais", "Kyrenia", "St. Hilarion"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Andorra",
+		"leaderName": "Roger-Bernard III",
+		"adjective": ["Andorra"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 225, 117],
+		"innerColor": [204, 0, 0],
+		"uniqueName": "The Paréage",
+		"uniques": ["Starts with [Tradition] adopted","[-10]% Culture cost of adopting new Policies","[+1 Culture] from [Great Improvement] tiles [in all cities]"],
+		"cities": ["Andorra La Vella", "Escaldes", "Engordany", "Encamp", "Julia de Loria", "La Massana", "Santa Coloma", "Ordino", "El Pas de la Casa", "Canillo", "Arsinal"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Malta",
+		"leaderName": "Jean Parisot",
+		"adjective": ["Malta"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 23, 23],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Virtute et Constantia",
+		"uniques": ["May buy [Harbor] buildings with [Faith] [in all cities]","May buy [Barracks] buildings with [Faith] [in all cities]","[+2 Culture] from all [Barracks] buildings"],
+		"cities": ["Valletta", "Qormi", "Żabbar", "Żebbuġ", "Żejtun", "Siġġiewi", "Rabat", "Bormla", "Senglea", "Birgu", "Mdina", "Sliema", "Paolo", "Mosta"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Tamna",
+		"leaderName": "Go Dam",
+		"adjective": ["Tamna"],
+		"startBias":["Coast","Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [202, 205, 219],
+		"innerColor": [16, 17, 18],
+		"uniqueName": "Three Abundances, Three Lacks, and Three Beauties",
+		"uniques": ["[+25]% Strength <for [All] units> <upon declaring friendship> <for [10] turns>","[+1 Gold] from each Trade Route","Gifts of Gold to City-States generate [+30]% more Influence"],
+		"cities": ["Mugeunseong", "Jejuseong", "Seongjucheong", "Sanjihang", "Samyang-dong", "Jongdal-ri", "Yongdam-dong", "Seogwipo"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Seleucids",
+		"leaderName": "Seleucus I Nicator",
+		"adjective": ["The Seleucids"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [16, 25, 69],
+		"innerColor": [212, 219, 255],
+		"uniqueName": "Wars of the Diadochi",
+		"uniques": ["Comment [[+2] Happiness from all military buildings]","[+2 Happiness] from every [Barracks] <hidden from users>","[+2 Happiness] from every [Stable] <hidden from users>","[+2 Happiness] from every [Forge] <hidden from users>","[+2 Happiness] from every [Armory] <hidden from users>","[+2 Happiness] from every [Arsenal] <hidden from users>","[+2 Happiness] from every [Military Academy] <hidden from users>"],
+		"cities": ["Seleukia", "Damaskos", "Edessa", "Arabela", "Susa", "Ekbatana", "Kakathiokerta", "Charax", "Mazaka", "Ipsos", "Sardis", "Gabai", "Persepolis", "Karmana", "Prophthasia"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Vandals",
+		"leaderName": "Gaiseric",
+		"adjective": ["The Vandals"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [26, 15, 9],
+		"innerColor": [255, 95, 13],
+		"uniqueName": "Mediterranean Pirates",
+		"uniques": ["All newly-trained [Water] units [in all cities] receive the [Capture I] promotion","All newly-trained [Water] units [in all cities] receive the [Capture II] promotion","All newly-trained [Land] units [in all cities] receive the [Coastal Movement] promotion"],
+		"cities": ["Hippo Regius", "Leptus Magna", "Cartenna", "Bulla Regia", "Lilybaeum", "Catane", "Cirta", "Caralis", "Aleria", "Nantes", "Strasbourg"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Mitanni",
+		"leaderName": "Shaushtatar",
+		"adjective": ["Mitanni"],
+		"startBias":["River"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [232, 229, 220],
+		"innerColor": [23, 23, 22],
+		"uniqueName": "Indo-Aryan Superstrate",
+		"uniques": ["No movement cost to pillage <for [All] units>","[-100]% maintenance costs <for [Sword] units>","[-100]% maintenance costs <for [Archery] units>"],
+		"cities": ["Waššukanni", "Nawar", "Urkesh", "Taite", "Harran", "Irridu", "Carchemish", "Urshu", "Arrapha", "Tikunani", "Hassum", "Kummeni", "Kumme", "Kahat"],
+        "spyNames": ["Saki"]
+    },
+	{
 		"name": "Yuan",
 		"leaderName": "Kublai Khan",
 		"adjective": ["Yuan"],
@@ -3550,7 +3727,7 @@
 		"innerColor": [250, 250, 107],
         "favoredReligion": "Christianity",
 		"uniqueName": "Cultuurstelsel",
-		"uniques": ["[+1 Production] per every [4] [Gold]"],
+		"uniques": ["[+2 Gold] from every specialist [in coastal cities]","[+1 Gold] from every [Trading Post]","[+2 Gold] from every [Luxury resource] <during a Golden Age>"],
 		"cities": ["Surat","Madras","Banten","West Java","Jayakarta","Jepara","Aceh","Pariaman","Jambi","Ambon","Banda Neira","Bengkulu","Cirebon","Makassar","Malacca","Patani","Ternate"]
 	},
 	{
@@ -3981,8 +4158,8 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
-		"outerColor": [211, 255, 191],
-		"innerColor": [89, 69, 53],
+		"outerColor": [179, 255, 213],
+		"innerColor": [17, 28, 22],
 		"uniqueName": "Queen of Sheba",
 		"uniques": ["[+1 Gold] per [3] population [in all cities]","[+1 Gold, +1 Faith] from [Luxury resource] tiles [in all cities]"],
 		"cities": ["Marib", "Sana'a", "Sirwah", "Nashan", "Baynun", "Najran", "Samhar", "Haram", "Baraqish", "Nashaq", "Mocha", "Kaminahu", "Shabwa", "Yathill", "Qarnawu", "Timna", "Kohr Rori", "Ragmat"],
@@ -6572,9 +6749,9 @@
 			"Omaheke", "Khomas"]
 	},
       {
-		"name": "Tanzania Nyamwezi",
-		"leaderName": "Isike",
-		"adjective": ["Nyamwezi"],
+		"name": "The Nyamwezi",
+		"leaderName": "Unyanyembe",
+		"adjective": ["The Nyamwezi"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
@@ -6590,10 +6767,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [165, 124, 53],
-		"innerColor": [71, 45, 6],
-		"uniqueName": "Slavery and Ivory Market",
-		"uniques": ["[+1 Culture] [in all cities]", "[+3 Gold] from every [Ivory]", "[+3 Gold] from every [Gold Ore]", "[+3 Gold] from every [Gems]"],
+		"outerColor": [20, 17, 15],
+		"innerColor": [255, 189, 66],
+		"uniqueName": "People of the Moon",
+		"uniques": ["Starts with [Archery]","[+15]% Production when constructing [Food] buildings [in all cities]","[+15]% Production when constructing [Gold] buildings [in all cities]"],
 		"cities": ["Unyamwezi", "Shinyunga" ,"Tabora", "Dar es Salaam", "Arusha", "Lindi", "Pwani", "Tabora", "Dodoma",
 			"Manyara",
 			"Tanga", "Mara"]
@@ -7495,8 +7672,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [56, 51, 51],
-		"innerColor": [189, 119, 119],
+		"outerColor": [145, 137, 176],
+		"innerColor": [23, 22, 23],
 		"uniqueName": "Apsaacooke",
 		"uniques": ["[+1 Food] from every [Camp]","All newly-trained [Scout] units [in all cities] receive the [Woodsman] promotion","All newly-trained [Sword] units [in all cities] receive the [Woodsman] promotion"],
 		"cities": ["Apsaaloke","Biliike",
