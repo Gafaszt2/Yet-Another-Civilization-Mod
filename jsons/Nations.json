@@ -6722,9 +6722,9 @@
 			"Kayunga", "Kyankwanzi", "Luwero"],
 	},
       {
-		"name": "Namibia Basters",
+		"name": "The Basters",
 		"leaderName": "Hans Diergaardt",
-		"adjective": ["Baster"],
+		"adjective": ["The Basters"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
@@ -6740,11 +6740,11 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [115, 22, 7],
-		"innerColor": [250, 207, 200],
+		"outerColor": [133, 85, 77],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "Apartheid Outcasts",
-		"uniques": ["[+1 Production] [in all cities]", "[+2 Food] from every [Mountain]", "[+35]% Strength <when fighting in [Hill] tiles>"],
-		"cities": ["Rehoboth ", "Kunene" ,"Omusati", "Oshana", "Ohangwena", "Oshikoto", "Kavango", "Zambezi", "Eongo",
+		"uniques": ["[+1 Happiness] from [Pasture] tiles [in all cities]","Can build [Farm] improvements at a [+25]% rate","Can build [Pasture] improvements at a [+30]% rate"],
+		"cities": ["Rehoboth", "Kunene" ,"Omusati", "Oshana", "Ohangwena", "Oshikoto", "Kavango", "Zambezi", "Eongo",
 			"Otjozondjupa",
 			"Omaheke", "Khomas"]
 	},

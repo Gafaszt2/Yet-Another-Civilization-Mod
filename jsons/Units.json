@@ -4217,20 +4217,22 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
-        {
-		"name": "Great Builder",
+	{
+		"name": "Verstotene",
+		"replaces": "Settler",
+		"uniqueTo": "The Basters",
 		"unitType": "Civilian",
-            "replaces": "Great Merchant",
-		"uniqueTo": "Namibia Basters",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
-			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Can speed up construction of a building","Can speed up the construction of a wonder <during the [Industrial era]>","Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
 	},
         {
 		"name": "Baster Maschinenkanone",
 		"unitType": "Ranged Gunpowder",
             "replaces": "Gatling Gun",
-		"uniqueTo": "Namibia Basters",
+		"uniqueTo": "The Basters",
 		"range": 1,
 		"movement": 2,
 		"strength": 35,
