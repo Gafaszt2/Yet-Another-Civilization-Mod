@@ -20,7 +20,7 @@
 		"outerColor": [31, 8, 21],
 		"innerColor": [120, 255, 79],
 		"uniqueName": "The Cloud People",
-		"uniques": ["Gain [10]-[30] [Faith] <upon discovering [All] technology>","[Faith] cost of purchasing [Great Prophet] units [-30]%","[Faith] cost of purchasing [Inquisitor] units [-30]%","[Faith] cost of purchasing [Missionary] units [-30]%"],
+		"uniques": ["Gain [10]-[30] [Faith] <upon discovering [All] technology>","[Faith] cost of purchasing [Great Prophet] units [-30]%","[Faith] cost of purchasing [Inquisitor] units [-30]%","[Faith] cost of purchasing [Copa Pitào] units [-30]%"],
 		"cities": ["Monte Alban", "San Jose Mogote", "Zaachila", "Lambityeco", "Huijazoo", "Mitla", "Oaxaca", "Zimatlan", "Ocotlan", "Yagul", "Tlacolula", "Yanhuitlan", "Laguna Zope"],
         "spyNames": ["Saki"]
     },
