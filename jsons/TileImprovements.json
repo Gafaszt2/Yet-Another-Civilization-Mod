@@ -9,6 +9,13 @@
 		"uniques":["Comment [Must not be adjacent to another [Funetary Towers]]","[-1 Culture, -1 Faith] for each adjacent [Funerary Towers] <hidden from users>","[-2 Culture, -2 Gold] for each adjacent [Funerary Towers] <after discovering [Archaeology]> <hidden from users>","[+2 Culture, +2 Gold] <after discovering [Archaeology]>"]
     },
 	{
+		"name": "Mekewap",
+		"uniqueTo": "Cree",
+		"terrainsCanBeBuiltOn": ["Land","Hill"],
+        "techRequired": "Agriculture",
+		"uniques":["[+1 Gold, +1 Production] for each adjacent [Luxury resource]","[+1 Food] for each adjacent [Bonus resource]"]
+    },
+	{
 		"name": "Mbanza",
 		"uniqueTo": "Kongo",
 		"terrainsCanBeBuiltOn": ["Jungle","Forest"],

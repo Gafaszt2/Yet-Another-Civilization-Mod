@@ -1,5 +1,62 @@
-
 [ 
+	{
+		"name": "Yo Hopèe",
+		"uniqueTo": "The Zapotecs",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+3]% [Science] from every [Bonus resource] <during a Golden Age>","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Bear Dance Corral",
+		"uniqueTo": "The Utes",
+		"replaces": "Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured","[+1 Culture] from [Mountain] tiles [in this city]"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Nihi Paha",
+		"uniqueTo": "The Timucua",
+		"replaces": "Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured","[+1 Faith] from [Marsh] tiles [in this city]","[+1 Faith] from [Bonus resource] tiles [in this city]"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Earth Lodge",
+		"uniqueTo": "Three Affiliated Tribes",
+		"replaces": "Water Mill",
+		"maintenance": 2,
+		"food": 3,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Yehakins",
+		"uniqueTo": "Powhatan",
+		"replaces": "Workshop",
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"uniques":["[+1 Food] from [Forest] tiles [in this city]","[+1 Production] from [Forest] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
 	{
 		"name": "Wooden Stockade",
 		"uniqueTo": "The Nyamwezi",

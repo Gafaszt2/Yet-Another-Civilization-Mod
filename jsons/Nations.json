@@ -1,5 +1,158 @@
 [
 	{
+		"name": "The Zapotecs",
+		"leaderName": "Cosijoeza",
+		"adjective": ["The Zapotecs"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [31, 8, 21],
+		"innerColor": [120, 255, 79],
+		"uniqueName": "The Cloud People",
+		"uniques": ["Gain [10]-[30] [Faith] <upon discovering [All] technology>","[Faith] cost of purchasing [Great Prophet] units [-30]%","[Faith] cost of purchasing [Inquisitor] units [-30]%","[Faith] cost of purchasing [Missionary] units [-30]%"],
+		"cities": ["Monte Alban", "San Jose Mogote", "Zaachila", "Lambityeco", "Huijazoo", "Mitla", "Oaxaca", "Zimatlan", "Ocotlan", "Yagul", "Tlacolula", "Yanhuitlan", "Laguna Zope"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Utes",
+		"leaderName": "Walkara",
+		"adjective": ["The Utes"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 204, 204],
+		"innerColor": [97, 15, 63],
+		"uniqueName": "The Shores of Lake Utah",
+		"uniques": ["All newly-trained [Melee] units [in all cities] receive the [[The Utes] Ability] promotion","[+1 Culture] from [Lakes] tiles [in all cities]","[+1 Culture, +1 Gold] from [Mountain] tiles [in all cities]"],
+		"cities": ["Timpanogos", "Yapudttka", "Pahdteechnooch", "Taviwach", "Cumumba", "Sahpeech", "Pahvant", "Yoowetum", "Sheberetch", "Moanunts", "Capote"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Timucua",
+		"leaderName": "Saturiwa",
+		"adjective": ["The Timucua"],
+		"startBias":["Fresh Water","Marsh"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [41, 29, 28],
+		"innerColor": [237, 101, 66],
+		"uniqueName": "Black Drink Ceremony",
+		"uniques": ["Provides [1] [Yaupon Tea] <upon founding a city> <while the empire is happy>","[+1 Culture] from [Fresh Water] tiles [in all cities]","[+1 Culture] from [Marsh] tiles [in all cities]"],
+		"cities": ["Ossachite", "Omoloa", "Tacatacuru", "Antonico", "Tucuru", "Ocale", "Mocoso", "Ayacuto", "Cotocochuni", "Potano", "Mocama", "Utina"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Three Affiliated Tribes",
+		"leaderName": "Mato-tope",
+		"adjective": ["Three Affiliated Tribes"],
+		"startBias":["River"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [20, 17, 17],
+		"innerColor": [154, 209, 82],
+		"uniqueName": "People Above Bundle",
+		"uniques": ["[Gold] cost of purchasing [Food] buildings [-50]%","[+2 Gold] from each Trade Route"],
+		"cities": ["Like-a-Fishhook", "Seepoosha", "Sukhutit", "Okos", "Nishu", "Sanish", "New Town", "Van Hook", "Independence", "Hosukhaunu", "Midipadi Butte"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Powhatan",
+		"leaderName": "Wahunsenacawh",
+		"adjective": ["Powhatan"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [188, 46, 240],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Tsenacommacah",
+		"uniques": ["Allied City-States provide [Gold] equal to [+50]% of what they produce for themselves",
+"Comment [[+2] Food from all military buildings]","[+2 Food] from every [Barracks] <hidden from users>","[+2 Food] from every [Stable] <hidden from users>","[+2 Food] from every [Forge] <hidden from users>","[+2 Food] from every [Armory] <hidden from users>","[+2 Food] from every [Arsenal] <hidden from users>","[+2 Food] from every [Military Academy] <hidden from users>"],
+		"cities": ["Werowocomoco", "Orapakes", "Matchut", "Warrasqueoc", "Nepawtacum", "Pamunkey", "Aubornesk", "Chesapeak", "Mohiminge", "Sockobeck", "Gangasco"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Cree",
+		"leaderName": "Poundmaker",
+		"adjective": ["Cree"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [22, 28, 61],
+		"innerColor": [185, 255, 115],
+		"uniqueName": "Wahkohtowin",
+		"uniques": ["New [Okichitaw] units start with [20] XP [in capital] <hidden from users>","[+1 Production] from every [Camp]","[+2 Gold] from every [Pasture]",
+		"[+1 Production] from every [Camp] <after discovering [Gunpowder]>",
+	    "[+1 Production] from every [Pasture] <after discovering [Gunpowder]>"],
+		"cities": ["Mikisiw-Wacîhk", "Ahtahkakoop", "Pihtokahanapiwiyin", "Mistahi-Sipihk", "Mistawasis", "Wihkasko-Kiseyin", "Makwa-Sakahikan", "Maskotew", "Paskwaw-Askihk"],
+        "spyNames": ["Saki"]
+    },
+	{
 		"name": "Cyprus",
 		"leaderName": "Guy of Lusignan",
 		"adjective": ["Cyprus"],

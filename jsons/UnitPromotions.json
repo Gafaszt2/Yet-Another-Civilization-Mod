@@ -10,6 +10,10 @@
 "uniques": ["[+1] Movement"]
 },
 {
+"name": "[The Utes] Ability",
+"uniques": ["No defensive terrain penalty"]
+},
+{
 "name": "Coastal Movement",
 "uniques": ["Double movement in [Fresh Water]"]
 },
