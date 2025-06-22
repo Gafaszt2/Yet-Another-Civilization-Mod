@@ -1,5 +1,56 @@
 [ 
 	{
+		"name": "Pütchipü'ü",
+		"uniqueTo": "The Wayuu",
+		"replaces": "Courthouse",
+		"maintenance": 3,
+		"happiness":2,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Ayamtai",
+		"uniqueTo": "The Shuar",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Faith] per [3] population [in this city]","New [Military] units start with [15] XP [in this city] <during We Love The King Day>","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Giant's Church",
+		"uniqueTo": "The Finns",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"uniques": ["[+1 Faith] from [Stone] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Soma Boiler",
+		"uniqueTo": "Oxus",
+		"replaces": "Water Mill",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Faith, +1 Science] from [Incense] tiles [in this city]","Provides [1] [Soma]","Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
+	{
 		"name": "Teso",
 		"uniqueTo": "Marajoara",
 		"replaces": "Temple",

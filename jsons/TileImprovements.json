@@ -9,6 +9,15 @@
 		"uniques":["Comment [Must not be adjacent to another [Funetary Towers]]","[-1 Culture, -1 Faith] for each adjacent [Funerary Towers] <hidden from users>","[-2 Culture, -2 Gold] for each adjacent [Funerary Towers] <after discovering [Archaeology]> <hidden from users>","[+2 Culture, +2 Gold] <after discovering [Archaeology]>"]
     },
 	{
+		"name": "Rum Distillery",
+		"uniqueTo": "The Buccaneers",
+		"terrainsCanBeBuiltOn": ["Land","Hill"],
+        "techRequired": "Machinery",
+		"food":1,
+		"gold":1,
+		"uniques":["[+2 Gold] from [Sugar] tiles","Provides [1] [Rum]","[+1 Gold] <after discovering [Economics]>"]
+    },
+	{
 		"name": "Mekewap",
 		"uniqueTo": "Cree",
 		"terrainsCanBeBuiltOn": ["Land","Hill"],

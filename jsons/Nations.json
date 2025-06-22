@@ -1,5 +1,163 @@
 [
 	{
+		"name": "Germania",
+		"leaderName": "Arminius",
+		"adjective": ["Germania"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [40, 46, 61],
+		"innerColor": [242, 246, 255],
+		"uniqueName": "Battle of the Teutoburg Forest",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Lupfurdum", "Tulifurdum", "Uburzis", "Casurgis", "Rhougion", "Teotoburgum", "Tulisurgium", "Budorgis", "Ascaucalis", "Carrodunum", "Gothiscandza", "Phabiranum", "Hafnia", "Coridorgis", "Valhagarum",
+		"Mattium", "Calancorum", "Mattiacum", "Locoritum", "Bergium", "Melocabus", "Galaegia", "Susudata", "Leuphana", "Pheugarum", "Treva", "Bibacum", "Setuacatum", "Calisia", "Meliodunum"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Wayuu",
+		"leaderName": "Masajure",
+		"adjective": ["The Wayuu"],
+		"startBias":["Desert"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [105, 17, 17],
+		"innerColor": [100, 255, 89],
+		"uniqueName": "People of Resilience",
+		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation","[+50]% Production when constructing [Military] units [in all cities] <upon declaring friendship> <for [10] turns>"],
+		"cities": ["Eirakajaule", "Lumoulein", "Wo'upanalu'u", "Kalimiru´u", "Polujalii", "Patsuarui", "Tuikii", "Uchali´i", "Alainmapu", "Iisho´u", "Aalasu", "Iruwo´u", "Ishajiwo´u", "Atuairuku"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Shuar",
+		"leaderName": "Kirruba",
+		"adjective": ["The Shuar"],
+		"startBias":["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [30, 51, 45],
+		"innerColor": [255, 112, 46],
+		"uniqueName": "Visions of the Arútam Wakaní",
+		"uniques": ["Earn [15]% of killed [Wounded] unit's [Cost] as [Reduced Head]",
+	                "[+1 Faith] [in all cities] <when above [10] [Reduced Head]>",
+				    "[+3 Culture] [in capital] <when above [25] [Reduced Head]>",
+				    "[+2 Culture] [in all cities] <when above [50] [Reduced Head]>",
+				    "[+10]% [Faith] [in all cities] <when above [100] [Reduced Head]>",
+				    "[+10]% [Culture] [in all cities] <when above [135] [Reduced Head]>",
+				    "[+20]% [Happiness] [in all cities] <when above [185] [Reduced Head]>"],
+		"cities": ["Chupiankas", "Kiim", "Chinimpi", "Tundayme", "Nankits", "Chiriapa", "Yaupi", "Tawasap", "Yawints", "Kunkuk", "Warints", "Tinkimints", "Numpatkiam", "Maikiuants"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Buccaneers",
+		"leaderName": "Henry Morgan",
+		"adjective": ["The Buccaneers"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [18, 18, 18],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Letter of Marque",
+		"uniques": ["Earn [75]% of killed [Wounded] unit's [Cost] as [Gold]","[+100]% Health from pillaging tiles","No movement cost to pillage <for [All] units>"],
+		"cities": ["Port Royal","Tortuga","Nassau","Puerto Cabello","Petit-Goave","Leogane","Campeche","La Habana","St. Kitts","Nevis","Florida Keys","San Juan"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Finns",
+		"leaderName": "Kirmukarmu",
+		"adjective": ["The Finns"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [12, 13, 13],
+		"innerColor": [189, 242, 255],
+		"uniqueName": "Crown of Worms",
+		"uniques": ["Earn [60]% of killed [Wounded] unit's [Cost] as [Faith]","Earn [40]% of killed [Military] unit's [Strength] as [Golden Age points]"],
+		"cities": ["Kirmukarmun","Rapolan","Kalliomäki","Rikala","Tiurinlinna","Vanaja","Salmenkylän","Veitakkala","Paasonvuori","Kauttua","Huttalan"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Oxus",
+		"leaderName": "Frâda",
+		"adjective": ["Oxus"],
+		"startBias":["Hill", "River", "Oasis"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 217, 214],
+		"innerColor": [13, 9, 9],
+		"uniqueName": "Black Sands",
+		"uniques": ["[+2 Faith] from each Trade Route","[+1 Food] from [Oasis] tiles [in all cities]","[+1 Culture] from [{unimproved} {Luxury resource}] tiles [in all cities]"],
+		"cities": ["Gonur Depe", "Altyn-Depe", "Namazga", "Djeitun", "Ulug", "Monjukli", "Togolok", "Sarazm", "Dashli", "Bustan", "Sappali", "Gissar", "Pessedzhik", "Chopan", "Yaz"],
+        "spyNames": ["Saki"]
+    },
+	{
 		"name": "Marajoara",
 		"leaderName": "Cunhã Moaçara",
 		"adjective": ["Marajoara"],
@@ -7377,8 +7535,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [43, 43, 43],
-		"innerColor": [93, 93, 232],
+		"outerColor": [8, 8, 8],
+		"innerColor": [48, 107, 255],
 		"uniqueName": "Meli Witran Mapu",
 		"uniques": ["New [Military] units start with [20] XP [in capital]", "[+1] Movement <for [{Military} {Mounted}] units>",
 			"[+1] Sight <for [{Military} {Mounted}] units>"],

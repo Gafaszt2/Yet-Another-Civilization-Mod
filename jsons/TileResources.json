@@ -8,6 +8,14 @@
 		"resourceType": "Luxury"
 	},
 	{
+		"name": "Soma",
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Rum",
+		"resourceType": "Luxury"
+	},
+	{
 		"name": "Muiraquitã",
 		"resourceType": "Luxury"
 	},
@@ -87,5 +95,10 @@
 		"name": "Racism",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Racism]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Reduced Head",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Reduced Head]>","Cannot be traded","Stockpiled"]
 	}
 ]
