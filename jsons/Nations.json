@@ -1,5 +1,107 @@
 [
 	{
+		"name": "Marajoara",
+		"leaderName": "Cunhã Moaçara",
+		"adjective": ["Marajoara"],
+		"startBias":["River"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 105, 82],
+		"innerColor": [20, 16, 16],
+		"uniqueName": "Mouth of the Amazon",
+		"uniques": ["[+1 Science, +1 Production] from every [Flood plains]","[+1 Science, +1 Production] from every [Marsh]"],
+		"cities": ["Camutins", "Bichos", "Pacoval", "Sanharão", "Matinados", "Tapera", "China", "Curuxis", "Severino", "Cajueiros", "Nazaré", "Pacoval de Arari", "Taperebá"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "The Kuikuro",
+		"leaderName": "Ihikutaha",
+		"adjective": ["The Kuikuro"],
+		"startBias":["Jungle","River"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [137, 217, 163],
+		"innerColor": [26, 36, 29],
+		"uniqueName": "Etepe Oti",
+		"uniques": ["Gain control over [{non-[Major]} {Jungle}] tiles in a [4]-tile radius <upon building a [Camp] improvement> <in this city>",
+            "Gain control over [{non-[Major]} {Jungle}] tiles in a [4]-tile radius <upon building a [Plantation] improvement> <in this city>",
+            "Gain control over [{non-[Major]} {Jungle}] tiles in a [4]-tile radius <upon building a [Lumber mill] improvement> <in this city>"],
+		"cities": ["Kuhikugu", "Heulugihïtï", "Nokugu", "Kuhugupe", "Hatsikugi", "Itsagahïtï", "Secú", "Meijeinei", "Agikuangaku", "Séhu", "Intagu", "Morená", "Tuatuari"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Jamaica",
+		"leaderName": "Marcus Garvey",
+		"adjective": ["Jamaica"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [201, 242, 196],
+		"innerColor": [54, 64, 52],
+		"uniqueName": "One Love",
+		"uniques": ["[+2 Culture] from all [Happiness] buildings","[Reggae Musician] is earned [+15]% faster"],
+		"cities": ["Kingston", "Montego Bay", "Spanish Town", "Portmore", "May Pen", "Mandeville", "Old Harbour", "Savanna-la-Mar", "Linstead", "Port Antonio", "Constant Spring"],
+        "spyNames": ["Saki"]
+    },
+	{
+		"name": "Nabatea",
+		"leaderName": "Aretas III",
+		"adjective": ["Nabatea"],
+		"startBias":["Hill"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [199, 31, 2],
+		"innerColor": [26, 16, 14],
+		"uniqueName": "Valley of Moses",
+		"uniques": ["[+15]% [Food] from every [Aqueduct] <in cities connected to the capital>","Instantly provides [1] [Goods] <upon building a [Plantation] improvement>"],
+		"cities": ["Petra", "Bostra", "Hegra", "Eboda", "Leuke", "Mampsis", "Sela", "Elusa", "Jenysos", "Gaza", "Philadelphi", "Sia", "Madaba", "Soada", "Augustopolis", "Avdat", "Punon"],
+        "spyNames": ["Saki"]
+    },
+	{
 		"name": "The Zapotecs",
 		"leaderName": "Cosijoeza",
 		"adjective": ["The Zapotecs"],

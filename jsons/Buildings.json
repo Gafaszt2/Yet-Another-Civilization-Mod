@@ -1,5 +1,53 @@
 [ 
 	{
+		"name": "Teso",
+		"uniqueTo": "Marajoara",
+		"replaces": "Temple",
+		"faith": 2,
+		"cityHealth":5,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[2]% Food is carried over after population increases [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Gepugu",
+		"uniqueTo": "The Kuikuro",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"food": 2,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Provides [1] [Muiraquitã]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "UNIA-ACL",
+		"uniqueTo": "Jamaica",
+		"replaces": "Factory",
+		"cost": 360,
+		"production": 4,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques":["[+25]% Production when constructing [Work Boats] units [in this city]","[+5]% Great Person generation [in this city]"],
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Rock-cut Tomb",
+		"uniqueTo": "Nabatea",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Gold] from [Luxury resource] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Yo Hopèe",
 		"uniqueTo": "The Zapotecs",
 		"replaces": "Temple",
