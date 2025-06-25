@@ -1,5 +1,22 @@
 [ 
 	{
+        "name": "Mukhabarat",
+		"uniqueTo": "Syria",
+		"replaces": "National Intelligence Agency",
+        "cost": 120,
+        "culture": 5,
+		"happiness": 10,
+        "isNationalWonder": true,
+        "uniques": ["Only available <when espionage is enabled>",
+            "New spies start with [1] level(s)",
+            "Promotes all spies [1] time(s)",
+            "Gain an extra spy",
+			"[-15]% enemy spy effectiveness [in this city]",
+			"Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city"],
+        "requiredTech": "Radio"
+    },
+	{
 		"name": "Pütchipü'ü",
 		"uniqueTo": "The Wayuu",
 		"replaces": "Courthouse",

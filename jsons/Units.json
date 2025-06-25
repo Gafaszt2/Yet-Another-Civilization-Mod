@@ -1,5 +1,22 @@
 [
 	{
+		"name": "Ba'ath Brigade",
+		"uniqueTo": "Syria",
+		"replaces": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 33,
+		"rangedStrength": 33,
+		"cost": 225,
+		"uniques":["[+1] Range"],
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"promotions":["Ambush II"],
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Princeps",
 		"uniqueTo": "Germania",
 		"replaces": "Great General",

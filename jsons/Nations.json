@@ -1,5 +1,31 @@
 [
 	{
+		"name": "Syria",
+		"leaderName": "Bashar al-Assad",
+		"adjective": ["Syria"],
+		"startBias":["Plains","Forest","Desert"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 255, 255],
+		"innerColor": [13, 43, 15],
+		"uniqueName": "God, Syria, and Bashar",
+		"uniques": ["No movement cost to pillage <for [Gunpowder] units>","No movement cost to pillage <for [Helicopter] units>","No movement cost to pillage <for [Armored] units>","[+10]% [Production] [in all cities] <upon declaring friendship> <for [5] turns>","[+25]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>"],
+		"cities": ["Damascus", "Aleppo", "Homs", "Latakia", "Hama", "Raqqa", "Deir ez-Zor", "Al-Hasakah", "Qamishli", "Sayyidah Zaynab", "Tartus",
+		"Douma", "Manbij", "Idlib", "Daraa", "Al-Hajar al-Aswad", "Darayya", "As-Suwayda", "Al-Thawrah", "Salamiyah", "Al-Safira", "Al-Bab", "Maarat al-Numaan"],
+        "spyNames": ["Saki"]
+    },
+	{
 		"name": "Germania",
 		"leaderName": "Arminius",
 		"adjective": ["Germania"],
