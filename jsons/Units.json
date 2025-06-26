@@ -1,5 +1,34 @@
 [
 	{
+		"name": "Sacred Band",
+		"uniqueTo": "Thebes",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"promotions":["Great Generals II"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Tluu",
+		"uniqueTo": "Haida",
+		"replaces": "Privateer",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 28,
+		"cost": 150,
+		"uniques":["May capture killed [Wounded] units"],
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I","[Privateer] ability"],
+		"attackSound": "cannon"
+	},
+	{
 		"name": "Ba'ath Brigade",
 		"uniqueTo": "Syria",
 		"replaces": "Gatling Gun",
@@ -3895,7 +3924,7 @@
 		"attackSound": "shot"
 	},
 {
-		"name": "Vulture",
+		"name": "Numamušen",
                 "uniqueTo": "Sumeria",
 		"replaces": "Spearman",
 		"unitType": "Sword",
@@ -4672,7 +4701,7 @@
 		"name": "Fisherman",
 		"unitType": "Civilian",
                 "replaces": "Worker",
-		"uniqueTo": "Norte Chico",
+		"uniqueTo": "Caral–Supe",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "May create improvements on water resources"],
 		"cost": 70
@@ -4766,21 +4795,6 @@
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles","Can be purchased for [70] [Gold] [in all cities]", "Automation is a primary action", "Excess Food converted to Production when under construction"],
 		"cost": 90
-	},
-        {
-		"name": "Sto mex",
-                "replaces": "Swordsman",
-		"uniqueTo": "Haida",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 14,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-                "uniques": ["Double movement in [Forest]", "Double movement in [Jungle]"],
-		"obsoleteTech": "Steel",
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
 	},
         {
 		"name": "Voluntario da Patria",

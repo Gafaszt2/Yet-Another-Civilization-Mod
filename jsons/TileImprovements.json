@@ -462,14 +462,14 @@
 		"uniques": ["Pillaging this improvement yields approximately [+18 Gold]"],
 	},
         {
-		"name": "Rest Stop"
-            "uniqueTo": "Australia",
-		"terrainsCanBeBuiltOn": ["Desert"],
-		"production": 2,
-                "food": 1,
+		"name": "Outback Station",
+        "uniqueTo": "Australia",
+		"terrainsCanBeBuiltOn": ["Desert","Plains"],
+		"production": 1,
+        "food": 1,
 		"turnsToBuild": 5,
-                "techRequired": "Rifling",
-		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%"],
+        "techRequired": "Economics",
+		"uniques": ["Can be built outside your borders","[+1 Food] for each adjacent [Pasture]"]
 	},
         {
 		"name": "Tipi",
@@ -481,8 +481,8 @@
 		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [20]%"],
 	},
         {
-		"name": "Crow Tipi"
-            "uniqueTo": "Crow",
+		"name": "Crow Tipi",
+        "uniqueTo": "Crow",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
 		"culture": 2,
 		"turnsToBuild": 3,

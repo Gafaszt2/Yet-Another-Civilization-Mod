@@ -1,5 +1,30 @@
 [
 	{
+		"name": "Thebes",
+		"leaderName": "Epaminondas",
+		"adjective": ["Thebes"],
+		"startBias":["None"],
+		"preferredVictoryType": "Domination",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [42, 37, 64],
+		"innerColor": [255, 168, 54],
+		"uniqueName": "Boeotian League",
+		"uniques": ["Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves","Allied City-States provide [Production] equal to [+20]% of what they produce for themselves <when at war>"],
+		"cities": ["Thebes", "Plataea", "Scolus", "Erythrae", "Scaphae", "Larissa", "Orchomenus", "Messenia", "Hysiae", "Tanagra", "Haliartus", "Lebadea", "Coronea", "Acraephia", "Copae", "Chaeronea", "Thespiae"],
+        "spyNames": ["Saki"]
+    },
+	{
 		"name": "Syria",
 		"leaderName": "Bashar al-Assad",
 		"adjective": ["Syria"],
@@ -7515,9 +7540,9 @@
 	},
         {
 		//nations
-		"name": "Norte Chico",
+		"name": "Caral–Supe",
 		"leaderName": "Qhapaq",
-		"adjective": ["Nortechiquense"],
+		"adjective": ["Caral–Supe"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
@@ -7724,7 +7749,7 @@
 	},
         {
 		"name": "Australia",
-		"leaderName": "Charles Hotham",
+		"leaderName": "John Curtin",
 		"adjective": ["Australian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
@@ -7741,10 +7766,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [39, 47, 48],
-		"innerColor": [141, 212, 224],
+		"outerColor": [11, 13, 71],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "Land Down Under",
-		"uniques": ["[+1 Food] from every [Desert]", "[+1 Production] from every [Mine]", "[+2 Culture] from every [Natural Wonder]"],
+		"uniques": ["All newly-trained [Great War Infantry] units [in all cities] receive the [Digger] promotion","[+20]% [Food] [in coastal cities]","[+2 Gold] [in coastal cities]","[+25]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>"],
 		"cities": ["Canberra","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
 			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
 			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",

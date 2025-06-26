@@ -1,5 +1,16 @@
 [ 
 	{
+		"name": "Cadmea",
+		"uniqueTo": "Thebes",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"gold":2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
         "name": "Mukhabarat",
 		"uniqueTo": "Syria",
 		"replaces": "National Intelligence Agency",
@@ -2145,7 +2156,7 @@
 	},
         {
 		"name": "Shicra Pyramid",
-                "uniqueTo": "Norte Chico",
+                "uniqueTo": "Caral–Supe",
 		"replaces": "Shrine",
 		"faith": 1,
 		"cost": 40,
@@ -2198,7 +2209,7 @@
 		"requiredTech": "Pottery"
 	},
         {
-		"name": "Great Bath",
+		"name": "Bath",
                 "uniqueTo": "Harappa",
 		"replaces": "Aqueduct",
 		"food": 2,
@@ -2219,7 +2230,7 @@
 		"requiredTech": "Education"
 	},
         {
-		"name": "Totem Pole",
+		"name": "Gyáaʼaang",
                 "uniqueTo": "Haida",
 		"replaces": "Monument",
 		"culture": 1,
