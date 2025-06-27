@@ -1,5 +1,48 @@
 [ 
 	{
+		"name": "Sandstone Oracle",
+		"uniqueTo": "The Kindah",
+		"replaces": "Stone Works",
+		"happiness": 1,
+		"production": 1,
+		"culture": 1,
+		"gold": 1,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"hurryCostModifier": 0,
+		"uniques": ["Must not be on [Plains]",
+			"[+1 Production] from [Stone] tiles [in this city]",
+			"[+1 Production] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Ajagwar",
+		"uniqueTo": "Circassia",
+		"replaces": "Factory",
+		"cost": 360,
+		"production": 4,
+		"culture": 3,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Southern Cultural Hall",
+		"uniqueTo": "Confederate America",
+		"replaces": "Opera House",
+		"culture": 5,
+		"happiness": 2,
+		"specialistSlots": {"Artist": 2},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Comment [+1 Artist slot]","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Cadmea",
 		"uniqueTo": "Thebes",
 		"replaces": "Walls",

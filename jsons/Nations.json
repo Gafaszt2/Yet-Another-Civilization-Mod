@@ -1,5 +1,107 @@
 [
 	{
+	"name": "The Kindah",
+	"leaderName": "Hujr Akil al-Murar",
+	"adjective": ["The Kindah"],
+	"startBias":["Mountain","Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [61, 48, 35],
+	"innerColor": [255, 190, 61],
+	"uniqueName": "Lords of the Desert",
+	"uniques": ["[+15]% Strength <when fighting in [Desert] tiles>","[+2 Gold] from every [Desert]","[-25]% construction time for [Road] improvements"],
+	"cities": ["Qaryat al-Faw","Batn Aqil","Najran","Yamama","Hadramawt","Hajar al-Mushaqqar","Ghamr Dhi Kinda","Qaryat Dhāt Kāhil","Wādī al-Qasīd","Bayt al-Murūwwa","Ramlat al-Kindī","Sūq al-Ash‘ār","Thawrān","Zahrat al-Najd","Al-Majlis al-Akbar"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Circassia",
+	"leaderName": "Imam Shamil",
+	"adjective": ["Circassia"],
+	"startBias":["Mountain","Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [5, 153, 0],
+	"innerColor": [255, 249, 207],
+	"uniqueName": "Russian Expansion Resistance",
+	"uniques": [
+	"Gain [12]-[30] [Culture] <upon entering a Golden Age>","Gain [20]-[35] [Culture] <upon entering a Golden Age> <upon constructing [Culture]>","[+1] Movement <for [Gunpowder] units>","[+1] Movement <for [Worker] units>"],
+	"cities": ["Nalchik","Maikop","Sochi","Cherkessk","Kislovodsk","Nalchik","Vladikavkaz","Tuapse","Belorechensk","Armavir"],
+	"spyNames": ["Saki"]
+    },
+	{
+		"name": "Confederate America",
+		"leaderName": "Jefferson Davis",
+		"adjective": ["Confederate America"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "The people of the Confederate States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+
+        "outerColor": [0, 49, 130],
+        "innerColor": [246, 68, 65],
+
+		"uniqueName": "Deo Vindice",
+		"uniques": ["[+2 Gold] from [Plantation] tiles [in all cities]","All newly-trained [Gunpowder] units [in all cities] receive the [Survivalism I] promotion","All newly-trained [Mounted] units [in all cities] receive the [Survivalism I] promotion"], 
+		"cities": ["Montgomery","Richmond","Danville","New Orleans","Charleston","Atlanta"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+    {
+		"name": "Texas",
+		"leaderName": "Sam Houston",
+		"adjective": ["Texas"],
+        "startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "Hello my friend, im Sam Houston, i welcome you to Texas.",
+		"neutralHello": "Hey.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+
+        "outerColor": [235, 64, 52],
+        "innerColor": [9, 15, 79],
+		
+		"uniqueName": "Lone Star State",
+		"uniques": ["[+2 Culture] from every [Fort]","[+25]% Strength <for [Mounted] units>"], 
+		"cities": ["Austin","Houston","San Antonio","Dallas","Galveston","Corpus Christi","Fort Worth","El Paso","Amarillo","Lubbock"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+	{
 		"name": "Thebes",
 		"leaderName": "Epaminondas",
 		"adjective": ["Thebes"],
