@@ -3628,7 +3628,7 @@
 	},
 {
 		"name": "Jilamana",
-                "uniqueTo": "The Bunuba",
+        "uniqueTo": "The Bunuba",
 		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
