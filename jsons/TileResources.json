@@ -87,6 +87,16 @@
 		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]
 	},
 	{
+		"name": "Caravan",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Desert Nomads",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]
+	},
+	{
 		"name": "Goods",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]

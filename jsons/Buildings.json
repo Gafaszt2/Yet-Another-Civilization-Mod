@@ -1,5 +1,29 @@
 [ 
 	{
+		"name": "Ahaket",
+		"uniqueTo": "The Tuareg",
+		"replaces": "Market",
+		"gold": 2,
+		"culture": 1,
+		"food": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "DSIR",
+		"uniqueTo": "New Zealand",
+		"replaces": "Research Lab",
+		"science": 4,
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Public School",
+		"maintenance": 3,
+		"uniques":["[+1 Science] from [Camp] tiles [in this city]","[+15]% [Food] from every [Farm]","[+15]% [Food] from every [Pasture]"],
+		"requiredTech": "Plastics"
+	},
+	{
 		"name": "Sandstone Oracle",
 		"uniqueTo": "The Kindah",
 		"replaces": "Stone Works",

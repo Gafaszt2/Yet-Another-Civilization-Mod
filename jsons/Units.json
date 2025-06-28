@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Imajaghan",
+		"uniqueTo": "The Tuareg",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"promotions":["Camel Odor"],
+		"uniques": ["[This Unit] heals [3] HP <upon ending a turn in a [Desert] tile>","[+50]% Health from pillaging tiles","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "camel"
+	},
+	{
+		"name": "HMS Defender",
+		"uniqueTo": "New Zealand",
+		"replaces": "Ironclad",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 46,
+		"cost": 250,
+		"requiredTech": "Steam Power",
+		"requiredResource": "Coal",
+		"upgradesTo": "Destroyer",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight","May enter foreign tiles without open borders","[+25]% Strength <when fighting in [Friendly Land] tiles>","[+33]% Strength <vs cities>","Double movement in [Coast]", "Never appears as a Barbarian unit"],
+		"attackSound": "shipguns"
+	},
+	{
 		"name": "Jund al-Kindīyah",
 		"uniqueTo": "The Kindah",
 		"replaces": "Archer",

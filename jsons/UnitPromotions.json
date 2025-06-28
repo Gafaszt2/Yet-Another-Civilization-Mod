@@ -54,6 +54,10 @@
 "uniques": ["[+5]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"]
 },
 {
+"name": "Camel Odor",
+"uniques": ["[+20]% Strength <vs [Mounted] units>"]
+},
+{
 "name": "Magyar Knight",
 "uniques": ["[+25]% Strength <vs [Sword] units>", "[+10]% Strength <vs [Wounded] units>", "[+10]% Strength <vs cities>"]
 }
