@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Tradition",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]",
+            "[-25]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Aristocracy",
+                "uniques": [
+                    "[+15]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [10] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Legalism",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Oligarchy",
+                "uniques": [
+                    "Units in cities cost no Maintenance",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[-100]% weight to this choice for AI decisions"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Landed Elite",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "requires": ["Legalism"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Monarchy",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                ],
+                "requires": ["Legalism"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Tradition Complete",
+                "uniques": [
+                    "[+25]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [4] cities for free"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Voluntarism",
+        "era": "Industrial era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 10,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[+2 Production, +2 Food] per [2] population [in capital]"
+        ],
+        "policies": [
+            {
+                "name": "Anarchism",
+                "uniques": [
+                    "[-50]% unhappiness from the number of cities"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Black Bloc",
+                "uniques": [
+                    "No movement cost to pillage"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Insurgent Army",
+                "uniques": [
+                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Mutual Aid",
+                "uniques": [
+                    "Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves","Allied City-States provide [Food] equal to [+40]% of what they produce for themselves"
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Self-Organization",
+                "uniques": [
+                    "[+15]% [Production] [in all cities]"
+                ],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Voluntarism Complete",
+                "uniques": [
+                    "[+3 Production, +3 Food] per [2] population [in all cities]"
+                ]
+            }
+        ]
+    }
+]
