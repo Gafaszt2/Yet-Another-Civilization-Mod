@@ -1,5 +1,156 @@
 [
 	{
+	"name": "The Qarmatians",
+	"leaderName": "Abu Tahir Al-Jannabi",
+	"adjective": ["The Qarmatians"],
+	"startBias":["Desert"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [20, 20, 20],
+	"innerColor": [194, 255, 89],
+	"uniqueName": "First Flames of the Last Days",
+	"uniques": ["[+2 Production] from every [Barracks]","No movement cost to pillage <for [All] units>","All newly-trained [Melee] units [in all cities] receive the [Massacre] promotion <upon declaring war with a major Civilization> <for [5] turns>"],
+	"cities": ["Al-Ahsa","Ain Al-Kuayba","Qatif","Hajar","Safwan","Zahran","Juwatha","Al-Mabraz","Khobar","Al-Bidda","Hafar al-Batin"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "The Zapatistas",
+	"leaderName": "Subcomandante Marcos",
+	"adjective": ["The Zapatistas"],
+	"startBias":["Jungle"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [166, 0, 0],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Where People Rule And Government Obeys",
+	"uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>","[+3 Happiness, +4 Production] [in all cities] <after adopting [Voluntarism]>"],
+	"cities": ["Oventic", "Ocosingo", "Jovel", "Comitán", "Altamirano", "Las Margaritas", "Palenque", "El Bosque", "San Andrés Larráinzar", "Chicomuselo", "Motozintla", "Amatenango del Valle"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Rojava",
+	"leaderName": "Salih Muslim",
+	"adjective": ["Rojava"],
+	"startBias":["Avoid [Coast]"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [0, 61, 10],
+	"innerColor": [255, 20, 20],
+	"uniqueName": "Everywhere is Rojava, Everywhere is Resistance",
+	"uniques": ["[+35]% Strength <vs [Barbarian] units>","[+15]% growth [in all cities]","[+20]% growth [in all cities] <after adopting [Voluntarism]>"],
+	"cities": ["Ayn Issa", "Raqqa", "Afrin", "Qamishli", "Derik", "Al-Shaddadah", "Al-Arisha", "Al-Hawl", "Al-Qahtaniyah", "Al-Hasakah", "Sarrin", "Tell Abyad", "Ras al-Ayn"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Revolutionary Catalonia",
+	"leaderName": "Lluís Companys",
+	"adjective": ["Revolutionary Catalonia"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [255, 201, 51],
+	"innerColor": [179, 21, 21],
+	"uniqueName": "Events of 6 October",
+	"uniques": ["[+2 Culture, +2 Happiness] per [2] population [in all cities]","[-5]% Culture cost of natural border growth [in all cities]"],
+	"cities": ["Barcelona", "Sabadell", "Vilanova i la Geltrú", "Granollers", "Mataró", "Badalona", "Sant Feliu de Guíxols", "Lleida", "Balaguer",
+	"Cervera", "Tortosa", "Manresa", "Vic", "Girona", "Tremp", "Tarragona", "Reus"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Adal",
+	"leaderName": "Ahmad ibn Ibrahim al-Ghazi",
+	"adjective": ["Adal"],
+	"startBias":["Fresh Water", "Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [255, 255, 255],
+	"innerColor": [255, 0, 0],
+	"uniqueName": "Futuh al-Habasa",
+	"uniques": ["Gain a free [Walls] [in capital]","[+25]% Strength <vs cities>","[+25]% Spread Religion Strength"],
+	"cities": ["Harar", "Dakkar", "Aussa", "Hubat", "Ifat", "Zeila", "Berbera", "Amud", "Abasa", "Awbare", "Awbube", "Gogesa", "Borama", "Gayint", "Nech Sar", "Dire Dawa", "El Kere"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Makhnovia",
+	"leaderName": "Nestor Makhno",
+	"adjective": ["Makhnovia"],
+	"startBias":["Grassland"],
+	"preferredVictoryType": "Diplomatic",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [20, 20, 20],
+	"innerColor": [66, 101, 255],
+	"uniqueName": "Mother Anarchy Loves Her Sons",
+	"uniques": ["[+50]% XP gained from combat","Gain control over [All] tiles in a [1]-tile radius <upon building a [Great Improvement] improvement> <in this city> <after adopting [Voluntarism]>"],
+	"cities": ["Huliaipole","Ekaterinoslav","Mariupol","Alexandrovsk","Berdyansk","Donetsk","Melitopol","Yelisavetgrad","Kherson","Synelnykove","Polohy"],
+	"spyNames": ["Saki"]
+    },
+	{
 	"name": "The Tuareg",
 	"leaderName": "Tin Hinan",
 	"adjective": ["The Tuareg"],
@@ -421,9 +572,9 @@
 		"outerColor": [137, 217, 163],
 		"innerColor": [26, 36, 29],
 		"uniqueName": "Etepe Oti",
-		"uniques": ["Gain control over [{non-[Major]} {Jungle}] tiles in a [4]-tile radius <upon building a [Camp] improvement> <in this city>",
-            "Gain control over [{non-[Major]} {Jungle}] tiles in a [4]-tile radius <upon building a [Plantation] improvement> <in this city>",
-            "Gain control over [{non-[Major]} {Jungle}] tiles in a [4]-tile radius <upon building a [Lumber mill] improvement> <in this city>"],
+		"uniques": ["Gain control over [{non-[Major]} {Jungle}] tiles in a [1]-tile radius <upon building a [Camp] improvement> <in this city>",
+            "Gain control over [{non-[Major]} {Jungle}] tiles in a [1]-tile radius <upon building a [Plantation] improvement> <in this city>",
+            "Gain control over [{non-[Major]} {Jungle}] tiles in a [1]-tile radius <upon building a [Lumber mill] improvement> <in this city>"],
 		"cities": ["Kuhikugu", "Heulugihïtï", "Nokugu", "Kuhugupe", "Hatsikugi", "Itsagahïtï", "Secú", "Meijeinei", "Agikuangaku", "Séhu", "Intagu", "Morená", "Tuatuari"],
         "spyNames": ["Saki"]
     },
