@@ -8,6 +8,10 @@
 		"resourceType": "Luxury"
 	},
 	{
+		"name": "Mot",
+		"resourceType": "Luxury"
+	},
+	{
 		"name": "Soma",
 		"resourceType": "Luxury"
 	},

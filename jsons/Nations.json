@@ -1,5 +1,132 @@
 [
 	{
+	"name": "Urartu",
+	"leaderName": "Argishti I",
+	"adjective": ["Urartu"],
+	"startBias":["Lakes","Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [89, 255, 236],
+	"innerColor": [176, 18, 18],
+	"uniqueName": "Kingdom of Ararat and Van",
+	"uniques": ["[+15]% Strength <when fighting in [Lakes] tiles>","[+15]% Strength <when fighting in [Hill] tiles>","[+2 Gold] from every [Citadel]","Gain control over [{non-[Major]} {All}] tiles in a [1]-tile radius <upon building a [Fort] improvement> <in this city> <with [20]% chance>"],
+	"cities": ["Arzashkun", "Tushpa", "Van", "Erebuni", "Teishebaini", "Horom", "Musasir", "Teyseba", "Haykaberd", "Toprakkale", "Patnos", "Alashkirt", "Altintepe", "Urmia", "Bastam", "Khrber", "Sugunia"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Sumedang Larang",
+	"leaderName": "Geusan Ulun",
+	"adjective": ["Sumedang Larang"],
+	"startBias":["Grassland"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [9, 156, 19],
+	"innerColor": [255, 247, 99],
+	"uniqueName": "Parahyangan",
+	"uniques": ["[+2 Gold] from every [Plantation]","[+2 Culture] from every specialist [in all cities]"],
+	"cities": ["Kutamaya", "Citembong Girang", "Darmaraja", "Ciguling",
+	"Dayeuhluhur", "Ganeas", "Tegal Kalong", "Wado", "Ujung Jaya", "Tomo", "Tanjungsari", "Tanjungmedar", "Tanjungkerta", "Surian", "Sukasari"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Wales",
+	"leaderName": "Llywelyn II",
+	"adjective": ["Wales"],
+	"startBias":["Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [25, 56, 30],
+	"innerColor": [255, 23, 23],
+	"uniqueName": "The Mabinogion",
+	"uniques": ["[+5]% Strength <when fighting in [Hill] tiles>","[1] free [Great Artist] units appear <upon constructing [Walls]> <with [40]% chance>","[1] free [Great Artist] units appear <upon constructing [Caer]> <with [40]% chance>"],
+	"cities": ["Cardiff", "Swansea", "Casnewydd", "Wrecsam", "Y Barri", "Cwmbran", "Pen-y-bont ar Ogwr", "Llanelli", "Penrhyndeudraeth", "Caerffili", "Pontypridd", "Ynysybwl", "Pont-y-pwl", "Bro Morgannwg"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Somalia",
+	"leaderName": "Siad Barre",
+	"adjective": ["Somalia"],
+	"startBias":["Coast","Avoid [Tundra]"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [55, 150, 240],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Star of Unity",
+	"uniques": ["[+70]% XP gained from combat <when fighting in [Coastal] tiles>","[+2 Gold] from [Coastal] tiles [in all cities]","[-2 Gold] from [Coast] tiles [in all cities] <hidden from users>"],
+	"cities": ["Mogadishu","Hargeisa","Berbera","Galdogob","Baidoa","Burao","Beledweyne","Abudwak","Borama","Jowhar","Las Anod","Adado"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "The Faroe Islands",
+	"leaderName": "Tróndur í Gøtu",
+	"adjective": ["The Faroe Islands"],
+	"startBias":["Avoid [Desert]"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [31, 55, 173],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Jólafundurin",
+	"uniques": ["[+2 Culture] from every [Whales]","[+2] Movement <for [Water] units>"],
+	"cities": ["Tórshavn", "Klaksvík", "Funningur", "Norðragøta", "Hoyvík", "Orem", "Skúvoy", "Fuglafjørður", "Vágur", "Vestmanna", "Tvøroyri", "Kirkjubøur", "Argir", "Bøur",
+	"Sandur", "Eiði", "Miðvágur", "Sørvágur", "Leirvík", "Toftir", "Kollafjørður", "Sandavágur", "Hvalba", "Skopun", "Syðrugøta", "Porkeri", "Viðareiði", "Hósvík"],
+	"spyNames": ["Saki"]
+    },
+	{
 	"name": "The Qarmatians",
 	"leaderName": "Abu Tahir Al-Jannabi",
 	"adjective": ["The Qarmatians"],
@@ -8221,7 +8348,7 @@
 		"outerColor": [43, 23, 16],
 		"innerColor": [255, 179, 153],
 		"uniqueName": "Great Oyate Nation",
-		"uniques": ["[+1 Faith] from every [Bison]","[+100]% XP gained from combat <for [Mounted] units>"],
+		"uniques": ["[+1 Faith] from every [Bison]","[+5]% Strength <for [Mounted] units>","[+100]% XP gained from combat <for [Mounted] units>"],
 		"cities": ["Little Bighorn","Cedar Creek","Oyate Falls","Sisseton","Wounded Knee","Rapid City", "Stony Lake", "Killdeer", "Big Mound", "Pine Ridge", "Owanka", "Turtle River", "Oglala"]
 	},
         {
