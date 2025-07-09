@@ -1,5 +1,157 @@
 [
 	{
+	"name": "Nanzhao",
+	"leaderName": "Piluoge",
+	"adjective": ["Nanzhao"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [221, 237, 133],
+	"innerColor": [20, 20, 17],
+	"uniqueName": "The Six Zhaos",
+	"uniques": ["[+25]% [Science] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>","Free [Worker] appears <upon declaring friendship> <with [20]% chance>"],
+	"cities": ["Taihe", "Yangjumie", "Jianchuan", "Nongdong", "Yongchang",
+	"Yinsheng", "Shanchan", "Tonghai", "Huichuan", "Lishui", "Ningbei", "Moutong", "Lianxun", "Tieqiao", "Xiangcheng", "Guangdang", "Baosai", "Taideng", "Jiangchang", "Wumeng", "Dongchuan"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Sogdiana",
+	"leaderName": "Varkhuman",
+	"adjective": ["Sogdiana"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [36, 35, 33],
+	"innerColor": [255, 248, 235],
+	"uniqueName": "Golden Peaches of Samarkand",
+	"uniques": ["[+30]% Great Person generation [in all cities] <upon constructing [Market]> <for [5] turns>","[+3 Gold] from [Great Improvement] tiles [in all cities]"],
+	"cities": ["Samarkand", "Bukhara", "Panjikant", "Afrasiyab", "Varakhsha", "Nakhshab", "Chach", "Talas", "Kish", "Suyab", "Akhsikath", "Kanka", "Balasagun", "Sarazm", "Khujand", "Ishtikhan", "Mayamurgh"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Mysore",
+	"leaderName": "Tipu Sultan",
+	"adjective": ["Mysore"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [46, 42, 36],
+	"innerColor": [255, 176, 61],
+	"uniqueName": "Fathul Mujahidin",
+	"uniques": ["[+25]% Strength <for [Missile] units>","[+25]% Strength <for [Siege] units>","[+35]% [Culture] [in all cities] <upon declaring war with a major Civilization> <for [3] turns>","[+35]% [Science] [in all cities] <upon declaring war with a major Civilization> <for [3] turns>"],
+	"cities": ["Mysore", "Srirangapatna", "Bangalore", "Calicut", "Keladi", "Mangalore", "Channapatna", "Salem", "Karwar", "Erode", "Hassan", "Dharwad", "Dharmapuri", "Bidanur", "Chitradurga", "Bekala", "Madikeri", "Tellicherry", "Kaveripattinam", "Cuddapah"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Maratha",
+	"leaderName": "Shivaji",
+	"adjective": ["Maratha"],
+	"startBias":["Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [82, 32, 7],
+	"innerColor": [255, 177, 61],
+	"uniqueName": "Adnyapatra",
+	"uniques": ["[+10]% growth [in coastal cities]","[+20]% Production when constructing [Gold] buildings [in all cities]","[2] free [Gurab] units appear <upon discovering [Navigation] technology>"],
+	"cities": ["Raigad", "Pune", "Sangameshwar", "Vishalgad", "Ginge", "Sinhagad", "Dhar", "Indore", "Gwalior", "Gingee", "Palkhed", "Vasai", "Arcot", "Tiruchirappalli", "Katak", "Raipur", "Ratanpur", "Bilaspur"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Upano",
+	"leaderName": "Nunkui",
+	"adjective": ["Upano"],
+	"startBias":["River","Jungle"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [255, 223, 148],
+	"innerColor": [57, 74, 29],
+	"uniqueName": "Garden Urbanism",
+	"uniques": ["[+1 Food] from [River] tiles [in capital]","[+1 Food] from [Lakes] tiles [in capital]","[-25]% maintenance on road & railroads","[+25]% Production when constructing [Aqueduct] buildings [in all cities]","[+25]% Production when constructing [Garden] buildings [in all cities]"],
+	"cities": ["Kilamope", "Sangay", "Copueno", "Junguna", "Kunguints", "Nijiamanch", "Uyunts", "Jurumbono", "Eden", "Domono", "Yukipa", "Wampim", "Yanayacu", "Jurumbaino", "Huambini", "Ampush"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Oman",
+	"leaderName": "Said bin Sultan",
+	"adjective": ["Oman"],
+	"startBias":["Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [112, 39, 39],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Jewel of Arabia",
+	"uniques": ["[+1 Gold] from every [Luxury resource]","[+1 Gold] from every [Strategic resource]","[+10]% Production when constructing [Water] units [in all cities]","[+10]% Production when constructing [Gold] buildings [in all cities]"],
+	"cities": ["Muscat", "Salalah", "Nizwa", "Sur", "Ibra", "Bahla",
+	"Rustaq", "Barka", "Muttrah", "Sohar", "Sahan", "Samail", "Khasab", "Raysut", "Jabrin", "Al Hamra", "Seeb", "Duqm", "Thumrait", "Shinas", "Manah", "Madha", "Zanzibar", "Qurayyat", "Suwayq", "Bidiyah", "Saiq"],
+	"spyNames": ["Saki"]
+    },
+	{
 	"name": "Urartu",
 	"leaderName": "Argishti I",
 	"adjective": ["Urartu"],

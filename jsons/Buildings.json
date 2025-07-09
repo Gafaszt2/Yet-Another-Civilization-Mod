@@ -1,4 +1,37 @@
+
 [ 
+	{
+		"name": "Shahristan",
+		"uniqueTo": "Sogdiana",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Culture] from all [Faith] buildings <in this city>","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Darbar",
+		"uniqueTo": "Maratha",
+		"replaces": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities","[+15]% Production when constructing [Melee] units [in this city] <when at war>"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Chicha Brewery",
+		"uniqueTo": "Upano",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Chicha]","[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
 	{
 		"name": "Siršini",
 		"uniqueTo": "Urartu",

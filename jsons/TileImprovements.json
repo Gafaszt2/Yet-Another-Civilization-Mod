@@ -30,11 +30,39 @@
 		"shortcutKey": "F"
 	},
 	{
+		"name": "Taramandal Pet",
+		"uniqueTo": "Mysore",
+		"terrainsCanBeBuiltOn": ["Land","Hill"],
+        "techRequired": "Gunpowder",
+		"turnsToBuild": 7,
+		"uniques":["Gives a defensive bonus of [20]%"]
+    },
+	{
+		"name": "Zhai",
+		"uniqueTo": "Nanzhao",
+		"terrainsCanBeBuiltOn": ["Hill"],
+        "techRequired": "Construction",
+		"turnsToBuild": 7,
+		"faith":2,
+		"food":1
+    },
+	{
+		"name": "Tola",
+		"uniqueTo": "Upano",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+        "techRequired": "Construction",
+		"production":1,
+		"turnsToBuild": 7,
+		"food":2,
+		"uniques":["[+1 Food] <after discovering [Fertilizer]>","[+1 Food] <after discovering [Civil Service]>"]
+    },
+	{
 		"name": "Funerary Towers",
 		"uniqueTo": "Palmyra",
 		"terrainsCanBeBuiltOn": ["Desert"],
         "techRequired": "Construction",
 		"culture":1,
+		"turnsToBuild": 7,
 		"faith":1,
 		"uniques":["Comment [Must not be adjacent to another [Funetary Towers]]","[-1 Culture, -1 Faith] for each adjacent [Funerary Towers] <hidden from users>","[-2 Culture, -2 Gold] for each adjacent [Funerary Towers] <after discovering [Archaeology]> <hidden from users>","[+2 Culture, +2 Gold] <after discovering [Archaeology]>"]
     },
@@ -44,12 +72,14 @@
 		"terrainsCanBeBuiltOn": ["Land","Hill"],
         "techRequired": "Machinery",
 		"food":1,
+		"turnsToBuild": 7,
 		"gold":1,
 		"uniques":["[+2 Gold] from [Sugar] tiles","Provides [1] [Rum]","[+1 Gold] <after discovering [Economics]>"]
     },
 	{
 		"name": "Mekewap",
 		"uniqueTo": "Cree",
+		"turnsToBuild": 7,
 		"terrainsCanBeBuiltOn": ["Land","Hill"],
         "techRequired": "Agriculture",
 		"uniques":["[+1 Gold, +1 Production] for each adjacent [Luxury resource]","[+1 Food] for each adjacent [Bonus resource]"]
@@ -60,6 +90,7 @@
 		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
         "techRequired": "Currency",
 		"food":1,
+		"turnsToBuild": 7,
 		"happiness":1,
 		"uniques":["[+2 Gold] <after discovering [Economics]>","[+1 Food, +2 Culture] <after discovering [Ecology]>"]
     },
@@ -69,6 +100,7 @@
 		"terrainsCanBeBuiltOn": ["Land","Hill"],
         "techRequired": "Masonry",
 		"food":1,
+		"turnsToBuild": 7,
 		"faith":1,
 		"uniques":["Must be next to [Coast]"]
     },
@@ -78,6 +110,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
         "techRequired": "Currency",
 		"gold":2,
+		"turnsToBuild": 7,
 		"uniques":["[+2 Gold] <after discovering [Archaeology]> <when above [10] [Goods]>"]
     },
 	{
@@ -86,6 +119,7 @@
 		"terrainsCanBeBuiltOn": ["Coast"],
         "techRequired": "Sailing",
 		"food":1,
+		"turnsToBuild": 7,
 		"gold":1,
 		"uniques":["Provides [1] [Sea Cucumber]","Must be next to [Fishing Boats]","[+2 Science] <after discovering [Biology]>"]
     },

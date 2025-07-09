@@ -10,6 +10,14 @@
 "uniques": ["[+1] Movement"]
 },
 {
+"name": "Cushoon Rocket",
+"uniques": ["[+25]% Strength <when attacking>","[+5]% Strength <vs cities>"]
+},
+{
+"name": "Charged Attack",
+"uniques": ["[+25]% Strength <when attacking>"]
+},
+{
 "name": "Digger",
 "uniques": ["[+15]% Strength <when fighting in [Coastal] tiles> <when attacking>","[+15]% Strength <when fighting in [Friendly Land] tiles> <when attacking>"]
 },

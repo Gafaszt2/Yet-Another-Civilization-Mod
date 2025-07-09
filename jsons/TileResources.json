@@ -4,6 +4,10 @@
 		"resourceType": "Luxury"
 	},
 	{
+		"name": "Chicha",
+		"resourceType": "Luxury"
+	},
+	{
 		"name": "Relic",
 		"resourceType": "Luxury"
 	},
