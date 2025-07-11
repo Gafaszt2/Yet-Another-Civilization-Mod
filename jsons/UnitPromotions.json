@@ -30,6 +30,10 @@
 "uniques": ["No defensive terrain penalty"]
 },
 {
+"name": "[Dragoon] Ability",
+"uniques": ["[+50]% Strength <vs [Lancer] units>"]
+},
+{
 "name": "Coastal Movement",
 "uniques": ["Double movement in [Fresh Water]"]
 },

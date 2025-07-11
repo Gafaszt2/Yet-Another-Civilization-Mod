@@ -1,6 +1,18 @@
 
 [ 
 	{
+		"name": "Cheese Factory",
+		"uniqueTo": "Inconfidência Mineira",
+		"replaces": "Windmill",
+		"production": 2,
+		"food": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Cheese]", "[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
+	},
+	{
 		"name": "Shahristan",
 		"uniqueTo": "Sogdiana",
 		"replaces": "Castle",
@@ -1959,18 +1971,6 @@
                 "culture": 2,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
-	},
-{
-		"name": "Culinary Restaurant",
-                "uniqueTo": "Argentina",
-		"replaces": "Windmill",
-		"food": 1,
-                "gold": 1,
-                "culture": 1,
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"uniques": ["Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
-		"requiredTech": "Economics"
 	},
 {
 		"name": "Halkevleri",

@@ -8,6 +8,10 @@
 		"resourceType": "Luxury"
 	},
 	{
+		"name": "Cheese",
+		"resourceType": "Luxury"
+	},
+	{
 		"name": "Relic",
 		"resourceType": "Luxury"
 	},

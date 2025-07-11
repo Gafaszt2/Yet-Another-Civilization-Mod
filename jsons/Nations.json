@@ -1,5 +1,30 @@
 [
 	{
+	"name": "Inconfidência Mineira",
+	"leaderName": "Tiradentes",
+	"adjective": ["Inconfidência Mineira"],
+	"startBias":["Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [255, 255, 255],
+	"innerColor": [41, 122, 21],
+	"uniqueName": "Freedom, even if late",
+	"uniques": ["[+35]% Production when constructing [National Wonder] buildings [in all cities]","Earn [25]% of killed [Military] unit's [Strength] as [Culture]"],
+	"cities": ["São João del Rei", "Ouro Preto", "Tiradentes","Mariana","Sabará","Diamantina","Congonhas","Barbacena","Caeté","Itabira","Catas Altas","Ouro Branco","Lavras Novas"],
+	"spyNames": ["Saki"]
+    },
+	{
 	"name": "Nanzhao",
 	"leaderName": "Piluoge",
 	"adjective": ["Nanzhao"],
