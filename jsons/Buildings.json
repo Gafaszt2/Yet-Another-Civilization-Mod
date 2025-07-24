@@ -1,6 +1,43 @@
 
 [ 
 	{
+		"name": "Covered Bazaar",
+		"uniqueTo": "The Qajars",
+		"replaces": "Market",
+		"gold": 2,
+		"culture": 1,
+		"specialistSlots": {"Merchant": 1},
+		"uniques":["Provides [1] [Enamelware]"],
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Arti",
+		"uniqueTo": "Florence",
+		"replaces": "Bank",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"uniques":["[+2 Culture] from [Trading post] tiles [in this city]"],
+		"requiredTech": "Guilds"
+	},
+	{
+		"name": "Craft Workshop",
+		"uniqueTo": "Funan",
+		"replaces": "Workshop",
+		"maintenance": 2,
+		"production": 2,
+		"culture": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques":["Provides [1] [Jewelry]"],
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Cheese Factory",
 		"uniqueTo": "Inconfidência Mineira",
 		"replaces": "Windmill",
@@ -1276,7 +1313,7 @@
 		"happiness": 2,
 		"culture": 1,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities",
+		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
 	},
@@ -1922,7 +1959,7 @@
 		"replaces": "Courthouse",
 		"culture": 2,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities",
+		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
 	},

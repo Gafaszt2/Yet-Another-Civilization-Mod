@@ -1,5 +1,81 @@
 [
 	{
+	"name": "The Qajars",
+	"leaderName": "Agha Mohammad Shah",
+	"adjective": ["The Qajars"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [23, 23, 23],
+	"innerColor": [245, 158, 44],
+	"uniqueName": "Throne of Peacock",
+	"uniques": ["Science gained from research agreements [+50]%","Earn [10]% of killed [Wounded] unit's [Cost] as [Science]","When spreading religion to a city, gain [3] times the amount of followers of other religions as [Science]"],
+	"cities": ["Tehran","Tabriz","Isfahhan","Mashhad","Yazd","Babol","Kerman","Rasht","Qazvin","Hamadan","Qom","Sanandaj"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Florence",
+	"leaderName": "Savonarola",
+	"adjective": ["Florence"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [255, 255, 255],
+	"innerColor": [252, 0, 0],
+	"uniqueName": "Contempt of the Worldly",
+	"uniques": ["Empire enters a [8]-turn Golden Age <upon gaining a [Great Prophet] unit>","Empire enters a [3]-turn Golden Age <upon constructing [Temple]>"],
+	"cities": ["Florence", "Piza", "Siena", "Lucca", "Arezzo", "Prato", "Grosseto", "San Gimignano", "Fiesole", "Pietrasanta", "Pistoia", "Carrara", "Pienza", "Volterra", "Livorno", "Cortona"],
+	"spyNames": ["Saki"]
+    },
+	{
+	"name": "Funan",
+	"leaderName": "Soma",
+	"adjective": ["Funan"],
+	"startBias":["Mountain","River"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [153, 54, 8],
+	"innerColor": [163, 255, 203],
+	"uniqueName": "Lords of the Great Glass River",
+	"uniques": ["[+2 Faith] from every [Mountain]","[+100]% Happiness from luxury resources gifted by City-States","[+100]% resources gifted by City-States"],
+	"cities": ["Vyadhapura", "Kirtinagara", "Angkor Borei", "Phnom Da", "Kampong Pous Thom", "Aninditapura", "Bhavapura", "Din Cyfarch", "Shrestapura",
+	"Lingaparvata", "Dekmiuk", "Nafuna", "Isan Borak", "Samrong Sen", "Phum Snay", "Ba Phnom", "Phnom Chisor", "Hariharālaya", "Thinae", "Sinae Metropolis"],
+	"spyNames": ["Saki"]
+    },
+	{
 	"name": "Inconfidência Mineira",
 	"leaderName": "Tiradentes",
 	"adjective": ["Inconfidência Mineira"],
@@ -19,7 +95,7 @@
 	"tradeRequest": "Check out this",
 	"outerColor": [255, 255, 255],
 	"innerColor": [41, 122, 21],
-	"uniqueName": "Freedom, even if late",
+	"uniqueName": "Freedom, Even if it late",
 	"uniques": ["[+35]% Production when constructing [National Wonder] buildings [in all cities]","Earn [25]% of killed [Military] unit's [Strength] as [Culture]"],
 	"cities": ["São João del Rei", "Ouro Preto", "Tiradentes","Mariana","Sabará","Diamantina","Congonhas","Barbacena","Caeté","Itabira","Catas Altas","Ouro Branco","Lavras Novas"],
 	"spyNames": ["Saki"]
@@ -2274,7 +2350,7 @@
 		"innerColor": [33, 26, 21],
 		"uniqueName": "Asa'ir",
 		"uniques": ["Comment [They gain +5 Nomad points while at a desert tile]","[+5]% Strength <for [Mounted] units>",
-	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+	"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["They dont have cities wow"],
 		"spyNames": ["Saki"]
 	},
@@ -2300,7 +2376,7 @@
 		"innerColor": [33, 26, 21],
 		"uniqueName": "Lords of the Sun",
 		"uniques": ["Comment [Adopting policies are 25% cheaper]","[+25]% Strength <vs [Sword] units>",
-	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+	"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["They dont have cities wow"],
 		"spyNames": ["Saki"]
 	},
@@ -3036,7 +3112,7 @@
         "innerColor": [13, 1, 1],
         "uniqueName": "Nature’s Guardians",
         "uniques": ["[+1] Movement <for [{Military} {Land}] units>",
-			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
         "spyNames": ["Tangaroa"]
@@ -3063,7 +3139,7 @@
         "innerColor": [237, 206, 206],
         "uniqueName": "Horde of the Danube",
         "uniques": ["[+15]% Strength <for [Wounded] units>","[+25]% Strength <for [Mounted] units>",
-			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
         "spyNames": ["Tangaroa"]
@@ -3090,7 +3166,7 @@
         "innerColor": [166, 0, 0],
         "uniqueName": "Golden Horde Legacy",
         "uniques": ["Comment [Mounted units heal +100% from pillaging tiles]","[+100]% Health from pillaging tiles",
-			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
         "spyNames": ["Tangaroa"]
@@ -3117,7 +3193,7 @@
         "innerColor": [36, 36, 36],
         "uniqueName": "Sky Warriors",
         "uniques": ["Comment [Torch Porter Units are 25% cheaper]",
-			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
         "spyNames": ["Tangaroa"]
@@ -3144,7 +3220,7 @@
         "innerColor": [138, 24, 1],
         "uniqueName": "Nomadic Elegance",
         "uniques": ["Comment [Cavalry Units are 25% cheaper]",
-			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
         "cities": ["They dont have cities wow"],
         "spyNames": ["Tangaroa"]
@@ -3171,7 +3247,7 @@
         "innerColor": [138, 24, 1],
         "uniqueName": "Nomadic Elegance",
         "uniques": ["Comment [Cavalry Units are 25% cheaper]",
-			"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units","May not annex cities"],
         "cities": ["They dont have cities wow"],
         "spyNames": ["Tangaroa"]
@@ -3786,7 +3862,7 @@
 		"innerColor": [247, 245, 168],
 		"uniqueName": "Dance of the Scalps",
 		"uniques": [
-	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+	"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 	"[+25]% Strength <for [Mounted] units>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["Misión El Toba", "Sombrero Negro", "San Martín del Tabacal", "Laguna Martín", "Laguna Los Paces", "Jesús María", "Nuevo Pilcomayo"],
 		"spyNames": ["Saki"]
@@ -3813,7 +3889,7 @@
 		"innerColor": [63, 82, 145],
 		"uniqueName": "The Last Nomadic Empire",
 		"uniques": ["Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>",
-	"[-100]% maintenance cost for buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+	"[-100]% maintenance cost for [all] buildings [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
 	"Free [Great General] appears <upon conquering a city>","Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
 		"cities": ["Ghulja", "Tarbagatai", "Uliastai", "Irtysh", "Ürümqi", "Yulduz", "Manas", "Hami", "Kobdo", "Kur-Karausu", "Ölgii", "Altai", "Kyakhta"],
 		"spyNames": ["Saki"]
@@ -5543,7 +5619,7 @@
 		"outerColor": [57, 69, 45],
 		"innerColor": [252, 255, 227],
 		"uniqueName": "Arab Unity",
-		"uniques": ["[+2 Gold, +2 Culture] from [Oasis] tiles [in all cities]","No Maintenance costs for improvements in [Desert] tiles","Double quantity of [Oil] produced","[+25]% Great Person generation [in capital]"],
+		"uniques": ["[+2 Gold, +2 Culture] from [Oasis] tiles [in all cities]","No Maintenance costs for improvements in [Desert] tiles","[+100]% [Oil] resource production","[+25]% Great Person generation [in capital]"],
 		"cities": ["Cairo","Damascus","Alexandria","Beirut","Giza","Aleppo","Luxor","Homs","Aswan","Port Said","Hama","Marsa Matruh","Tanta"],
         "spyNames": ["Mister Arab"]
     },
@@ -7530,7 +7606,7 @@
 		"outerColor": [228, 240, 139],
 		"innerColor": [54, 45, 30],
 		"uniqueName": "The Pampas Hunters",
-		"uniques": ["[-100]% maintenance costs <for [Mounted] units>","[+15]% Production when constructing [Mounted] units [in this city]","Double quantity of [Horses] produced"],
+		"uniques": ["[-100]% maintenance costs <for [Mounted] units>","[+15]% Production when constructing [Mounted] units [in this city]","[+100]% [Horses] resource production"],
 		"cities": ["Salsipuedes","Entre Ríos","Rio Grande do Sul","Ñandu","Chana","Guenoa","Bohane","Minuan"],
 	},
 
