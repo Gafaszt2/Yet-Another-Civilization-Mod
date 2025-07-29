@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Fresh Water Desert",
+		"type": "Land",
+		"food": 1,
+		"production": 2,
+		"movementCost": 1,
+		"RGB": [230, 172, 0],
+		"uniques": ["Fresh water"]
+	}
+]

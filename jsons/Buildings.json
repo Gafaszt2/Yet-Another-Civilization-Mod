@@ -1,6 +1,29 @@
 
 [ 
 	{
+		"name": "Electrum Mint",
+		"uniqueTo": "Lydia",
+		"replaces": "Mint",
+		"maintenance": 0,
+		"specialistSlots":{"Merchant": 1},
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"hurryCostModifier": 25,
+		"uniques": ["Comment [+1 Merchant slot]","Must be next to [River]","[+4 Gold] from [Gold Ore] tiles [in this city]", "[+4 Gold] from [Silver] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Bonyad",
+		"uniqueTo": "Iran",
+		"replaces": "Bank",
+		"gold": 4,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"uniques":["[+3]% [Gold] from every [Temple] <during a Golden Age>"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
 		"name": "Covered Bazaar",
 		"uniqueTo": "The Qajars",
 		"replaces": "Market",

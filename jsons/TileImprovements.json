@@ -38,6 +38,19 @@
 		"uniques":["Gives a defensive bonus of [20]%"]
     },
 	{
+		"name": "Foggara",
+		"uniqueTo": "The Garamantes",
+		"terrainsCanBeBuiltOn": ["Desert","Hill","Fresh Water Desert"],
+        "techRequired": "Engineering",
+		"turnsToBuild": 7,
+		"uniques":["Turn this tile into a [Fresh Water Desert] tile <after turn number [4]>","[+3 Food, +1 Gold] <after discovering [Fertilizer]>",
+"Cannot be built on [Grassland] tiles",
+"Cannot be built on [Tundra] tiles",
+"Cannot be built on [Snow] tiles",
+"Cannot be built on [Plains] tiles",
+"Cannot be built on [Flood plains] tiles"]
+    },
+	{
 		"name": "Zhai",
 		"uniqueTo": "Nanzhao",
 		"terrainsCanBeBuiltOn": ["Hill"],

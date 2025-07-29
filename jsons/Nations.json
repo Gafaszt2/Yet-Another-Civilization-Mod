@@ -1,5 +1,80 @@
 [
 	{
+	"name": "Lydia",
+	"leaderName": "Croesus",
+	"adjective": ["Lydia"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [125, 19, 19],
+	"innerColor": [255, 194, 120],
+	"uniqueName": "As Rich as Croesus",
+	"uniques": ["[+3 Gold] from every specialist [in all cities]","[+2 Gold] from every specialist [in capital]"],
+	"cities": ["Sardis", "Daldis", "Smyrna", "Erythrae", "Philadelphia", "Stratonicea", "Magnesia ad Sipylum", "Gordus", "Apollonis", "Larisa", "Miletus", "Digda", "Ephesus"],
+	"spyNames": ["Gyges", "Ardys", "Sadyattes", "Alyattes", "Atys"]
+    },
+	{
+	"name": "The Garamantes",
+	"leaderName": "Djalla",
+	"adjective": ["The Garamantes"],
+	"startBias":["Desert"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [255, 200, 105],
+	"innerColor": [31, 45, 64],
+	"uniqueName": "Saharan Slave Raids",
+	"uniques": ["[+15]% Strength <for [Mounted] units> <when fighting in [Foreign Land] tiles>","All newly-trained [Melee] units [in all cities] receive the [Capture II] promotion"],
+	"cities": ["Garama", "Zinchecra", "Dedris", "Thelgae", "Nadharif", "Fewet", "Abalessa", "El-Hattia", "Cilliba", "Tawtek", "Alele", "El-Charaig", "Cydamus", "Gyri", "El-Abiad", "Tabudium", "Alasit", "Balla"],
+	"spyNames": ["Munatas", "Ikken", "Shoshenq", "Juba", "Takelot", "Tamayyurt"]
+    },
+	{
+	"name": "Iran",
+	"leaderName": "Ruhollah Khomeini",
+	"adjective": ["Iran"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [171, 32, 22],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Wilāyat al-Faqīh",
+	"uniques": ["[+1 Culture] per every [8] [Faith]","Gain an extra spy <upon founding a Religion>","Gain an extra spy <upon enhancing a Religion>"],
+	"cities": ["Tehran", "Mashhad", "Isfahan", "Karaj", "Tabriz", "Shiraz", "Ahvaz", "Qom", "Kermanshah", "Orumieh", "Rasht", "Zahedan", "Arak", "Hamedan", "Yazd", "Ardabil", "Bandar Abbas"],
+	"spyNames": ["Ali", "Muhammad", "Rahim", "Baba", "Amir", "Sohrab", "Rostam", "Hassan", "Omar", "Ahmed"]
+    },
+	{
 	"name": "The Qajars",
 	"leaderName": "Agha Mohammad Shah",
 	"adjective": ["The Qajars"],

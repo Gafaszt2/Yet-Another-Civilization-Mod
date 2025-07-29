@@ -1,8 +1,59 @@
 
 [
+
+	{
+		"name": "Hippomachoi",
+		"uniqueTo": "Lydia",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 14,
+		"cost": 85,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Earn [35]% of killed [Military] unit's [Strength] as [Golden Age points]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Merkabim Garamantim",
+		"uniqueTo": "The Garamantes",
+		"replaces": "Chariot Archer",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[+1] Movement <in [Desert] tiles>","May enter foreign tiles without open borders","[-100]% maintenance costs","No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Islamic Revolutionary Guard",
+		"uniqueTo": "Iran",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"uniques":["[This Unit] gains [15] XP <upon adopting [Nationalism]>",
+		"[This Unit] gains [15] XP <upon adopting [Socialism]>",
+		"[This Unit] gains [15] XP <upon adopting [Communism]>",
+		"Gain [15]-[21] [Faith] <upon ending a turn in a [City center] tile>"],
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
 	{
 		"name": "Slave",
 		"unitType": "Civilian",
+		"obsoleteTech": "Robotics",
 		"movement": 1,
 		"uniques": ["Limited to [4] per Civilization","Can be purchased with [Gold] [in all cities]",
 		"Can be purchased for [70] [Gold] [in all cities]","Unbuildable","Never appears as a Barbarian unit","Can build [Land] improvements on tiles", "Automation is a primary action"]
@@ -4976,9 +5027,8 @@
 		"strength": 72,
 		"cost": 385,
 		"requiredTech": "Radar",
-		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [Friendly Land] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
 	},
         {
 		"name": "Matabele Warrior",
