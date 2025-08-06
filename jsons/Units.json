@@ -1,6 +1,95 @@
 
-[
 
+[
+	{
+		"name": "Nihang",
+		"uniqueTo": "Punjab",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"uniques":["Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]","[+25]% Strength <vs [Mounted] units>"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Lawan",
+		"uniqueTo": "The Sao",
+		"replaces": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": ["Founds a new city <by consuming this unit>",
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Yuki",
+		"uniqueTo": "The Ngarrindjeri",
+		"replaces": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"strength":3,
+		"cost": 30,
+		"promotions":["Indirect Fire"],
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	},
+	{
+		"name": "Pavise Crossbowman",
+		"uniqueTo": "Genoa",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 18,
+		"cost": 122,
+		"uniques":["[+50]% Strength <when defending>"],
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+	},
+	{
+		"name": "Radio Pirate",
+		"uniqueTo": "Sealand",
+		"replaces": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>","Cannot move <before the [Modern era]> <if [Monument] is constructed>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Sealand Security",
+		"uniqueTo": "Sealand",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 66,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+1] Sight <when [Embarked]>","[+50]% Strength <when defending>","[+150]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
+	},
+    {
+		"name": "Lepa",
+		"uniqueTo": "The Sama-Bajau",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"uniques": ["Turn this tile into a [Grassland] tile <for all movement> <[1] times> <after which this unit is consumed>","Excess Food converted to Production when under construction",
+			"Requires at least [2] population",
+            "Uncapturable", "Automation is a primary action"]
+	},
 	{
 		"name": "Hippomachoi",
 		"uniqueTo": "Lydia",

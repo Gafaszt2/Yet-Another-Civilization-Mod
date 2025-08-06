@@ -38,6 +38,16 @@
 		"uniques":["Gives a defensive bonus of [20]%"]
     },
 	{
+		"name": "Oven Mound",
+		"uniqueTo": "The Ngarrindjeri",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Agriculture",
+		"turnsToBuild": 7,
+		"food":1,
+		"culture":1,
+		"uniques":["Must be next to [River]","[+1 Culture] for each adjacent [Camp]","[+1 Culture] for each adjacent [Fishing Boats]"]
+    },
+	{
 		"name": "Foggara",
 		"uniqueTo": "The Garamantes",
 		"terrainsCanBeBuiltOn": ["Desert","Hill","Fresh Water Desert"],
@@ -577,181 +587,5 @@
 		"techRequired": "Animal Husbandry",
 		"uniques": ["[+3 Gold] from [Cattle] tiles",
             "Pillaging this improvement yields approximately [+30 Gold]"],
-	},
-
-
-
-
-
-
-
-
-
-	//////// BASE GAME STUFF
-
-	{
-		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-		"food": 1,
-		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		
-		
-		"Can also be built on tiles adjacent to fresh water",
-			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
-			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+18 Gold]"],
-		"shortcutKey": "F"
-	},
-	{
-		"name": "Lumber mill",
-		"terrainsCanBeBuiltOn": ["Forest"],
-		"production": 1,
-		"turnsToBuild": 7,
-		"techRequired": "Construction",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]"],
-		"shortcutKey": "L"
-	},
-	{
-		"name": "Mine",
-		"terrainsCanBeBuiltOn": ["Hill"],
-		"production": 1,
-		"turnsToBuild": 7,
-		"techRequired": "Mining",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "M"
-	},
-	{
-		"name": "Trading post",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
-		"gold": 1,
-		"turnsToBuild": 7,
-		"techRequired": "Guilds",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "T"
-	},
-
-	// Resource-specific
-	{
-		"name": "Camp",
-		"turnsToBuild": 7,
-		"techRequired": "Trapping",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
-		"shortcutKey": "C"
-	},
-	{
-		"name": "Oil well",
-		"turnsToBuild": 9,
-		"techRequired": "Biology",
-		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "W"
-	},
-	{
-		"name": "Offshore Platform",
-		"techRequired": "Refrigeration",
-		"uniques": ["Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "P"
-	},
-	{
-		"name": "Pasture",
-		"turnsToBuild": 8,
-		"techRequired": "Animal Husbandry",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
-		"shortcutKey": "P"
-	},
-	{
-		"name": "Plantation",
-		"turnsToBuild": 6,
-		"gold": 1,
-		"techRequired": "Calendar",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
-		"shortcutKey": "P"
-	},
-	{
-		"name": "Quarry",
-		"turnsToBuild": 8,
-		"techRequired": "Masonry",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "Q"
-	},
-	{
-		"name": "Fishing Boats",
-		"terrainsCanBeBuiltOn": ["Coast"],
-		"food": 1,
-		"techRequired": "Sailing",
-		"uniques": ["[+1 Gold] <after discovering [Compass]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
-		"shortcutKey": "F"
-	},
-	// Military improvement
-	{
-		"name": "Fort",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-		"turnsToBuild": 6,
-		"techRequired": "Engineering",
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"Can be built outside your borders", "Gives a defensive bonus of [50]%"],
-		"shortcutKey": "O"
-	},
-    // Great Person improvements
-	{
-		"name": "Academy",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 8,
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>",
-            "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-	{
-		"name": "Landmark",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"culture": 6,
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"Great Improvement", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-	{
-		"name": "Manufactory",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"production": 4,
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
-            "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-	{
-		"name": "Customs house",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"gold": 4,
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-	{
-		"name": "Holy site",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"faith": 6,
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-		"Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-	{
-		"name": "Citadel",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Turn this tile into a [Desert] tile <for [Chad] Civilizations> <after turn number [10]>","Turn this tile into a [Desert] tile <for [Chile] Civilizations> <after turn number [10]>",
-			"Great Improvement",
-			"Gives a defensive bonus of [100]%",
-			"Adjacent enemy units ending their turn take [30] damage",
-			"Can be built just outside your borders",
-			"Gain control over [all] tiles in a [1]-tile radius",
-			"Removes removable features when built",
-            "Will not be replaced by automated units"
-		]
 	}
 ]

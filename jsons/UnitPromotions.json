@@ -10,6 +10,12 @@
 "uniques": ["[+1] Movement"]
 },
 {
+"name": "Unavailable",
+"innerColor": [33, 33, 30],
+"outerColor": [255, 68, 61],
+"uniques": ["Cannot move"]
+},
+{
 "name": "Cushoon Rocket",
 "uniques": ["[+25]% Strength <when attacking>","[+5]% Strength <vs cities>"]
 },
@@ -43,14 +49,69 @@
 },
 {
 "name": "Capture I",
+"unitTypes": ["Civilian"],
 "uniques": ["May capture killed [Wounded] units <with [30]% chance>"]
 },
 {
 "name": "Capture II",
+"prerequisites": ["Capture I"],
+"unitTypes": ["Civilian"],
 "uniques": ["May capture killed [Wounded] units <with [60]% chance>"]
 },
 {
+"name": "Damage I",
+"unitTypes": ["Civilian"],
+"uniques": ["[+25]% Strength"]
+},
+{
+"name": "Damage II",
+"prerequisites": ["Damage I"],
+"unitTypes": ["Civilian"],
+"uniques": ["[+25]% Strength"]
+},
+{
+"name": "Damage III",
+"prerequisites": ["Damage II"],
+"unitTypes": ["Civilian"],
+"uniques": ["[+25]% Strength"]
+},
+{
+"name": "Arsonist I",
+"unitTypes": ["Civilian"],
+"uniques": ["[+25]% Strength <vs cities>"]
+},
+{
+"name": "Arsonist II",
+"prerequisites": ["Arsonist I"],
+"unitTypes": ["Civilian"],
+"uniques": ["[This Unit] heals [5] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
+},
+{
+"name": "Arsonist III",
+"prerequisites": ["Arsonist II"],
+"unitTypes": ["Civilian"],
+"uniques": ["[This Unit] heals [7] HP <upon ending a turn in a [Pillaged] tile>","[+15]% Strength <vs cities>"]
+},
+{
+"name": "Anti Cavalry I",
+"unitTypes": ["Civilian"],
+"uniques": ["[+35]% Strength <vs [Mounted] units>","[+35]% Strength <vs [Armored] units>"]
+},
+{
+"name": "Anti Cavalry II",
+"prerequisites": ["Arsonist I"],
+"unitTypes": ["Civilian"],
+"uniques": ["[+35]% Strength <vs [Mounted] units>","[+35]% Strength <vs [Armored] units>"]
+},
+{
+"name": "Anti Cavalry III",
+"prerequisites": ["Arsonist II"],
+"unitTypes": ["Civilian"],
+"uniques": ["[+35]% Strength <vs [Mounted] units>","[+35]% Strength <vs [Armored] units>"]
+},
+{
 "name": "Skirmish",
+"unitTypes": ["Civilian"],
 "uniques": ["Can move after attacking"]
 },
 {
@@ -67,7 +128,7 @@
 },
 {
 "name": "Ouboutou",
-"uniques": ["[+5]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"]
+"uniques": ["[+15]% Strength <vs [Wounded] units>", "[+15]% Strength <vs cities>"]
 },
 {
 "name": "Camel Odor",

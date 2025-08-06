@@ -1,5 +1,162 @@
 [
 	{
+	"name": "Punjab",
+	"leaderName": "Ranjit Singh",
+	"adjective": ["Punjab"],
+	"startBias":["River"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [247, 132, 45],
+	"innerColor": [24, 31, 56],
+	"uniqueName": "Sakar i-Khalsa",
+	"uniques": ["[-25]% Faith cost of generating Great Prophet equivalents <during a Golden Age>","[+2 Faith] from every [Monument] <during We Love The King Day>","[+2 Faith] per [3] population [in all cities] <during We Love The King Day>"],
+	"cities": ["Lahore", "Gujranwala", "Amritsar", "Multan", "Rawalpindi", "Faisalabad", "Sialkot", "Peshawar", "Jammu", "Gujrat", "Haripur", "Srinagar", "Shujabad"],
+	"spyNames": ["Bijai", "Chatar", "Kirpal", "Sharni"]
+    },
+	{
+	"name": "The Sao",
+	"leaderName": "Sougou",
+	"adjective": ["The Sao"],
+	"startBias":["Fresh Water"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [18, 18, 18],
+	"innerColor": [255, 166, 41],
+	"uniqueName": "Giants of the Chari River",
+	"uniques": ["[+25]% [Culture] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>","[+25]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>",
+    "[+1 Culture] from every [Flood plains]"],
+	"cities": ["Gaoui", "Makary", "Zilum", "Maiduguri", "Mdaga", "Kousséri", "Logone-Birni", "Mara", "Missene", "Gawi", "Maibe", "Bama"],
+	"spyNames": ["Dala Gumami", "Duna", "Dongo"]
+    },
+	{
+	"name": "The Ngarrindjeri",
+	"leaderName": "Ngurunderi",
+	"adjective": ["The Ngarrindjeri"],
+	"startBias":["Fresh Water"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [28, 39, 89],
+	"innerColor": [255, 233, 92],
+	"uniqueName": "Confederacy of Lakalinyeri",
+	"uniques": ["[+20]% growth [in all cities] <during We Love The King Day>",
+	"[+15]% Production when constructing [Settler] units [in all cities] <during We Love The King Day>",
+	"[+2 Gold] from [Camp] tiles [in all cities] <during We Love The King Day>","[+2 Gold] from [Fishing Boats] tiles [in all cities] <during We Love The King Day>","[+2 Gold] from [Mine] tiles [in all cities] <during We Love The King Day>"],
+	"cities": ["Pomberuk", "Raukkan", "Tagalang", "Murungun", "Lalangenggul", "Kauwira", "Peindjalong", "Kumarangk", "Parawa", "Parnka Point"],
+	"spyNames": ["Matummeri", "Waiungare", "Thukabi", "David Unaipon"]
+    },
+	{
+	"name": "Genoa",
+	"leaderName": "Simone Boccanegra",
+	"adjective": ["Genoa"],
+	"startBias":["Coast"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [228, 255, 171],
+	"innerColor": [122, 43, 17],
+	"uniqueName": "Compagna Communis",
+	"uniques": ["[+2 Gold, +2 Culture] from every specialist [in all cities]","[Great Merchant] is earned [+35]% faster"],
+	"cities": ["Genoa", "Caffa", "Galata", "Porto Torres", "Sassari", "Ajaccio", "Ardar", "La Spezia", "Bastia", "Mytilene", "Tana", "Chios", "Samos", "Samsun", "Trebizond", "Chiavari"],
+	"spyNames": ["Francesco", "Bartolomeo", "Andrea", "Marino", "Paganino"]
+    },
+	{
+	"name": "Sealand",
+	"leaderName": "Paddy Roy Bates",
+	"adjective": ["Sealand"],
+	"startBias":["Coast"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [22, 38, 18],
+	"innerColor": [228, 255, 171],
+	"uniqueName": "E Mare Libertas",
+	"uniques": ["[+2 Gold] from all [Culture] buildings","[+1 Gold] from all [Monument] buildings",
+	"[+20]% City Strength from defensive buildings",
+	"Cannot build [Settler] units","May not annex cities","All newly-trained [Settler] units [in all cities] receive the [Unavailable] promotion",
+	"Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+30]% of what they produce for themselves",
+	"Enables embarkation for land units","Enables [All] units to enter ocean tiles"],
+	"cities": ["HM Fort Roughs"],
+	"spyNames": ["Joan Bates", "Michael Bates", "Penny Bates"]
+    },
+	{
+	"name": "The Sama-Bajau",
+	"leaderName": "Mat Salleh",
+	"adjective": ["The Sama-Bajau"],
+	"startBias":["Coast"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [39, 28, 87],
+	"innerColor": [249, 252, 174],
+	"uniqueName": "A Princess Adrift",
+	"uniques": ["Enables embarkation for land units","[-70]% maintenance costs <for [Mounted] units>","[-80]% maintenance costs <for [Water] units>"],
+	"cities": ["Kota Kinabalu", "Sugut", "Sandakan", "Ranau", "Tambunan", "Kota Belud", "Semporna", "Papar", "Tuaran", "Simunul", "Zamboanga", "Capul", "Tagbilaran", "Bokori"],
+	"spyNames": ["Mustapha Harun", "Mohammad Said Keruak", "Sakaran Dandai", "Ahmadshah Abdullah"]
+    },
+	{
 	"name": "Lydia",
 	"leaderName": "Croesus",
 	"adjective": ["Lydia"],
