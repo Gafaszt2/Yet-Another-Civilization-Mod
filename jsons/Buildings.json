@@ -1,6 +1,54 @@
 
 [ 
 	{
+		"name": "Dava",
+		"uniqueTo": "Dacia",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["New [Military] units start with [4] XP [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Inyangamugayo",
+	    "uniqueTo": "Rwanda",
+		"replaces": "Courthouse",
+		"happiness":1,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "I'joru",
+		"uniqueTo": "Casarabe",
+		"replaces": "Water Mill",
+		"maintenance": 2,
+		"food": 3,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Oceanic Accord II",
+		"uniqueTo": "The Marshall Islands",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredBuilding": "Oceanic Accord I",
+		"uniques": ["Costs [20] [Iroijlaplap Points]","[+20]% [Happiness] [in this city]","[+20]% [Culture] [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	},
+	{
+		"name": "Oceanic Accord I",
+		"uniqueTo": "The Marshall Islands",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Monument",
+		"uniques": ["Costs [20] [Iroijlaplap Points]","[+15]% [Happiness] [in this city]","[+15]% [Culture] [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	},
+	{
 		"name": "Phaundari",
 		"uniqueTo": "Punjab",
 		"replaces": "Armory",

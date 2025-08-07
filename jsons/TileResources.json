@@ -123,6 +123,11 @@
 		"uniques":["Not shown on world screen <without [Racism]>","Cannot be traded","Stockpiled"]
 	},
 	{
+		"name": "Iroijlaplap Points",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Iroijlaplap Points]>","Cannot be traded","Stockpiled"]
+	},
+	{
 		"name": "Reduced Head",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Reduced Head]>","Cannot be traded","Stockpiled"]

@@ -1,5 +1,156 @@
 [
 	{
+	"name": "Dacia",
+	"leaderName": "Burebista",
+	"adjective": ["Dacia"],
+	"startBias":["Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [242, 213, 199],
+	"innerColor": [122, 99, 88],
+	"uniqueName": "Murus Dacicus",
+	"uniques": ["Damage to garrison from nuclear attacks [-50]% [in all cities]","Population loss from nuclear attacks [-50]% [in all cities]",
+	"[+35]% City Strength from defensive buildings","[+35]% Strength for cities"],
+	"cities": ["Sarmizegetusa", "Costești-Cetățuie", "Costești-Blidaru", "Piatra Roșie", "Bănița", "Căpâlna", "Acidava", "Argedava", "Buridava"],
+	"spyNames": ["Decebalus", "Rubobostes", "Oroles", "Cotiso"]
+    },
+	{
+	"name": "Rwanda",
+	"leaderName": "Rwabugiri",
+	"adjective": ["Rwanda"],
+	"startBias":["Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [255, 196, 0],
+	"innerColor": [168, 0, 0],
+	"uniqueName": "Ubuhake",
+	"uniques": ["[+1 Production] from [Pasture] tiles [in all cities]","[+25]% Strength <when fighting in [Hill] tiles>"],
+	"cities": ["Kigali", "Nyanza", "Gitarama", "Kibuye", "Butare", "Gisenyi", "Cyangugu", "Byumba", "Kibungo", "Ruhengeri", "Kibeho", "Rwamagana"],
+	"spyNames": ["Bisangwa", "Amahoro", "Gahigi", "Mazimpaka"]
+    },
+	{
+	"name": "Yanomami",
+	"leaderName": "Davi Kopenawa",
+	"adjective": ["Yanomami"],
+	"startBias":["Jungle"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [56, 12, 12],
+	"innerColor": [255, 218, 181],
+	"uniqueName": "The Falling Sky",
+	"uniques": ["[+1 Faith] from [Forest] tiles [in all cities]","[+1 Faith] from [Jungle] tiles [in all cities]","[+1 Faith] from [Camp] tiles [in all cities]","[+2 Culture] from [Natural Wonder] tiles [in all cities]","May choose [1] additional belief(s) of any type when [founding] a religion"],
+	"cities": ["Tayariteri", "Shuimuiteri", "Patahamateri", "Hasupuweteri", "Hiomisiteri", "Mokaritateri", "Hawaroweteri", "Yehiopateri", "Nanimapuweteri"],
+	"spyNames": ["Henaowe", "Akiwe", "Oporawe", "Irokawe", "Shatakewe"]
+    },
+	{
+	"name": "Casarabe",
+	"leaderName": "Grigotá",
+	"adjective": ["Casarabe"],
+	"startBias":["Plains","Flood plains"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [214, 206, 206],
+	"innerColor": [158, 0, 0],
+	"uniqueName": "Llanos de Moxos",
+	"uniques": ["[+2 Culture] from [Flood plains] tiles [in all cities]","[+30]% [Culture] [in all cities] <during a Golden Age>"],
+	"cities": ["San Ignacio de Moxos", "Trinidad", "Casarabe", "Santa Ana del Yacuma", "Baures", "Loreto", "San Javier", "San Francisco de Borja"],
+	"spyNames": ["Goligoli", "Tundi", "Vitupué", "Gregorio Gonzáles"]
+    },
+	{
+	"name": "The Marshall Islands",
+	"leaderName": "Amata Kabua",
+	"adjective": ["The Marshall Islands"],
+	"startBias":["Atoll"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [140, 54, 0],
+	"innerColor": [222, 222, 255],
+	"uniqueName": "Jolet jen Anij",
+	"uniques": ["[+1 Faith] from [Plantation] tiles [in all cities]","[+1 Faith] from [Fishing Boats] tiles [in all cities]","[+2 Culture] from [Atoll] tiles [in all cities]","[+5 Science] from [Fallout] tiles [in all cities]"],
+	"cities": ["Majuro", "Kwajalein", "Jaluit", "Ailinglaplap", "Arno", "Wotje", "Namu", "Mili", "Ebon", "Kili"],
+	"spyNames": ["Kino", "Kunio", "Imata", "Kessai", "Litokwa", "Ruben"]
+    },
+	{
+	"name": "Anangu",
+	"leaderName": "Tiger Tjalkalyirri",
+	"adjective": ["Anangu"],
+	"startBias":["Desert"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [16, 30, 158],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Tjukurpa",
+	"uniques": ["[+1 Culture] from all [Culture] buildings","[+3 Culture] from [Natural Wonder] tiles [in all cities]","[+3 Culture] from [Holy site] tiles [in all cities]"],
+	"cities": ["Mutitjulu", "Pukatja", "Warakurna", "Amata", "Milyirrtjarra", "Walungurru", "Kaltukatjara", "Indulkana", "Papunya", "Kaltjiti", "Mimili", "Aputula"],
+	"spyNames": ["Wikilyiri", "Kunmanara", "Nyiru", "Ilyatjari", "Ngupulya", "Tjungkara", "Tjalara"]
+    },
+	{
 	"name": "Punjab",
 	"leaderName": "Ranjit Singh",
 	"adjective": ["Punjab"],
@@ -5271,7 +5422,7 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [61, 32, 32],
+		"outerColor": [255, 255, 255],
 		"innerColor": [235, 64, 52],
 		"uniqueName": "Easter Island",
 		"uniques": ["[+20]% Production when constructing [Water] units [in all cities]"],
@@ -6351,9 +6502,9 @@
 	},
 
 {
-		"name": "Assyria",
+		"name": "Atour",
 		"leaderName": "Agha Petros",
-		"adjective": ["Assyria"],
+		"adjective": ["Atour"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Domination",
 		
@@ -6372,7 +6523,8 @@
 		"outerColor": [75, 62, 79],
 		"innerColor": [255, 199, 110],
 		"uniqueName": "Khigga",
-		"uniques": ["[+1 Culture] from all [Amphitheater] buildings","[+1 Happiness] from all [Amphitheater] buildings","[+1 Science] from all [Library] buildings","[+1 Science] from all [University] buildings","[+1 Faith] from all [University] buildings"],
+		"uniques": ["[+20]% Production when constructing [Melee] units [in all cities]","May buy [Culture] buildings with [Faith] [in all cities]",
+			"[+1 Culture] per [3] population [in all cities]","[+1 Science] per [3] population [in all cities]"],
 		"cities": ["Nineveh",
 "Ashur",
 "Nimrud",
@@ -7172,7 +7324,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
 		"outerColor": [245, 72, 66],
-		"innerColor": [50, 61, 252],
+		"innerColor": [5, 18, 94],
 		"uniqueName": "Nordic Innovation",
 		"uniques": ["[+1 Faith, +1 Culture] in cities on [Tundra] tiles","[+1 Science] per [3] social policies adopted <starting from the [Modern era]>","[+1 Gold] from every [Camp]","[+15]% Production when constructing [Warrior] units [in all cities]","[+10]% Production when constructing [Scout] units [in all cities]"],
 		"cities": ["Oslo",

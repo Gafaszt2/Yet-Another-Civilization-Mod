@@ -20,6 +20,12 @@
 "uniques": ["[+25]% Strength <when attacking>","[+5]% Strength <vs cities>"]
 },
 {
+"name": "Poisonous",
+"innerColor": [33, 33, 30],
+"outerColor": [84, 222, 29],
+"uniques": ["[+25]% Strength <vs [Wounded] units>"]
+},
+{
 "name": "Charged Attack",
 "uniques": ["[+25]% Strength <when attacking>"]
 },
