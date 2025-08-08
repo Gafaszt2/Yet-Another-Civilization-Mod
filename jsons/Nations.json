@@ -1,5 +1,57 @@
 [
 	{
+		"name": "Araucanía and Patagonia",
+		"leaderName": "Orelie Antoine de Tounens",
+		"adjective": ["Araucanía and Patagonia"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [155, 242, 188],
+		"innerColor": [9, 10, 15],
+		"uniqueName": "Land of Giants",
+		"uniques": ["[+1 Food] from [Pillaged] tiles [in all cities]",
+		"Gain a free [Pillaged Estancia] [in all cities]","[+2 Food] from every [Great Improvement]"],
+		"cities": ["Coyhaique","El Chalten","El Calafate","Ushuaia","Puyuhuapi","Frutillar","Puerto Montt","Castro","Puerto Natales","Punta Arenas"],
+	},
+	{
+	"name": "Argentine Confederation",
+	"leaderName": "Juan Manuel de Rosas",
+	"adjective": ["Argentine Confederation"],
+	"startBias":["Plains","Coast"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [24, 23, 41],
+	"innerColor": [255, 54, 54],
+	"uniqueName": "Savage Pampas",
+	"uniques": ["[+25]% Production when constructing [Water Mill] buildings [in all cities]","[+25]% Production when constructing [Granary] buildings [in all cities]",
+		"[+1 Culture] from [Pasture] tiles [in all cities]","[+1 Gold] from [Pasture] tiles [in capital]"],
+	"cities": ["Buenos Aires","Paraná","Rosario","Córdoba","Salta","Mendoza","Santa Fe","La Rioja","Santiago del Estero","Corrientes"],
+	"spyNames": ["Julián","Juan","Felipe","Nicolás"]
+    },
+	{
 	"name": "Dacia",
 	"leaderName": "Burebista",
 	"adjective": ["Dacia"],
@@ -8588,7 +8640,7 @@
 		"outerColor": [250, 230, 230],
 		"innerColor": [117, 15, 15],
 		"uniqueName": "Glory of the World",
-		"uniques": ["[-50]% City-State Influence degradation", "[+2 Gold] from every [Temple]", "[+1 Production] from every [Marsh]"],
+		"uniques": ["[Great General] is earned [+50]% faster","[-100]% maintenance cost for [Food] buildings [in all cities]","[-100]% maintenance cost for [Faith] buildings [in all cities]"],
 		"cities": ["Tiflis", "Guria" ,"Imereti", "Kakheti", "Kvemo Kartli", "Mtskheta", "Racha", "Zemo Svaneti", "Samtskhe",
 			"Javakheti",
 			"Shida Kartli", "Batumi"]
@@ -9456,15 +9508,8 @@
 		"outerColor": [148, 112, 255],
 		"innerColor": [13, 10, 23],
 		"uniqueName": "Land of Differences",
-		"uniques": ["[+1 Gold] from every [Camp]","[+10]% [Gold] [in all cities]","[+10]% [Culture] [in all cities]",
-		"[-10]% [Happiness] [in all cities] <when above [7] [Racism]>","[-5]% [Production] [in all cities] <when above [7] [Racism]>",
-	"Instantly provides [2] [Racism] <upon entering the [Industrial era]>",
-	"Instantly provides [2] [Racism] <upon adopting [Order]>",
-	"Instantly provides [2] [Racism] <upon adopting [Autocracy]>",
-	"Instantly provides [2] [Racism] <upon discovering [Gunpowder] technology>",
-	"Instantly provides [1] [Racism] <upon discovering [Industrialization] technology>",
-    "Instantly provides [2] [Racism] <upon entering the [Modern era]>",
-    "Instantly consumes [9] [Racism] <upon entering the [Atomic era]>"],
+		"uniques": ["[+1 Culture] from [Luxury resource] tiles [in all cities] <while the empire is happy>","[+1 Food] from [Pasture] tiles [in all cities] <during a Golden Age> <while the empire is happy>",
+			"[+2 Gold] from every [Camp]","[+2 Gold] from every [Ivory]"],
 		"cities": ["Johannesburg","Pretoria","Durban","Bloemfontein","Soweto","Elizabeth Port","Nelspruit","Kimberley","Polokwane"]
 	},
         {
@@ -9522,5 +9567,212 @@
 			"Gobir","Rano","Biram","Kebbi",
 			"Zamfara","Yauri"],
         "spyNames": ["Sir Charles"]
+	},
+	/////// CITY STATES
+	{
+		"name": "Arica",
+		"adjective": ["Arica"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Arica"]
+	},
+	{
+		"name": "Ayn Ghazal",
+		"adjective": ["Ayn Ghazal"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [235, 64, 52],
+		"cities": ["Ayn Ghazal"]
+	},
+	{
+		"name": "Buni",
+		"adjective": ["Buni"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 171, 79],
+		"cities": ["Buni"]
+	},
+	{
+		"name": "Burgstallkogel",
+		"adjective": ["Burgstallkogel"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 206, 44],
+		"cities": ["Burgstallkogel"]
+	},
+	{
+		"name": "Djaki Kundu",
+		"adjective": ["Djaki Kundu"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [185, 199, 38],
+		"cities": ["Djaki Kundu"]
+	},
+	{
+		"name": "Durankulak",
+		"adjective": ["Durankulak"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [145, 214, 49],
+		"cities": ["Durankulak"]
+	},
+	{
+		"name": "El Argar",
+		"adjective": ["El Argar"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [50, 181, 33],
+		"cities": ["El Argar"]
+	},
+	{
+		"name": "El Cangrejal",
+		"adjective": ["El Cangrejal"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [66, 212, 117],
+		"cities": ["El Cangrejal"]
+	},
+	{
+		"name": "Ipiutak",
+		"adjective": ["Ipiutak"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [55, 237, 198],
+		"cities": ["Ipiutak"]
+	},
+	{
+		"name": "La Campana",
+		"adjective": ["La Campana"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [99, 201, 235],
+		"cities": ["La Campana"]
+	},
+
+
+	{
+		"name": "Leluh",
+		"adjective": ["Leluh"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 136, 232],
+		"cities": ["Leluh"]
+	},
+	{
+		"name": "Los Millares",
+		"adjective": ["Los Millares"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [79, 73, 191],
+		"cities": ["Los Millares"]
+	},
+	{
+		"name": "Sanxingdui",
+		"adjective": ["Sanxingdui"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [196, 83, 252],
+		"cities": ["Sanxingdui"]
+	},
+	{
+		"name": "Sikusiilaq",
+		"adjective": ["Sikusiilaq"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [219, 53, 203],
+		"cities": ["Sikusiilaq"]
+	},
+	{
+		"name": "Solnitsata",
+		"adjective": ["Solnitsata"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 70, 145],
+		"cities": ["Solnitsata"]
+	},
+	{
+		"name": "Villalba",
+		"adjective": ["Villalba"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 218, 166],
+		"cities": ["Villalba"]
+	},
+	{
+		"name": "Yeha",
+		"adjective": ["Yeha"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [199, 197, 250],
+		"cities": ["Yeha"]
 	}
 ]

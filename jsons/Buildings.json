@@ -1,6 +1,30 @@
 
 [ 
 	{
+		"name": "Pillaged Estancia",
+		"uniqueTo": "Araucanía and Patagonia",
+		"replaces": "Granary",
+		"food": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Mazorca",
+		"uniqueTo": "Argentine Confederation",
+		"replaces": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Promotes all spies [1] time(s) <when espionage is enabled>",
+		"[+33]% Production when constructing [Mounted] units [in this city] <when espionage is disabled>",
+		"Removes extra unhappiness from annexed cities",
+		"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
 		"name": "Dava",
 		"uniqueTo": "Dacia",
 		"replaces": "Walls",
@@ -1059,7 +1083,7 @@
 		"name": "Lapa",
 		"uniqueTo": "South Africa",
 		"replaces": "Garden",
-		"uniques": ["Only available <when below [5] [Racism]> <before discovering [Ecology]>","[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"food": 1,
 		"gold": 1,
