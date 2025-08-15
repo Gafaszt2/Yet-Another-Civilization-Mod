@@ -1,6 +1,53 @@
 
 [ 
 	{
+		"name": "Mazar",
+		"uniqueTo": "The Uyghur",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Faith] from [Desert] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Panggung Sangga Buwana",
+		"uniqueTo": "Surakarta",
+		"replaces": "National Epic",
+		"cost": 125,
+		"cityHealth":10,
+		"culture": 1,
+		"faith": 3,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Rumah Rakit",
+		"uniqueTo": "Palembang",
+		"replaces": "Water Mill",
+		"specialistSlots":{"Merchant":1},
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"gold": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Comment [+1 Merchant slot]","Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Haw",
+		"uniqueTo": "Shan",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Gold, +1 Culture] per [4] population [in this city]","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Pillaged Estancia",
 		"uniqueTo": "Araucanía and Patagonia",
 		"replaces": "Granary",

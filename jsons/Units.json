@@ -2,6 +2,48 @@
 
 [
 	{
+		"name": "Chakar",
+		"uniqueTo": "The Uyghur",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 22,
+		"cost": 110,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Comment [Starts with 20 XP]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Lurah",
+		"uniqueTo": "Surakarta",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": ["All adjacent units heal [8] HP when healing",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 3
+	},
+	{
+		"name": "Tentra",
+		"uniqueTo": "Palembang",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"uniques":["[+33]% Strength <when defending>"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Huampelen",
 		"uniqueTo": "Araucanía and Patagonia",
 		"replaces": "Lancer",

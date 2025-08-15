@@ -1,5 +1,105 @@
 [
 	{
+		"name": "The Uyghur",
+		"leaderName": "Bayanchur Khan",
+		"adjective": ["The Uyghur"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [195, 196, 214],
+		"innerColor": [5, 5, 5],
+		"uniqueName": "The Nine Clans",
+		"uniques": ["[-55]% unhappiness from the number of cities","[+25]% Production when constructing [Chakar] units [in all cities] <during a Golden Age>","New [Chakar] units start with [20] XP [in capital] <hidden from users>"],
+		"cities": ["Ordu-Baliq", "Ötüken", "Turpan", "Krorän", "Bai Baliq", "Por-Bazhyn", "Karakhoja", "Beshbalik", "Kashgar", "Karasahr"]
+	},
+	{
+		"name": "Surakarta",
+		"leaderName": "Pakubuwana IX",
+		"adjective": ["Surakarta"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 221, 0],
+		"innerColor": [8, 12, 97],
+		"uniqueName": "Serat Kalatida",
+		"uniques": ["[+33]% [Culture] from every [Great Improvement]"],
+		"cities": ["Surakarta", "Baluwarti", "Klaten", "Boyolali", "Sukowati", "Pajang", "Kedu", "Bagelen", "Cilacap", "Banyumas", "Bantar", "Lebaksiu", "Balapulang"]
+	},
+	{
+		"name": "Palembang",
+		"leaderName": "Mahmud Badaruddin II",
+		"adjective": ["Palembang"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [46, 143, 78],
+		"uniqueName": "Never a Tame Tiger",
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>","[+1 Gold] from every [Merchant]","[+33]% Strength <when fighting in [Annexed] tiles>"],
+		"cities": ["Palembang", "Lubuk Linggau", "Pagar Alam", "Prabumulih", "Pangkalan Balai", "Tebing Tinggi", "Lahat", "Muara Enim", "Sekayu", "Muara Beliti"]
+	},
+{
+		"name": "Shan",
+		"leaderName": "Sawlon",
+		"adjective": ["Shan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [163, 125, 64],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Valley of Princes",
+		"uniques": ["[+1 Culture] from [Road] tiles [in all cities] <after founding a religion>","[+2 Culture] from every [Great Improvement]"],
+		"cities": ["Mong Yang", "Hsipaw", "Hsenwi", "Mong Mit", "Mong Kawng", "Kale", "Mong Mao", "Keng Tung", "Mong Nai", "Yawnghwe", "Mong Gut"]
+	},
+	{
 		"name": "Araucanía and Patagonia",
 		"leaderName": "Orelie Antoine de Tounens",
 		"adjective": ["Araucanía and Patagonia"],
