@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Productive",
+        "friendBonusUniques": [
+            "[+10]% [Production] [in capital]"
+        ],
+        "allyBonusUniques": [
+            "[+20]% [Production] [in all cities]"
+        ],
+        "color": [133, 81, 53]
+    }
+
+]

@@ -1,6 +1,18 @@
 
 [ 
 	{
+		"name": "Cyclopean Walls",
+		"uniqueTo": "Mycenae",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 53,
+		"culture":1,
+		"gold":1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+10]% [Production] [in this city] <when at war>","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Mazar",
 		"uniqueTo": "The Uyghur",
 		"replaces": "Temple",

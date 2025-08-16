@@ -2,6 +2,20 @@
 
 [
 	{
+		"name": "Promachos",
+		"uniqueTo": "Mycenae",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+25]% Strength <when attacking>","[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Chakar",
 		"uniqueTo": "The Uyghur",
 		"replaces": "Knight",

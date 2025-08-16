@@ -1,5 +1,30 @@
 [
 	{
+		"name": "Mycenae",
+		"leaderName": "Agamemnon",
+		"adjective": ["Mycenae"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [36, 29, 24],
+		"innerColor": [230, 221, 216],
+		"uniqueName": "Trojan War",
+		"uniques": ["Starts with [Sailing]","[+66]% XP gained from combat","[+50]% Yield from pillaging tiles","[+33]% Strength <vs [City-States] units>"],
+		"cities": ["Mycenae", "Pylos", "Tiryns", "Athens", "Lerna", "Thebes", "Argos", "Gla", "Aigeira", "Troezen", "Menelaion", "Vrauron", "Iolcos", "Orchomenos"]
+	},
+	{
 		"name": "The Uyghur",
 		"leaderName": "Bayanchur Khan",
 		"adjective": ["The Uyghur"],
@@ -9874,5 +9899,45 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [199, 197, 250],
 		"cities": ["Yeha"]
+	},
+
+
+
+
+    {
+		"name": "Kelmis",
+		"adjective": ["Kelmis"],
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [189, 120, 83],
+		"cities": ["Kelmis"]
+	},
+	{
+		"name": "Fiume",
+		"adjective": ["Fiume"],
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [174, 184, 42],
+		"cities": ["Fiume"]
+	},
+    {
+		"name": "Klaipėda",
+		"adjective": ["Klaipėda"],
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [60, 82, 194],
+		"cities": ["Klaipėda"]
 	}
 ]
