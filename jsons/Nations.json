@@ -1,5 +1,80 @@
 [
 	{
+		"name": "Dominican Republic",
+		"leaderName": "Luis Abinader",
+		"adjective": ["Dominican Republic"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [23, 31, 69],
+		"innerColor": [255, 209, 219],
+		"uniqueName": "European-Taino Culture",
+		"uniques": ["[Gold] cost of purchasing [Worker] units [-15]%","[+30]% of excess happiness converted to [Culture]","[+10]% [Happiness] from every [Plantation]"],
+		"cities": ["Santo Domingo","Sabana de la Mar","Barahona","La Vega","San Francisco de Macorís","San Pedro de Macorís","Cevicos","El Seibo","Moca","Puerto Plata"]
+	},
+	{
+		"name": "Suriname",
+		"leaderName": "Johan Ferrier",
+		"adjective": ["Suriname"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [235, 149, 52],
+		"innerColor": [23, 31, 69],
+		"uniqueName": "Optimism in the Darkest Days",
+		"uniques": ["[-50]% maintenance cost for [Science] buildings [in all cities]","[-50]% maintenance cost for [Food] buildings [in all cities]","[-50]% maintenance cost for [Culture] buildings [in all cities]"],
+		"cities": ["Paramaribo", "Lelydorp", "Nieuw Nickerie", "Nieuw Amsterdam", "Onverwacht", "Albina", "Groningen", "Brokopondo"]
+	},
+	{
+		"name": "The Sea Peoples",
+		"leaderName": "Sisera",
+		"adjective": ["The Sea Peoples"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 223, 135],
+		"innerColor": [23, 21, 17],
+		"uniqueName": "Pirates of the Great Green",
+		"uniques": ["Starts with [Sailing]","[+100]% [Culture] from City-States","[+1 Gold] from [Coast] tiles [in all cities]","[+44]% Yield from pillaging tiles"],
+		"cities": ["Dor", "Akko", "Gaza", "Ashdod", "Ashkelon", "Gath", "Ekron", "Hazor", "Megiddo", "Mycenae", "Pylos", "Phaistos", "Knossos", "Miletus"]
+	},
+	{
 		"name": "Mycenae",
 		"leaderName": "Agamemnon",
 		"adjective": ["Mycenae"],

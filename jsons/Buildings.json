@@ -1,6 +1,27 @@
 
 [ 
 	{
+        "name": "Aduana Dominicana",
+		"uniqueTo": "Dominican Republic",
+		"replaces": "Constabulary",
+        "cost": 160,
+        "maintenance": 0,
+        "hurryCostModifier": 10,
+        "uniques": ["[-35]% enemy spy effectiveness [in this city] <when espionage is enabled>",
+		"[+2 Culture] from every specialist [in this city] <when espionage is disabled>"],
+        "requiredTech": "Banking"
+    },
+	{
+		"name": "Porknokker",
+		"uniqueTo": "Suriname",
+		"replaces": "Mint",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+4 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Cyclopean Walls",
 		"uniqueTo": "Mycenae",
 		"replaces": "Walls",

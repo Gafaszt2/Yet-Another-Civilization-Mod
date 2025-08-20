@@ -2,6 +2,58 @@
 
 [
 	{
+		"name": "Calié",
+		"uniqueTo": "Dominican Republic",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 133,
+		"requiredTech": "Combustion",
+		"uniques": ["Consumes [1] [Oil]","[+10]% Strength bonus for [Military] units within [1] tiles","[-10]% Strength for enemy [All] units in adjacent [All] tiles"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Nationaal Leger",
+		"uniqueTo": "Suriname",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious","Great Generals II"],
+		"uniques": ["[+55]% XP gained from combat","[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Sherden Warrior",
+		"uniqueTo": "The Sea Peoples",
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques": ["[+33]% Strength <when [Embarked]>","May upgrade to [Spearman] through ruins-like effects"],
+		"promotions":["Amphibious"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Bird-Headed Warship",
+		"uniqueTo": "The Sea Peoples",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 10,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"uniques": ["[+55]% XP gained from combat","Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"promotions":["Coastal Raider I"],
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Promachos",
 		"uniqueTo": "Mycenae",
 		"replaces": "Spearman",
