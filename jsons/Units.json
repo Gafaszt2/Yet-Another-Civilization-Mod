@@ -2,6 +2,72 @@
 
 [
 	{
+		"name": "Desert Force",
+		"uniqueTo": "Jordan",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 345,
+		"uniques":["Double movement in [Desert]","[+50]% Strength <when fighting in [Desert] tiles>","[This Unit] heals [5] HP <upon ending a turn in a [Desert] tile>"],
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Armoured Ambulance",
+		"uniqueTo": "Jordan",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 69,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["Cannot attack","Comment [Can only defend]","[+33]% Strength <when defending>","[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Äpändi",
+		"uniqueTo": "East Turkestan",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Can transform to [Great Prophet]","Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]","Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Uyghur Division",
+		"uniqueTo": "East Turkestan",
+		"replaces": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 52,
+		"cost": 320,
+		"uniques":["Earn [33]% of killed [Military] unit's [Strength] as [Golden Age points]","Earn [55]% of killed [Military] unit's [Strength] as [Gold]"],
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Pushun-Dar",
+		"uniqueTo": "Qoyunlu",
+		"replaces": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 87,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+1] Movement <when stacked with a [Worker] unit>","[+20]% Strength <when stacked with a [Worker] unit>","[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Calié",
 		"uniqueTo": "Dominican Republic",
 		"unitType": "Civilian",

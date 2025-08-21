@@ -1,5 +1,83 @@
 [
 	{
+		"name": "Jordan",
+		"leaderName": "Hussein I",
+		"adjective": ["Jordan"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [56, 13, 21],
+		"innerColor": [255, 160, 71],
+		"uniqueName": "The Last Peacemaker",
+		"uniques": ["[+1 Production] from [Grassland] tiles without [Farm] [in all cities]",
+		            "[+1 Production] from [Desert] tiles without [Farm] [in all cities]",
+			        "[-50]% City-State Influence degradation <upon gaining a [Great Merchant] unit> <for [6] turns>",
+		            "[-50]% City-State Influence degradation <upon gaining a [Great General] unit> <for [6] turns>"],
+		"cities": ["Kashgar","Ürümqi","Khotan","Ghulja","Aksu","Kumul","Turfan","Korla","Qarqan","Yangi Hissar"]
+	},
+	{
+		"name": "East Turkestan",
+		"leaderName": "Sabit Damolla",
+		"adjective": ["East Turkestan"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [140, 219, 255],
+		"innerColor": [30, 55, 66],
+		"uniqueName": "Blue Banner of Revolution",
+		"uniques": ["Earn [35]% of killed [Land] unit's [Strength] as [Faith]","Free [Scout] appears <upon declaring friendship> <with [66]% chance>","[+70]% Great Person generation [in all cities] <upon conquering a city> <for [6] turns>"],
+		"cities": ["Kashgar","Ürümqi","Khotan","Ghulja","Aksu","Kumul","Turfan","Korla","Qarqan","Yangi Hissar"]
+	},
+	{
+		"name": "Qoyunlu",
+		"leaderName": "Uzun Hasan",
+		"adjective": ["Qoyunlu"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [240, 227, 216],
+		"innerColor": [18, 18, 18],
+		"uniqueName": "Turkmen of the Two Sheep",
+		"uniques": ["When spreading religion to a city, gain [3] times the amount of followers of other religions as [Culture]","[+22]% Strength <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Tabriz","Ercis","Baghdad","Mosul","Diyarbakir","Bayburt","Isfahan","Palu","Ergani","Maragha"]
+	},
+	{
 		"name": "Dominican Republic",
 		"leaderName": "Luis Abinader",
 		"adjective": ["Dominican Republic"],

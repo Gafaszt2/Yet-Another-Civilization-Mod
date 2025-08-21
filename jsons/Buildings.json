@@ -1,6 +1,17 @@
 
 [ 
 	{
+		"name": "Kral Düşərgəsi",
+		"uniqueTo": "Qoyunlu",
+		"replaces": "Water Mill",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [Hill]","New [Military] units start with [4] XP [in this city]","[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "The Wheel"
+	},
+	{
         "name": "Aduana Dominicana",
 		"uniqueTo": "Dominican Republic",
 		"replaces": "Constabulary",
