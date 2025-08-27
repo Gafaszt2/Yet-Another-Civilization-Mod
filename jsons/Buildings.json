@@ -1,6 +1,27 @@
 
 [ 
 	{
+		"name": "Apacheta",
+		"uniqueTo": "The Aymara",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 0,
+		"requiredTech": "Pottery",
+		"uniques": ["[+1 Faith] from each Trade Route","[+1 Faith] from [Great Improvement] tiles [in this city]","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Zupka",
+		"uniqueTo": "The Diaguita",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+2 Culture] <upon declaring war with a major Civilization> <for [12] turns>","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Kral Düşərgəsi",
 		"uniqueTo": "Qoyunlu",
 		"replaces": "Water Mill",

@@ -2,6 +2,43 @@
 
 [
 	{
+		"name": "Llama Settler",
+		"uniqueTo": "The Aymara",
+		"replaces": "Settler",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>","Can pass through impassable tiles","[+1] Movement <in [Hill] tiles>", "Excess Food converted to Production when under construction",
+			"Requires at least [1] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Alaec",
+		"uniqueTo": "Moche",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": ["[+1] Sight","Double movement in [Hill]",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Titakin",
+		"uniqueTo": "The Diaguita",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": ["Invisible to non-adjacent units","[-22]% Strength for enemy [Military] units in adjacent [All] tiles",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Desert Force",
 		"uniqueTo": "Jordan",
 		"replaces": "Infantry",

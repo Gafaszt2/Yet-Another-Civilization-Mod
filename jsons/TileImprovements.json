@@ -46,6 +46,15 @@
 		"uniques":["[+2 Gold, +1 Production] for each adjacent [River]","Cannot be built on [Bonus resource] tiles","Cannot be built on [Strategic resource] tiles","Cannot be built on [Luxury resource] tiles"]
     },
 	{
+		"name": "Huaca",
+		"uniqueTo": "Moche",
+		"terrainsCanBeBuiltOn": ["Hill"],
+        "techRequired": "Masonry",
+		"faith":2,
+		"turnsToBuild": 7,
+		"uniques":["Must be next to [Huaca]","[+1 Faith, +1 Gold] for each adjacent [Holy site]","[+2 Culture] <after discovering [Flight]>"]
+    },
+	{
 		"name": "Shabono",
 		"uniqueTo": "Yanomami",
 		"terrainsCanBeBuiltOn": ["Jungle"],

@@ -1,5 +1,86 @@
 [
 	{
+		"name": "The Aymara",
+		"leaderName": "Tupac Katari",
+		"adjective": ["The Aymara"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [143, 143, 143],
+		"uniqueName": "Dualism and Reciprocity",
+		"uniques": ["All newly-trained [Sword] units [in all cities] receive the [Drill I] promotion <with [33]% chance>",
+		    "All newly-trained [Gunpowder] units [in all cities] receive the [Drill I] promotion <with [33]% chance>",
+			"All newly-trained [Mounted] units [in all cities] receive the [Drill I] promotion <with [33]% chance>",
+			"All newly-trained [Gunpowder] units [in all cities] receive the [Additional Movement] promotion <with [55]% chance>",
+			"All newly-trained [Mounted] units [in all cities] receive the [Additional Movement] promotion <with [55]% chance>",
+			"Allied City-States provide [Food] equal to [+44]% of what they produce for themselves","Allied City-States provide [Production] equal to [+22]% of what they produce for themselves"],
+		"cities": ["Hatunqulla", "Azángaro", "Cutimbo", "Chucuito", "Caquiaviri", "Puno", "Caquiavin", "Oruro", "Paria", "Chayanta", "Santuario de Quillacas"]
+	},
+	{
+		"name": "Moche",
+		"leaderName": "Lord of Sipán",
+		"adjective": ["Moche"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 235, 148],
+		"innerColor": [46, 23, 8],
+		"uniqueName": "Artisans of Northern Peru",
+		"uniques": ["[+1 Gold, +1 Science] from every [Artist]","[+25]% Production when constructing [Worker] units [in all cities]"],
+		"cities": ["Moche", "Sipán", "Pampa Grande", "San Jose de Moro", "Trujillo", "Huanchaco", "Licapa", "Cerro Vicús", "Loma Negra", "Pacatnamu"]
+	},
+	{
+		"name": "The Diaguita",
+		"leaderName": "Kalchakí",
+		"adjective": ["The Diaguita"],
+		"startBias": ["Hill","Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [204, 122, 90],
+		"innerColor": [10, 9, 9],
+		"uniqueName": "Transverse Valleys",
+		"uniques": ["[+1 Culture] in cities on [Desert] tiles","[+1 Culture] in cities on [Hill] tiles",
+	    "[+22]% [Culture] [in all cities] <upon declaring friendship> <for [7] turns>"],
+		"cities": ["Quilmes", "Catamarca", "Andalgalá", "Abaucán", "Vicioso", "Ancasti",  "Hualfín", "Famatina", "Anguco", "Sanogasta", "Guadacol", "Sierra de Velasco", "Sierra de los Llanos", "Chilecito"]
+	},
+	{
 		"name": "Jordan",
 		"leaderName": "Hussein I",
 		"adjective": ["Jordan"],
