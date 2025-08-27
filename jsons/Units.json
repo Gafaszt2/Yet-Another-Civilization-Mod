@@ -2,6 +2,20 @@
 
 [
 	{
+		"name": "Green Cross Militia",
+		"uniqueTo": "The Floridas",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 152,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"uniques":["[+50]% Strength","[-10]% Strength <upon defeating a [Wounded] unit>"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Llama Settler",
 		"uniqueTo": "The Aymara",
 		"replaces": "Settler",

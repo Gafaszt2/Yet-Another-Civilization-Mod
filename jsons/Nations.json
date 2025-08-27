@@ -1,5 +1,30 @@
 [
 	{
+		"name": "The Floridas",
+		"leaderName": "Gregor MacGregor",
+		"adjective": ["The Floridas"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [23, 82, 39],
+		"uniqueName": "Either Hell or Amelia",
+		"uniques": ["[+50]% Production when constructing [Gold] buildings [in all cities]","[+33]% Production when constructing [Gunpowder] units [in all cities]","[+50]% Happiness from luxury resources gifted by City-States"],
+		"cities": ["Fernandina","Fort San Carlos","St. Augustine","Pensacola","Fernandina Beach","Jacksonville","St. Marks","Mobile","Baton Rouge","St. Francisville","Biloxi","Amelia Island"]
+	},
+	{
 		"name": "The Aymara",
 		"leaderName": "Tupac Katari",
 		"adjective": ["The Aymara"],
@@ -5709,7 +5734,7 @@
 		"innerColor": [29, 54, 74],
         "favoredReligion": "Christianity",
 		"uniqueName": "Pearl of the Orient Seas",
-		"uniques": ["[+1 Culture] from every [Coast]","[+2 Faith] [in all cities] <with [1] to [2] neighboring [Coast] tiles>","[+3 Faith] [in all cities] <with [3] to [4] neighboring [Coast] tiles>"],
+		"uniques": ["Comment [Gain 12 culture when an unit dies]","[+25]% Strength <when fighting in [Friendly Land] tiles>","All newly-trained [Melee] units [in all cities] receive the [Philippine Clan] promotion","All newly-trained [Ranged] units [in all cities] receive the [Philippine Clan] promotion"],
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
 	},
 	{

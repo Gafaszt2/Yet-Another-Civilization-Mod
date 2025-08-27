@@ -1,6 +1,19 @@
 
 [ 
 	{
+		"name": "Casino Resort",
+		"uniqueTo": "The Floridas",
+		"replaces": "Bank",
+		"gold": 3,
+		"happiness":1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"uniques":["[+1 Culture] from [Luxury resource] tiles [in this city]"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
 		"name": "Apacheta",
 		"uniqueTo": "The Aymara",
 		"replaces": "Shrine",
