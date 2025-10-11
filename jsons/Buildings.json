@@ -1,6 +1,25 @@
 
 [ 
 	{
+		"name": "Dragon Bone Pit",
+		"uniqueTo": "Shang",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 0,
+		"requiredTech": "Pottery",
+		"uniques": ["[+3 Faith] <after discovering [Philosophy]>","[+2 Science, +2 Culture] <after discovering [Archaeology]>","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Seagrass Cache",
+		"uniqueTo": "The Haush",
+		"replaces": "Aqueduct",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[+25]% [Culture] [in this city]","[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
+	{
 		"name": "Casino Resort",
 		"uniqueTo": "The Floridas",
 		"replaces": "Bank",
@@ -32,7 +51,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+2 Culture] <upon declaring war with a major Civilization> <for [12] turns>","Destroyed when the city is captured"]
+		"uniques": ["[+2 Culture] <upon declaring war on [Major] Civilizations> <for [12] turns>","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Kral Düşərgəsi",
@@ -1490,7 +1509,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["[+1 Happiness] [in coastal cities]","Indicates the capital city"]
+		"uniques": ["[+1 Happiness] [in all cities]","Indicates the capital city"]
 	},
 	{
 		"name": "Communal Hut",
@@ -2546,7 +2565,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+1 Science] from [Holy Site] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+1 Science] from [Holy site] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 	},
 {

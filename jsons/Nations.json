@@ -1,4 +1,137 @@
 [
+	
+	{
+		"name": "Shang",
+		"leaderName": "Wu Ding",
+		"adjective": ["Shang"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [41, 41, 41],
+		"innerColor": [227, 227, 227],
+		"uniqueName": "Oracle Bones",
+		"uniques": ["[Great Artist] is earned [+45]% faster","[Great Engineer] is earned [+45]% faster",
+			"[+2 Culture, +2 Production] from every specialist [in all cities]"],
+		"cities": ["Yin","Bo","Fan","Xiao","Dishi","Bi","Yanshi","Xiang","Shangqiu","Pugu"]
+	},
+	{
+		"name": "Khitans",
+		"leaderName": "Shengzong",
+		"adjective": ["Khitans"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [59, 45, 0],
+		"innerColor": [255, 221, 110],
+		"uniqueName": "Pastoralism",
+		"uniques": ["[+1 Food, +1 Gold] from every [Bonus resource]","[+1 Culture] from every [Pasture]",
+			"[+15]% [Food] [in all cities]"],
+		"cities": ["Shangjing","Zhongjing","Dongjing","Xijing","Nanjing","Zhenzhou","Shenzhou","Changchun","Huanglong","Zuun Kherem"]
+	},
+	{
+		"name": "The Nuu-Chah-Nulth",
+		"leaderName": "Maquinna",
+		"adjective": ["The Nuu-Chah-Nulth"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [166, 0, 0],
+		"uniqueName": "Hyas Tyee",
+		"uniques": ["Free Social Policy <upon discovering [Astronomy] technology>",
+			"[+1 Faith, +1 Culture] from every [Fishing Boats]","[+1 Faith] from every [Whales]",
+			"[+1 Gold, +1 Culture] from each Trade Route"],
+		"cities": ["Gold River", "Yuquot", "Mowichat", "Kyuquot", "Opitsaht", "Ahousaht", "Marktosis", "Zeballos", "Hot Springs Cove", "Port Alberni"]
+	},
+	{
+		"name": "The Guanches",
+		"leaderName": "Tinerfe",
+		"adjective": ["The Guanches"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [232, 32, 32],
+		"innerColor": [240, 255, 224],
+		"uniqueName": "Beñesmen",
+		"uniques": ["[+1 Food] in cities on [Hill] tiles",
+		    "[+1 Culture] from every [Deer]","[+1 Culture] from every [Sheep]","[+1 Culture] from every [Dogo Canario]",
+			"[1] population in a random city <upon building a [Pasture] improvement>","[1] population in a random city <upon building a [Camp] improvement>"],
+		"cities": ["Adeje", "Taoro", "Güímar", "Tegueste", "Tacoronte", "Abona", "Anaga", "Icod", "Daute", "Masca", "Afur", "Acentejo", "Aguere", "El Tanque", "Gáldar"]
+	},
+	{
+		"name": "The Haush",
+		"leaderName": "Tenenisk",
+		"adjective": ["The Haush"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [21, 23, 19],
+		"innerColor": [240, 255, 224],
+		"uniqueName": "Peshere",
+		"uniques": ["Comment [Empire enters a [5]-turn Golden Age when an unit gets promoted>]",
+			"All newly-trained [Military] units [in all cities] receive the [[The Haush] Ability] promotion <hidden from users>","[+1 Culture] from every [Kelp]","[+1 Food] from every [Llao Llao]"],
+		"cities": ["Yaiuwa", "Bahía Thetis", "Koschen", "Bahía Buen Suceso", "Cabo Peñas", "Cabo San Pablo", "Caleta Falsa", "Bahia Aguirre", "Moat"]
+	},
 	{
 		"name": "The Floridas",
 		"leaderName": "Gregor MacGregor",
@@ -355,7 +488,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [46, 143, 78],
 		"uniqueName": "Never a Tame Tiger",
-		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>","[+1 Gold] from every [Merchant]","[+33]% Strength <when fighting in [Annexed] tiles>"],
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>","[+1 Gold] from every [Merchant]","[+33]% Strength <when fighting in [Friendly] tiles>"],
 		"cities": ["Palembang", "Lubuk Linggau", "Pagar Alam", "Prabumulih", "Pangkalan Balai", "Tebing Tinggi", "Lahat", "Muara Enim", "Sekayu", "Muara Beliti"]
 	},
 {
@@ -405,7 +538,7 @@
 		"outerColor": [155, 242, 188],
 		"innerColor": [9, 10, 15],
 		"uniqueName": "Land of Giants",
-		"uniques": ["[+1 Food] from [Pillaged] tiles [in all cities]",
+		"uniques": ["[+1 Food] from [Pasture] tiles [in all cities]",
 		"Gain a free [Pillaged Estancia] [in all cities]","[+2 Food] from every [Great Improvement]"],
 		"cities": ["Coyhaique","El Chalten","El Calafate","Ushuaia","Puyuhuapi","Frutillar","Puerto Montt","Castro","Puerto Natales","Punta Arenas"],
 	},
@@ -632,7 +765,7 @@
 	"outerColor": [18, 18, 18],
 	"innerColor": [255, 166, 41],
 	"uniqueName": "Giants of the Chari River",
-	"uniques": ["[+25]% [Culture] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>","[+25]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>",
+	"uniques": ["[+25]% [Culture] [in all cities] <upon declaring war on [Major] Civilizations> <for [5] turns>","[+25]% [Production] [in all cities] <upon declaring war on [Major] Civilizations> <for [5] turns>",
     "[+1 Culture] from every [Flood plains]"],
 	"cities": ["Gaoui", "Makary", "Zilum", "Maiduguri", "Mdaga", "Kousséri", "Logone-Birni", "Mara", "Missene", "Gawi", "Maibe", "Bama"],
 	"spyNames": ["Dala Gumami", "Duna", "Dongo"]
@@ -940,7 +1073,7 @@
 	"outerColor": [221, 237, 133],
 	"innerColor": [20, 20, 17],
 	"uniqueName": "The Six Zhaos",
-	"uniques": ["[+25]% [Science] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>","Free [Worker] appears <upon declaring friendship> <with [20]% chance>"],
+	"uniques": ["[+25]% [Science] [in all cities] <upon declaring war on [Major] Civilizations> <for [5] turns>","Free [Worker] appears <upon declaring friendship> <with [20]% chance>"],
 	"cities": ["Taihe", "Yangjumie", "Jianchuan", "Nongdong", "Yongchang",
 	"Yinsheng", "Shanchan", "Tonghai", "Huichuan", "Lishui", "Ningbei", "Moutong", "Lianxun", "Tieqiao", "Xiangcheng", "Guangdang", "Baosai", "Taideng", "Jiangchang", "Wumeng", "Dongchuan"],
 	"spyNames": ["Saki"]
@@ -991,7 +1124,7 @@
 	"outerColor": [46, 42, 36],
 	"innerColor": [255, 176, 61],
 	"uniqueName": "Fathul Mujahidin",
-	"uniques": ["[+25]% Strength <for [Missile] units>","[+25]% Strength <for [Siege] units>","[+35]% [Culture] [in all cities] <upon declaring war with a major Civilization> <for [3] turns>","[+35]% [Science] [in all cities] <upon declaring war with a major Civilization> <for [3] turns>"],
+	"uniques": ["[+25]% Strength <for [Missile] units>","[+25]% Strength <for [Siege] units>","[+35]% [Culture] [in all cities] <upon declaring war on [Major] Civilizations> <for [3] turns>","[+35]% [Science] [in all cities] <upon declaring war on [Major] Civilizations> <for [3] turns>"],
 	"cities": ["Mysore", "Srirangapatna", "Bangalore", "Calicut", "Keladi", "Mangalore", "Channapatna", "Salem", "Karwar", "Erode", "Hassan", "Dharwad", "Dharmapuri", "Bidanur", "Chitradurga", "Bekala", "Madikeri", "Tellicherry", "Kaveripattinam", "Cuddapah"],
 	"spyNames": ["Saki"]
     },
@@ -1016,7 +1149,7 @@
 	"outerColor": [82, 32, 7],
 	"innerColor": [255, 177, 61],
 	"uniqueName": "Adnyapatra",
-	"uniques": ["[+10]% growth [in coastal cities]","[+20]% Production when constructing [Gold] buildings [in all cities]","[2] free [Gurab] units appear <upon discovering [Navigation] technology>"],
+	"uniques": ["[+10]% growth [in all cities]","[+20]% Production when constructing [Gold] buildings [in all cities]","[2] free [Gurab] units appear <upon discovering [Navigation] technology>"],
 	"cities": ["Raigad", "Pune", "Sangameshwar", "Vishalgad", "Ginge", "Sinhagad", "Dhar", "Indore", "Gwalior", "Gingee", "Palkhed", "Vasai", "Arcot", "Tiruchirappalli", "Katak", "Raipur", "Ratanpur", "Bilaspur"],
 	"spyNames": ["Saki"]
     },
@@ -1219,7 +1352,7 @@
 	"outerColor": [20, 20, 20],
 	"innerColor": [194, 255, 89],
 	"uniqueName": "First Flames of the Last Days",
-	"uniques": ["[+2 Production] from every [Barracks]","No movement cost to pillage <for [All] units>","All newly-trained [Melee] units [in all cities] receive the [Massacre] promotion <upon declaring war with a major Civilization> <for [5] turns>"],
+	"uniques": ["[+2 Production] from every [Barracks]","No movement cost to pillage <for [All] units>","All newly-trained [Melee] units [in all cities] receive the [Massacre] promotion <upon declaring war on [Major] Civilizations> <for [5] turns>"],
 	"cities": ["Al-Ahsa","Ain Al-Kuayba","Qatif","Hajar","Safwan","Zahran","Juwatha","Al-Mabraz","Khobar","Al-Bidda","Hafar al-Batin"],
 	"spyNames": ["Saki"]
     },
@@ -1562,7 +1695,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [13, 43, 15],
 		"uniqueName": "God, Syria, and Bashar",
-		"uniques": ["No movement cost to pillage <for [Gunpowder] units>","No movement cost to pillage <for [Helicopter] units>","No movement cost to pillage <for [Armored] units>","[+10]% [Production] [in all cities] <upon declaring friendship> <for [5] turns>","[+25]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>"],
+		"uniques": ["No movement cost to pillage <for [Gunpowder] units>","No movement cost to pillage <for [Helicopter] units>","No movement cost to pillage <for [Armored] units>","[+10]% [Production] [in all cities] <upon declaring friendship> <for [5] turns>","[+25]% [Production] [in all cities] <upon declaring war on [Major] Civilizations> <for [5] turns>"],
 		"cities": ["Damascus", "Aleppo", "Homs", "Latakia", "Hama", "Raqqa", "Deir ez-Zor", "Al-Hasakah", "Qamishli", "Sayyidah Zaynab", "Tartus",
 		"Douma", "Manbij", "Idlib", "Daraa", "Al-Hajar al-Aswad", "Darayya", "As-Suwayda", "Al-Thawrah", "Salamiyah", "Al-Safira", "Al-Bab", "Maarat al-Numaan"],
         "spyNames": ["Saki"]
@@ -1998,8 +2131,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
-		"outerColor": [255, 255, 255],
-		"innerColor": [255, 102, 0],
+		"outerColor": [235, 235, 235],
+		"innerColor": [217, 61, 0],
 		"uniqueName": "Lusignan Crusaders",
 		"uniques": ["All newly-trained [Water] units [in all cities] receive the [Coastal Raider I] promotion <during the [Medieval era]>",
 					"All newly-trained [Water] units [in all cities] receive the [Coastal Raider I] promotion <during the [Renaissance era]>",
@@ -2454,7 +2587,7 @@
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
 		"outerColor": [255, 255, 255],
-		"innerColor": [0, 173, 40],
+		"innerColor": [0, 104, 153],
 		"uniqueName": "Girgam",
 		"uniques": ["Free [Great Merchant] appears <after adopting [Commerce]>","[+2 Gold] from each Trade Route","All newly-trained [Water] units [in all cities] receive the [Coastal Raider I] promotion"
    ],
@@ -2865,10 +2998,10 @@
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
-		"outerColor": [31, 156, 151],
-		"innerColor": [255, 238, 181],
+		"outerColor": [117, 250, 245],
+		"innerColor": [10, 20, 20],
 		"uniqueName": "Protection of the Tcimkix",
-		"uniques": ["[+35]% Production when constructing [Work Boats] units [in all cities]","[+1 Food, +2 Culture] from [Whales] tiles [in all cities]","[+1 Food, +2 Culture] from [Orcas] tiles [in all cities] <if [Yet Another Resource Mod Reborn] is enabled>"],
+		"uniques": ["[+35]% Production when constructing [Work Boats] units [in all cities]","[+1 Food, +2 Culture] from [Whales] tiles [in all cities]","[+1 Food, +2 Culture] from [Fishing Boats] tiles [in all cities]"],
 		"cities": ["Anangula","Adamagan","Chaluka","Ounalashka","Sanak","Amaknak","Idaliuk","Adgaagux","Qagun Tayagungin"],
 		"spyNames": ["Saki"]
 	},
@@ -2943,7 +3076,7 @@
 		"outerColor": [148, 0, 44],
 		"innerColor": [255, 233, 156],
 		"uniqueName": "Fields of Judith",
-		"uniques": ["[+2 Faith] from [Pillaged] tiles [in all cities]","[+2 Faith] from [Great Improvement] tiles [in annexed cities]"],
+		"uniques": ["[+2 Faith] from [Luxury resource] tiles [in all cities]","[+2 Faith] from [Great Improvement] tiles [in annexed cities]"],
 		"cities": ["Gondar", "Wolleka", "Balankab", "Ambober", "Kechene", "Degoma", "Azazo", "Emfraz", "Maksenit", "Teda", "Balnagab", "Liben"],
 		"spyNames": ["Saki"]
 	},
@@ -3217,8 +3350,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
-		"outerColor": [237, 237, 237],
-		"innerColor": [0, 158, 90],
+		"outerColor": [255, 255, 255],
+		"innerColor": [124, 65, 140],
 		"uniqueName": "Nyingma",
 		"uniques": ["[3] free [Missionary] units appear <upon entering a Golden Age> <after founding a religion>","Gain [45]-[50] [Faith] <upon founding a Religion>","Gain [45]-[50] [Faith] <upon constructing [Garden]>"],	
 		"cities": ["Lhasa", "Xigaze", "Gyantse", "Chamdo", "Senggezangbo", "Nagchukha", "Bamda", "Rutog", "Nyingchi", "Nedong", "Coqen", "Barkam", "Sakya"],
@@ -3322,7 +3455,7 @@
 		"outerColor": [222, 255, 234],
 		"innerColor": [21, 38, 27],
 		"uniqueName": "State of the Mahal Dibiyat",
-		"uniques": ["[+30]% [Faith] [in coastal cities]","[+20]% [Gold] [in coastal cities]"],	
+		"uniques": ["[+30]% [Faith] [in all cities]","[+20]% [Gold] [in all cities]"],	
 		"cities": ["Malé", "Addu", "Kulhudhuffushi", "Fuvahmulah", "Thinadhoo", "Ungoofaaru", "Dhidhdhoo", "Thulusdhoo", "Funadhoo", "Manadhoo"],
 		"spyNames": ["Saki"]
 	},
@@ -3469,8 +3602,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
-		"outerColor": [204, 161, 20],
-		"innerColor": [255, 255, 255],
+		"outerColor": [249, 255, 135],
+		"innerColor": [8, 8, 7],
 		"uniqueName": "Rajyas of the Deccan",
 		"uniques": ["[+1 Faith] from every specialist [in all cities]","[+1 Food, +1 Faith] in cities on [Hill] tiles","[+10]% [Culture] [in all cities]"],	
 		"cities": ["Vijayanagara", "Penukonda", "Chandragiri", "Vellore", "Mangalapura", "Gingee", "Belgaum", "Gadag", "Pulicat", "Kalyanapura", "Hospet", "Bellary", "Koppal", "Gooty"],
@@ -3647,7 +3780,7 @@
 		"outerColor": [18, 18, 18],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "People of the Tides",
-		"uniques": ["[+1 Culture, +2 Gold] [in coastal cities]","[+20]% Production when constructing [Water] units [in all cities]"],
+		"uniques": ["[+1 Culture, +2 Gold] [in all cities]","[+20]% Production when constructing [Water] units [in all cities]"],
 		"cities": ["Chilkat","Kaliakh","Taku","Sitka","Hoonah","Keex","Tuxekan","Aangoon","Klawock","Gunahoo"],
 		"spyNames": ["Saki"]
 	},
@@ -4092,7 +4225,7 @@
         "outerColor": [23, 98, 179],
         "innerColor": [255, 252, 158],
         "uniqueName": "Nurly Zhol",
-        "uniques": ["[+1 Food] from every [Saiga] <if [Yet Another Resource Mod Reborn] is enabled>","[+2 Science] from [Strategic resource] tiles [in all cities]"],
+        "uniques": ["[+1 Food] from every [Camp]","[+2 Science] from [Strategic resource] tiles [in all cities]"],
         "cities": ["Astana",
 "Almaty",
 "Shymkent",
@@ -4126,7 +4259,7 @@
         "outerColor": [17, 51, 37],
         "innerColor": [255, 180, 105],
         "uniqueName": "Oyster Cove Mob",
-        "uniques": ["[+1 Science] from [Pillaged] tiles [in all cities]","All newly-trained [Land] units [in all cities] receive the [[The Palawa] Ability] promotion"],
+        "uniques": ["[+1 Science] from [Luxury resource] tiles [in all cities]","All newly-trained [Land] units [in all cities] receive the [[The Palawa] Ability] promotion"],
         "cities": ["Mutawaynatji", "Pataway", "Putalina", "Kriwa", "Nipaluna", "Niplin", "Kripikara", "Laylatiya", "Maytim", "Takayna", "Luyamantun"],
         "spyNames": ["Tangaroa"]
     },
@@ -4245,7 +4378,7 @@
         "outerColor": [19, 28, 168],
         "innerColor": [255, 255, 255],
         "uniqueName": "By Reason or By Force",
-        "uniques": ["[+2 Gold] per [3] social policies adopted","[+25]% [Gold] [in coastal cities]","[+2 Gold] in cities on [Hill] tiles"],
+        "uniques": ["[+2 Gold] per [3] social policies adopted","[+25]% [Gold] [in all cities]","[+2 Gold] in cities on [Hill] tiles"],
         "cities": ["Santiago de Chile",
 "Concepción",
 "Valparaiso",
@@ -4355,7 +4488,7 @@
 		"outerColor": [214, 70, 26],
 		"innerColor": [26, 9, 3],
 		"uniqueName": "The Peopling of the Pacific",
-		"uniques": ["[+25]% [Gold] [in coastal cities]","[+10]% growth [in coastal cities]","Allied City-States provide [Gold] equal to [+15]% of what they produce for themselves"],
+		"uniques": ["[+25]% [Gold] [in all cities]","[+10]% growth [in all cities]","Allied City-States provide [Gold] equal to [+15]% of what they produce for themselves"],
 		"cities": ["Teouma", "Mulifanua", "Mu'a", "Motalava", "Vanua Lava", "Gaua", "Taumako", "Grande Terre", "Ile des Pins", "Lolokoka", "Nenumbo"],
 		"spyNames": ["Tangaroa"]
 	},
@@ -4405,7 +4538,7 @@
 		"outerColor": [15, 15, 15],
 		"innerColor": [242, 75, 75],
 		"uniqueName": "Poseidon's Trident",
-		"uniques": ["[+20]% [Science] [in coastal cities]","[+2 Science] from [Great Improvement] tiles [in all cities]"],
+		"uniques": ["[+20]% [Science] [in all cities]","[+2 Science] from [Great Improvement] tiles [in all cities]"],
 		"cities": ["Knossos", "Phaistos", "Malia", "Gournia", "Zakros", "Agia Triada", "Amnisos", "Nirou Khani", "Palekastro", "Akrotiri"],
 		"spyNames": ["Saki"]
 	},
@@ -4817,7 +4950,7 @@
 		"outerColor": [219, 211, 195],
 		"innerColor": [31, 29, 27],
 		"uniqueName": "The Land of Immortality",
-		"uniques": ["[+1 Food] from [Fresh Water] tiles [in all cities]","[+1 Gold] from [Luxury resource] tiles [in all cities]","[+2 Gold] from [Gold] tiles [in all cities]","[+2 Gold] from [Silver] tiles [in all cities]","[+2 Gold] from [Copper] tiles [in all cities]"],
+		"uniques": ["[+1 Food] from [Fresh Water] tiles [in all cities]","[+1 Gold] from [Luxury resource] tiles [in all cities]","[+2 Gold] from [Gold Ore] tiles [in all cities]","[+2 Gold] from [Silver] tiles [in all cities]","[+2 Gold] from [Copper] tiles [in all cities]"],
 		"cities": ["Qal'at al-Bahrain", "Sar", "Ain Umm Sujoor", "Umm an-Nussi", "Umm ar-Ramadh", "Barbar", "Diraz", "A'ali", "Agarum"],
 		"spyNames": ["Saki"]
 	},
@@ -4864,8 +4997,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
-		"outerColor": [138, 255, 157],
-		"innerColor": [255, 74, 71],
+		"outerColor": [196, 6, 6],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "March of Ordinance",
 		"uniques": ["[+1 Gold] from [Plantation] tiles [in all cities]","[Great Merchant] is earned [+25]% faster","[+3 Gold] from [Customs house] tiles [in all cities]","[Gold] cost of purchasing [Gunpowder] units [-35]%"],
 		"cities": ["Rome",
@@ -5364,8 +5497,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
-		"outerColor": [41, 77, 153],
-		"innerColor": [255, 109, 31],
+		"outerColor": [74, 58, 47],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "The Land God Made In Anger",
 		"uniques": ["May buy [Mounted] units with [Faith] [in all cities]","[Faith] cost of purchasing [Mounted] units [-30]%","Earn [60]% of killed [Wounded] unit's [Cost] as [Faith]"],
 		"cities": ["Windhoek",
@@ -5681,7 +5814,7 @@
 		"outerColor": [197, 219, 31],
 		"innerColor": [51, 44, 40],
 		"uniqueName": "Ngoiminggi",
-		"uniques": ["When defeating a [{Land}] unit, earn [20] Gold and recruit it <with [30]% chance>","[+1 Food] from all [Food] buildings","[+1 Food] from all [Production] buildings"],
+		"uniques": ["When defeating a [Land] unit, earn [20] Gold and recruit it <with [30]% chance>","[+1 Food] from all [Food] buildings","[+1 Food] from all [Production] buildings"],
 		"cities": ["Werntek Nganaiyi", "Wadeye", "Nganmarriyanga", "Thamarur", "Yambarnyi", "Nemarluk", "Thuykem", "Bullo River", "Kultjill", "Legune", "Auvergne", "Litchfield", "Mulyung"],
 		"spyNames": ["Saki"]
 	},
@@ -5708,7 +5841,7 @@
 		"innerColor": [250, 250, 107],
         "favoredReligion": "Christianity",
 		"uniqueName": "Cultuurstelsel",
-		"uniques": ["[+2 Gold] from every specialist [in coastal cities]","[+1 Gold] from every [Trading Post]","[+2 Gold] from every [Luxury resource] <during a Golden Age>"],
+		"uniques": ["[+2 Gold] from every specialist [in all cities]","[+1 Gold] from every [Trading post]","[+2 Gold] from every [Luxury resource] <during a Golden Age>"],
 		"cities": ["Surat","Madras","Banten","West Java","Jayakarta","Jepara","Aceh","Pariaman","Jambi","Ambon","Banda Neira","Bengkulu","Cirebon","Makassar","Malacca","Patani","Ternate"]
 	},
 	{
@@ -5934,7 +6067,7 @@
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
 		"outerColor": [255, 255, 255],
-		"innerColor": [214, 150, 0],
+		"innerColor": [71, 58, 26],
 		"uniqueName": "No Friends But the Mountains",
 		"uniques": ["[+2 Food, +2 Production] from every [Mountain]","No Maintenance costs for improvements in [Hill] tiles","[+15]% Strength <when fighting in [Hill] tiles>"],
 		"cities": ["Hewler", "Silemani", "Kerkuk", "Dihok", "Amed", "Kirmasan", "Kobani", "Riha", "Wan", "Piranshahr", "Eleziz"],
@@ -6234,7 +6367,7 @@
 		"outerColor": [255, 33, 33],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Roof of the World",
-		"uniques": ["[+1 Food] from every [Yak] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Faith] from [Hill] tiles [in all cities]","[+2 Faith, +2 Culture] from [Mountain] tiles [in all cities]"],
+		"uniques": ["[+1 Faith] from [Hill] tiles [in all cities]","[+2 Faith, +2 Culture] from [Mountain] tiles [in all cities]"],
 		"cities": ["Kathmandu",
 "Pokhara",
 "Lalitpur",
@@ -6636,7 +6769,7 @@
 		"outerColor": [119, 247, 230],
 		"innerColor": [0, 43, 84],
 		"uniqueName": "Kamuy Yukar",
-		"uniques": ["[+1 Food] from every [Orcas] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Gold, +2 Faith] from every [Camp]","[+1 Culture] from every specialist [in all cities]"],
+		"uniques": ["[+1 Food] from every [Fishing Boats]","[+1 Gold, +2 Faith] from every [Camp]","[+1 Culture] from every specialist [in all cities]"],
 		"cities": ["Sat Poro Pet", "Shinhidaka", "Shiraoi", "Usukeshi", "Yam Wakkanay", "Mo Ruerani", "Iskarun", "Rurumoppe", "Paramushir", "Shimushir", "Urup", "Iturup", "Kunashir", "Yoichi", "Etomo", "Iwanai", "Akkeshi", "Shiranushi", "Nayoro", "Baluohe", "Turupan", "Kushunkotan", "Shibuchari"],
 	},
 
@@ -6759,7 +6892,7 @@
 		"outerColor": [147, 189, 182],
 		"innerColor": [18, 18, 46],
 		"uniqueName": "Windjana Resistance",
-		"uniques": ["[+1 Food] from every [Goanna] <if [Yet Another Resource Mod Reborn] is enabled>","Earn [35]% of killed [Military] unit's [Strength] as [Faith]","Earn [5]% of killed [Military] unit's [Strength] as [Culture]","[+1 Faith] from all [Granary] buildings","[+10]% Production when constructing [Settler] units [in all cities]"],
+		"uniques": ["[+1 Food] from every [Camp]","Earn [35]% of killed [Military] unit's [Strength] as [Faith]","Earn [5]% of killed [Military] unit's [Strength] as [Culture]","[+1 Faith] from all [Granary] buildings","[+10]% Production when constructing [Settler] units [in all cities]"],
 		"cities": ["Junjuwa","Daringunaya","Bandilngan","Dimalurru", "Yaranggi", "Baraa", "Jijidu", "Yuwa", "Miluwindi", "Mindi Rardi", "Gurang.ngadja", "Dawadiya", "Danggu", "Biridu", "Balili", "Kurnangki", "Bungardi", "Galamunda", "Malarabah", "Yirimalay", "Buruwa", "Jimbalakudunj"],
 	},
 {
@@ -6932,7 +7065,7 @@
 		"innerColor": [238, 255, 212],
 		"favoredReligion": "Islam",
 		"uniqueName": "Father of Modern Egypt",
-		"uniques": ["[+1 Food] from every [Camel] <if [Yet Another Resource Mod Reborn] is enabled>","[+1 Gold] from all [Production] buildings <after discovering [Industrialization]>","[+1 Gold, +1 Faith] in cities on [Desert] tiles","[+10]% Strength <for [Mounted] units>"],
+		"uniques": ["[+1 Food] from every [Cattle]","[+1 Gold] from all [Production] buildings <after discovering [Industrialization]>","[+1 Gold, +1 Faith] in cities on [Desert] tiles","[+10]% Strength <for [Mounted] units>"],
 		"cities": ["Cairo", "Alexandria", "Giza", "Port Said", "Suez", "Al Mahallah al Kubra", "Luxor", "Asyut", "Al Mansurah", "Tanda", "Al Fayyum", "Zagazig", "Ismailia", "Kafr ad Dawwar", "Aswan", "Qina", "Halwan", "Damanhur", "Al Minya", "Idku", "Sohag", "New Cairo", "Bani Suwayf", "Shibin al Kawn", "Banha", "Talkha", "Kafr ash Shaykh", "Mallawi", "Dikirnis", "Idfu", "Bilbays", "Arish", "Jirja", "Al Hawamidiyah", "Bilqas", "Disaq", "Abu Kabir", "Qalyub"],
         "spyNames": ["Ali", "Muhammad", "Said", "Baba", "Amir", "Anwar", "Malik", "Hassan", "Omar", "Ahmed"]
 	},
@@ -7490,8 +7623,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [232, 255, 248],
-		"innerColor": [49, 173, 135],
+		"outerColor": [189, 208, 242],
+		"innerColor": [21, 23, 26],
 		"uniqueName": "Frozen Frontier",
 		"uniques": ["[+15]% Strength <when fighting in [Tundra] tiles>","[+15]% Strength <when fighting in [Forest] tiles>","[+2 Gold, +2 Food] in cities on [Tundra] tiles","[+2 Faith] in cities on [Tundra] tiles <during a Golden Age>"],
 		"cities": ["Tobolsk",
@@ -7586,8 +7719,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [50, 168, 82],
-		"innerColor": [247, 246, 178],
+		"outerColor": [159, 176, 209],
+		"innerColor": [13, 15, 18],
                 "favoredReligion": "Islam",
 		"uniqueName": "The Sinless Emir",
 		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <upon founding a Pantheon>","Gain a free [Namazgah] [in all cities] <upon conquering a city>"],
@@ -7681,8 +7814,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [235, 235, 237],
-		"innerColor": [201, 146, 6],
+		"outerColor": [227, 227, 227],
+		"innerColor": [20, 20, 20],
 		"uniqueName": "The Leper King",
 		"uniques": ["[+1 Faith] in cities on [Desert] tiles","[+5]% Strength <vs [Land] units> <when fighting in [Desert] tiles>","[+10]% Strength <vs [Land] units> <when fighting in [Flood plains] tiles>","[+10]% Strength <vs [Land] units> <when defending>","[+20]% Strength <in cities following our religion>"],
 		"cities": ["Jerusalem",
@@ -7975,10 +8108,10 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [75, 145, 28],
-		"innerColor": [195, 235, 169],
+		"outerColor": [39, 71, 34],
+		"innerColor": [244, 255, 242],
 		"uniqueName": "Siyasatnama",
-		"uniques": ["[+1 Food] from every [Camel] <if [Yet Another Resource Mod Reborn] is enabled>","[+25]% [Culture] from Trade Routes","[+25]% [Science] from Trade Routes"],
+		"uniques": ["[+1 Food] from every [Cattle]","[+25]% [Culture] from Trade Routes","[+25]% [Science] from Trade Routes"],
 		"cities": ["Isfahan",
 "Nishapur",
 "Ray",
@@ -8010,8 +8143,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [107, 157, 194],
-		"innerColor": [252, 248, 202],
+		"outerColor": [176, 49, 49],
+		"innerColor": [240, 223, 223],
 		"uniqueName": "Steppe Dominance",
 		"uniques": ["[-20]% Gold cost of upgrading <for [Mounted] units>","[+10]% Strength <for [Mounted] units>","[+25]% XP gained from combat <when fighting in [Hill] tiles>"],
 		"cities": ["Bakhchisaray",
@@ -8243,8 +8376,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [147, 232, 49],
-		"innerColor": [250, 74, 15],
+		"outerColor": [16, 82, 1],
+		"innerColor": [255, 143, 38],
                 "favoredReligion": "Islam",
 		"uniqueName": "Wedhatama",
 		"uniques": ["Free [Great Artist] appears <upon discovering [Industrialization] technology>","[+2 Faith] from all [Culture] buildings","Provides [1] [Sugar] <with [100]% chance>"],
@@ -8269,8 +8402,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [61, 161, 114],
-		"innerColor": [236, 255, 184],
+		"outerColor": [41, 97, 16],
+		"innerColor": [255, 192, 20],
                 "favoredReligion": "Hinduism",
 		"uniqueName": "Conquest of Rajputana",
 		"uniques": ["[-50]% maintenance costs <for [Siege] units>","[+33]% Strength <when fighting in [Hill] tiles>"],
@@ -8550,8 +8683,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [255, 255, 255],
-		"innerColor": [0, 176, 32],
+		"outerColor": [13, 15, 18],
+		"innerColor": [207, 216, 230],
 		"uniqueName": "Apostolic Legacy",
 		"uniques": ["[+1 Production] from every [Mountain]", "[+1 Culture] from every [Citadel]", "[+10]% Production when constructing [Culture] buildings [in all cities]","[+10]% Production when constructing [Production] buildings [in all cities]"],
 		"cities": ["Sofia", "Plovdiv" ,"Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Sliven", "Dobrich",
@@ -9184,7 +9317,7 @@
 		"outerColor": [47, 46, 66],
 		"innerColor": [214, 200, 141],
 		"uniqueName": "Trade Seals",
-		"uniques": ["[+1 Gold] from every [Trading Post]","[+2 Culture] from every [Plantation]"],
+		"uniques": ["[+1 Gold] from every [Trading post]","[+2 Culture] from every [Plantation]"],
 		"cities": ["Harappa", "Mohenjo-daro", "Lothal", "Ganeriwala", "Dholavira", "Sutkagan-dor", "Mehrgarh", "Kalibangan", "Rakhigarhi", "Banwali", "Surkotda"]
 	},
         {
@@ -9287,7 +9420,7 @@
 		"outerColor": [11, 13, 71],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Land Down Under",
-		"uniques": ["All newly-trained [Great War Infantry] units [in all cities] receive the [Digger] promotion","[+20]% [Food] [in coastal cities]","[+2 Gold] [in coastal cities]","[+25]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [5] turns>"],
+		"uniques": ["All newly-trained [Great War Infantry] units [in all cities] receive the [Digger] promotion","[+20]% [Food] [in all cities]","[+2 Gold] [in all cities]","[+25]% [Production] [in all cities] <upon declaring war on [Major] Civilizations> <for [5] turns>"],
 		"cities": ["Canberra","Sydney","Launceston","Ballaarat","Perth","Brisbane","Toowoomba","Melbourne","Townsville","Geelong",
 			"Adelaide","Hobart","Bendigo","Broken Hill","Cairns","Newcastle","Maitland","Rockhampton","Wagga Wagga","Wollongong",
 			"Albury","Alice Springs","Bathurst","Queanbeyan","Bundaberg","Coffs Harbor","Darwin","Dremantle","Gladstone","Goulburn","Hervery Bay",
@@ -9315,7 +9448,7 @@
 		"outerColor": [99, 1, 1],
 		"innerColor": [252, 242, 242],
 		"uniqueName": "Potlatch",
-		"uniques": ["[+1 Food] from every [Orcas] <if [Yet Another Resource Mod Reborn] is enabled>","[+5]% Strength <when fighting in [Friendly Land] tiles>", "[+2 Food] from every [Lakes]", "[+15]% Strength <when fighting in [Forest] tiles>", "[+15]% Strength <when fighting in [Jungle] tiles>"],
+		"uniques": ["[+1 Food] from every [Fishing Boats]","[+5]% Strength <when fighting in [Friendly Land] tiles>", "[+2 Food] from every [Lakes]", "[+15]% Strength <when fighting in [Forest] tiles>", "[+15]% Strength <when fighting in [Jungle] tiles>"],
 		"cities": ["Taaw Tldáaw","X̱aayda Kil","Hl̓aagilda","Dal Kún","Dal Ḵáahlii","T'aaw Tlldaaw","G̱aauuw G̱an","Hlg̱uulaang","Q̱aadas","Tllda G̱awaay"]
 	},
         {
@@ -9337,8 +9470,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [59, 177, 45],
-		"innerColor": [254, 232, 79],
+		"outerColor": [86, 227, 70],
+		"innerColor": [29, 41, 82],
 		"uniqueName": "African Slaves",
 		"uniques": ["[+2 Gold] from every [Plantation]", "[+2 Gold] from every [Market]", "[+1 Gold] from every [Coast]"],
 		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
@@ -9732,8 +9865,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [89, 60, 45],
-		"innerColor": [240, 90, 41],
+		"outerColor": [255, 224, 140],
+		"innerColor": [43, 38, 23],
 		"uniqueName": "Red Earth",
 		"uniques": ["[+1 Culture] from every [Desert]","[+1 Faith] from every [Tundra]"],
 		"cities": ["Dry Creek","Kashaya",
@@ -9942,7 +10075,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Hausa Bakwai",
-                "uniques": ["[+2 Gold] from each Trade Route","[+1 Gold] from every [Cattle]","[+1 Gold] from every [Trading Post]"],
+                "uniques": ["[+2 Gold] from each Trade Route","[+1 Gold] from every [Cattle]","[+1 Gold] from every [Trading post]"],
 
 		"outerColor": [39, 163, 89],
 		"innerColor": [255, 255, 255],

@@ -1,5 +1,14 @@
 [
 {
+"name": "[Ya] Ability",
+"uniques": ["Free Great Person <upon damaging a [Great General] unit>",
+"Free Great Person <upon defeating a [Great General] unit>"]
+},
+{
+"name": "[The Haush] Ability",
+"uniques": ["Empire enters a [5]-turn Golden Age <upon being promoted>"]
+},
+{
 "name": "Tortured",
 "innerColor": [33, 33, 30],
 "outerColor": [255, 68, 61],
@@ -94,13 +103,13 @@
 "name": "Arsonist II",
 "prerequisites": ["Arsonist I"],
 "unitTypes": ["Civilian"],
-"uniques": ["[This Unit] heals [5] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
+"uniques": ["[This Unit] heals [5] HP <upon ending a turn in a [Enemy] tile>","No movement cost to pillage"]
 },
 {
 "name": "Arsonist III",
 "prerequisites": ["Arsonist II"],
 "unitTypes": ["Civilian"],
-"uniques": ["[This Unit] heals [7] HP <upon ending a turn in a [Pillaged] tile>","[+15]% Strength <vs cities>"]
+"uniques": ["[This Unit] heals [7] HP <upon ending a turn in a [Enemy] tile>","[+15]% Strength <vs cities>"]
 },
 {
 "name": "Anti Cavalry I",
@@ -134,7 +143,7 @@
 },
 {
 "name": "[The Palawa] Ability",
-"uniques": ["[This Unit] heals [2] HP <upon ending a turn in a [Pillaged] tile>","No movement cost to pillage"]
+"uniques": ["[This Unit] heals [2] HP <upon ending a turn in a [Enemy] tile>","No movement cost to pillage"]
 },
 {
 "name": "Ouboutou",

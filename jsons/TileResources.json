@@ -98,6 +98,33 @@
 		"improvementStats": {"production": 1}
 	},
 	{
+		"name": "Llao Llao",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+		"improvement": "Plantation",
+        "uniques": ["Generated on every [15] tiles <in [Grassland] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"],
+		"improvementStats": {"food": 1}
+	},
+	{
+		"name": "Dogo Canario",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"food": 1,
+		"improvement": "Camp",
+        "uniques": ["Generated on every [15] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"],
+		"improvementStats": {"food": 1}
+	},
+	{
+		"name": "Kelp",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"food": 1,
+		"improvement": "Fishing Boats",
+        "uniques": ["Generated on every [15] tiles <in [Coast] tiles>"],
+		"improvementStats": {"food": 1}
+	},
+	{
 		"name": "Nomad Manpower",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Nomad Manpower]>","Cannot be traded","Stockpiled"]

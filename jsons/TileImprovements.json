@@ -187,7 +187,7 @@
         "techRequired": "Animal Husbandry",
 		"turnsToBuild": 5,
 		"food":1,
-		"uniques":["[+1 Food] from [Fresh water] tiles","[+1 Food] from [Sheep] tiles","[+1 Food] from [Cattle] tiles","[+1 Food] from [Camel] tiles <if [Yet Another Resource Mod Reborn] is enabled>"]
+		"uniques":["[+1 Food] from [Fresh water] tiles","[+1 Food] from [Sheep] tiles","[+1 Food] from [Cattle] tiles"]
     },
 	{
 		"name": "Umzi",
