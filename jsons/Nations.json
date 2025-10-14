@@ -5851,17 +5851,20 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "'Dr.Rizal, through the publication of his works Noli Me Tangere, El Filibusterismo and through an endless series of pamphlets, manifestos of all sorts attacking religion, the friars and the Spanish government, impresses upon the people of the philippines the ideas of expelling the religious orders to secure the independence of this colony.'",
+		"startIntroPart2": "'The office should not hesitate to qualify Rizal as the soul of the rebellion. He pretends to be the savior of the Filipinos. He is considered to be a superhuman being—exempted from any restraint—that might obstruct his 'Providential' mission. Don Jose Rizal is the prime mover of this rebellion and must suffer the penalty imposed by the Penal Code. As a consequences, the crime of the rebellion must be punished with death.' —Spanish State Attorney",
 		
-		"declaringWar": "You must shatter the vase to spread its perfume, and smite the rock to get the spark.",
-		"attacked": "We do not sleep; we wait for you with fire in our hearts and weapons in our hands. (lit. We are not sleeping; we are waiting for you with a burning heart and an armed fist.",
-		"defeated": "It is finished.",
-		"introduction": "I am Jose Rizal, poet, painter, revolutionary",
+		"declaringWar": "I've traveled so far but I haven't really gotten anywhere. Because the battlefield is not here.",
+		"attacked": "They are incarcerated.. Murdered.. exhumed from the grave.. defiled.. that is what your fellowmen did to the honor and history of my race.",
+		"defeated": "I go where no slaves are nor butchers, nor oppressors, where Faith does not slay, where God is the Sovereign-Lord!",
+		"introduction": "I'm Jose Rizal, where my country has social cancer that should be exposed to all Filipinos. And to this end, I intend to record it's condition faithfully, without prejudice. I shall lift the shroud that covers the evil, sacrificing everything to truth, even vanity itself, for as your son I'm conscious of my own defects and weakness.", 
+		"declaringFriendship": "Solidarity..Brotherhood..These are the principles in which will unite us",
+		"denounced": "I'm a writer, I challenge everyone, even myself; I never thought I had so many enemies. Everything I have written is deeply rooted in truth, In my writings, Filipinos will find themselves and their history in the past ten years.",
 		
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Once, I thought the only thing important in life was education. But I've realized that it really depends on what kind of Education, one kind can blind us. But now I can see clearly.",
+		"hateHello": "Edukasyon.. Edukasyon.. that makes cowards out all of you. Are YOU going to allow everybody to treat you like slaves? Unless we learn the value of self-respect, we will never earn the respect of other people.",
 		
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "What we ask for is equality, peaceful reforms through education and civic development. Recognition that Filipinos are equals of Everyone",
 				
 		"outerColor": [130, 182, 224],
 		"innerColor": [29, 54, 74],
