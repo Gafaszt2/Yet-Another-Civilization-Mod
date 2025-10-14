@@ -1,5 +1,56 @@
 [
-	
+	{
+		"name": "Thrace",
+		"leaderName": "Sitalces",
+		"adjective": ["Thrace"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 234, 201],
+		"innerColor": [15, 15, 15],
+		"uniqueName": "Odrysian Kingdom",
+		"uniques": ["Free [Great General] appears <upon defeating a [Barbarian] unit> <with [25]% chance>",
+		"[-15]% Culture cost of natural border growth [in all cities]",
+		"All newly-trained [Sword] units [in all cities] receive the [Thracian Orphism] promotion"],
+		"cities": ["Seuthopolis", "Uskudama", "Serdica", "Eumolpias", "Kabyle", "Peristera", "Besapara", "Odessos", "Selymnos", "Beroe", "Stenimachos", "Storgozia"]
+	},
+	{
+		"name": "Illyria",
+		"leaderName": "Teuta",
+		"adjective": ["Illyria"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [56, 39, 87],
+		"innerColor": [255, 234, 201],
+		"uniqueName": "Queen of the Adriatic Sea",
+		"uniques": ["[Great Admiral] is earned [+35]% faster","All newly-trained [Water] units [in all cities] receive the [Adriatic Pirate] promotion"],
+		"cities": ["Scodra", "Lissos", "Doclea", "Daorson", "Uscana", "Parthus", "Scupi", "Rhizon", "Hedum Kastelum", "Promona", "Bassania", "Oneum"]
+	},
 	{
 		"name": "Shang",
 		"leaderName": "Wu Ding",

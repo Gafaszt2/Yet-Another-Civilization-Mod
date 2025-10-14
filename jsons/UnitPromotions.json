@@ -1,5 +1,14 @@
 [
 {
+"name": "Thracian Orphism",
+"uniques": ["[+50]% XP gained from combat",
+    "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]"]
+},
+{
+"name": "Adriatic Pirate",
+"uniques": ["Earn [70]% of killed [Military] unit's [Strength] as [Culture]"]
+},
+{
 "name": "[Ya] Ability",
 "uniques": ["Free Great Person <upon damaging a [Great General] unit>",
 "Free Great Person <upon defeating a [Great General] unit>"]
