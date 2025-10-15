@@ -1,5 +1,34 @@
 [
 	{
+		"name": "Satsuma Domain",
+		"leaderName": "Shimazu Tadatsune",
+		"adjective": ["Shimazu"],
+		"startBias": ["Grassland","Mountain","River","Coast","Forest","Avoid [Hill]","Avoid [Tundra]","Avoid [Desert]","Avoid [Snow]","Avoid [Jungle]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Shimazu Tadatsune of Satsuma Domain — a name that haunts the clans. You toppled shogunates and ruled your empire from south to north with ease, mastering the seas and sinking foreign ships that dared cross your path. These deeds mark you as the rightful heir of the Domain; henceforth, none shall dare oppose your will.",
+		"startIntroPart2": "And now, once more, Tadatsune — prove it upon these unfamiliar shores. Declare yourself emperor of this world: strike terror into your enemies, unleash chaos upon their ranks, and bend them to your rule.",
+
+		"declaringWar": "It appears your civilization possesses considerable capabilities; therefore this territory is deemed a strategic objective for our campaign.",
+		"attacked": "By decree of the Satsuma Domain, no emperor, no shogun, and no foreign crown shall claim our submission. We march until to the bitter end nor glory!",
+		"defeated": "It appears my fate is sealed. May my people and this domain be remembered with honor for generations to come.",
+		"introduction": "Greetings, foreign people from distant lands. I am Shimazu Tadatsune — ruler of Satsuma, lord of Ryukyu, and the one who cast down the shogunate. May let your civilization to not be part of those said interactions.",
+		"denounced": "How fortunate you are, to be spared my attention for now. When my other matters are settled, we shall revisit this… disagreement.",
+		"declaringFriendship": "You have shown neither deceit nor arrogance — qualities rare among rulers. Let us stand as allies, bound by respect and honor.",
+
+		"neutralHello": "Ah yes, say, what brings you here upon the capital of Satsuma? A tour? Perhaps, an agreement?",
+		"hateHello": "Stop! Do not continue to step upon my border! The domain accepts no foes, state your needs to my diplomats and dismiss this early.",
+
+		"tradeRequest": "The Satsuma Domain proposes an accord — one that shall strengthen both our nations’ prosperity.",
+
+		"outerColor": [250, 245, 245],
+		"innerColor": [0, 0, 0],
+
+		"uniqueName": "Lord of Vassals, Ruler of Seas",
+		"uniques": ["Enables embarkation for land units","[+15]% [Gold] from City-States","[+10]% Production when constructing [water units] units [in all cities]","Free [Ranged Water] appears <upon constructing [Harbor] [in all cities]>","All newly-trained [Ranged Water] units [in all cities] receive the [Shimazu Clan] promotion"],
+		"cities": ["Kagoshima","Ijuin","Kokubu","Sendai","Kajiki","Chiran","Makurazaki","Kaseda","Naze","Kanoya","Tarumizu","Kushira","Shibushi","Kimotsuki","Soo","Miyakonojo","Ebino","Higashiichiki"]
+	},
+	{
 		"name": "Thrace",
 		"leaderName": "Sitalces",
 		"adjective": ["Thrace"],
@@ -5906,11 +5935,11 @@
 		"startIntroPart2": "'The office should not hesitate to qualify Rizal as the soul of the rebellion. He pretends to be the savior of the Filipinos. He is considered to be a superhuman being—exempted from any restraint—that might obstruct his 'Providential' mission. Don Jose Rizal is the prime mover of this rebellion and must suffer the penalty imposed by the Penal Code. As a consequences, the crime of the rebellion must be punished with death.' —Spanish State Attorney",
 		
 		"declaringWar": "I've traveled so far but I haven't really gotten anywhere. Because the battlefield is not here.",
-		"attacked": "They are incarcerated.. Murdered.. exhumed from the grave.. defiled.. that is what your fellowmen did to the honor and history of my race.",
+		"attacked": "They are incarcerated,Murdered,exhumed from the grave,defiled,that is what your fellowmen did to the honor and history of my race.",
 		"defeated": "I go where no slaves are nor butchers, nor oppressors, where Faith does not slay, where God is the Sovereign-Lord!",
 		"introduction": "I'm Jose Rizal, where my country has social cancer that should be exposed to all Filipinos. And to this end, I intend to record it's condition faithfully, without prejudice. I shall lift the shroud that covers the evil, sacrificing everything to truth, even vanity itself, for as your son I'm conscious of my own defects and weakness.", 
 		"declaringFriendship": "Solidarity..Brotherhood..These are the principles in which will unite us",
-		"denounced": "I'm a writer, I challenge everyone, even myself; I never thought I had so many enemies. Everything I have written is deeply rooted in truth, In my writings, Filipinos will find themselves and their history in the past ten years.",
+		"denounced": "I'm a writer, I challenge everyone, even myself; I never thought I had so many enemies.",
 		
 		"neutralHello": "Once, I thought the only thing important in life was education. But I've realized that it really depends on what kind of Education, one kind can blind us. But now I can see clearly.",
 		"hateHello": "Edukasyon.. Edukasyon.. that makes cowards out all of you. Are YOU going to allow everybody to treat you like slaves? Unless we learn the value of self-respect, we will never earn the respect of other people.",
