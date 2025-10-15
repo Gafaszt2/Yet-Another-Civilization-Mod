@@ -1,5 +1,34 @@
 [
 	{
+		"name": "Satsuma Atakebune",
+		"uniqueTo": "Satsuma Domain",
+		"replaces": "Caravel",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 25,
+		"cost": 160,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>","Eliminates combat penalty for attacking across a coast","Can carry [3] [Satsuma Jūhō Tai] units"],
+		"hurryCostModifier": 50,
+		"attackSound": "cannon"
+		
+		"name": "Satsuma Jūhō Tai",
+		"uniqueTo": "Satsuma Domain",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 170
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Eliminates combat penalty for attacking across a coast","[+10]% XP gained from combat","[+5]% to Flank Attack bonuses"],
+		"attackSound": "shot",
+	},
+	{
+		
 		"name": "Peltast",
 		"uniqueTo": "Thrace",
 		"replaces": "Composite Bowman",
