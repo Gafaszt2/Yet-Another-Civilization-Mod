@@ -1,5 +1,25 @@
 [
 	{
+		"name": "Satsuma Atakebune",
+		"uniqueTo": "Satsuma Domain",
+		"replaces": "Caravel",
+		"unitType": "Melee Water",
+		
+		"name": "Satsuma Jūhō Tai",
+		"uniqueTo": "Satsuma Domain",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 170
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Eliminates combat penalty for attacking across a coast","[+10]% XP gained from combat","[+5]% to Flank Attack bonuses"],
+		"attackSound": "shot",
+	},
+	{
+		
 		"name": "Peltast",
 		"uniqueTo": "Thrace",
 		"replaces": "Composite Bowman",
