@@ -4,6 +4,15 @@
 		"uniqueTo": "Satsuma Domain",
 		"replaces": "Caravel",
 		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 25,
+		"cost": 160,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>","Eliminates combat penalty for attacking across a coast","Can carry [3] [Satsuma Jūhō Tai] units"],
+		"hurryCostModifier": 50,
+		"attackSound": "cannon"
 		
 		"name": "Satsuma Jūhō Tai",
 		"uniqueTo": "Satsuma Domain",
