@@ -1,5 +1,82 @@
 [
 	{
+		"name": "Sicily",
+		"leaderName": "Roger II",
+		"adjective": ["Sicily"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 234, 201],
+		"innerColor": [105, 12, 12],
+		"uniqueName": "Trinacria",
+		"uniques": ["[+33]% [Food] from every [Harbor]","[+22]% [Culture] from every [Lakes]","[+22]% [Culture] from every [Great Improvement]"],
+		"cities": ["Palermo", "Catania", "Messina", "Syracuse", "Marsala", "Ragusa", "Gela", "Trapani", "Caltanissetta", "Vittoria", "Agrigento", "Bagheria", "Modica"]
+	},
+	{
+		"name": "Corsica",
+		"leaderName": "Pasquale Paoli",
+		"adjective": ["Corsica"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [154, 191, 214],
+		"innerColor": [26, 32, 36],
+		"uniqueName": "Mountain in the Sea",
+		"uniques": ["Land units may cross [Mountain] tiles after the first [Great General] is earned",
+	    "Free [Great General] appears","[+1 Culture] from [Mountain] tiles [in all cities]"],
+		"cities": ["Corti", "Aiacciu", "Portivechju", "Aleria", "Bastia", "Calvi", "Sartè", "L'Ìsula", "Bunifaziu", "San Fiurenzu", "Calenzana", "Penta-di-Casinca"]
+	},
+	{
+		"name": "Cornwall",
+		"leaderName": "Michael An Gof",
+		"adjective": ["Cornwall"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [10, 10, 10],
+		"innerColor": [255, 170, 51],
+		"uniqueName": "Belerion",
+		"uniques": ["[+1 Gold] from every [Mine]","[+25]% [Gold] from every [Mine]",
+		"Provides [1] [Tin] <upon building a [Mine] improvement> <with [50]% chance>"],
+		"cities": ["Truro", "Aberfal", "Pennsans", "Kammbronn", "Tewynblustri", "Sen Ostel", "Essa", "Bosvena", "Resrudh", "Porth Ia", "Hellys", "Bud", "Lyskerrys"]
+	},
+	{
 		"name": "Thrace",
 		"leaderName": "Sitalces",
 		"adjective": ["Thrace"],

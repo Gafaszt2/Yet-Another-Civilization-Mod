@@ -38,6 +38,15 @@
 		"uniques":["Gives a defensive bonus of [20]%"]
     },
 	{
+		"name": "Baglio",
+		"uniqueTo": "Sicily",
+		"terrainsCanBeBuiltOn": ["Land","Hill"],
+        "techRequired": "Guilds",
+		"production":1,
+		"turnsToBuild": 7,
+		"uniques":["[+1 Food] for each adjacent [Farm]","[+1 Gold] for each adjacent [Plantation]"]
+    },
+	{
 		"name": "Mong",
 		"uniqueTo": "Shan",
 		"terrainsCanBeBuiltOn": ["Hill"],

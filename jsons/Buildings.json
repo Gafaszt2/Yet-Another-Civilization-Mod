@@ -1,6 +1,26 @@
 
 [ 
 	{
+		"name": "Furtezza",
+		"uniqueTo": "Corsica",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Chivalry",
+		"uniques": ["All newly-trained [Military] units [in this city] receive the [Great Generals I] promotion","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Stannary",
+		"uniqueTo": "Cornwall",
+		"replaces": "Forge",
+		"gold": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+15]% Production when constructing [Land] units [in this city]","[+1 Gold] from [Copper] tiles [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+	},
+	{
 		"name": "Dragon Bone Pit",
 		"uniqueTo": "Shang",
 		"replaces": "Shrine",

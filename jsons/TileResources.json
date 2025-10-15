@@ -24,6 +24,10 @@
 		"resourceType": "Luxury"
 	},
 	{
+		"name": "Tin",
+		"resourceType": "Luxury"
+	},
+	{
 		"name": "Soma",
 		"resourceType": "Luxury"
 	},
