@@ -1,5 +1,14 @@
 [
 {
+"name": "For The Daimyo!",
+"uniques": ["Can move after attacking","All adjacent units heal [1] HP when healing"]
+},
+{
+"name": "Shimazu Clan",
+"uniques": ["[+5]% XP gained from combat",
+    "[This Unit] gains the [For The Daimyo!] status for [6] turn(s)"]
+},
+{
 "name": "Thracian Orphism",
 "uniques": ["[+50]% XP gained from combat",
     "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]"]
