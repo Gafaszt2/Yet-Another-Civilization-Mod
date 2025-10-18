@@ -1,6 +1,71 @@
 
 [ 
 	{
+		"name": "Nuraghe",
+		"uniqueTo": "The Nuragic",
+		"replaces": "Granary",
+		"cityHealth": 10,
+		"cityStrength": 2,
+		"food": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["All newly-trained [Ranged] units [in this city] receive the [Bombardment I] promotion <with [40]% chance>",
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Serapeion",
+		"uniqueTo": "Ptolemaic Egypt",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+5]% [Faith] [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Great Temple of the Aten",
+		"uniqueTo": "Amarna Egypt",
+		"replaces": "Grand Temple",
+		"cost": 125,
+		"culture": 1,
+		"faith": 8,
+		"uniques": ["[-25]% Faith cost of generating Great Prophet equivalents","Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
+	{
+		"name": "Observatory",
+		"specialistSlots": {"Astronomer": 1},
+		"maintenance": 0,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Observation Tower",
+		"uniques": ["Comment [+1 Astronomer slot]","Must be next to [Mountain]"],
+		"requiredTech": "Astronomy"
+	},
+	{
+		"name": "Observation Tower",
+		"specialistSlots": {"Astronomer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Mathematics",
+		"requiredBuilding": "Alligned Stones",
+		"uniques": ["Comment [+2 Astronomer slot]"]
+	},
+	{
+		"name": "Alligned Stones",
+		"specialistSlots": {"Astronomer": 1},
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Calendar",
+		"uniques": ["Comment [+1 Astronomer slot]"]
+	},
+	{
 		"name": "Furtezza",
 		"uniqueTo": "Corsica",
 		"replaces": "Castle",

@@ -1,5 +1,82 @@
 [
 	{
+		"name": "The Nuragic",
+		"leaderName": "Sardus",
+		"adjective": ["The Nuragic"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [35, 41, 32],
+		"innerColor": [255, 207, 168],
+		"uniqueName": "Great Hymn to the Aten",
+		"uniques": ["[+5]% Strength <for [All] units> <with [Iron]>","[+5]% Strength <for [All] units> <with [Horses]>","[1] population in a random city <upon discovering [Pottery] technology>","[+15]% [Food] [in all cities]"],
+		"cities": ["Su Nuraxi", "Losa", "Tibula", "Nora", "Palmavera", "Seruci", "Santu Antine", "Macumère", "Arrubiu", "Ertas", "Rio Ena", "Mandras", "Tamuli"]
+	},
+	{
+		"name": "Amarna Egypt",
+		"leaderName": "Akhenaten",
+		"adjective": ["Amarna Egypt"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 238, 107],
+		"innerColor": [76, 40, 138],
+		"uniqueName": "Great Hymn to the Aten",
+		"uniques": ["[+50]% Natural religion spread [in all cities] <upon gaining a [High Priest of the Aten] unit> <for [5] turns> <(modified by game speed)>"],
+		"cities": ["Akhetaten", "Thebes", "Memphis", "Gempaaten", "Hwt-Benben", "Tanis", "Dendera", "Abydos", "Heroonopolis", "Karnak", "Malkata", "Avaris"]
+	},
+	{
+		"name": "Ptolemaic Egypt",
+		"leaderName": "Ptolemy I Soter",
+		"adjective": ["Ptolemaic Egypt"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [35, 50, 150],
+		"innerColor": [255, 238, 107],
+		"uniqueName": "Pearl of the Mediterranean",
+		"uniques": ["[+54]% Production when constructing [Lighthouse] buildings [in all cities]","[+54]% Production when constructing [Harbor] buildings [in all cities]",
+		"[+66]% Production when constructing [Seaport] buildings [in all cities]","[+66]% Production when constructing [Hydro Plant] buildings [in all cities]",
+		"[+25]% [Gold] from every [Coast]","[Great Astronomer] is earned [+25]% faster"],
+		"cities": ["Alexandria", "Ptolemais Hermiou", "Naucratis", "Arsinoe", "Oxyrhynchus", "Pelousium", "Gaza", "Berenice", "Paraitonion", "Philadeplhia", "Gerasa", "Paphos"]
+	},
+	{
 		"name": "Sicily",
 		"leaderName": "Roger II",
 		"adjective": ["Sicily"],
@@ -21,7 +98,7 @@
 		"outerColor": [255, 234, 201],
 		"innerColor": [105, 12, 12],
 		"uniqueName": "Trinacria",
-		"uniques": ["[+33]% [Food] from every [Harbor]","[+22]% [Culture] from every [Lakes]","[+22]% [Culture] from every [Great Improvement]"],
+		"uniques": ["[+33]% [Food] from every [Lighthouse]","[+22]% [Culture] from every [Lakes]","[+22]% [Culture] from every [Great Improvement]"],
 		"cities": ["Palermo", "Catania", "Messina", "Syracuse", "Marsala", "Ragusa", "Gela", "Trapani", "Caltanissetta", "Vittoria", "Agrigento", "Bagheria", "Modica"]
 	},
 	{
@@ -72,8 +149,8 @@
 		"outerColor": [10, 10, 10],
 		"innerColor": [255, 170, 51],
 		"uniqueName": "Belerion",
-		"uniques": ["[+1 Gold] from every [Mine]","[+25]% [Gold] from every [Mine]",
-		"Provides [1] [Tin] <upon building a [Mine] improvement> <with [50]% chance>"],
+		"uniques": ["[+1 Gold] from every [Mine]","[+45]% [Gold] from every [Mine]","[+15]% [Production] from every [Mine]",
+		"Provides [1] [Tin]"],
 		"cities": ["Truro", "Aberfal", "Pennsans", "Kammbronn", "Tewynblustri", "Sen Ostel", "Essa", "Bosvena", "Resrudh", "Porth Ia", "Hellys", "Bud", "Lyskerrys"]
 	},
 	{
@@ -2159,7 +2236,7 @@
 		"outerColor": [41, 29, 28],
 		"innerColor": [237, 101, 66],
 		"uniqueName": "Black Drink Ceremony",
-		"uniques": ["Provides [1] [Yaupon Tea] <upon founding a city> <while the empire is happy>","[+1 Culture] from [Fresh Water] tiles [in all cities]","[+1 Culture] from [Marsh] tiles [in all cities]"],
+		"uniques": ["Provides [1] [Yaupon Tea]","[+1 Culture] from every [Jungle]","[+1 Culture] from [Fresh Water] tiles [in all cities]","[+1 Culture] from [Marsh] tiles [in all cities]"],
 		"cities": ["Ossachite", "Omoloa", "Tacatacuru", "Antonico", "Tucuru", "Ocale", "Mocoso", "Ayacuto", "Cotocochuni", "Potano", "Mocama", "Utina"],
         "spyNames": ["Saki"]
     },
@@ -2514,7 +2591,7 @@
 		"outerColor": [31, 21, 15],
 		"innerColor": [255, 179, 133],
 		"uniqueName": "Sanctuary of the Wild Apple Tree",
-		"uniques": ["[+1] Movement <for [Mounted] units> <upon founding a Religion>", "[+3 Faith] from every [Citadel]", "[+3 Faith] from every [Holy site]"],
+		"uniques": ["[+1] Movement <for [Mounted] units>", "[+25]% Golden Age length","[+3 Faith] from every [Citadel]", "[+3 Faith] from every [Holy site]"],
 		"cities": ["Almaliq","Qarshi","Beshbaliq","Kashgar","Samarqand","Bukhara","Tulufan","Toshkent","Kābol","Gosthana"],
         "spyNames": ["Saki"]
     },
@@ -2614,7 +2691,7 @@
 	"outerColor": [204, 159, 0],
 	"innerColor": [3, 0, 84],
 	"uniqueName": "Caudillo's Reforms",
-	"uniques": ["Gain a free [Communal Council] [in capital] <upon adopting [Order]>","[+2 Culture] [in all cities] <upon entering the [Industrial era]>","[+5]% growth [in capital]","[+10]% Production when constructing [Mounted] units [in capital]","[+35]% Production when constructing [Armored] units [in all cities]"],
+	"uniques": ["Gain a free [Communal Council] [in capital] <upon adopting [Order]>","[+25]% Golden Age length","[+5]% growth [in capital]","[+10]% Production when constructing [Mounted] units [in capital]","[+35]% Production when constructing [Armored] units [in all cities]"],
 	"cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Maracay","Ciudad Bolívar","San Cristóbal","Mérida","Barcelona","Cumaná"],
 	"spyNames": ["Saki"]
 },
@@ -2665,7 +2742,7 @@
 		"outerColor": [128, 17, 17],
 		"innerColor": [145, 255, 200],
 		"uniqueName": "Ahmudan Conscription",
-		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Shock I] promotion <upon entering the [Medieval era]>"
+		"uniques": ["All newly-trained [Sword] units [in all cities] receive the [Shock I] promotion","All newly-trained [Gunpowder] units [in all cities] receive the [Great Generals I] promotion"
    ],
 		"cities": ["Shwebo", "Sagaing", "Ava", "Amarapura", "Mandalay", "Yangon", "Bagan", "Mawlamyine", "Bago", "Pathein", "Pyay", "Monywa", "Meiktila", "Sittwe"],
 		"spyNames": ["Saki"]
@@ -2796,7 +2873,7 @@
 		"outerColor": [222, 0, 0],
 		"innerColor": [255, 242, 191],
 		"uniqueName": "Europe’s Last Pagans",
-		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Additional Movement] promotion <upon founding a Pantheon>",
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Additional Movement] promotion",
 		"All newly-trained [Land] units [in all cities] receive the [Capture I] promotion <in [Holy] cities>","All newly-trained [Land] units [in all cities] receive the [Capture II] promotion <in [Holy] cities>"
    ],
 		"cities": ["Vilnius", "Trakai", "Kernave", "Voruta", "Kaunas", "Gardinas", "Siauliai", "Klaipeda", "Medvegalis", "Minsk", "Polotsk", "Palanga", "Brest", "Raseiniai", "Naugardukas"],
@@ -2979,7 +3056,7 @@
 		"outerColor": [150, 15, 15],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Apostolic See",
-		"uniques": ["[1] free [Great Prophet] units appear","[+1] Movement <for [Missionary] units>","[+1] Movement <for [Inquisitor] units>","[+1] Movement <for [Great Prophet] units>","Provides [1] [Relic] <upon gaining a [Great Prophet] unit>"],
+		"uniques": ["[1] free [Great Prophet] units appear","[+1] Movement <for [Missionary] units>","[+1] Movement <for [Inquisitor] units>","[+1] Movement <for [Great Prophet] units>","Provides [1] [Relic]"],
 		"cities": ["Rome", "Benevento", "Pontecorvo", "Ascoli", "Castel Gandolfo", "Avignon", "Ravenna", "Bologna", "Ferrara", "Civitavecchia", "Perugia"],
 		"spyNames": ["Saki"]
 	},
@@ -3054,7 +3131,7 @@
 		"outerColor": [255, 116, 41],
 		"innerColor": [27, 23, 51],
 		"uniqueName": "Garma Festival",
-		"uniques": ["[+3 Culture] [in capital] <upon founding a city>"],
+		"uniques": ["[+3 Culture] [in capital]","[+35]% [Culture] [in all cities]"],
 		"cities": ["Yirrkala", "Milingimbi", "Galiwinku", "Ramingining", "Nhulunbuy", "Gunyangarra", "Gapuwiyak", "Dhalinybuy", "Gurrumuru", "Yilpara", "Gurkawuy", "Barrkira"],
 		"spyNames": ["Saki"]
 	},
@@ -3154,7 +3231,7 @@
 		"outerColor": [54, 37, 84],
 		"innerColor": [247, 242, 255],
 		"uniqueName": "The Red Chief",
-		"uniques": ["Comment [Starts with an Spearman]","Free [Spearman] appears <hidden from users>","Provides [1] [Bush Bread] <upon founding a city> <while the empire is happy>","[+1 Food] <in cities connected to the capital>"],
+		"uniques": ["Comment [Starts with an Spearman]","Free [Spearman] appears <hidden from users>","Provides [1] [Bush Bread]","[+1 Food] <in cities connected to the capital>"],
 		"cities": ["Gunnedah", "Singleton", "Quirindi", "Tamworth", "Narrabri", "Wee Waa", "Walgett", "Moree", "Collarenebri", "Lightning Ridge"],
 		"spyNames": ["Saki"]
 	},
@@ -3783,7 +3860,7 @@
 		"outerColor": [240, 216, 165],
 		"innerColor": [36, 25, 17],
 		"uniqueName": "Terracotta Sculpture Makers",
-		"uniques": ["Starts with [Mining]","Provides [1] [Terracotta Sculpture] <upon founding a city>","[+1 Science] from [Strategic resource] tiles [in all cities]"],	
+		"uniques": ["Starts with [Mining]","Provides [1] [Terracotta Sculpture]","[+7]% [Science] [in all cities]","[+1 Science] from [Strategic resource] tiles [in all cities]"],	
 		"cities": ["Nok", "Jos", "Taruga", "Samun Dukyai", "Kasina Ala", "Janjala", "Kagara", "Pangajere", "Kamrun", "Rigwallo", "Ogbabu", "Nasarawa"],
 		"spyNames": ["Saki"]
 	},
@@ -3858,7 +3935,7 @@
 		"outerColor": [245, 109, 47],
 		"innerColor": [28, 17, 9],
 		"uniqueName": "Blended Wares",
-		"uniques": ["Starts with [Pottery]","Provides [1] [Ware] <upon constructing [Wonder]>"],
+		"uniques": ["Starts with [Pottery]","Provides [1] [Ware]","[+15]% [Food] [in all cities]"],
 		"cities": ["Paquimé", "Mimbres", "Hueco Tanks", "Cuarenta Casas", "Huápoca", "Cueva Grande", "Cueva de la Olla", "Trincheras"],
 		"spyNames": ["Saki"]
 	},
@@ -4009,10 +4086,10 @@
 		"outerColor": [173, 173, 173],
 		"innerColor": [31, 31, 31],
 		"uniqueName": "Mother of Revolutions",
-		"uniques": ["Provides [1] [Pufferfish] <upon constructing [Lighthouse]>",
-	                "Provides [2] [Pufferfish] <upon constructing [Harbor]>",
-				"Provides [2] [Pufferfish] <upon constructing [Seaport]>",
-			    "[+15]% [Happiness] [in capital]"],
+		"uniques": ["Provides [1] [Pufferfish] <starting from the [Ancient era]>",
+	                "Provides [2] [Pufferfish] <starting from the [Medieval era]>",
+				"Provides [2] [Pufferfish] <starting from the [Industrial era]>",
+			    "[+35]% [Happiness] [in capital]"],
 		"cities": ["Port'Au Prince","Gonaïves","Cape Haiti","Jacmel","Port-de-Paix","Fort-Liberté","Jérémie","Chambellan","The Caobas","La Victoire"],
 		"spyNames": ["Saki"]
 	},
@@ -4766,7 +4843,7 @@
 		"outerColor": [183, 245, 247],
 		"innerColor": [31, 48, 48],
 		"uniqueName": "Enapyeratirghin",
-		"uniques": ["Earn [35]% of killed [Land] unit's [Strength] as [Culture]","[+20]% Strength <for [Land] units> <upon gaining the [Shock III] promotion>","[+20]% Strength <for [Land] units> <upon gaining the [Drill III] promotion>"],
+		"uniques": ["Earn [35]% of killed [Land] unit's [Strength] as [Culture]","[+25]% Strength <for [Sword] units>","[+25]% Strength <for [Gunpowder] units>"],
 		"cities": ["Kagyrgyn", "Pagytkenay", "Irvykynnot", "Uvelen", "Guvrel", "Kytryn", "Gachgatagyn", "Lyuren", "Gynryretyk", "Ujvyn"],
 		"spyNames": ["Saki"]
 	},
@@ -7050,7 +7127,7 @@
 		"innerColor": [255, 189, 110],
 		"favoredReligion": "Islam",
 		"uniqueName": "House of Knowledge",
-		"uniques": ["[Great Scientist] is earned [33]% faster","[-66]% maintenance costs <for [Archery] units>","[+1 Science] from all [Wonder] buildings <upon founding a Religion>"],
+		"uniques": ["[Great Scientist] is earned [33]% faster","[-66]% maintenance costs <for [Archery] units>","[+1 Science] from all [Wonder] buildings"],
 		"cities": ["Cairo",
 "Fustat",
 "Mahdia",
@@ -7168,7 +7245,7 @@
 		"innerColor": [40, 44, 46],
 		"favoredReligion": "Islam",
 		"uniqueName": "Orishas",
-		"uniques": ["[+1 Production] from [Horses] tiles [in all cities]","[+1 Gold] from [Horses] tiles [in all cities]","[+1 Faith] from all [Palace] buildings <upon entering a new era>","[+1 Faith] from all [Shrine] buildings"],
+		"uniques": ["[+1 Production] from [Horses] tiles [in all cities]","[+1 Gold] from [Horses] tiles [in all cities]","[+1 Gold] from all [Granary] buildings","[+1 Faith] from all [Shrine] buildings"],
 		"cities": ["Igboho", "Oyo-Ile", "Oyo", "Ibadan", "Iseyin", "Abeokuta", "Osogbo", "Okeho", "Ogbomosho"],
         "spyNames": ["Oranmiyan", "Shango", "Okukenu", "Lasilo", "Kayode Eso"]
 	},
@@ -7854,7 +7931,7 @@
 		"innerColor": [13, 15, 18],
                 "favoredReligion": "Islam",
 		"uniqueName": "The Sinless Emir",
-		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <upon founding a Pantheon>","Gain a free [Namazgah] [in all cities] <upon conquering a city>"],
+		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost","Gain a free [Namazgah] [in all cities] <upon conquering a city>"],
 		"cities": ["Bukhara", "Samarkand", "Qarshi", "Balkh", "Shakhrisabz", "Chardjuy", "Hisor", "G'uzor", "Kattakurgan", "Sheberghan", "Khujand", "Jizzakh", "Maimana", "Chirakchi", "Denau", "Kulab", "Nurota", "Termez", "Kurganteppa", "Karakul", "Kermine", "Vobkent", "Uroteppa"],
 	}
 
@@ -8377,7 +8454,7 @@
 		"outerColor": [54, 50, 49],
 		"innerColor": [204, 201, 200],
 		"uniqueName": "Sacker of Rome",
-		"uniques": ["[+15]% Strength <for [Sword] units> <upon entering the [Medieval era]>","[+10]% Strength <for [Sword] units>","Gain [100] [Gold] <upon conquering a city>"],
+		"uniques": ["[+35]% Strength <for [Sword] units>","Gain [100] [Gold] <upon conquering a city>"],
 		"cities": ["Árheimar",
 "Ravenna",
 "Tolosa",

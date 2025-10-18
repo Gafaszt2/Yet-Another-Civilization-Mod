@@ -1,0 +1,16 @@
+
+[
+    {
+        "name": "Animal Worship",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture, +1 Faith] from [{unimproved} {Cattle}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Sheep}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Deer}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Fish}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Bison}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Horses}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Furs}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Crab}] tiles [in all cities]",
+    "[+1 Culture, +1 Faith] from [{unimproved} {Whales}] tiles [in all cities]"]
+    }
+]
