@@ -1,5 +1,36 @@
 [
 	{
+		"name": "Xazg",
+		"uniqueTo": "The Kalmyks",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["[+50]% to Flank Attack bonuses","[This Unit] gains [10] XP <upon defeating a [Wounded] unit> <with [60]% chance>","[This Unit] heals [15] HP <upon being promoted> <with [60]% chance>",
+			"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Mamluk",
+		"uniqueTo": "The Ayyubids",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[+25]% Strength <when fighting in [Desert] tiles> <when attacking>","Double movement in [Desert]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Gherreri",
 		"uniqueTo": "The Nuragic",
 		"replaces": "Swordsman",

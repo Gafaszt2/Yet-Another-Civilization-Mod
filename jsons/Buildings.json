@@ -1,6 +1,31 @@
 
 [ 
 	{
+		"name": "Sume",
+		"uniqueTo": "The Kalmyks",
+		"replaces": "Temple",
+		"faith": 2,
+		"production": 1,
+		"requiredBuilding": "Shrine",
+		"specialistSlots":{"Engineer": 2},
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Comment [+2 Engineer slot]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Madrasah",
+		"uniqueTo": "The Ayyubids",
+		"replaces": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+15]% [Faith] [in this city]","[+15]% [Science] [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
 		"name": "Nuraghe",
 		"uniqueTo": "The Nuragic",
 		"replaces": "Granary",
@@ -54,11 +79,11 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredTech": "Mathematics",
-		"requiredBuilding": "Alligned Stones",
+		"requiredBuilding": "Stone Row",
 		"uniques": ["Comment [+2 Astronomer slot]"]
 	},
 	{
-		"name": "Alligned Stones",
+		"name": "Stone Row",
 		"specialistSlots": {"Astronomer": 1},
 		"cost": 40,
 		"maintenance": 1,
@@ -697,15 +722,6 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["[+1 Faith] per [3] population [in this city]","New [Military] units start with [15] XP [in this city] <during We Love The King Day>","Destroyed when the city is captured"]
-	},
-	{
-		"name": "Temple",
-		"faith": 2,
-		"requiredBuilding": "Shrine",
-		"maintenance": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
-		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "Giant's Church",

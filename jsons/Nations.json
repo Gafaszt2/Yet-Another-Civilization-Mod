@@ -1,5 +1,55 @@
 [
 	{
+		"name": "The Kalmyks",
+		"leaderName": "Ayuka Khan",
+		"adjective": ["The Kalmyks"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [252, 229, 111],
+		"innerColor": [22, 31, 69],
+		"uniqueName": "Epic of Jangar",
+		"uniques": ["[+1] Movement <for [Great General] units>","[+15]% Strength <for [Mounted] units> <during a Golden Age>","[+10]% Strength <in cities following our religion>","[-44]% maintenance cost for [Production] buildings [in all cities]"],
+		"cities": ["Saratov","Elista","Lagan","Astrakhan","Samara","Bashanta","Tsaritsyn","Guryev","Yashkul'","Karakorum","Toickoe"]
+	},
+	{
+		"name": "The Ayyubids",
+		"leaderName": "Saladin",
+		"adjective": ["The Ayyubids"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [180, 134, 38],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Amir al-Mu'minin",
+		"uniques": ["[2] free [Mamluk] units appear <upon gaining a [Great Prophet] unit> <with [60]% chance>","[+10]% [Science] [in all cities]","[Faith] cost of purchasing [Great Prophet] units [-25]%"],
+		"cities": ["Cairo","Dvin","Baalbek","Bilbais","Alexandria","Aswan","Zabid","Taizz","Sanaa","Yanbu","Hama"]
+	},
+	{
 		"name": "The Nuragic",
 		"leaderName": "Sardus",
 		"adjective": ["The Nuragic"],
@@ -20,7 +70,7 @@
 				
 		"outerColor": [35, 41, 32],
 		"innerColor": [255, 207, 168],
-		"uniqueName": "Great Hymn to the Aten",
+		"uniqueName": "Era of the Aristocracies",
 		"uniques": ["[+5]% Strength <for [All] units> <with [Iron]>","[+5]% Strength <for [All] units> <with [Horses]>","[1] population in a random city <upon discovering [Pottery] technology>","[+15]% [Food] [in all cities]"],
 		"cities": ["Su Nuraxi", "Losa", "Tibula", "Nora", "Palmavera", "Seruci", "Santu Antine", "Macumère", "Arrubiu", "Ertas", "Rio Ena", "Mandras", "Tamuli"]
 	},
