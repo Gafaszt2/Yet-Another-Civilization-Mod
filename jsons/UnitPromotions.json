@@ -1,5 +1,54 @@
 [
 {
+"name": "Bregada Ability",
+"uniques":["Comment [Enables 4 unique promotions.]"]
+},
+{
+"name": "Mantrijero",
+"prerequisites": ["Bregada Ability"],
+"uniques": ["This Promotion is free","[+25]% Strength <when fighting in [Open terrain] tiles> <when attacking>",
+"Only available <for units without [Nyutra]>","Only available <for units without [Wirabraja]>","Only available <for units without [Dhaeng]>"]
+},
+{
+"name": "Nyutra",
+"prerequisites": ["Bregada Ability"],
+"unitTypes": ["Gunpowder"],
+"uniques": ["This Promotion is free","[+35]% Strength <when defending> <vs [Ranged] units>",
+"Only available <for units without [Mantrijero]>","Only available <for units without [Wirabraja]>","Only available <for units without [Dhaeng]>"]
+},
+{
+"name": "Wirabraja",
+"prerequisites": ["Bregada Ability"],
+"unitTypes": ["Gunpowder"],
+"uniques": ["This Promotion is free","[+35]% Strength <when defending> <vs [Mounted] units>",
+"Only available <for units without [Nyutra]>","Only available <for units without [Mantrijero]>","Only available <for units without [Dhaeng]>"]
+},
+{
+"name": "Dhaeng",
+"prerequisites": ["Bregada Ability"],
+"unitTypes": ["Gunpowder"],
+"uniques": ["This Promotion is free","[+1] Movement",
+"Only available <for units without [Nyutra]>","Only available <for units without [Wirabraja]>","Only available <for units without [Mantrijero]>"]
+},
+{
+"name": "River Capture",
+"uniques": ["May capture killed [Wounded] units <when fighting in [River] tiles>"]
+},
+{
+"name": "Random Promotion Upon Combat",
+"uniques": ["[This Unit] gains the [Volley] promotion <upon entering combat> <with [5]% chance>",
+"[This Unit] gains the [Indirect Fire] promotion <upon entering combat> <with [5]% chance>",
+"[This Unit] gains the [Formation I] promotion <upon entering combat> <with [5]% chance>",
+"[This Unit] gains the [Blitz] promotion <upon entering combat> <with [5]% chance>",
+"[This Unit] gains the [Woodsman] promotion <upon entering combat> <with [5]% chance>",
+"[This Unit] gains the [Amphibious] promotion <upon entering combat> <with [5]% chance>",
+"[This Unit] gains the [Scouting I] promotion <upon entering combat> <with [5]% chance>"]
+},
+{
+"name": "Jungle Expertise",
+"uniques": ["[This Unit] heals [5] HP <upon ending a turn in a [Jungle] tile>","[-10]% Strength for enemy [Wounded] units in adjacent [Land] tiles","[-10]% Strength for enemy [Wounded] units in adjacent [Jungle] tiles"]
+},
+{
 "name": "Thracian Orphism",
 "uniques": ["[+50]% XP gained from combat",
     "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]"]

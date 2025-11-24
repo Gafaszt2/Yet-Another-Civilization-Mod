@@ -1,4 +1,76 @@
 [	
+	{
+		"name": "Opal",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Oceania Beach","Oceania Jungle","Oceania Desert"],
+		"gold": 1,
+		"improvement": "Mine",
+        "uniques": ["Gems"],
+		"improvementStats": {"production": 1}
+	},
+	{
+		"name": "Basalt",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Oceania Beach","Oceania Jungle","Oceania Desert"],
+		"gold": 1,
+		"improvement": "Mine",
+        "uniques": ["Marble"],
+		"improvementStats": {"production": 1}
+	},
+	{
+		"name": "Phosphate",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Oceania Beach","Oceania Jungle","Oceania Desert"],
+		"food": 2,
+		"improvement": "Plantation",
+		"revealedBy": "Fertilizer",
+		"improvementStats": {"food": 2}
+	},
+	{
+		"name": "Cassowary",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Oceania Beach"],
+		"food": 1,
+		"improvement": "Camp",
+        "uniques": ["Deer"],
+		"improvementStats": {"production": 1}
+	},
+	{
+		"name": "Emu",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Oceania Jungle"],
+		"food": 1,
+		"improvement": "Camp",
+        "uniques": ["Horses"],
+		"improvementStats": {"production": 1}
+	},
+	{
+		"name": "Kiwi",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Oceania Jungle"],
+		"food": 1,
+		"improvement": "Camp",
+        "uniques": ["Horses"],
+		"improvementStats": {"production": 1}
+	},
+	{
+		"name": "Kangaroo",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Oceania Desert"],
+		"food": 1,
+		"improvement": "Camp",
+        "uniques": ["Cattle"],
+		"improvementStats": {"production": 1}
+	},
+	{
+		"name": "Coconut Palm",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Oceania Beach"],
+		"food": 1,
+		"improvement": "Camp",
+        "uniques": ["Bananas"],
+		"improvementStats": {"production": 1}
+	},
     {
 		"name": "Wool",
 		"resourceType": "Luxury"
@@ -21,6 +93,10 @@
 	},
 	{
 		"name": "Mot",
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Mushroom",
 		"resourceType": "Luxury"
 	},
 	{

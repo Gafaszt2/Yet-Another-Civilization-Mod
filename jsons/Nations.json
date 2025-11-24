@@ -1,5 +1,514 @@
 [
 	{
+		"name": "Athens",
+		"leaderName": "Pericles",
+		"adjective": ["Athens"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [45, 96, 224],
+		"uniqueName": "Delian League",
+		"uniques": ["[-50]% City-State Influence degradation","Allied City-States provide [Science] equal to [+40]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+40]% of what they produce for themselves"],
+		"cities": ["Athens","Eretria","Megara","Argos","Amphipolis","Naxos","Rhodos","Samos","Mytilene","Ephesus"]
+	},
+	{
+		"name": "Troy",
+		"leaderName": "Priam",
+		"adjective": ["Troy"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [47, 66, 97],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Assuwa League",
+		"uniques": ["Cannot build [Settler] units","May not annex cities","Gain a free [Walls of Troy] [in capital]",
+		"Allied City-States provide [Food] equal to [+35]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+35]% of what they produce for themselves","Allied City-States provide [Faith] equal to [+35]% of what they produce for themselves",
+		"[-50]% City-State Influence degradation"],
+		"cities": ["Troy"]
+	},
+	{
+		"name": "The Samnites",
+		"leaderName": "Comius Castronius",
+		"adjective": ["The Samnites"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [24, 24, 79],
+		"innerColor": [255, 89, 89],
+		"uniqueName": "Ver Sacrum",
+		"uniques": ["[Faith] cost of purchasing [Settler] units [-30]%","May buy [Settler] units with [Faith] for [2] times their normal Production cost",
+	    "[+1 Faith] from every [Pasture]","[+1 Faith] from every [Camp]"],
+		"cities": ["Bovianum","Maloenton","Cluviae","Caudium","Larinum","Saipinum","Cominium","Aquilonia","Duronia","Anxanum Geronium"]
+	},
+	{
+		"name": "The Etruscans",
+		"leaderName": "Tyrrhenus",
+		"adjective": ["The Etruscans"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [33, 101, 191],
+		"innerColor": [252, 254, 255],
+		"uniqueName": "Twelve Peoples of Etruria",
+		"uniques": ["[-60]% unhappiness from the number of cities","[+1 Gold] from each Trade Route"],
+		"cities": ["Velzna", "Tarchuna", "Curtun", "Velathri", "Aritim", "Chaire", "Velch", "Fufluna", "Veia", "Vatluna", "Perusna", "Clevsin", "Alalia"]
+	},
+	{
+		"name": "Gojoseon",
+		"leaderName": "Tan'gun",
+		"adjective": ["Gojoseon"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [143, 143, 143],
+		"uniqueName": "Gogi",
+		"uniques": ["Allied City-States provide [Science] equal to [+50]% of what they produce for themselves","[+2 Culture] from every [Furs]","[+2 Culture] from every [Silk]"],
+		"cities": ["Asadal", "Sinsi", "Wanggeom-seong", "Pyongyang", "Jangdang-gyeong", "Chaoyang", "Misong-ri", "Ganghwa", "Pakch'ŏn", "Yoha", "Gangneung", "Wonsan"]
+	},
+	{
+		"name": "Wei",
+		"leaderName": "Cao Cao",
+		"adjective": ["Wei"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [6, 5, 8],
+		"innerColor": [255, 176, 48],
+		"uniqueName": "Though the Tortoise Lives Long",
+		"uniques": ["[+1 Culture] from every specialist [in all cities]","[+1 Culture] from every [Artist]","[+25]% [Happiness] [in capital]"],
+		"cities": ["Xuchang","Luoyang","Ye","Chang'an","Xiangyang","Chenliu","Weixing","Shangyong","Longxi","Donglai"]
+	},
+	{
+		"name": "Shu Han",
+		"leaderName": "Liu Bei",
+		"adjective": ["Shu Han"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [62, 58, 87],
+		"innerColor": [255, 204, 84],
+		"uniqueName": "Longzhong Plan",
+		"uniques": ["[1] free [Great General] units appear <upon ending a Golden Age>","[1] free [Great General] units appear <upon entering a war with [All] Civilizations>"],
+		"cities": ["Chengdu", "Baidicheng", "Hanzhong", "Wenshan", "Fuling", "Yunnan", "Ba", "Jianning", "Zangke", "Yinping", "Badong", "Wudi", "Yongchang", "Jiangyang", "Zhuti", "Xinggu"]
+	},
+	{
+		"name": "Sun Wu",
+		"leaderName": "Sun Jian",
+		"adjective": ["Sun Wu"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [78, 53, 82],
+		"innerColor": [244, 189, 252],
+		"uniqueName": "The Tiger of Jiangdong",
+		"uniques": ["[-60]% maintenance costs <for [Land] units>","[+20]% [Gold] [in all cities]"],
+		"cities": ["Wuchang", "Jianye", "Shanyin", "Wu", "Qichun", "Nanchang", "Wan", "Gaochang", "Poyang", "Shixin", "Nancheng", "Zhang'an", "Jian'an", "Wucheng", "Changshan", "Piling", "Yudu", "Jiangling", "Linyuan", "Quanling"]
+	},
+	{
+		"name": "Tichitt",
+		"leaderName": "Al Ghana",
+		"adjective": ["Tichitt"],
+		"startBias": ["Desert","Hill","Oasis"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [109, 232, 171],
+		"innerColor": [23, 48, 45],
+		"uniqueName": "Saharan Pastoralism",
+		"uniques": ["Starts with [Masonry]","[+1 Culture] from every [Pasture]","[+15]% [Culture] from Trade Routes"],
+		"cities": ["Dhar Tichitt", "Dhar Walata", "Dhar Néma", "Dhar Tagant", "Dakhlet el Atrouss", "Guilemsi", "Tondidarou", "Mobangou", "Lake Fati", "Lake Faguibine", "Bled Initi", "Akhrejit"]
+	},
+	{
+		"name": "The Flying Gang",
+		"leaderName": "Benjamin Hornigold",
+		"adjective": ["The Flying Gang"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [59, 14, 14],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Republic of Pirates",
+		"uniques": ["Earn [75]% of killed [Water] unit's [Strength] as [Culture]","Earn [105]% of killed [Water] unit's [Strength] as [Gold]"],
+		"cities": ["Nassau","Harbour Island","Ocracoke Island","Bath Town","Topsail Island","Saint Thomas","Green Turtle Cay","Saint Barthélemy","Cayo Hueso","Vero Beach"]
+	},
+	{
+		"name": "Roman Kingdom",
+		"leaderName": "Romulus",
+		"adjective": ["Roman Kingdom"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [237, 182, 109],
+		"innerColor": [184, 42, 42],
+		"uniqueName": "Raised by Wolves",
+		"uniques": ["[1] population in a random city <upon defeating a [Barbarian] unit> <with [50]% chance>"],
+		"cities": ["Rome", "Gabii", "Antemnae", "Ostia", "Janiculum", "Reate", "Cameria", "Caenina", "Fidenae", "Lavinium", "Alba Longa", "Laurentum", "Corniculum", "Politorium", "Suessa Pometia", "Apiolae"]
+	},
+	{
+		"name": "Western Rome",
+		"leaderName": "Majorian",
+		"adjective": ["Western Rome"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [105, 20, 13],
+		"innerColor": [255, 211, 89],
+		"uniqueName": "Defensor Civitatis",
+		"uniques": ["[+30]% Strength for cities","[+2 Faith] from every specialist [in all cities]",
+		"[-30]% City-State Influence degradation <upon gaining a [Great Prophet] unit> <for [6] turns>"],
+		"cities": ["Ravenna","Rome","Mediolanum","Neapolis","Aquileia","Salona","Florentia","Placentia","Verona","Spoleum"]
+	},
+    {
+		"name": "The Hyksos",
+		"leaderName": "Apophis",
+		"adjective": ["The Hyksos"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [79, 13, 13],
+		"innerColor": [255, 139, 82],
+		"uniqueName": "Cultists of Set",
+		"uniques": ["[+50]% of excess happiness converted to [Science]","[+50]% of excess happiness converted to [Culture]","Upon capturing a city, receive [1] times its [Science] production as [Science] immediately"],
+		"cities": ["Avaris","Sharuhen","Noph","Awen","Ghazzat","Wadjet","Maketi","Sidon","Ugarit","Halab"]
+	},
+	{
+		"name": "The Kassites",
+		"leaderName": "Burnaburiash",
+		"adjective": ["The Kassites"],
+		"startBias": ["Plains","River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [121, 154, 219],
+		"innerColor": [21, 36, 66],
+		"uniqueName": "Dynasty of Karduniash",
+		"uniques": ["[+1 Faith, +1 Culture] from every [Pasture]","[+10 Happiness] [in puppeted cities]"],
+		"cities": ["Dur-Kurigalzu","Karduniash","Nippur","Sippar","Larsa","Susa","Kish","Isin","Girsu","Uruk"]
+	},
+	{
+		"name": "Phrygia",
+		"leaderName": "Midas",
+		"adjective": ["Phrygia"],
+		"startBias": ["Plains","River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [55, 97, 33],
+		"innerColor": [255, 236, 112],
+		"uniqueName": "Golden Touch",
+		"uniques": ["[+1 Culture, +1 Gold] from [Copper] tiles [in all cities]","[+1 Culture, +1 Gold] from [Gold Ore] tiles [in all cities]","[+1 Culture, +1 Gold] from [Iron] tiles [in all cities]",
+	    "[+1 Culture, +1 Gold] from [Silver] tiles [in all cities]","[+100]% [Iron] resource production"],
+		"cities": ["Gordion", "Dorylaeum", "Midas City", "Akroinon", "Docimium", "Synnada", "Aizanoi", "Acmonia", "Laodicea", "Hierapolis", "Iconium", "Pessinus", "Ancyra", "Otrus", "Stectorium"]
+	},
+	{
+		"name": "Jin",
+		"leaderName": "Sima Yan",
+		"adjective": ["Jin"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [49, 66, 26],
+		"innerColor": [233, 255, 204],
+		"uniqueName": "Poems of the Orchid Pavilion",
+		"uniques": ["All newly-trained [Military] units [in all cities] receive the [River Capture] promotion","Earn [35]% of killed [Land] unit's [Strength] as [Culture]"],
+		"cities": ["Luoyang","Jiankang","Chang'an","Xiangyang","Nanhai","Xiapi","Liaodong","Ji","Ledang","Jiaozhi"]
+	},
+	{
+		"name": "Yellow Turbans",
+		"leaderName": "Zhang Jue",
+		"adjective": ["Yellow Turbans"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [26, 25, 23],
+		"innerColor": [255, 191, 64],
+		"uniqueName": "General of Heaven",
+		"uniques": ["All newly-trained [Military] units [in all cities] receive the [Random Promotion Upon Combat] promotion"],
+		"cities": ["Guangzong", "Quyang", "Julu", "Handan", "Guangyang", "Zhuo", "Xuchang", "Nanyang", "Shaoling", "Chen", "Changshe", "Yangzhai", "Xihua", "Puyang"]
+	},
+	{
+		"name": "The Nanman",
+		"leaderName": "Meng Huo",
+		"adjective": ["The Nanman"],
+		"startBias": ["Forest","Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [250, 237, 190],
+		"innerColor": [26, 25, 23],
+		"uniqueName": "Poisonous Springs",
+		"uniques": ["All newly-trained [Melee] units [in all cities] receive the [Jungle Expertise] promotion"],
+		"cities": ["Jianning", "Wuling", "Changsha", "Yongchang", "Yuexi", "Zangke", "Maoniu"]
+	},
+	// 20
+	{
+		"name": "Macedon",
+		"leaderName": "Philip II",
+		"adjective": ["Macedon"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [62, 58, 87],
+		"innerColor": [255, 204, 84],
+		"uniqueName": "League of Corinth",
+		"uniques": ["[+100]% [Culture] from Trade Routes","[+25]% Strength <for [Horseman] units>","City-State territory always counts as friendly territory",
+		"[+15]% growth [in all cities]"],
+		"cities": ["Pella","Veroia","Thessalonica","Aigai","Philippi","Kassandreia","Herakleia","Philippopolis","Therma","Pydna"]
+	},
+	{
+		"name": "The Permians",
+		"leaderName": "Azykay",
+		"adjective": ["The Permians"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [168, 50, 50],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Confluence of the Idols",
+		"uniques": ["[+1] Movement <for [Great Prophet] units>","[+1] Movement <for [Missionary] units>",
+		"[Faith] cost of purchasing [Missionary] units [-25]%", "Enables conversion of city production to [Faith]","Production to [Faith] conversion in cities changed by [+10]%",
+		"May buy [Food] buildings for [20] [Faith] [in all cities] at an increasing price ([50])"],
+		"cities": ["Pelym","Cherdyn","Pyras","Vilyada","Iskor","Uros","Izyur","Emdin","Ekspera"]
+	},
+	{
 		"name": "The Kalmyks",
 		"leaderName": "Ayuka Khan",
 		"adjective": ["The Kalmyks"],
@@ -1918,7 +2427,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -1943,7 +2452,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -1969,7 +2478,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -1996,7 +2505,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2021,7 +2530,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2052,7 +2561,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2077,7 +2586,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2102,7 +2611,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2127,7 +2636,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2152,7 +2661,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2179,7 +2688,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2204,7 +2713,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2229,7 +2738,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2254,7 +2763,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2279,7 +2788,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2304,7 +2813,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2329,7 +2838,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2355,7 +2864,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2382,7 +2891,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2409,7 +2918,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2434,7 +2943,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2459,7 +2968,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2484,7 +2993,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2509,7 +3018,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2534,7 +3043,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2559,7 +3068,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2584,7 +3093,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2609,7 +3118,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2634,7 +3143,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2659,7 +3168,7 @@
                 "declaringWar": "We cannot tolerate you anymore",
 		"attacked": "The war has hardened us, but it has not broken us",
 		"defeated": "This cannot happen!",
-		"introduction": "Welcome to the land of north Korea",
+		"introduction": "Welcome to our land",
 		"neutralHello": "Hello.",
 		"hateHello": "We do not fear war",
 		"tradeRequest": "Check out this",
@@ -2931,7 +3440,7 @@
 	},
 	{
 		"name": "Yogyakarta",
-		"leaderName": "Diponegoro",
+		"leaderName": "Hamengkubuwono II",
 		"adjective": ["Yogyakarta"],
 		"startBias":["Fresh Water"],
 		"preferredVictoryType": "Domination",
@@ -2949,8 +3458,8 @@
 		"tradeRequest": "Check out this",
 		"outerColor": [255, 255, 255],
 		"innerColor": [222, 0, 0],
-		"uniqueName": "Ksatria Piningit",
-		"uniques": ["[+50]% Production when constructing [Mounted] units [in all cities] <during a Golden Age>"
+		"uniqueName": "Renaissance of the Indies",
+		"uniques": ["[+2 Culture] [in all cities with a garrison] <starting from the [Renaissance era]>","[+1 Culture] from every [Garden] <starting from the [Renaissance era]>","[+1 Culture] from every [National Wonder]","[+1 Culture] from every [Great Improvement]"
    ],
 		"cities": ["Yogyakarta", "Siti Ageng", "Kedu", "Bagelen", "Pajang", "Mataram Ngayogyakarta", "Madiun", "Magetan", "Caruban", "Pacitan"],
 		"spyNames": ["Saki"]
@@ -4110,7 +4619,7 @@
 		"outerColor": [204, 230, 145],
 		"innerColor": [22, 26, 15],
 		"uniqueName": "Swamp Survival",
-		"uniques": ["[-10]% Strength <vs [Siege] units>","[+2]% Strength <vs [Sword] units>",
+		"uniques": ["[-10]% Strength <vs [Siege] units>","[+10]% Strength <vs [Sword] units>",
 	                "[+1 Gold, +1 Culture] from all [Granary] buildings <before discovering [Refrigeration]>"],
 		"cities": ["Everglades","Apalachee","Timucua","Creek","Muskogean"],
 		"spyNames": ["Saki"]

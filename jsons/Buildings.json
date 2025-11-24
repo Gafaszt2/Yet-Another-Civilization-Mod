@@ -1,5 +1,165 @@
-
 [ 
+	{
+		"name": "Gymnasium",
+		"uniqueTo": "Athens",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"science": 1,
+		"culture": 1,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Walls of Troy",
+		"uniqueTo": "Troy",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 60,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Can only be built <in [Capital] cities>","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Aesaí",
+		"uniqueTo": "The Samnites",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+1 Culture] from [Mountain] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Fanu",
+		"uniqueTo": "The Etruscans",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>","[+2 Culture] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Jiseokmyo",
+		"uniqueTo": "Gojoseon",
+		"replaces": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["[+1 Faith, +2 Science] from [Academy] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Tuntian",
+		"uniqueTo": "Wei",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+2 Food] per [10] population [in this city]",
+		"[+2 Gold] per [10] population [in this city]",
+		"[+2 Culture] per [10] population [in this city]",
+		"Destroyed when the city is captured"]
+	},
+	{
+		"name": "Drystone Tumulus",
+		"uniqueTo": "Tichitt",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+1 Culture] from [Luxury resource] tiles [in this city]","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Circumvallation Walls",
+		"uniqueTo": "Tichitt",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 55,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+5]% [Production] [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Wrecker's Tavern",
+		"uniqueTo": "The Flying Gang",
+		"replaces": "Lighthouse",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"culture": 1,
+		"happiness":1,
+		"uniques": ["New [Melee Water] units start with [15] XP [in this city]","Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]" ],
+		"requiredTech": "Optics"
+	},
+	{
+		"name": "Asylum",
+		"uniqueTo": "Roman Kingdom",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+15]% growth [in this city] <upon conquering a city> <for [5] turns>","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Mekter",
+		"uniqueTo": "The Hyksos",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"uniques": ["New [Military] units start with [25] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Knuman",
+		"uniqueTo": "Phrygia",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Culture] from [Luxury resource] tiles [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+        "name": "Baiji Registry",
+		"uniqueTo": "Jin",
+		"replaces": "Constabulary",
+        "cost": 100,
+        "maintenance": 0,
+        "hurryCostModifier": 10,
+        "uniques": ["[-25]% enemy spy effectiveness [in this city]","[+15]% [Food] [in this city] <upon conquering a city> <for [30] turns>"],
+        "requiredTech": "Banking"
+    },
+	{
+		"name": "Royal Tiling Workshop",
+		"uniqueTo": "Macedon",
+		"replaces": "Workshop",
+		"maintenance": 2,
+		"production": 4,
+		"culture":1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques":["[+10]% Production when constructing [Wonder] buildings [in this city]"],
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Foraging Camp",
+		"uniqueTo": "The Permians",
+		"replaces": "Water Mill",
+		"maintenance": 0,
+		"food": 3,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [Forest]","Provides [1] [Mushroom]"],
+		"requiredTech": "The Wheel"
+	},
 	{
 		"name": "Sume",
 		"uniqueTo": "The Kalmyks",

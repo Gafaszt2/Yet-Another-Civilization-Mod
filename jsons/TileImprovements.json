@@ -30,6 +30,24 @@
 		"shortcutKey": "F"
 	},
 	{
+		"name": "Joglo",
+		"uniqueTo": "Yogyakarta",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Construction",
+		"turnsToBuild": 7,
+		"uniques":["[+2 Food] for each adjacent [Plantation]"]
+    },
+	{
+		"name": "Kudurru",
+		"uniqueTo": "The Kassites",
+		"terrainsCanBeBuiltOn": ["Land","Hill"],
+        "techRequired": "Writing",
+		"turnsToBuild": 7,
+		"culture":2,
+		"happiness":1,
+		"uniques":["[-2 Culture] for each adjacent [Kudurru]","[+1 Happiness] <in cities with a major religion>"]
+    },
+	{
 		"name": "Taramandal Pet",
 		"uniqueTo": "Mysore",
 		"terrainsCanBeBuiltOn": ["Land","Hill"],
