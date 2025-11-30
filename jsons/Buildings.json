@@ -1,5 +1,82 @@
 [ 
 	{
+		"name": "Katra",
+		"uniqueTo": "Bengal",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"uniques":["[+2 Gold] from [Great Improvement] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+    {
+		"name": "Alliance of Punjab",
+		"uniqueTo": "The Mallians",
+		"isNationalWonder":true,
+		"maintenance": 0,
+		"hurryCostModifier": 50,
+		"uniques": ["Costs [1] [Punjab Envoy]","[+15]% [Culture] [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Alliance of Indus",
+		"uniqueTo": "The Mallians",
+		"isNationalWonder":true,
+		"maintenance": 0,
+		"hurryCostModifier": 50,
+		"uniques": ["Costs [1] [Indus Envoy]","[+10]% [Faith] [in this city]","[+10]% [Gold] [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Alliance of Jhelum",
+		"uniqueTo": "The Mallians",
+		"isNationalWonder":true,
+		"maintenance": 3,
+		"hurryCostModifier": 50,
+		"uniques": ["Costs [1] [Jhelum Envoy]","[+15]% [Science] [in all cities]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Alliance of Ravi",
+		"uniqueTo": "The Mallians",
+		"isNationalWonder":true,
+		"maintenance": 0,
+		"hurryCostModifier": 50,
+		"uniques": ["Costs [1] [Ravi Envoy]","New [Archery] units start with [15] XP [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Alliance of Multan",
+		"uniqueTo": "The Mallians",
+		"isNationalWonder":true,
+		"maintenance": 0,
+		"culture":1,
+		"hurryCostModifier": 50,
+		"uniques": ["Costs [1] [Multan Envoy]","[+15]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Samiti of the Five Rivers",
+		"uniqueTo": "The Mallians",
+		"replaces": "Courthouse",
+		"maintenance": 1,
+		"culture":1,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Skandhavaras",
+		"uniqueTo": "The Puru",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"cityHealth": 10,
+		"uniques": ["[+20]% Production when constructing [Castle] buildings [in this city]","New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
 		"name": "Gymnasium",
 		"uniqueTo": "Athens",
 		"replaces": "Library",

@@ -1,5 +1,36 @@
 [
 	{
+		"name": "Paik",
+		"uniqueTo": "Bengal",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"uniques":["[+25]% Strength <vs [Water] units>"],
+		"promotions":["Amphibious"],
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+	},
+	{
+		"name": "Sannāhya",
+		"uniqueTo": "The Puru",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "elephant"
+	},
+	{
 		"name": "Assault Trieres",
 		"uniqueTo": "Athens",
 		"replaces": "Trireme",

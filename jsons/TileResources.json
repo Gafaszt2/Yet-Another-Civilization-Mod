@@ -238,5 +238,30 @@
 		"name": "Reduced Head",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Reduced Head]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Multan Envoy",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Multan Envoy]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Ravi Envoy",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Ravi Envoy]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Jhelum Envoy",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Jhelum Envoy]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Indus Envoy",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Indus Envoy]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Punjab Envoy",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Punjab Envoy]>","Cannot be traded","Stockpiled"]
 	}
 ]

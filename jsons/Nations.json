@@ -1,5 +1,88 @@
 [
 	{
+		"name": "Bengal",
+		"leaderName": "Shuja-ud-Din Muhammad Khan",
+		"adjective": ["Bengal"],
+		"startBias": ["Grassland","Avoid [Desert]","Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [25, 179, 112],
+		"innerColor": [255, 251, 189],
+		"uniqueName": "Lion in War",
+		"uniques": ["[+15]% [Food] from every [River] <in cities connected to the capital>","[+15]% [Production] from every [River] <in cities connected to the capital>","[+5]% [Gold] from every [River] <in cities connected to the capital>"],
+		"cities": ["Murshidabad","Dhaka","Kolkata","Chittagong","Patna","Sonargaon","Midnapore","Goraghat","Sylhet","Rangpur"]
+	},
+	{
+		"name": "The Mallians",
+		"leaderName": "Mallian Chief",
+		"adjective": ["The Mallians"],
+		"startBias": ["River","Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [111, 255, 89],
+		"innerColor": [69, 97, 255],
+		"uniqueName": "Tall Empire",
+		"uniques": ["Comment [The Mallians were a tribal confederacy, remembered for resisting Alexander. With no single ruler recorded, they are represented collectively as a people.]",
+	"[-5]% Production when constructing [Settler] units [in all cities]",
+	"[+10]% [Food] [in all cities] <when number of [Cities] is less than [3]>",
+    "[+10]% [Gold] [in all cities] <when number of [Cities] is less than [3]>",
+"Instantly provides [1] [Multan Envoy] <upon constructing [Food]> <[10] times>",
+"Instantly provides [1] [Ravi Envoy] <upon constructing [Walls]> <[3] times>",
+"Instantly provides [1] [Jhelum Envoy] <upon declaring friendship> <[5] times>",
+"Instantly provides [1] [Indus Envoy] <upon expending a [Great People] unit> <[2] times>",
+"Instantly provides [1] [Punjab Envoy] <upon conquering a city> <[4] times>"],
+		"cities": ["Multan","Hydraotes","Hydaspes","Acesines","Beas","Oxydraci","Mallistan","Sangala","Ravi","Jhelum"]
+	},
+	{
+		"name": "The Puru",
+		"leaderName": "Porus",
+		"adjective": ["The Puru"],
+		"startBias": ["River","Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [54, 44, 34],
+		"innerColor": [217, 150, 82],
+		"uniqueName": "Gujarati Ancestors",
+		"uniques": ["[+2 Gold] from [Quarry] tiles [in all cities]","[+1 Food] from [Fishing Boats] tiles [in all cities]","[+10]% [Food] [in all cities]","[+10]% [Gold] [in all cities]"],
+		"cities": ["Purushapura","Hastinapura","Indraprastha","Kurukshetra","Sarasvati","Trinavarta","Bharatavana","Yamuna","Ganga","Panchala"]
+	},
+	{
 		"name": "Athens",
 		"leaderName": "Pericles",
 		"adjective": ["Athens"],
