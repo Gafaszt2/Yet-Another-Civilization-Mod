@@ -35,7 +35,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
         "techRequired": "Construction",
 		"turnsToBuild": 7,
-		"uniques":["[+2 Food] for each adjacent [Plantation]"]
+		"uniques":["[+2 Food] for each adjacent [Plantation]","[-8 Food] for each adjacent [Joglo]"]
     },
 	{
 		"name": "Kudurru",
