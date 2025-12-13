@@ -1,5 +1,84 @@
 [
 	{
+		"name": "Song",
+		"leaderName": "Taizu",
+		"adjective": ["Song"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [39, 43, 140],
+		"innerColor": [255, 201, 94],
+		"uniqueName": "Four Great Inventions",
+		"uniques": ["Free Technology <upon entering the [Ancient era]>",
+	"Free Technology <upon entering the [Classical era]>",
+    "Free Technology <upon entering the [Medieval era]>",
+    "Free Technology <upon entering the [Renaissance era]>",
+    "[+25]% Great Person generation [in all cities] <during a Golden Age>"],
+		"cities": ["Bianjing", "Lin'an", "Yangzhou", "Guangzhou", "Xijing", "Fuzhou", "Chengdu", "Changsha", "Chongqing", "Quanzhou", "Xiangtan", "Jinling", "Ganzhou", "Yan'an"]
+	},
+	{
+		"name": "Pontus",
+		"leaderName": "Mithridates VI",
+		"adjective": ["Pontus"],
+		"startBias": ["Hill","Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [55, 43, 79],
+		"innerColor": [206, 186, 245],
+		"uniqueName": "Asiatic Vespers",
+		"uniques": ["[+2 Happiness] from [Citadel] tiles [in all cities]","[-25]% City-State Influence degradation","Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves"],
+		"cities": ["Amáseia","Sinope","Amisos","Pharnacia","Amastris","Trapezus","Gaziura","Talaura","Cabira","Eupatoria"]
+	},
+	{
+		"name": "Pergamon",
+		"leaderName": "Attalus",
+		"adjective": ["Pergamon"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [189, 126, 0],
+		"uniqueName": "Beacon of Ionia",
+		"uniques": ["Free [Great General] appears <upon constructing [Wonder]> <with [25]% chance>","[+1 Culture] from every specialist [in all cities]"],
+		"cities": ["Pergamon","Ephesus","Sardis","Attaleia","Pessinus","Gordium","Philadelpheia","Termessos","Hierapolis","Hyrkanis"]
+	},
+	{
 		"name": "Satsuma Domain",
 		"leaderName": "Shimazu Tadatsune",
 		"adjective": ["Shimazu"],

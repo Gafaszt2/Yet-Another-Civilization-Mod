@@ -1,5 +1,17 @@
 [ 
 	{
+		"name": "Odeon",
+		"uniqueTo": "Pergamon",
+		"replaces": "Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10]% Production when constructing [Wonder] buildings [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
 		"name": "Katra",
 		"uniqueTo": "Bengal",
 		"replaces": "Market",
