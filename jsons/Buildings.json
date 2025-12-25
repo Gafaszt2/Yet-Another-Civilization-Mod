@@ -1,5 +1,15 @@
 [ 
 	{
+		"name": "Sich",
+		"uniqueTo": "Zaporizhzhia",
+		"replaces": "Armory",
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	},
+	{
 		"name": "Odeon",
 		"uniqueTo": "Pergamon",
 		"replaces": "Amphitheater",

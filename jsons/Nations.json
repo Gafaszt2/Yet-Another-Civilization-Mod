@@ -1,5 +1,86 @@
 [
 	{
+		"name": "Ket",
+		"leaderName": "Olgit",
+		"adjective": ["Ket"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [202, 237, 228],
+		"innerColor": [222, 54, 42],
+		"uniqueName": "Bangos Sorcery",
+		"uniques": ["No movement cost to pillage <for [All] units>","[+15]% [Food] [in all cities]",
+		"[+100]% Health from pillaging tiles","[+1 Food] from [Camp] tiles [in all cities]","May heal outside of friendly territory"],
+		"cities": ["Kellog","Surgutikha","Sulomay","Maduyka","Pakulikha","Serkovo","Bakhta","Goroshikha","Kangatovo","Vereshchagino"]
+	},
+	{
+		"name": "Zaporizhzhia",
+		"leaderName": "Ivan Sirko",
+		"adjective": ["Zaporizhzhia"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [47, 31, 69],
+		"innerColor": [230, 223, 240],
+		"uniqueName": "Reply of the Zaporozhian Cossacks",
+		"uniques": ["[+25]% [Food] <during We Love The King Day>","[+25]% [Production] <during We Love The King Day>","[+15]% Golden Age length",
+			"All newly-trained [Mounted] units [in all cities] receive the [Great Generals I] promotion <with [55]% chance>",
+			"All newly-trained [Mounted] units [in all cities] receive the [Additional Movement] promotion <with [55]% chance>"],
+		"cities": ["Chortomlyk","Baturyn","Kyiv","Nizhyn","Poltava","Kodak","Chernihiv","Starodub","Hadiach","Lubny"]
+	},
+	{
+		"name": "Aquitaine",
+		"leaderName": "Eleanor",
+		"adjective": ["Aquitaine"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [67, 40, 130],
+		"innerColor": [255, 218, 130],
+		"uniqueName": "Court of Love",
+		"uniques": ["[+15]% [Culture] [in all cities]","[+15]% [Production] [in all cities]",
+	"[-25]% City-State Influence degradation",
+	"[+2 Culture] from every specialist [in all cities]",
+    "[+25]% Great Person generation [in all cities]"],
+		"cities": ["Poitiers","Bordeaux","Angoulême","Périgueux","Clermont","Limoges","Saintes","Guéret","Agen","Déols"]
+	},
+	{
 		"name": "Song",
 		"leaderName": "Taizu",
 		"adjective": ["Song"],
