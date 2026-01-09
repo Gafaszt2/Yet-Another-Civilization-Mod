@@ -1,5 +1,62 @@
 [ 
 	{
+		"name": "Ogival Tomb",
+		"uniqueTo": "Lycia",
+		"replaces": "Monument",
+		"culture": 3,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 0,
+		"uniques": ["[+15]% Production when constructing [Military] units [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Sanseong",
+		"uniqueTo": "Goguryeo",
+		"replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+25]% Production when constructing [Worker] units [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Agadir",
+		"uniqueTo": "The Aurès",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food, +1 Faith] from [Oasis] tiles [in this city]",
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Pit House",
+		"uniqueTo": "The Modoc",
+		"replaces": "Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["All newly-trained [Military] units [in this city] receive the [Arsonist I] promotion","Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Leonkastron",
+		"uniqueTo": "Trebizond",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture":2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Sich",
 		"uniqueTo": "Zaporizhzhia",
 		"replaces": "Armory",

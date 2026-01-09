@@ -1,5 +1,182 @@
 [
 	{
+		"name": "Lycia",
+		"leaderName": "Sarpedon",
+		"adjective": ["Lycia"],
+		"startBias": ["Coast","River","Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [214, 17, 11],
+		"innerColor": [252, 254, 255],
+		"uniqueName": "Land of the Swirling River Xanthos",
+		"uniques": ["No movement cost to pillage <for [All] units>","[+2] Movement <for [Siege] units> <before the [Industrial era]>","[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"cities": ["Arna", "Patara", "Telebehi", "Myra", "Pinara", "Tlos", "Olympus", "Crya", "Aperlae", "Simena", "Isinda", "Apollonia", "Amelas", "Habesos"]
+	},
+    {
+		"name": "Northern Yuan",
+		"leaderName": "Mandukhai",
+		"adjective": ["Northern Yuan"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [42, 29, 43],
+		"innerColor": [161, 205, 255],
+		"uniqueName": "Eight White Yurts",
+		"uniques": ["No movement cost to pillage <for [All] units>","[+2] Movement <for [Siege] units> <before the [Industrial era]>","[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"cities": ["Karakorum","Shangdu","Yingchang","Ordos","Burkhan Khaldun","Khalkha","Orkhon","Hohhot","Chahar","Kherlen"]
+	},
+	{
+		"name": "Goguryeo",
+		"leaderName": "Gwanggaeto",
+		"adjective": ["Goguryeo"],
+		"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [148, 15, 15],
+		"innerColor": [255, 242, 242],
+		"uniqueName": "Eternal Rejoice",
+		"uniques": ["Land units may cross [Mountain] tiles after the first [Great General] is earned","[+3 Happiness] [in holy cities]","[+2 Faith] from every [Mountain]","[+1 Faith] from every [Hill]"],
+		"cities": ["Gungnae","Jolbon","Mokjeo","Namso","Pyongyang","Shin","Hyeondo","Gaemo","Baegam","Yodong"]
+	},
+	{
+		"name": "The Aurès",
+		"leaderName": "Dihya",
+		"adjective": ["The Aurès"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 193, 94],
+		"innerColor": [28, 79, 53],
+		"uniqueName": "The Soothsayer Priestess",
+		"uniques": ["Earn [35]% of killed [Military] unit's [Strength] as [Faith]","Earn [15]% of killed [Military] unit's [Strength] as [Gold]",
+			"[Faith] cost of purchasing [Melee] units [-25]% <when at war>","May buy [Melee] units with [Faith] for [2] times their normal Production cost"],
+		"cities": ["Khenchela","Arris","Meskiana","Thysdrus","Vescera","Thamugadi","Cydamus","Turris Tamalleni","Lambaesis","Theveste"]
+	},
+	{
+		"name": "The Modoc",
+		"leaderName": "Kintpuash",
+		"adjective": ["The Modoc"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [43, 36, 32],
+		"innerColor": [151, 191, 96],
+		"uniqueName": "Hell With The Fire Out",
+		"uniques": ["[+2 Food] in cities on [Hill] tiles","[+1 Food, +1 Faith] from every [Mountain]"],
+		"cities": ["Captain Jack's Stronghold","Agawesh","Kumbat","Pashha","Wachamshwash","Nushalt-Hagak-ni","Kalelk","Nakoshkeni","Wukakeni","Keuchishkeni"]
+	},
+	{
+		"name": "Trebizond",
+		"leaderName": "Alexios II",
+		"adjective": ["Trebizond"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [120, 22, 41],
+		"innerColor": [255, 195, 99],
+		"uniqueName": "Port of the Silk Road",
+		"uniques": ["[+2 Culture] from each Trade Route","[+1 Culture, +1 Production] from every [Coast]"],
+		"cities": ["Trebizond","Cerasus","Kotoyra","Tripolis","Sourmana","Doros","Sinope","Amisos","Cherson","Platanos"]
+	},
+	{
+		"name": "Ithaca",
+		"leaderName": "Penelope",
+		"adjective": ["Ithaca"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [48, 44, 43],
+		"innerColor": [255, 244, 240],
+		"uniqueName": "Shroud of Laertes",
+		"uniques": ["[+25]% XP gained from combat <for [Water] units>","[Great Admiral] is earned [+35]% faster","[+2] Movement <for [Water] units> <before the [Industrial era]>"],
+		"cities": ["Alalcomenae","Pilikata","Ismaros","Marmarospilia","Scheria","Ogygia","Perachori","Aretousa","Kioni","Aeaea"]
+	},
+	//
+	{
 		"name": "Ket",
 		"leaderName": "Olgit",
 		"adjective": ["Ket"],
@@ -185,7 +362,7 @@
 		"innerColor": [0, 0, 0],
 
 		"uniqueName": "Lord of Vassals, Ruler of Seas",
-		"uniques": ["Enables embarkation for land units","[+15]% [Gold] from City-States","[+10]% Production when constructing [water units] units [in all cities]","[+20]% Golden Age length","All newly-trained [Ranged Water] units [in all cities] receive the [Shimazu Clan] promotion"],
+		"uniques": ["Enables embarkation for land units","[+15]% [Gold] from City-States","[+10]% Production when constructing [Water] units [in all cities]","[+20]% Golden Age length","All newly-trained [Ranged Water] units [in all cities] receive the [Shimazu Clan] promotion"],
 		"cities": ["Kagoshima","Ijuin","Kokubu","Sendai","Kajiki","Chiran","Makurazaki","Kaseda","Naze","Kanoya","Tarumizu","Kushira","Shibushi","Kimotsuki","Soo","Miyakonojo","Ebino","Higashiichiki"]
 	},
 	{
@@ -207,8 +384,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [25, 179, 112],
-		"innerColor": [255, 251, 189],
+		"outerColor": [255, 110, 0],
+		"innerColor": [15, 7, 0],
 		"uniqueName": "Lion in War",
 		"uniques": ["[+15]% [Food] from every [River] <in cities connected to the capital>","[+15]% [Production] from every [River] <in cities connected to the capital>","[+5]% [Gold] from every [River] <in cities connected to the capital>"],
 		"cities": ["Murshidabad","Dhaka","Kolkata","Chittagong","Patna","Sonargaon","Midnapore","Goraghat","Sylhet","Rangpur"]
@@ -242,7 +419,7 @@
 "Instantly provides [1] [Multan Envoy] <upon constructing [Food]> <[10] times>",
 "Instantly provides [1] [Ravi Envoy] <upon constructing [Walls]> <[3] times>",
 "Instantly provides [1] [Jhelum Envoy] <upon declaring friendship> <[5] times>",
-"Instantly provides [1] [Indus Envoy] <upon expending a [Great People] unit> <[2] times>",
+"Instantly provides [1] [Indus Envoy] <upon expending a [Great Merchant] unit> <[2] times>",
 "Instantly provides [1] [Punjab Envoy] <upon conquering a city> <[4] times>"],
 		"cities": ["Multan","Hydraotes","Hydaspes","Acesines","Beas","Oxydraci","Mallistan","Sangala","Ravi","Jhelum"]
 	},
@@ -3503,7 +3680,7 @@
 },
 {
 	"name": "Venezuela",
-	"leaderName": "Antonio Guzmán Blanco",
+	"leaderName": "Carlos Andrés Pérez",
 	"adjective": ["Venezuela"],
 	"startBias":["Plains"],
 	"preferredVictoryType": "Domination",
@@ -3519,9 +3696,9 @@
 	"neutralHello": "Hello.",
 	"hateHello": "We do not fear war",
 	"tradeRequest": "Check out this",
-	"outerColor": [204, 159, 0],
-	"innerColor": [3, 0, 84],
-	"uniqueName": "Caudillo's Reforms",
+	"outerColor": [254, 255, 189],
+	"innerColor": [232, 122, 26],
+	"uniqueName": "Patria y Libertad",
 	"uniques": ["Gain a free [Communal Council] [in capital] <upon adopting [Order]>","[+25]% Golden Age length","[+5]% growth [in capital]","[+10]% Production when constructing [Mounted] units [in capital]","[+35]% Production when constructing [Armored] units [in all cities]"],
 	"cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Maracay","Ciudad Bolívar","San Cristóbal","Mérida","Barcelona","Cumaná"],
 	"spyNames": ["Saki"]

@@ -3,9 +3,8 @@
 		"name": "Opal",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Oceania Beach","Oceania Jungle","Oceania Desert"],
-		"gold": 1,
+		"gold": 2,
 		"improvement": "Mine",
-        "uniques": ["Gems"],
 		"improvementStats": {"production": 1}
 	},
 	{
