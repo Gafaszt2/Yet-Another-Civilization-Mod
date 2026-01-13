@@ -46,7 +46,7 @@
 		"outerColor": [42, 29, 43],
 		"innerColor": [161, 205, 255],
 		"uniqueName": "Eight White Yurts",
-		"uniques": ["No movement cost to pillage <for [All] units>","[+2] Movement <for [Siege] units> <before the [Industrial era]>","[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[-50]% XP required for promotions","[+15]% Strength <for [Ranged] units>","Upon capturing a city, receive [2] times its [Production] production as [Culture] immediately"],
 		"cities": ["Karakorum","Shangdu","Yingchang","Ordos","Burkhan Khaldun","Khalkha","Orkhon","Hohhot","Chahar","Kherlen"]
 	},
 	{
