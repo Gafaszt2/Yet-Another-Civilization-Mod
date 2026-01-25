@@ -1,5 +1,36 @@
 [ 
 	{
+		"name": "Hawtah",
+		"uniqueTo": "Ma'in",
+		"replaces": "Shrine",
+		"faith": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+10]% Production when constructing [Culture] buildings [in this city]","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Lion Tomb",
+		"uniqueTo": "Lihyan",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+4 Culture] <after discovering [Archaeology]>","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Haram",
+		"uniqueTo": "The Qedarites",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[-50]% maintenance cost for [Faith] buildings [in this city]","Only available <when religion is enabled>"]
+	},
+	{
 		"name": "Ogival Tomb",
 		"uniqueTo": "Lycia",
 		"replaces": "Monument",

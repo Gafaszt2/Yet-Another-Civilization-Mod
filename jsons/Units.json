@@ -1,5 +1,45 @@
 [
 	{
+		"name": "Salh",
+		"uniqueTo": "Lihyan",
+		"replaces": "Missionary",
+		"unitType": "Civilian",
+		"uniques": ["Gain [100]-[300] [Gold] <(modified by game speed)> <by consuming this unit>",
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
+		"movement": 4,
+		"religiousStrength": 1000
+	},
+	{
+		"name": "Camel Troop",
+		"uniqueTo": "The Qedarites",
+		"replaces": "Chariot Archer",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Double movement in [Desert]","Can move after attacking","No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Kabir",
+		"uniqueTo": "Ma'in",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Gain [3] [Science] <upon ending a turn in a [Custom house] tile>",
+			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Zxxaza",
 		"uniqueTo": "Lycia",
 		"replaces": "Warrior",

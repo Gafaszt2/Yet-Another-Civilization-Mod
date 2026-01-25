@@ -1,5 +1,84 @@
 [
 	{
+		"name": "Ma'in",
+		"leaderName": "Waqah'il Sadiq I",
+		"adjective": ["Ma'in"],
+		"startBias": ["Oasis","Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [43, 33, 26],
+		"innerColor": [255, 171, 112],
+		"uniqueName": "Wadd'ab",
+		"uniques": ["[+35]% [Gold] from Trade Routes","[Great Artist] is earned [+35]% faster","[+1 Culture] from [Desert] tiles [in all cities]"],
+		"cities": ["Qarnawu","Yathill","Kaminahu","Haramum","Inabba'","Nashan","Nashaq","Manhiyat","Najran","Dedan"],
+		"spyNames":["'Ammyitha","Ilyafa","Hayu","Halkarib","Haufi'athat"]
+	},
+	{
+		"name": "Lihyan",
+		"leaderName": "Gashmu",
+		"adjective": ["Lihyan"],
+		"startBias": ["Oasis","Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [107, 71, 44],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Incense Road",
+		"uniques": ["[+15]% [Gold] from Trade Routes","[+15]% [Culture] from Trade Routes","[+2 Culture] from every [Incense]","[+25]% [Gold] <during a Golden Age>"],
+		"cities": ["Dedan", "Tayma", "Hegra", "Yathrib", "Khaybar", "Fadak", "Yadiʿ", "Jeddah", "Tabuk", "Yanbu", "Rabigh"],
+		"spyNames":["Qainū", "Kabirʾil", "Mataʿʾil", "Šahru"]
+	},
+	{
+		"name": "The Qedarites",
+		"leaderName": "Gindibu",
+		"adjective": ["The Qedarites"],
+		"startBias": ["Oasis","Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [232, 232, 232],
+		"innerColor": [26, 16, 16],
+		"uniqueName": "Twelve Kings Alliance",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>","[+15]% [Gold] from Trade Routes",
+		"Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves","Allied City-States provide [Happiness] equal to [+30]% of what they produce for themselves"],
+		"cities": ["Dūmat", "Tayma", "Dedan", "Azraq", "Petra", "Hegra", "Bosra", "Palmyra", "Sakakah", "Gaza", "Pelusium"],
+		"spyNames":["Zabibe", "Šamši", "Yaṯiʿe", "Teʾelḫunu", "Tabūʿa", "Adia", "Ḫazaʾil", "Yauṯaʿ", "Abyaṯiʿ", "ben Teʾri"]
+	},
+	{
 		"name": "Lycia",
 		"leaderName": "Sarpedon",
 		"adjective": ["Lycia"],
