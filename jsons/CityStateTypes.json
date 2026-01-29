@@ -1,5 +1,18 @@
 [
     {
+        "name": "Steppe",
+        "friendBonusUniques": [
+            "Provides [2] [Horses]","[+10]% [Production] from every [Pasture]",
+		"[+10]% [Food] from every [Pasture]"
+        ],
+        "allyBonusUniques": [
+            "Provides [4] [Horses]","[+10]% [Production] from every [Pasture]",
+		"[+15]% [Food] from every [Pasture]","[+10]% [Culture] from every [Pasture]",
+		"[+15]% [Gold] from every [Pasture]"
+        ],
+        "color": [150, 98, 66]
+    },
+    {
         "name": "Productive",
         "friendBonusUniques": [
             "[+10]% [Production] [in capital]"

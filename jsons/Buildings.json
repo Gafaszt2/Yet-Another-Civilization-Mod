@@ -1,5 +1,73 @@
 [ 
 	{
+		"name": "Ivory Carver",
+		"uniqueTo": "The Dorset",
+		"replaces": "Workshop",
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques":["Provides [1] [Ivory Carving]","[+10]% [Culture] [in this city]"],
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Caranain",
+		"uniqueTo": "The Omagua",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+2 Faith] from [Silver] tiles [in this city]","[+2 Faith] from [Gold Ore] tiles [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Ofrenda",
+		"uniqueTo": "The Mixe",
+		"replaces": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+2 Faith] <in [Annexed] cities>","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Hring",
+		"uniqueTo": "The Avars",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["[+8]% [Production] [in this city]","[+8]% [Food] [in this city]",
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Protectorate",
+		"uniqueTo": "Loulan",
+		"replaces": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Comment [Simbolizes Loulan's protectorate state, caught between the Han Dynasty and the Xiongnu.]",
+			"[+1 Gold] from [Luxury resource] tiles [in this city]",
+			"Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Naval Hideout",
+		"uniqueTo": "Islands of Refreshment",
+		"replaces": "Seaport",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+1 Production, +3 Gold] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Navigation"
+	},
+	{
 		"name": "Hawtah",
 		"uniqueTo": "Ma'in",
 		"replaces": "Shrine",

@@ -1,5 +1,318 @@
 [
 	{
+		"name": "The Dorset",
+		"leaderName": "Inukpak",
+		"adjective": ["The Dorset"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [13, 12, 12],
+		"innerColor": [255, 206, 128],
+		"uniqueName": "Bones of the World",
+		"uniques": ["[+2 Production] in cities on [Tundra] tiles","[+1 Food] from [Tundra] tiles [in all cities]","[+1 Food] from [Snow] tiles [in all cities]","[+1 Food] from [Ice] tiles [in all cities]",
+		"[+10]% Production when constructing [All] units [in all cities]"],
+		"cities": ["Alarnerk", "Kapuivik", "Kinngait", "Qajartalik", "Brooman Point", "Sermermiut", "Qeqertasussuk"],
+		"spyNames":["Ivory Hunter"]
+	},
+	{
+		"name": "The Thule",
+		"leaderName": "Kiviuq",
+		"adjective": ["The Thule"],
+		"startBias": ["Coast","Snow","Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [23, 28, 28],
+		"innerColor": [172, 230, 230],
+		"uniqueName": "Hunting of the Bowhead",
+		"uniques": ["[+2 Food] from every [Whales] <during the [Ancient era]>",
+	    "[+4 Food] from every [Whales] <during the [Classical era]>",
+	    "[+6 Food] from every [Whales] <during the [Medieval era]>",
+	    "[+8 Food] from every [Whales] <during the [Renaissance era]>",
+	    "[+12 Food] from every [Whales] <during the [Industrial era]>",
+	    "[+12 Food] from every [Whales] <during the [Modern era]>","[+4 Culture] from every [Whales] <during the [Modern era]>",
+	    "[+12 Food] from every [Whales] <during the [Atomic era]>","[+7 Culture] from every [Whales] <during the [Atomic era]>",
+	    "[+12 Food] from every [Whales] <during the [Information era]>","[+10 Culture] from every [Whales] <during the [Information era]>"],
+		"cities": ["Qaanaaq", "Pituffik", "Iqaluktuuttiaq", "Qilakitsoq", "Qausuittuq", "Tungatsivvik", "Iqaluit", "Kangiqiniq", "Naujan"],
+		"spyNames":["Ekeuhnick", "Aungayoukuksuk", "Tuutalik"]
+	},
+	{
+		"name": "The Omagua",
+		"leaderName": "Conori",
+		"adjective": ["The Omagua"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [19, 36, 24],
+		"innerColor": [189, 255, 249],
+		"uniqueName": "Nhamini-wi Trail",
+		"uniques": ["[+1 Production] from every [Jungle]","[+24]% [Gold] [in all cities]","Roads connect tiles across rivers","All newly-trained [Civilian] units [in all cities] receive the [Woodsman] promotion"],
+		"cities": ["Manoa", "Chipayo", "Cararíes", "San Joaquin", "Camadsuari", "Ibarate", "Manicuri", "San Pablo"],
+		"spyNames":["Payoreva", "Samuel Fritz", "Mativa", "Arimavani"]
+	},
+	{
+		"name": "The Mixe",
+		"leaderName": "Condoy",
+		"adjective": ["The Mixe"],
+		"startBias": ["Hill","Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [252, 186, 3],
+		"innerColor": [189, 57, 17],
+		"uniqueName": "Lords of the Sacred Mountains",
+		"uniques": ["[+2 Faith] from every [Mountain]","[+15]% Strength <for [All] units> <when fighting in [Hill] tiles> <when defending>"],
+		"cities": ["Ipxyukp", "Yacochi", "Tu'ukyom", "Xemgɨxp", "Añkɨwam", "Mɨɨygɨxy", "Kɨngɨ'ɨm", "Anyukojm", "Tlahuitoltepec"],
+		"spyNames":["Yë’ Yïkjujykypyëjkp", "Täätyunpï", "Tso’ok", "Ajyuk"]
+	},
+	{
+		"name": "The Chinantec",
+		"leaderName": "Quiana",
+		"adjective": ["The Chinantec"],
+		"startBias": ["Hill","Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [72, 26, 125],
+		"innerColor": [255, 54, 87],
+		"uniqueName": "Near the Canes",
+		"uniques": ["Gain a free [Walls] [in all cities]","[+50]% growth [in annexed cities]"],
+		"cities": ["Chinantla Grande", "Yólox", "Usila", "Chapote", "Mesala", "Chapultepec", "Topichinche", "Masatelgua", "Joquilca", "Nopalera", "San Felipe de León"],
+		"spyNames":["Dsójmoo"]
+	},
+	{
+		"name": "The Otomi",
+		"leaderName": "Quauhtliztac",
+		"adjective": ["The Otomi"],
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [212, 237, 211],
+		"innerColor": [81, 94, 80],
+		"uniqueName": "Zaki",
+		"uniques": ["[+1 Faith] from every [Camp]","[+1 Faith] from every [Plantation]","[+1 Faith, +1 Food] from every [Lakes]","[+15]% [Faith] [in all cities]"],
+		"cities": ["Xaltocan", "Nziʼbatha", "San Bartolo Tutotepec", "Cañada de la Virgen", "Ndongu", "Cambay o Cabaye", "San Miguel Ixtapan", "Cerro Mesa Ahumada"],
+		"spyNames":["Otontecuhtli", "Zäna", "Yocippa", "Edahi", "Eke'emaxi", "Muy'e"]
+	},
+	{
+		"name": "The Avars",
+		"leaderName": "Bayan I",
+		"adjective": ["The Avars"],
+		"startBias": ["Hill","Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [56, 49, 49],
+		"innerColor": [235, 77, 77],
+		"uniqueName": "Solitudo Avarorum",
+		"uniques": [
+		"[+25]% Strength <for [Mounted] units> <before the [Renaissance era]>",
+		"[+5]% [Production] from every [Pasture]",
+		"[+5]% [Food] from every [Pasture]",
+		"Earn [50]% of killed [Military] unit's [Strength] as [Gold] <after discovering [Horseback Riding]>",
+		"Earn [50]% of killed [Military] unit's [Strength] as [Culture] <after discovering [Horseback Riding]>"],
+		"cities": ["Zamárdi","Anhialo","Sirmium","Partiscon","Singidunum","Viminacium","Kölked","Keszthely","Drizipara","Sopianae"],
+		"spyNames":["Bookolabras","Butaul","Buyla","Kandik","Kuber"]
+	},
+	{
+		"name": "Tuva",
+		"leaderName": "Donduk Kuular",
+		"adjective": ["Tuva"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [31, 53, 110],
+		"innerColor": [255, 216, 77],
+		"uniqueName": "Peaks of Uriankhai",
+		"uniques": [
+		"May buy [Settler] units with [Faith] for [2] times their normal Production cost",
+		"[Great Engineer] is earned [+15]% faster <when above [7] [Mountain Wisdom]>",
+		"[Great Engineer] is earned [+15]% faster <when above [15] [Mountain Wisdom]>",
+		"[Great Engineer] is earned [+15]% faster <when above [27] [Mountain Wisdom]>",
+		"[+3]% [Production] [in all cities] <when above [3] [Mountain Wisdom]>",
+		"[+3]% [Faith] [in all cities] <when above [3] [Mountain Wisdom]>",
+		"[+5]% [Production] [in all cities] <when above [8] [Mountain Wisdom]>",
+		"[+5]% [Faith] [in all cities] <when above [8] [Mountain Wisdom]>",
+		"[+9]% [Production] [in all cities] <when above [13] [Mountain Wisdom]>",
+		"[+9]% [Faith] [in all cities] <when above [13] [Mountain Wisdom]>",
+		"[+22]% [Production] [in all cities] <when above [23] [Mountain Wisdom]>",
+		"[+22]% [Faith] [in all cities] <when above [23] [Mountain Wisdom]>",
+		"Instantly provides [1] [Mountain Wisdom] <upon constructing [Production]>"],
+		"cities": ["Kyzyl","Ak-Dovurak","Shagonar","Chadan","Turan","Kaa-Khem","Kyzyl-Mazhalyk","Bay-Khaak","Saryg-Sep","Teeli"],
+		"spyNames":["Khertek","Salchak","Sherig-ool","Kaadyr-ool"]
+	},
+	{
+		"name": "Loulan",
+		"leaderName": "Wei Tuqi",
+		"adjective": ["Loulan"],
+		"startBias": ["Desert","Oasis"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [252, 176, 146],
+		"innerColor": [79, 54, 43],
+		"uniqueName": "Silk Road's City",
+		"uniques": ["May buy [Great Merchant] units for [900] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500])","[Faith] cost of purchasing [Great Merchant] units [-35]% <during a Golden Age>","[Great Merchant] is earned [+35]% faster"],
+		"cities": ["Loulan","Gaochang","Yanqi","Yutian","Kangju","Shule","Shanshan","Qiuci","Yiwu","Tuhuoluo","Cheshi","Qiemo","Suiye","Tianbo"],
+		"spyNames":["Xizhy","Fhuan","Xhu","Wei"]
+	},
+	{
+		"name": "Islands of Refreshment",
+		"leaderName": "Jonathan Lambert",
+		"adjective": ["Islands of Refreshment"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [242, 254, 255],
+		"innerColor": [196, 55, 55],
+		"uniqueName": "Absolute Occupancy",
+		"uniques": ["Starts with [Optics]","[+2 Food] from every [Atoll]","Gain [50]-[100] [Gold] <upon founding a city>"],
+		"cities": ["Reception","Island of Refreshment","Pintard Island","Lovel Island","Middle Island","Stoltenhoff Island","The Hillpiece","Rookery Point","Anchorstock Point","Stonyhill Point"],
+		"spyNames":["Thomas","Williams","Andrew","Lovel"]
+	},
+	{
+		"name": "Delhi",
+		"leaderName": "Alauddin Khalji",
+		"adjective": ["Delhi"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [198, 242, 167],
+		"innerColor": [84, 105, 73],
+		"uniqueName": "Ghanima",
+		"uniques": ["[+2 Production, +1 Gold] [in all cities with a garrison]",
+			"Earn [35]% of killed [Military] unit's [Strength] as [Faith]","Earn [35]% of killed [Military] unit's [Strength] as [Gold]"],
+		"cities": ["Delhi", "Lahore", "Badayun", "Daulatabad", "Agra", "Multan", "Panipat", "Thatta", "Banaras", "Gaur", "Gwalior", "Jaunpur", "Ajmer"],
+		"spyNames":["Minhaj", "Muhammad", "Taisi", "Ziyaul", "Bahram"]
+	},
+	{
 		"name": "Ma'in",
 		"leaderName": "Waqah'il Sadiq I",
 		"adjective": ["Ma'in"],
@@ -4747,7 +5060,7 @@
 		"outerColor": [222, 255, 234],
 		"innerColor": [21, 38, 27],
 		"uniqueName": "State of the Mahal Dibiyat",
-		"uniques": ["[+30]% [Faith] [in all cities]","[+20]% [Gold] [in all cities]"],	
+		"uniques": ["[+15]% [Gold] from every [Coast]","[+15]% [Faith] from every [Coast]","[+25]% Strength <for [Melee Water] units>"],	
 		"cities": ["Malé", "Addu", "Kulhudhuffushi", "Fuvahmulah", "Thinadhoo", "Ungoofaaru", "Dhidhdhoo", "Thulusdhoo", "Funadhoo", "Manadhoo"],
 		"spyNames": ["Saki"]
 	},
@@ -11626,5 +11939,162 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [60, 82, 194],
 		"cities": ["Klaipėda"]
+	},
+	//
+	{
+		"name": "Badangkaia",
+		"adjective": ["Badangkaia"],
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 184, 140],
+		"cities": ["Badangkaia"]
+	},
+	{
+		"name": "Riverton",
+		"adjective": ["Riverton"],
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [87, 217, 204],
+		"cities": ["Riverton"]
+	},
+	{
+		"name": "Massenya",
+		"adjective": ["Massenya"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 74, 47],
+		"cities": ["Massenya"]
+	},
+	{
+		"name": "Únětice",
+		"adjective": ["Únětice"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [83, 237, 145],
+		"cities": ["Únětice"]
+	},
+	{
+		"name": "Wyam",
+		"adjective": ["Wyam"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [161, 204, 178],
+		"cities": ["Wyam"]
+	},
+	{
+		"name": "Cocollán",
+		"adjective": ["Cocollán"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 137, 64],
+		"cities": ["Cocollán"]
+	},
+	{
+		"name": "Kuk Swamp",
+		"adjective": ["Kuk Swamp"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [116, 247, 134],
+		"cities": ["Kuk Swamp"]
+	},
+	{
+		"name": "Ouara",
+		"adjective": ["Ouara"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [160, 235, 170],
+		"cities": ["Ouara"]
+	},
+	{
+		"name": "Turuñuelo",
+		"adjective": ["Turuñuelo"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [159, 114, 242],
+		"cities": ["Turuñuelo"]
+	},
+	{
+		"name": "Unión Chocó",
+		"adjective": ["Unión Chocó"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [227, 82, 186],
+		"cities": ["Unión Chocó"]
+	},
+	{
+		"name": "Wari Kayán",
+		"adjective": ["Wari Kayán"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [184, 222, 138],
+		"cities": ["Wari Kayán"]
+	},
+	{
+		"name": "Vaishali",
+		"adjective": ["Vaishali"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 251, 247],
+		"cities": ["Vaishali"]
+	},
+	{
+		"name": "Qamil",
+		"adjective": ["Qamil"],
+		"cityStateType": "Steppe",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 159, 64],
+		"cities": ["Qamil"]
 	}
 ]

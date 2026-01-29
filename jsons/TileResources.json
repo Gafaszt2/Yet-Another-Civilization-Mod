@@ -70,6 +70,10 @@
         "uniques": ["Bananas"],
 		"improvementStats": {"production": 1}
 	},
+	{
+		"name": "Ivory Carving",
+		"resourceType": "Luxury"
+	},
     {
 		"name": "Wool",
 		"resourceType": "Luxury"
@@ -232,6 +236,11 @@
 		"name": "Iroijlaplap Points",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Iroijlaplap Points]>","Cannot be traded","Stockpiled"]
+	},
+	{
+		"name": "Mountain Wisdom",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Mountain Wisdom]>","Cannot be traded","Stockpiled"]
 	},
 	{
 		"name": "Reduced Head",
