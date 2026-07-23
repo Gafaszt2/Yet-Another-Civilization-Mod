@@ -7101,7 +7101,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+33]% Strength <when fighting in [Fresh water] tiles> <when attacking>"],
+		"uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength","[+33]% Strength <when fighting in [Fresh water] tiles> <when attacking>"],
 		"attackSound": "metalhit"
 	},
         {
