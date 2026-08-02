@@ -1,5 +1,44 @@
 [
 	{
+		"name": "Banana Laborer",
+		"uniqueTo": "United Fruit Company",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 0,
+		"uniques": ["Unbuildable","Add [Bananas] to this tile <for [3] movement> <[2] times> <after which this unit is consumed>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Nokóx Lhaxá",
+		"uniqueTo": "The Qom",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 58,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions":["Impenetrable"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Acan",
+		"uniqueTo": "The Comechingón",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 52,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions":["Kom-chingon!"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Panjuko Archer",
 		"uniqueTo": "The Hadza",
 		"replaces": "Archer",

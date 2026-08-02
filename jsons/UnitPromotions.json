@@ -1,5 +1,13 @@
 [
 {
+"name": "Impenetrable",
+"uniques": ["Double movement in [Forest]","[This Unit] heals [2] HP <upon ending a turn in a [Forest] tile>","[+25]% Strength <when fighting in [Forest] tiles>"]
+},
+{
+"name": "Kom-chingon!",
+"uniques": ["Earn [25]% of killed [Military] unit's [Strength] as [Culture]","All adjacent units heal [1] HP when healing"]
+},
+{
 "name": "For The Daimyo!",
 "uniques": ["Can move after attacking","All adjacent units heal [1] HP when healing"]
 },

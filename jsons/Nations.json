@@ -1,5 +1,80 @@
 [
 	{
+	"name": "United Fruit Company",
+	"leaderName": "Sam Zemurray",
+	"adjective": ["United Fruit Company"],
+	"startBias":["Coast"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [47, 130, 247],
+    "innerColor": [247, 240, 47],
+	"uniqueName": "El Pulpo",
+	"uniques": ["[+2]% [Gold] from every [Bananas]","[+2 Gold] from every [Bananas]","[+2 Gold] from every [Plantation]","May buy [Banana Laborer] units for [100] [Gold] [in all cities] at an increasing price ([100])"],
+	"cities": ["San Pedro Sula","Puerto Barrios","Tegucigalpa","Puerto Castilla","Cuyamel","Truxillo","Escuintla","Cienaga","Puerto Cortés","Magdalena"],
+	"spyNames": ["Juan"]
+    },
+	{
+	"name": "The Comechingón",
+	"leaderName": "Tolombón",
+	"adjective": ["The Comechingón"],
+	"startBias":["Hill"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [240, 72, 72],
+    "innerColor": [13, 9, 9],
+	"uniqueName": "Echoes of the Hills",
+	"uniques": ["[+1 Gold, +1 Culture] from [Hill] tiles without [Mine] [in all cities] <before discovering [Masonry]>","[+3 Culture] from every [Quarry] <after discovering [Masonry]>"],
+	"cities": ["Tolombón","Quilpo","Ongamira","Salsacate","Nono","Cosquín","Capilla del Monte","Cruz del Eje","San Marcos Sierras","La Falda"],
+	"spyNames": ["Juan"]
+    },
+	{
+	"name": "The Qom",
+	"leaderName": "Napalpí",
+	"adjective": ["The Qom"],
+	"startBias":["Forest"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [217, 173, 156],
+    "innerColor": [36, 30, 27],
+	"uniqueName": "Lhaxá Nqápi",
+	"uniques": ["Starts with [Trapping]","[+1 Food, +1 Culture] from every [Camp]","[+1] Movement <for [Scout] units>"],
+	"cities": ["Napalpí","Pampa del Indio","Colonia Aborigen","La Tigra","Castelli","Villa Río Bermejito","General San Martín","Presidencia Roca","Charata","Sáenz Peña"],
+	"spyNames": ["Juan"]
+    },
+	{
 	"name": "The Hadza",
 	"leaderName": "Indaya",
 	"adjective": ["The Hadza"],
