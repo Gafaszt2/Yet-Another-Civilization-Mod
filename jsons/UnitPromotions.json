@@ -1,5 +1,13 @@
 [
 {
+"name": "Wei Renmin Fuwu",
+"uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [Enemy] tiles"]
+},
+{
+"name": "Renmin Zhanzheng",
+"uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [Friendly] tiles"]
+},    
+{
 "name": "Impenetrable",
 "uniques": ["Double movement in [Forest]","[This Unit] heals [2] HP <upon ending a turn in a [Forest] tile>","[+25]% Strength <when fighting in [Forest] tiles>"]
 },

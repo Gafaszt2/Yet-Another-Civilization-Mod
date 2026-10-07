@@ -1,5 +1,17 @@
 [
 	{
+		"name": "Great Workplace",
+		"uniqueTo": "The Pyu",
+		"replaces": "Landmark",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 6,
+		"uniques": ["[+2 Culture] for each adjacent [Iron]","[+1 Gold] for each adjacent [Forest]","[+1 Culture] for each adjacent [Gold Ore]","[+1 Culture] for each adjacent [Gems]",
+		"[+2 Gold, +1 Faith] for each adjacent [Ivory]","[+1 Culture] for each adjacent [Stone]","[+1 Culture] for each adjacent [Marble]","[+1 Culture] for each adjacent [Copper]",
+		"[+1 Gold] for each adjacent [Jungle]",
+			"Great Improvement", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
 		"name": "Siida",
 		"uniqueTo": "The Sámi",
 		"terrainsCanBeBuiltOn": ["Tundra","Snow"],

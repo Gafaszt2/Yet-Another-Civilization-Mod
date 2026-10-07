@@ -1,11 +1,63 @@
 [
+{
+    "name": "Red Guard",
+    "uniqueTo": "PRC",
+    "replaces": "Infantry",
+    "unitType": "Gunpowder",
+    "movement": 3,
+    "strength": 64,
+    "cost": 375,
+    "requiredTech": "Plastics",
+    "upgradesTo": "Mechanized Infantry",
+    "obsoleteTech": "Mobile Tactics",
+	"promotions":["Renmin Zhanzheng"],
+    "uniques": [
+        "Ignores terrain cost"
+    ],
+    "attackSound": "shot"
+},
+{
+    "name": "T-59",
+    "uniqueTo": "PRC",
+    "replaces": "Tank",
+    "unitType": "Armored",
+    "movement": 6,
+    "strength": 65,
+    "cost": 375,
+    "requiredTech": "Combined Arms",
+    "requiredResource": "Oil",
+    "upgradesTo": "Modern Armor",
+    "uniques": [
+        "Can move after attacking",
+        "Ignores terrain cost",
+        "No defensive terrain bonus",
+        "Never appears as a Barbarian unit"
+    ],
+	"promotions":["Wei Renmin Fuwu"],
+    "attackSound": "tankshot"
+}
+
+	{
+		"name": "Ten Flower Craftsman",
+		"uniqueTo": "The Pyu",
+		"replaces": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Great Workplace] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Artist] group",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
 	{
 		"name": "Banana Laborer",
 		"uniqueTo": "United Fruit Company",
 		"unitType": "Civilian",
 		"movement": 3,
 		"cost": 0,
-		"uniques": ["Unbuildable","Add [Bananas] to this tile <for [3] movement> <[2] times> <after which this unit is consumed>"],
+		"uniques": ["Unbuildable",
+        "Gain [50] [Food] <after which this unit is consumed>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -479,7 +531,7 @@
 		"uniqueTo": "Ma'in",
 		"replaces": "Great Merchant",
 		"unitType": "Civilian",
-		"uniques": ["Gain [3] [Science] <upon ending a turn in a [Custom house] tile>",
+		"uniques": ["Gain [20] [Science] <after which this unit is consumed>",
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
             "Can instantly construct a [Customs house] improvement <by consuming this unit>",
             "Is part of Great Person group [Great Person]",
@@ -7130,19 +7182,21 @@
 		"attackSound": "arrow"
 	},
         {
-		"name": "Kanggonayn",
-                "replaces": "Spearman",
-		"uniqueTo": "The Gunditjmara",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 13,
-		"cost": 58,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength","[+33]% Strength <when fighting in [Fresh water] tiles> <when attacking>"],
-		"attackSound": "metalhit"
-	},
+    "name": "Kanggonayn",
+    "replaces": "Spearman",
+    "uniqueTo": "The Gunditjmara",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 13,
+    "cost": 58,
+    "requiredTech": "Bronze Working",
+    "obsoleteTech": "Civil Service",
+    "upgradesTo": "Pikeman",
+    "uniques": [
+        "[+33]% Strength <when attacking> <when fighting in [River] tiles>"
+    ],
+    "attackSound": "metalhit"
+}
         {
 		"name": "Vitez",
 		"unitType": "Sword",

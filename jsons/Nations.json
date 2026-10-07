@@ -1,5 +1,64 @@
 [
 	{
+	"name": "PRC",
+	"leaderName": "Mao Zedong",
+	"adjective": ["PRC"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [242, 24, 24],
+    "innerColor": [252, 233, 58],
+	"uniqueName": "The Big Leap Forward",
+	"uniques": ["[+2 Science, +2 Production] from every [Barracks]",
+    "[-1 Happiness] from every [Barracks]",
+    "[+4 Science, +4 Production] from every [Military Academy]",
+    "[-1 Happiness] from every [Military Academy]",
+	"[+30]% Production when constructing [The Great Hall of the People] buildings [in capital]"],
+	"cities": ["Beijing","Shanghai","Guangzhou","Shenzhen","Chongqing","Tianjin","Wuhan","Chengdu","Xi'an","Nanjing","Hangzhou","Shenyang","Harbin","Zhengzhou","Jinan","Qingdao","Dalian","Kunming","Nanning","Taiyuan","Shijiazhuang",
+"Lanzhou",
+"Nanchang",
+"Fuzhou"],
+	"spyNames": ["Juan"]
+    },
+	{
+	"name": "The Pyu",
+	"leaderName": "Duttabaung",
+	"adjective": ["The Pyu"],
+	"startBias":["None"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [27, 30, 36],
+    "innerColor": [221, 227, 240],
+	"uniqueName": "Earth Within, Sky Around",
+	"uniques": ["[+2 Gold, +2 Food] from each Trade Route",
+    "[+1 Gold, +2 Food] from every [Walls]",
+    "[+2 Gold, +3 Food] from every [Castle]"],
+	"cities": ["Sri Ksetra","Hanlin","Beikthano","Tagaung","Maingmaw","Beinnaka","Myede","Salin","Saku","Pyay"],
+	"spyNames": ["Juan"]
+    },
+	{
 	"name": "United Fruit Company",
 	"leaderName": "Sam Zemurray",
 	"adjective": ["United Fruit Company"],
@@ -327,8 +386,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [216, 219, 227],
-		"innerColor": [255, 58, 36],
+		"outerColor": [214, 221, 255],
+		"innerColor": [27, 30, 41],
 		"uniqueName": "Iron Hand of Innovation",
 		"uniques": ["[Great Engineer] is earned [+25]% faster","[+30]% Production when constructing [Siege] units [in all cities]","[-25]% maintenance costs <for [All] units>"],
 		"cities": ["Syracuse", "Gela", "Naxos", "Zancle", "Camarina", "Catania", "Leontini", "Caulonia", "Thurii"],
@@ -4501,8 +4560,8 @@
 	"neutralHello": "Hello.",
 	"hateHello": "We do not fear war",
 	"tradeRequest": "Check out this",
-	"outerColor": [254, 255, 189],
-	"innerColor": [232, 122, 26],
+	"outerColor": [219, 179, 123],
+	"innerColor": [33, 28, 20],
 	"uniqueName": "Patria y Libertad",
 	"uniques": ["Gain a free [Communal Council] [in capital] <upon adopting [Order]>","[+25]% Golden Age length","[+5]% growth [in capital]","[+10]% Production when constructing [Mounted] units [in capital]","[+35]% Production when constructing [Armored] units [in all cities]"],
 	"cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Maracay","Ciudad Bolívar","San Cristóbal","Mérida","Barcelona","Cumaná"],
@@ -7965,7 +8024,7 @@
 		"outerColor": [118, 247, 114],
 		"innerColor": [60, 69, 60],
 		"uniqueName": "Ava Ceremony",
-		"uniques": ["[-20]% Food consumption by specialists [in all cities]","[-25]% Culture cost of adopting new Policies"],
+		"uniques": ["[-20]% Food consumption by [Specialists] [in all cities]","[-25]% Culture cost of adopting new Policies"],
 		"cities": ["Apia","Salelologa","Afega","Afiamalu","Alafua","Alamagoto","Aleipata","Aleisa","Amaile","Amouli","Aopo","Apai","Apolima Tai","Apolima Uta","Asaga","Asau","Auala","A’ufaga","Aele","Elisefou"],
 	},
 	{
@@ -11017,7 +11076,7 @@
 		"outerColor": [26, 35, 66],
 		"innerColor": [255, 229, 143],
 		"uniqueName": "White Revolution",
-		"uniques": ["[+25]% of excess happiness converted to [Science]", "[-25]% Food consumption by specialists [in all cities]"],
+		"uniques": ["[+25]% of excess happiness converted to [Science]", "[-25]% Food consumption by [Specialists] [in all cities]"],
 		"cities": ["Teherán", "Isfahán" ,"Shiraz", "Kashan", "Kermán", "Yazd", "Persépolis", "Mashhad", "Naqsh-e Rostam",
 			"Bam"]
 	},
@@ -11550,7 +11609,7 @@
 		"outerColor": [56, 41, 29],
 		"innerColor": [252, 182, 126],
 		"uniqueName": "Kachina",
-		"uniques": ["[+2 Food] from each Trade Route","[-25]% Food consumption by specialists [in all cities]"],
+		"uniques": ["[+2 Food] from each Trade Route","[-25]% Food consumption by [Specialists] [in all cities]"],
 		"cities": ["Acoma","Santa Clara","Taos","Laguna","Isleta","Zuni","Hopi","Cochiti","San Ildefonso","Tesuque"]
 	},
         {

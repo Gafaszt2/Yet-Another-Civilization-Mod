@@ -1,5 +1,31 @@
 [ 
 	{
+    "name": "The Great Hall of the People",
+    "isWonder": true,
+    "cost": 500,
+    "production": 2,
+    "happiness": 2,
+    "requiredTech": "Industrialization",
+    "uniques": [
+        "Must be built in capital",
+        "[+1 Culture, +1 Happiness] from [Great Improvement] tiles [in this city]",
+        "[+1 Production] from [Mine] tiles [in this city]"
+    ],
+    "quote": "\"We must build up our country with diligence and thrift.\""
+},
+	{
+		"name": "Pahto",
+		"uniqueTo": "The Pyu",
+		"replaces": "Shrine",
+		"faith": 1,
+		"specialistSlots":{"Artist": 1},
+		"cost": 36,
+		"cityStrength":2,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Comment [+1 Artist slot]","Only available <when religion is enabled>"]
+	},
+	{
 		"name": "Banana Monopoly",
 		"uniqueTo": "United Fruit Company",
 		"requiredNearbyImprovedResources":["Bananas"],
