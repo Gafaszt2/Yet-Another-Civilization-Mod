@@ -35,7 +35,7 @@
     ],
 	"promotions":["Wei Renmin Fuwu"],
     "attackSound": "tankshot"
-}
+},
 
 	{
 		"name": "Ten Flower Craftsman",
@@ -54,10 +54,10 @@
 		"name": "Banana Laborer",
 		"uniqueTo": "United Fruit Company",
 		"unitType": "Civilian",
-		"movement": 3,
+		"movement": 5,
 		"cost": 0,
 		"uniques": ["Unbuildable",
-        "Gain [50] [Food] <after which this unit is consumed>"],
+        "Can instantly construct a [Plantation] improvement <by consuming this unit>"],
 		"attackSound": "metalhit"
 	},
 	{

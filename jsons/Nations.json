@@ -79,7 +79,7 @@
 	"outerColor": [47, 130, 247],
     "innerColor": [247, 240, 47],
 	"uniqueName": "El Pulpo",
-	"uniques": ["[+2]% [Gold] from every [Bananas]","[+2 Gold] from every [Bananas]","[+2 Gold] from every [Plantation]","May buy [Banana Laborer] units for [100] [Gold] [in all cities] at an increasing price ([100])"],
+	"uniques": ["[+2]% [Gold] from every [Bananas]","[+2 Gold] from every [Bananas]","[+2 Gold] from every [Plantation]","May buy [Banana Laborer] units for [40] [Gold] [in all cities] at an increasing price ([100])"],
 	"cities": ["San Pedro Sula","Puerto Barrios","Tegucigalpa","Puerto Castilla","Cuyamel","Truxillo","Escuintla","Cienaga","Puerto Cortés","Magdalena"],
 	"spyNames": ["Juan"]
     },
